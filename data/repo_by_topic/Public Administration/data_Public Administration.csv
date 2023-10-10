@@ -1,0 +1,1649 @@
+Unnamed: 0,repo,user,organization,url (HTML),url (API),description,readme,stargazer count,watcher count,subscriber count,open issue count,topic (search),topics,NAICS Code
+0,italia,.github,italia,https://github.com/italia/.github,https://api.github.com/repos/.github/italia,The organized list of awesome @italia projects,"<!-- markdownlint-disable line-length no-inline-html -->
+<!--
+    line-length: Split up badges lines are busier than having long lines
+    no-inline-html: We need that sweet center align
+-->
+
+<p align=""center"">
+  <br>
+  <img width=""200"" src=""awesome-italia.png"" alt=""logo of awesome-italia"">
+  <br>
+</p>
+
+[<g-emoji class=""g-emoji"" alias=""cyclone"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f300.png"">🌀</g-emoji> Open data](#-open-data)
+• [<g-emoji class=""g-emoji"" alias=""performing_arts"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png"">🎭</g-emoji> SPID](#-spid)
+• [<g-emoji class=""g-emoji"" alias=""performing_arts"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png"">🎭</g-emoji> Electronic identity card (CIE)](#-electronic-identity-card-cie)
+• [<g-emoji class=""g-emoji"" alias=""triangular_ruler"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png"">📐</g-emoji> Design](#-design)
+• [<g-emoji class=""g-emoji"" alias=""link"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f517.png"">🔗</g-emoji> Websites](#-websites)
+• [<g-emoji class=""g-emoji"" alias=""adult"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f9d1.png"">🧑</g-emoji> ANPR (Anagrafe Nazionale Popolazione Residente)](#-anpr-anagrafe-nazionale-popolazione-residente)
+• [<g-emoji class=""g-emoji"" alias=""computer"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"">💻</g-emoji> Publiccode](#-publiccode)
+• [<g-emoji class=""g-emoji"" alias=""scroll"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png"">📜</g-emoji> Docs](#-docs)
+• [<g-emoji class=""g-emoji"" alias=""construction"" fallback-src=""https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png"">🚧</g-emoji> Misc](#-unsorted)
+
+<p align=""center"">
+  <a href=""https://developers.italia.it/en/to-do"" title=""Search issues in need for help"" >
+    <strong>Want to help?</strong>
+  </a>
+  •
+  <a href=""https://come-partecipo.italia.it""
+     title=""Scopri come contribuire al miglioramento dei servizi pubblici digitali del Paese""
+  >
+    <strong>Come partecipo?</strong>
+  </a>
+</p>
+
+# Awesome Italia
+
+> The organized list of awesome @italia (and friends) projects
+
+## 🌀 Open data
+
+- [anpr-opendata](https://github.com/italia/anpr-opendata)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/anpr-opendata"" alt=""GitHub issues"">\
+  Open data di ANPR (Anagrafe Nazionale)
+
+- [padigitale2026-opendata](https://github.com/teamdigitale/padigitale2026-opendata)
+  <img align=""right"" src=""https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata"" alt=""GitHub issues"">\
+  Open data di PA digitale 2026
+
+- [covid19-opendata-vaccini](https://github.com/italia/covid19-opendata-vaccini)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/covid19-opendata-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/covid19-opendata-vaccini"" alt=""GitHub issues"">\
+  Consegna e somministrazione dei vaccini anti COVID-19 in Italia
+
+- [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/awesome-italian-public-datasets"" alt=""GitHub issues"">\
+  A selection of interesting Open dataset from the Italian Public Administration and Civic Data use cases
+
+## 🎭 SPID
+
+_Sistema Pubblico di Identità Digitale, permette di accedere ai servizi della
+Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e smartphone._
+
+- [spid-saml-check](https://github.com/italia/spid-saml-check)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-saml-check?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-saml-check"" alt=""GitHub issues"">\
+  Suite per la verifica dell'implementazione SPID
+  
+  - [spid-sp-test](https://github.com/italia/spid-sp-test)
+    <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-sp-test?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+    <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-sp-test"" alt=""GitHub issues"">\
+    Valida a riga di comando l'implementazione del tuo Service Provider SPID
+    
+- [spid-compliant-certificates-python](https://github.com/italia/spid-compliant-certificates-python)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-compliant-certificates-python?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-compliant-certificates-python"" alt=""GitHub issues"">\
+  Genera e valida certificati X.509 certificati secondo le specifiche di SPID 
+  
+- [spid-graphics](https://github.com/italia/spid-graphics)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-graphics"" alt=""GitHub issues"">\
+  Icone, loghi e grafiche
+
+- [spid-sp-access-button](https://github.com/italia/spid-sp-access-button)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-sp-access-button?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-sp-access-button"" alt=""GitHub issues"">\
+  Pulsante di login
+
+- [spid-smart-button](https://github.com/italia/spid-smart-button)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-smart-button?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-smart-button"" alt=""GitHub issues"">\
+  Nuovo pulsante di login basato su finestra modale JavaScript (in sviluppo)
+
+- [spid-ansible-shibboleth-example](https://github.com/italia/spid-ansible-shibboleth-example)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-ansible-shibboleth-example?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-ansible-shibboleth-example"" alt=""GitHub issues"">\
+  Playbook Ansible con applicazione di esempio autenticata via SPID (nginx + Shibboleth)
+
+- [spid-metadata-signer](https://github.com/italia/spid-metadata-signer)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-metadata-signer?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-metadata-signer"" alt=""GitHub issues"">\
+  Script per la firma di metadata SPID
+
+- [spid-metadata-builder](https://github.com/italia/spid-metadata-builder)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-metadata-builder?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-metadata-builder"" alt=""GitHub issues"">\
+  Generatore metadata SPID per Service Provider
+  
+- [spid-keycloak-provider](https://github.com/italia/spid-keycloak-provider)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-keycloak-provider?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-keycloak-provider"" alt=""GitHub issues"">\
+  SPID authentication provider per Keycloak (https://www.keycloak.org/) 
+
+- [spid-sp-shibboleth](https://github.com/italia/spid-sp-shibboleth)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-sp-shibboleth?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-sp-shibboleth"" alt=""GitHub issues"">\
+  Middleware SPID basato su Shibboleth
+   
+- [spid-idp-proxy-shibboleth](https://github.com/italia/spid-idp-proxy-shibboleth)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-idp-proxy-shibboleth?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-idp-proxy-shibboleth"" alt=""GitHub issues"">\
+  Shibboleth IdP con possibilità di delegare l'autenticazione ad un IdP SPID/CIE/eIDAS.
+
+- [spid-sp-sapspid](https://github.com/italia/spid-sp-sapspid)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-sp-sapspid?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-sp-sapspid"" alt=""GitHub issues"">\
+  Service Provider SAML basato su SapSpid
+
+- [Satosa-Saml2Spid](https://github.com/italia/Satosa-Saml2Spid)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/Satosa-Saml2Spid"" alt=""GitHub issues"">\
+  SPID proxy for Service Providers that already implement SAML2
+
+
+<details>
+    <summary>Libraries for SPID authentication</summary>
+
+- [spid-wordpress](https://github.com/italia/spid-wordpress)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-wordpress?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-wordpress"" alt=""GitHub issues"">
+
+- [spid-dotnet-sdk](https://github.com/italia/spid-dotnet-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-dotnet-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-dotnet-sdk"" alt=""GitHub issues"">
+
+- [spid-php-lib](https://github.com/italia/spid-php-lib)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-php-lib"" alt=""GitHub issues"">
+
+- [spid-php](https://github.com/italia/spid-php)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-php?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-php"" alt=""GitHub issues"">
+  Alternative PHP library based on SimpleSAMLphp
+
+- [spid-ruby](https://github.com/italia/spid-ruby)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-ruby?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-ruby"" alt=""GitHub issues"">
+
+- [spid-rails](https://github.com/italia/spid-rails)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-rails?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-rails"" alt=""GitHub issues"">
+
+- [spid-sinatra](https://github.com/italia/spid-sinatra)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-sinatra?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-sinatra"" alt=""GitHub issues"">
+
+- [spid-django](https://github.com/italia/spid-django)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-django"" alt=""GitHub issues"">
+
+- [spid-laravel](https://github.com/italia/spid-laravel)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-laravel"" alt=""GitHub issues"">
+
+- [spid-ios-sdk](https://github.com/italia/spid-ios-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-ios-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-ios-sdk"" alt=""GitHub issues"">
+
+- [spid-android-sdk](https://github.com/italia/spid-android-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-android-sdk"" alt=""GitHub issues"">
+
+- [spid-go](https://github.com/italia/spid-go)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-go"" alt=""GitHub issues"">
+
+- [spid-symfony-bundle](https://github.com/italia/spid-symfony-bundle)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-symfony-bundle?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-symfony-bundle"" alt=""GitHub issues"">
+
+- [spid-express](https://github.com/italia/spid-express)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-express?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-express"" alt=""GitHub issues"">
+
+- [spid-spring](https://github.com/italia/spid-spring)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-spring?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-spring"" alt=""GitHub issues"">
+
+- [spid-drupal-module](https://github.com/italia/spid-drupal-module)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-drupal-module?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-drupal-module"" alt=""GitHub issues"">
+
+- [spid-ionic-sdk](https://github.com/italia/spid-ionic-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-ionic-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-ionic-sdk"" alt=""GitHub issues"">
+
+- [spid-perl](https://github.com/italia/spid-perl)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-perl?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-perl"" alt=""GitHub issues"">
+
+- [spid-perl-dancer2](https://github.com/italia/spid-perl-dancer2)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/spid-perl-dancer2?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/spid-perl-dancer2"" alt=""GitHub issues"">
+</details>
+    
+## 🎭 Electronic identity card (CIE)
+
+- [cie-middleware](https://github.com/italia/cie-middleware)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-middleware?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-middleware"" alt=""GitHub issues"">\
+  Middleware della CIE (Carta di identità elettronica)
+- [cie-nis-cpp-sdk](https://github.com/italia/cie-nis-cpp-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-nis-cpp-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-nis-cpp-sdk"" alt=""GitHub issues"">\
+  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using C++
+- [cie-middleware-macos](https://github.com/italia/cie-middleware-macos)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-middleware-macos?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-middleware-macos"" alt=""GitHub issues"">\
+  Middleware della CIE per MacOS (Carta di identità elettronica) 
+- [cie-PN532](https://github.com/italia/cie-PN532)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-PN532?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-PN532"" alt=""GitHub issues"">\
+  Arduino library for SPI and I2C access to the NFC chip in the Italian Electronic Identity Card (CIE)
+- [cie-nis-python-sdk](https://github.com/italia/cie-nis-python-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-nis-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-nis-python-sdk"" alt=""GitHub issues"">\
+  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using Python
+- [cie-middleware-linux](https://github.com/italia/cie-middleware-linux)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-middleware-linux?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-middleware-linux"" alt=""GitHub issues"">\
+  Middleware della CIE (Carta di Identità Elettronica) per Linux
+- [cie-graphics](https://github.com/italia/cie-graphics)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-graphics?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-graphics"" alt=""GitHub issues"">\
+  Icone, loghi e grafiche CIE
+- [cie-nis-dotnetcore-sdk](https://github.com/italia/cie-nis-dotnetcore-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-nis-dotnetcore-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-nis-dotnetcore-sdk"" alt=""GitHub issues"">\
+  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using .NET Core
+- [cieid-android-sdk](https://github.com/italia/cieid-android-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cieid-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cieid-android-sdk"" alt=""GitHub issues"">
+  Android SDK for CIE
+- [cieid-ios-sdk](https://github.com/italia/cieid-ios-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cieid-ios-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cieid-ios-sdk"" alt=""GitHub issues"">
+  iOS SDK for CIE
+- [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cie-cns-apache-docker"" alt=""GitHub issues"">\
+  Template per Apache di un sistema di autenticazione con Smart Card TS-CNS (o CNS) e CIE (Carta d'Identità Elettronica)
+
+## 📐 Design
+
+- [design-ui-kit](https://github.com/italia/design-ui-kit)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-ui-kit"" alt=""GitHub issues"">\
+  Official UI components and templates for the Italia design system
+
+- [bootstrap-italia](https://github.com/italia/bootstrap-italia)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/bootstrap-italia"" alt=""GitHub issues"">\
+  Bootstrap Italia è un tema basato su Bootstrap 5 conforme alle ""Linee guida di design per i siti internet e i servizi digitali della Pubblica Amministrazione""
+  
+- [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/bootstrap-italia-playground"" alt=""GitHub issues"">\
+  Bootstrap Italia Playground - Questo progetto è il modo più semplice per iniziare ad usare Bootstrap Italia.
+
+- [design-react-kit](https://github.com/italia/design-react-kit)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-react-kit?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-react-kit"" alt=""GitHub issues"">\
+  A React toolkit that implements the Italia design system
+  
+- [design-angular-kit](https://github.com/italia/design-angular-kit)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-angular-kit?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-angular-kit"" alt=""GitHub issues"">\
+  An Angular toolkit that implements the Italia design system
+
+- [design-drupal-theme](https://github.com/italia/design-drupal-theme)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-drupal-theme"" alt=""GitHub issues"">\
+  A Drupal theme that implements the Italia design system
+  
+- [design-django-theme](https://github.com/italia/design-django-theme)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-django-theme"" alt=""GitHub issues"">\
+  A Django theme that implements the Italia design system
+ 
+- [design.plone.theme](https://github.com/italia/design.plone.theme)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design.plone.theme?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design.plone.theme"" alt=""GitHub issues"">\
+  A Plone theme that implements the Italia design system
+  
+- [design-wireframe-kit](https://github.com/italia/design-wireframe-kit)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-wireframe-kit"" alt=""GitHub issues"">\
+  Official Italian wireframe kit for LoFi prototyping
+  
+- [design-scuole-wordpress-theme](https://github.com/italia/design-scuole-wordpress-theme)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-scuole-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-scuole-wordpress-theme"" alt=""GitHub issues"">\
+  Tema Wordpress dedicato al progetto per i siti delle scuole
+  
+- [design-scuole-pagine-statiche](https://github.com/italia/design-scuole-pagine-statiche)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-scuole-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-scuole-pagine-statiche"" alt=""GitHub issues"">\
+  Pagine statiche dedicate al progetto per i siti delle scuole
+  
+- [design-comuni-wordpress-theme](https://github.com/italia/design-comuni-wordpress-theme)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-comuni-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-comuni-wordpress-theme"" alt=""GitHub issues"">\
+  Tema Wordpress dedicato al progetto per i siti dei comuni
+  
+- [design-comuni-pagine-statiche](https://github.com/italia/design-comuni-pagine-statiche)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-comuni-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-comuni-pagine-statiche"" alt=""GitHub issues"">\
+  Pagine statiche dedicate al progetto per i siti dei comuni
+  
+- [design-wordpress-theme-italiaWP2](https://github.com/italia/design-wordpress-theme-italiaWP2)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/design-wordpress-theme-italiaWP2?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/design-wordpress-theme-italiaWP2"" alt=""GitHub issues"">\
+  Tema WordPress open-source per la Pubblica Amministrazione basato su Bootstrap Italia
+  
+## 🔗 Websites
+
+- [innovazione.gov.it](https://github.com/teamdigitale/innovazione.gov.it-site)
+  <img align=""right"" src=""https://img.shields.io/github/stars/teamdigitale/innovazione.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/teamdigitale/innovazione.gov.it-site"" alt=""GitHub issues"">\
+  Minister for Technological Innovation and Digitalization (<https://innovazione.gov.it>)
+
+- [developers.italia.it](https://github.com/italia/developers.italia.it)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/developers.italia.it"" alt=""GitHub issues"">\
+  The developer community designing and developing public digital services in Italy
+  
+- [designers.italia.it](https://github.com/italia/designers.italia.it)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/designers.italia.it"" alt=""GitHub issues"">\
+  La comunità italiana dei designer di servizi pubblici
+
+- [docs.italia.it](https://github.com/italia/docs.italia.it)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/docs.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/docs.italia.it"" alt=""GitHub issues"">\
+  The source code that powers docs.italia.it
+
+- [cloud.italia.it](https://github.com/italia/cloud.italia.it-site)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/cloud.italia.it-site?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/cloud.italia.it-site"" alt=""GitHub issues"">\
+  cloud.italia.it: il sito del cloud della Pubblica Amministrazione
+
+- [identitadigitale.gov.it](https://github.com/teamdigitale/identitadigitale.gov.it)
+  <img align=""right"" src=""https://img.shields.io/github/stars/teamdigitale/identitadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/teamdigitale/identitadigitale.gov.it"" alt=""GitHub issues"">\
+  identitadigitale.gov.it: il sito dell'Identità Digitale Italiana (SPID + CIE)
+
+- [repubblica-digitale](https://github.com/italia/repubblica-digitale)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/repubblica-digitale"" alt=""GitHub issues"">\
+  repubblicadigitale.innovazione.gov.it
+
+- [come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/come-partecipo.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/come-partecipo.italia.it"" alt=""GitHub issues"">\
+  Guida interattiva per guidare le persone che vogliono contribuire
+
+## 🧑 ANPR (Anagrafe Nazionale Popolazione Residente)
+
+L'anagrafe digitale Italiana
+
+- [anpr](https://github.com/italia/anpr)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/anpr?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/anpr"" alt=""GitHub issues"">\
+  Issue tracker e documentazione
+
+- [anpr-client-example](https://github.com/italia/anpr-client-example)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/anpr-client-example?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/anpr-client-example"" alt=""GitHub issues"">\
+  Example Java client to connect to ANPR
+
+## 💻 Publiccode
+
+Describe the Free and Open Source software of your Public Administration with a YAML file in your repo
+
+- [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)
+  <img align=""right"" src=""https://img.shields.io/github/stars/publiccodeyml/publiccode.yml?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/publiccodeyml/publiccode.yml"" alt=""GitHub issues"">\
+  The standard itself and its documentation
+
+- [publiccode-editor](https://github.com/italia/publiccode-editor)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/publiccode-editor?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/publiccode-editor"" alt=""GitHub issues"">\
+  An editor to create and edit publiccode.yml files
+
+- [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/publiccode-parser-go"" alt=""GitHub issues"">\
+  A Go library for parsing and validating publiccode.yml files
+
+- [publiccode-crawler](https://github.com/italia/publiccode-crawler)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/publiccode-crawler?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/publiccode-crawler"" alt=""GitHub issues"">\
+  publiccode.yml crawler for the Open Source software catalog of Developers Italia
+    
+- [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/publiccode-parser-action"" alt=""GitHub issues"">\
+  GitHub Action for publiccode.yml validation
+
+- [publiccode-parser-orb](https://github.com/italia/publiccode-parser-orb)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/publiccode-parser-orb?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/publiccode-parser-orb"" alt=""GitHub issues"">\
+  CircleCI Orb for publiccode.yml validation
+
+- [publiccode-parser-gitlab-ci](https://github.com/italia/publiccode-parser-gitlab-ci)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/publiccode-parser-gitlab-ci?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/publiccode-parser-gitlab-ci"" alt=""GitHub issues"">\
+  GitLab includable snippet for publiccode.yml validation
+
+## 📜 Docs
+
+- [All repositories containing Docs Italia documents](https://github.com/search?q=org%3Aitalia+-docs&type=repositories)
+  
+
+## 🚧 Misc
+
+- [writing-toolkit](https://github.com/italia/writing-toolkit)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/writing-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/writing-toolkit"" alt=""GitHub issues"">\
+  Guida al linguaggio della Pubblica Amministrazione
+  
+- [fatturapa-php-sdk](https://github.com/italia/fatturapa-php-sdk)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/fatturapa-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/fatturapa-php-sdk"" alt=""GitHub issues"">\
+  PHP SDK per la fatturazione elettronica
+  
+- [fatturapa-webapp](https://github.com/italia/fatturapa-webapp)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/fatturapa-webapp?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/fatturapa-webapp"" alt=""GitHub issues"">
+  
+- [fatturapa-testsdi](https://github.com/italia/fatturapa-testsdi)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/fatturapa-testsdi?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/fatturapa-testsdi"" alt=""GitHub issues"">\
+  Sistema d'Interscambio di test
+  
+- [fatturapa-python](https://github.com/italia/fatturapa-python)
+  <img align=""right"" src=""https://img.shields.io/github/stars/italia/fatturapa-python?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
+  <img align=""right"" src=""https://img.shields.io/github/issues/italia/fatturapa-python"" alt=""GitHub issues"">\
+  Generatore a riga di comando di semplici fatture elettroniche FatturaPA per consulenti
+",162,162,6,77,public-administration,"[awesome, awesome-list, community, index, italia, italy, public-administration]",0
+1,KLS-01,Report.it,,https://github.com/KLS-01/Report.it,https://api.github.com/repos/Report.it/KLS-01,Report.it è un applicativo Android/iOS sviluppato per lottare contro qualsiavoglia forma di discriminazione. ,"
+<p align = ""center"">
+  <img src = ""https://user-images.githubusercontent.com/56639000/215359133-f42b8b76-6270-4e11-a42f-2b3ec2fa7edb.png"" width = ""256"" heigth = ""256"">
+</p>
+
+
+# Report.it
+
+Report.it supports those who have been victims of any form of discrimination and want to assert their rights.
+
+
+## Documentation
+
+All product and management documentation is available in the relevant folders.
+- [Product](https://github.com/KLS-01/Report.it/tree/master/Documentation/PRODOTTO)
+- [Management](https://github.com/KLS-01/Report.it/tree/master/Documentation/MANAGEMENT)
+
+
+## Used By
+
+Project carried out for Software Engineering course and Software Project Management course at University of Salerno.
+
+
+## Authors
+
+- [Simona Grieco](https://github.com/simonagrieco) as Project Manager
+- [Maria Concetta Schiavone](https://github.com/mariaconcettas) as Project Manager
+- [Riccardo Kevin Ferraris](https://github.com/Rickyfer02) as Developer
+- [Nicola Frugieri](https://github.com/nf0101) as Developer
+- [Alberto Genovese](https://github.com/TechRufy) as Developer
+- [Arturo Gentile](https://github.com/Mr-Kind16) as Developer
+- [Marisa La Sorda](https://github.com/marisuz) as Developer
+- [Leonardo Schiavo](https://github.com/KLS-01/) as Developer
+
+
+## Developments
+<p align=""left"">
+  <a href=""https://www.flutter.dev/"" target=""_blank"" rel=""noreferrer"">
+    <img
+      src=""https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg""
+      alt=""flutter""
+      width=""40""
+      height=""40""
+    />
+  </a>
+  <a href=""https://www.dart.dev"" target=""_blank"" rel=""noreferrer"">
+    <img
+      src=""https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg""
+      alt=""dart""
+      width=""40""
+      height=""40""
+    />
+  </a>
+  <a href=""https://www.firebase.com"" target=""_blank"" rel=""noreferrer"">
+    <img
+      src=""https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg""
+      alt=""firebase""
+      width=""50""
+      height=""50""
+    />
+  </a>
+</p>
+",12,12,2,0,public-administration,"[android, dart, discrimination, firebase, firestore, flutter, google-maps-api, ios, italy, mental-health, mobile-app, public-administration]",0
+2,andrewheiss,compasp23.classes.andrewheiss.com,,https://github.com/andrewheiss/compasp23.classes.andrewheiss.com,https://api.github.com/repos/compasp23.classes.andrewheiss.com/andrewheiss,"🌐 🧑‍🏫 Website for graduate-level course on comparative and international public administration, built with Quarto","
+<!-- README.md is generated from README.qmd. Please edit that file -->
+
+# Comparative Public Administration <a href='https://compasp23.classes.andrewheiss.com/'><img src='files/favicon-512.png' align=""right"" height=""139"" /></a>
+
+[PMAP 8441 • Spring 2023](https://compasp23.classes.andrewheiss.com/)  
+[Andrew Heiss](https://www.andrewheiss.com/) • Andrew Young School of
+Policy Studies • Georgia State University
+
+------------------------------------------------------------------------
+
+**[Quarto](https://quarto.org/) +
+[{targets}](https://docs.ropensci.org/targets/) +
+[{renv}](https://rstudio.github.io/renv/) = magic! 🪄**
+
+------------------------------------------------------------------------
+
+## How to build the site
+
+1.  Install
+    [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+    version 2022.07.1 or later since it has a
+    [Quarto](https://quarto.org/) installation embedded in it.
+    Otherwise, download and install [Quarto](https://quarto.org/)
+    separately.
+2.  Open `compasp23.Rproj` to open an [RStudio
+    Project](https://r4ds.had.co.nz/workflow-projects.html).
+3.  If it’s not installed already, R *should* try to install the [{renv}
+    package](https://rstudio.github.io/renv/) when you open the RStudio
+    Project for the first time. If you don’t see a message about package
+    installation, install it yourself by running
+    `install.packages(""renv"")` in the R console.
+4.  Run `renv::restore()` in the R console to install all the required
+    packages for this project.
+5.  Run `targets::tar_make()` in the R console to build everything.
+6.  🎉 All done! 🎉 The complete website will be in a folder named
+    `_site/`.
+
+## {targets} pipeline
+
+I use the [{targets} package](https://docs.ropensci.org/targets/) to
+build this site and all its supporting files. The complete pipeline is
+defined in [`_targets.R`](_targets.R) and can be run in the R console
+with:
+
+``` r
+targets::tar_make()
+```
+
+The pipeline does several major tasks:
+
+- **Build Quarto website**: This project is a [Quarto
+  website](https://quarto.org/docs/websites/), which compiles and
+  stitches together all the `.qmd` files in this project based on the
+  settings in [`_quarto.yml`](_quarto.yml). See the [Quarto website
+  documentation](https://quarto.org/docs/websites/) for more details.
+
+- **Upload resulting `_site/` folder to my remote server**: Quarto
+  places the compiled website in a folder named `/_site/`. The pipeline
+  uses `rsync` to upload this folder to my personal remote server. This
+  target will only run if the `UPLOAD_WEBSITES` environment variable is
+  set to `TRUE`, and it will only work if you have an SSH key set up on
+  my personal server, which only I do.
+
+The complete pipeline looks like this:
+
+<small>(This uses [`mermaid.js`
+syntax](https://mermaid-js.github.io/mermaid/) and should display as a
+graph on GitHub. You can also view it by pasting the code into
+<https://mermaid.live>.)</small>
+
+``` mermaid
+graph LR
+  subgraph Graph
+    x9c20b8c56debbe9a([""deploy_script""]):::skipped --> x78f3e0b711425f1c([""deploy_site""]):::queued
+    x7aa56383a054e8ba([""site""]):::queued --> x78f3e0b711425f1c([""deploy_site""]):::queued
+    x4d31f5a49d5ae49f([""schedule_ical_file""]):::queued --> x7aa56383a054e8ba([""site""]):::queued
+    x063edd335cc1b36f([""schedule_page_data""]):::queued --> x7aa56383a054e8ba([""site""]):::queued
+    xf38d3f5e6365ad72([""workflow_graph""]):::started --> x6e52cb0f1668cc22([""readme""]):::queued
+    xdf832f8e1f99baf2([""schedule_file""]):::queued --> x063edd335cc1b36f([""schedule_page_data""]):::queued
+    xdf832f8e1f99baf2([""schedule_file""]):::queued --> x35552a73efe9c59f([""schedule_ical_data""]):::queued
+    x35552a73efe9c59f([""schedule_ical_data""]):::queued --> x4d31f5a49d5ae49f([""schedule_ical_file""]):::queued
+  end
+```
+
+## Fonts and colors
+
+The font used throughout the site is [Public
+Sans](https://public-sans.digital.gov/), an open source font developed
+as part of the General Services Administration’s
+[USWDS](https://designsystem.digital.gov/) (US Web Design System) for
+making accessible federal government websites.
+
+The colors for the site and hex logo come from the [Tam
+palette](https://github.com/BlakeRMills/MetBrewer#tam) in
+[MetBrewer](https://github.com/BlakeRMills/MetBrewer)
+(`MetBrewer::met.brewer(""Tam"")`):
+
+<img src=""README_files/figure-commonmark/show-tam-1.png"" width=""768"" />
+
+## Licenses
+
+**Text and figures:** All prose and images are licensed under Creative
+Commons ([CC-BY-NC
+4.0](https://creativecommons.org/licenses/by-nc/4.0/))
+
+**Code:** All code is licensed under the [MIT License](LICENSE.md).
+",9,9,2,0,public-administration,"[bureaucracy, political-science, public-administration, public-policy, quarto, r, teaching-materials]",0
+3,INPS-it,bugs.inps.it,INPS-it,https://github.com/INPS-it/bugs.inps.it,https://api.github.com/repos/bugs.inps.it/INPS-it,INPS bug tracking system based on Taiga.io,"# INPS Bug Tracking
+*Read this in other languages: [🇮🇹 Italian](README.it.md).*
+
+## Overview
+
+INPS Bug Tracking platform is a project based on the [Taiga.io](https://www.taiga.io/) opensource project management software, with the goal to provide INPS online services users a simple, streamlined way to report software bugs, ask usage questions and make suggestions.
+
+### Main features:
+
+ - Role based user access and interaction
+ - Authentication provided via the official Italian Government Identity Access Management system integration (SPID, CIE and CNS via the INPS IdP ""PassiWeb"")
+ - Staff team management
+ - Full project bug reports management, which include:
+	 - Bug report creation with attachments and rich text editing
+	 - Rich text bug report comments with attachments
+	 - Bug report and comments moderation functionality
+	 - Bug report tagging and assignment
+ - Customizable bugs categories names and colors
+ - A rich set of bugs filtering, including:
+	 - Severity, priority and tipology
+	 - Bug status
+	 - Custom tags
+	 - Creator user role
+ - Global search engine
+
+And more.
+
+<table>
+<td width=""50%"">
+<img src=""docs/public/discovery_view.png"" alt=""Dashboard View"">
+</td>
+<td width=""50%"">
+<img src=""docs/public/bug_view_filters.png"" alt=""Bugs List View"">
+</td>
+<table>
+	
+***Click on screenshots***
+	
+## Dev Setup
+
+- Configure your backend project creating `config/back-config.py` file (from `config/back-config.py.example`).
+- Configure your frontend project creating `config/front-config.json` file (from `config/front-config.json.example`).
+- Remember to set `loginSpidUrl` in `config/front-config.json` as following:
+
+```json
+""loginSpidUrl"": ""/spid/login/?idp=https://localhost:8080""
+```
+
+- If you want to test the email features, edit the following keys in `config/back-config.py`:
+
+```python
+DEFAULT_FROM_EMAIL = ""email.user@emailhost.com""
+EMAIL_HOST ='smtp.emailhost.com'
+EMAIL_PORT ='587'
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = 'email.user@emailhost.com'
+EMAIL_HOST_PASSWORD = 'emailhostpassword'
+```
+
+- Launch dev server
+
+```sh
+make run-dev
+```
+
+- Your dev server will be visible at `https://localhost`
+
+### Register and login local authenticated users
+
+- The first time you'll open `https://localhost`, there will be a blue button in the upper right corner labeled ""Accedi"". Click it.
+- The browser will show the ""SPID Validator"" login page, you can use username `validator` and password `validator`
+- In the left menu, expand the ""Metadata SP"" menu and click on ""Download"". In the Metadata URL field input the url `https://taiga-gateway/spid/metadata/` and clic the ""Download"" button.
+- In the left menu, expand the ""Response"" menu and then click on ""Check Response"".
+- In the right form, look for the ""email"" field. In the email filed paste (you have to paste in the field, since just input writing is not allowed) the email address you want to be the username of the user. Write it down, you'll need it later when creating the admin user.
+- Scroll down and click the green button labeled ""Invia response al Service Provider""
+- Done, you should be now logged in as a ""Standard User"" with no rights to create new Theme Areas.
+
+### Give a registered user the Admin role
+- To begin with, you should have completed the ""Register and login local authenticated users"" procedure at least one time and remember the email address used to create the user you want to be admin.
+- Open a bash in the taiga-back container:
+
+```sh
+docker-compose exec taiga-back bash
+```
+
+- Enter in the taiga-back directory and start Django super user creation procedure:
+
+```sh
+cd taiga-back && python manage.py createsuperuser
+```
+
+- When prompted for email address, input the email address you used to create the user in the SPID Validator
+
+- Now logout and login again using the validator, and if you used the correct email address you should have now the Admin Role.
+
+### Modify Angular components
+
+Some components used by the platform are the result of the project
+Angular `""taiga-front-next""`. To modify them, you need to modify the Angular code,
+then run:
+
+```sh
+npm run deploy:elements
+```
+
+In `taiga-front-next/dist/elements` folder you will find the elements.js compiled file,
+which is automatically copied by the npm script in `taiga-contrib-inps/front/custom-taiga-override`.
+If the container `taiga-front` is already started and you want to see your
+changes immediately, copy the file `taiga-front-next/dist/elements/elements.js`
+to `taiga-front` container using the command:
+
+```sh
+docker cp ./taiga-front-next/dist/elements/elements.js <idcontainer-taiga-front>:/taiga-front/elements.js
+```
+
+## Run tests
+
+Prepare test env
+
+```sh
+make prepare-test
+```
+
+Run tests
+
+```sh
+make test
+```
+
+## Confidential Bugs
+
+In addition to the INPS Bug Tracking platform, potential security bugs can be submitted in a confidential manner writing directly to confidential-bugs@inps.it. 
+
+These emails may also be sent using PGP encryption: the public key is available in this repository under the extras folder, and in the Ubuntu and MIT PGP keyservers too.
+
+## Credits
+
+Thank you to these amazing projects we started from to understand how to customize
+Taiga
+- [Taiga Contrib GitHub Auth](https://github.com/kaleidos-ventures/taiga-contrib-github-auth/)
+- [Taiga Dark Theme](https://github.com/Monogramm/taiga-dark)
+",7,7,8,1,public-administration,"[bugtracking, inps, public-administration, ticketing-system]",0
+4,pdecrete,rektis,pdecrete,https://github.com/pdecrete/rektis,https://api.github.com/repos/rektis/pdecrete,Administrative support app / Εφαρμογή υποστήριξης διοικητικών διαδικασιών,"# README
+
+## Τι είναι αυτό;
+
+Εφαρμογή υποστήριξης διοικητικών διαδικασιών. 
+
+### Λειτουργία
+
+Με τη βοήθεια της εφαρμογής μπορείτε να:
+
+* καταγράψετε το προσωπικό της υπηρεσίας (εργαζόμενοι) και αναλυτικά τα στοιχεία που τους αφορούν
+* καταχωρήσετε ειδικότητες, υπηρεσίες, θέσεις και καταστάσεις για τους υπαλλήλους
+* συσχετίσετε αρχεία αδειών με τους τύπους άδειας που χορηγεί η υπηρεσία
+* χορηγήσετε άδειες για τους υπαλλήλους σας δημιουργώντας μέσω της εφαρμογής αρχεία που μπορείτε να μεταφορτώσετε στον υπολογιστή σας
+* αποστείλετε με email τις άδειες για τους υπαλλήλους σας (αυτόματα στο email του υπαλλήλου, της οργανικής θέσης και της θέσης που υπηρετεί, εφόσον έχουν οριστεί)
+* καταχωρήσετε αποστάσεις, μέσα μετακίνησης, αποφάσεις ανάληψης υποχρέωσης και καταστάσεις για τις μετακινήσεις
+* συσχετίσετε αρχεία μετακινήσεων με τους τύπους μετακινήσεων που ασχολείται η υπηρεσία
+* δημιουργήσετε μετακινήσεις και τα συναφή έγγραφα (έγκριση, ημερολόγιο, συγκεντρωτικές καταστάσεις, διαβιβαστικά) για τους υπαλλήλους σας δημιουργώντας μέσω της εφαρμογής docx αρχεία που μπορείτε να μεταφορτώσετε στον υπολογιστή σας
+* αποστείλετε με email τα ημερολόγια μετακίνησεων για τους υπαλλήλους σας (αυτόματα στο email του υπαλλήλου, εφόσον έχει οριστεί)
+* παρακολουθείτε αυτόματα τα υπόλοιπα των Κ.Α.Ε. μετακίνησεων, σύμφωνα με τις πράξεις ανάληψης και τις μετακινήσεις που καταχωρούνται
+
+Ακόμη: 
+
+* δημιουργήσετε/τροποποιήσετε τους χρήστες της εφαρμογής
+* επικοινωνήσετε με το διαχειριστή της εφαρμογής μέσω της αντίστοιχης σελίδας Επικοινωνία
+
+## Περισσότερες πληροφορίες 
+
+* [INSTALL.md](INSTALL.md) αρχείο για αρχικές οδηγίες εγκατάστασης 
+* [CONTRIBUTING.md](CONTRIBUTING.md) αρχείο για πληροφορίες συνεισφοράς στο έργο
+",2,2,4,0,public-administration,"[php, public-administration, yii2]",0
+5,chenlucan,Analysis-on-Diffusion-Effects-of-Bitcoin,,https://github.com/chenlucan/Analysis-on-Diffusion-Effects-of-Bitcoin,https://api.github.com/repos/Analysis-on-Diffusion-Effects-of-Bitcoin/chenlucan,capstone paper for Master of Public Administration,"# Analysis on Diffusion Effects of Bitcoin
+
+# Supervisor: Prof Pei Sai Fan
+
+## Table of Contents
+
+ABSTRACT
+
+TABLE OF CONTENTS
+
+LIST OF TABLES
+
+LIST OF FIGURES
+
+CHAPTER 1. INTRODUCTION
+- 1.1	TERMINOLOGY
+- 1.2	RESEARCH BACKGROUND
+- 1.3	PURPOSE OF STUDIES
+- 1.4	RESEARCH QUESTIONS
+- 1.5	PAPER OUTLINE
+
+CHAPTER 2. LITERATURE REVIEW
+
+CHAPTER 3. DATA AND METHODS
+- 3.1	VOLATILITY INDEX
+- 3.2	COVARIANCE AND CORRELATION
+- 3.3	BITCOIN FUND DATA
+- 3.4	BITCOIN OWNERSHIP AND MERCHANT ADOPTION
+- 3.5	VISANET
+- 3.6	OTHER INDUSTRY USE CASES
+- 3.7	BITCOIN STATISTICS
+- 3.8	ELECTRICITY CONSUMPTION
+- 3.9	HARDWARE EVOLUTION
+
+CHAPTER 4. RESULTS AND DISCUSSION	46
+- 4.1	BITCOIN IS A HIGHLY SPECULATIVE ASSET
+- 4.2	BITCOIN IS NOT READY AS A STABLE CURRENCY
+- 4.3	SCALABILITY IS THE OBSTACLE TO WIDE ADOPTION OF BITCOIN AS METHOD OF PAYMENT
+- 4.4	BITCOIN’S ELECTRICITY CONSUMPTION CAN BE JUSTIFIED
+- 4.5	BITCOIN MINING IS ELECTRICITY BUYER OF LAST RESORT
+- 4.6	BITCOIN IS DRIVING INNOVATION INITIATIVES
+
+CHAPTER 5. CONCLUSION
+
+CHAPTER 6. FUTURE STUDIES
+
+REFERENCES
+
+
+",2,2,2,0,public-administration,"[bitcoin, blockchain, capstone-project, diffusion, dissertation-project, innovation, public-administration]",0
+6,pdecrete,rektis-applications-front,pdecrete,https://github.com/pdecrete/rektis-applications-front,https://api.github.com/repos/rektis-applications-front/pdecrete,"Micro app για συλλογή αιτήσεων προτίμησης τοποθέτησης αναπληρωτών. Η μικροεφαρμογή αυτή συμπληρώνει στο front-end την εφαρμογή υποστήριξης διοικητικών διαδικασιών rektis, παρέχοντας το περιβάλλον αλληλεπίδρασης με τους αιτούντες αναπληρωτές ειδικής αγωγής.","
+# Περί
+
+_Κείμενο υπό αναθεώρηση_
+
+Η εφαρμογή αυτή αφορά στη συλλογή αιτήσεων προτίμησης τοποθέτησης αναπληρωτών 
+(λεπτομέρειες υπό αναθεώρηση)
+
+# Εγκατάσταση της εφαρμογής 
+
+_Κείμενο υπό αναθεώρηση_
+
+## Λήψη κώδικα 
+
+## Εγκατάσταση εξαρτήσεων 
+
+```
+composer install
+```
+
+## Προσαρμογή αρχείων ρυθμίσεων 
+
+* params.php
+    * `crypt-key-file` διαδρομή αρχείου που περιλαμβάνει το κλειδί κρυπτογράφησης - _διατηρήστε το εκτός πρόσβασης του web server_ 
+    * `users` επιπλέον χρήστες με πρόσβαση στο σύστημα 
+* web.php
+    * `reCaptcha siteKey` και `reCaptcha secret` παράμετροι για το reCaptcha v2 που εμφανίζεται στην οθόνη σύνδεσης χρήστη (σε περιβάλλον ανάπτυξης `YII_ENV == 'dev'` το recaptcha δεν ενεργοποιείται)
+* console.php 
+* αρχείο κλειδιού κρυπτογράφησης 
+    * Το αρχείο που θα περιέχει το κλειδί κρυπτογράφησης δηλώνεται στην 
+    παράμετρο `cryptKeyFile` του component `crypt` (config/web.php και 
+    config/console.php). 
+    * Μπορείτε να δηλώσετε το αρχείο στη ρύθμιση του `crypt` component ή
+    στο αρχείο παραμέτρων params.php στην παράμετρο `crypt-key-file` (προτιμότερο)
+    * Για τη δημιουργία του κλειδιού ακολουθήστε τις [οδηγίες που θα βρείτε εδώ](https://github.com/defuse/php-encryption/blob/master/docs/Tutorial.md#scenario-1-keep-data-secret-from-the-database-administrator).
+
+## Εγκατάσταση και αρχικοποίηση βάσης δεδομένων 
+
+* Δημιουργία βάσης δεδομένων 
+* Εκτέλεση migrations 
+`./yii migrate`
+`./yii migrate --migrationPath=@yii/log/migrations/`
+
+## Δεδομένα για δοκιμές 
+
+Για τον έλεγχο των λειτουργιών της εφαρμογής υπάρχουν διαθέσιμα δοκιμαστικά 
+δεδομένα έτοιμα για χρήση. Για την εγκατάσταση των στοιχείων αυτών εκτελέστε 
+από το ριζικό φάκελο την εντολή:
+
+```
+./yii fixture/load Application --namespace='app\tests\fixtures'
+```
+
+> Η παραπάνω εντολή θα εγκαταστήσει δοκιμαστικά δεδομένα στους πίνακες 
+`Applicant`, `Choice`, `Prefecture` και `PrefecturePreference`. Ο πίνακας
+`Application` θα εκκαθαριστεί.
+
+Για αναλυτικές πληροφορίες για τα `Fixtures` και πως αυτά διαχειρίζονται 
+από το Yii 2 [δείτε εδώ](http://www.yiiframework.com/doc-2.0/guide-test-fixtures.html).
+
+### Δεδομένα από CSV αρχεία
+
+Υπάρχει διαθέσιμη διαδικασία εισαγωγής στοιχείων μέσω console command.
+Χρησιμοποιώντας αρχεία εισόδου σε μορφή CSV μπορεί να γίνει εισαγωγή δεδομένων
+εκτελώντας την εντολή:
+
+```
+./yii import/parse file-with-applicant-info.csv file-with-choices.csv --runFixture=yes
+```
+
+Με την παράμετρο `runFixture=yes` τα δεδομένα θα εισαχθούν στη βάση δεδομένων 
+αντικαθιστώντας τα ήδη καταχωρημένα δεδομένα.
+
+Για αναλυτικές οδηγίες χρήσης του import command καθώς και των διαθέσιμων παραμέτρων
+και μορφής των αρχείων εισόδου εκτελέστε την εντολή:
+
+```
+./yii help import 
+```
+
+Συγκεκριμένα στην έκδοση 1.0.0 η οθόνη βοήθειας για την προεπιλεγμένη εντολή import
+είναι όπως παρακάτω: 
+
+```
+$ ./yii help import/parse 
+
+DESCRIPTION
+
+Parse and generate serialized data files with the applicant and choices data included in CSV files.
+
+
+USAGE
+
+yii import/parse <applicants_file> <choices_file> [...options...]
+
+- applicants_file (required): string
+  the filename of the CSV containing the applicant information
+
+- choices_file (required): string
+  the filename of the CSV containing the choices information
+
+
+OPTIONS
+
+--appconfig: string
+  custom application configuration file path.
+  If not set, default application configuration is used.
+
+--csvDelimiter: string (defaults to ';')
+  CSV delimiter character
+
+--csvEnclosure: string (defaults to '""')
+  CSV enclosure character
+
+--csvSkipLines: string (defaults to 1)
+  How many line to skip to get to the actual data
+
+--fields_applicants: string (defaults to '1,2,3,4,5,6,9,11,12')
+  Numeric index of the fields to retrieve. In order:
+  For the applicants: 
+  Prefecture preference, Lastname, Firstname, Fathername, Mothername, Phone, VAT, ID card, email
+
+--fields_choices: string (defaults to '0,1,2,3')
+  Numeric index of the fields to retrieve. In order:
+  For the choices:
+  Specialty, Position count, Position description, Prefecture (only the first letter in capital)
+
+--runFixture: string (defaults to 'no')
+  If ""yes"" the command also invokes the necessary fixture load command
+```
+
+# Περιβάλλον ανάπτυξης 
+
+Η εφαρμογή αναπτύσσεται σε PHP, Bootstrap, JQuery, με χρήση του 
+[Yii 2](http://www.yiiframework.com/) και αξιοποίηση επεκτάσεων μέσω βιβλιοθηκών.
+Κατά την ανάπτυξη χρησιμοποιούνται οι βάσεις δεδομένων Mysql και Mariadb.
+
+## Εξαρτήσεις εφαρμογής 
+
+Για πλήρη λίστα των εξαρτήσεων της εφαρμογής εκτελέστε:
+
+```
+composer show --tree
+```
+
+Για να δείτε τις εξαρτήσεις για μια συγκεκριμένη βιβλιοθήκη, για παράδειγμα
+της ίδιας της php εκτελέστε:
+
+```
+composer depends php
+```
+
+## Παρατηρήσεις - Διορθώσεις - Επεκτάσεις 
+
+Για οποιοδήποτε θέμα αφορά την εφαρμογή πρέπει να γίνεται σχετική καταχώρηση στα 
+[issues του έργου](https://github.com/spapad/admapp-applications-front/issues).
+",1,1,5,0,public-administration,"[php, public-administration, yii2]",0
+7,alessiolombardo,RiscossioneConverter,,https://github.com/alessiolombardo/RiscossioneConverter,https://api.github.com/repos/RiscossioneConverter/alessiolombardo,RiscossioneConverter consente di convertire in file Excel 97/2003 (.xls) un file a blocchi contenente record a lunghezza fissa secondo le specifiche degli Allegati 1/2 del Decreto 15/06/2015 del Ministero dell'Economia e delle Finanze inerente la trasmissione agli enti creditori delle quote annullate e di rimborso agli agenti della riscossione delle spese esecutive sostenute per i ruoli.,"# RiscossioneConverter
+
+RiscossioneConverter consente la conversione di un file a blocchi contenente record a lunghezza fissa secondo le specifiche degli [Allegati 1/2 del Decreto 15/06/2015 del Ministero dell'Economia e delle Finanze](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2015-06-22&atto.codiceRedazionale=15A04675&elenco30giorni=false) inerente la trasmissione agli enti creditori delle quote annullate e di rimborso agli agenti della riscossione delle spese esecutive sostenute per i ruoli. I formati di output supportati sono Excel (.xlsx), Excel 97-2003 (.xls), OpenDocument Spreadsheet (.ods), XML e JSON.
+
+Il software è interamente sviluppato in Java e con interfaccia grafica minimale disponibile in due versioni:
+- Swing: Testata su Windows XP (con JRE7), Windows 7 (con JRE8), Windows 10 (con JDK15), Ubuntu 20.04 (con JDK11);
+- JavaFX: Testata su Windows 7 (con JRE8), Windows 10 (con JDK15), Ubuntu 20.04 (con JDK11). Windows XP non supportato.
+
+Gli output in formato .xls, .xlsx e .ods sono stati testati su Microsoft Excel 2013 e LibreOffice Calc 6.4.6.2.
+
+L'approccio di programmazione MVC consente facilmente di estrarre/modificare/sostituire il modello dei dati, il formato di output o l'interfaccia grafica.
+
+Se viene selezionato un file di output non vuoto, i record convertiti vengono inseriti in coda, senza alterare i record precedenti.
+
+Bug noti e Troubleshooting:
+- Ove la libreria JavaFX non fosse già integrata nel JDK/JRE, specificarla avviando il jar con:
+
+```
+	java --module-path <PERCORSO LIBRERIA JAVAFX> --add-modules=javafx.controls,javafx.fxml -jar <NOME JAR>
+```
+
+- Microsoft Excel richiede una correzione del contenuto del file generato se il formato scelto è ODS. Consentire la correzione e salvare da Excel per risolvere;
+- Possibile ``OutOfMemoryError`` se il file di input ha una dimensione eccessiva. Eventualmente suddividerlo in porzioni.
+
+
+Interfaccia Swing su Windows XP:
+
+<img src=""docs/images/screenshot_winxp_swing_1.1.png"" width=""500"">
+
+Interfaccia JavaFX su Windows 7:
+
+<img src=""docs/images/screenshot_win7_javafx_1.1.png"" width=""500"">
+
+Interfaccia JavaFX su Ubuntu 20.04:
+
+<img src=""docs/images/screenshot_ubuntu2004_javafx_1.1.png"" width=""500"">
+
+
+[Documentazione API (Javadoc)](https://alessiolombardo.github.io/RiscossioneConverter/apidocs/)
+",1,1,1,0,public-administration,"[converter, public-administration]",0
+8,k3jph,projmgmt,k3jph,https://github.com/k3jph/projmgmt,https://api.github.com/repos/projmgmt/k3jph,Project Management and Administration,,0,0,2,0,public-administration,"[mkdocs, pmbok, project-management, public-administration]",0
+9,cisobund,cisobund.github.io,,https://github.com/cisobund/cisobund.github.io,https://api.github.com/repos/cisobund.github.io/cisobund,Sammlung rund um das Thema Informations- und Cybersicherheit,"> Sammlung von hilfreichen Informationen und Links zu diversen Ressourcen rund um das Thema Informations- und Cybersicherheit
+
+## Inhalte
+
+- [Assessments](#assessments)
+- [Strategie](#contents)
+- [Rahmenwerke und Standards](#rahmenwerke-und-standards)
+- [Richtlinien](#richtlinien)
+
+## Assessments
+### Basis Assesments Übergreifend
+ - [IKT Minimalstandard](https://www.bwl.admin.ch/bwl/de/home/themen/ikt/ikt_minimalstandard.html) [[pdf]](https://www.bwl.admin.ch/dam/bwl/de/dokumente/themen/ikt/broschuere_minimalstandard.pdf.download.pdf/IKT_DE_2018_Web.pdf) [[xlsx]](https://www.bwl.admin.ch/dam/bwl/de/dokumente/themen/ikt/excelblatt_minimalstandard.xlsx.download.xlsx/2023_IKT-Minimalstandard-Assessment.Tool-1.11.xlsx) - Assesment Tool des Schweizer Bundesamt für wirtschaftliche Landesversorgung
+
+### Spezifische Assessments
+- Security Operations Center
+    - [SOC CMM](https://www.soc-cmm.com/) - SOC Maturity Model von Rob van Os
+- CERT / CSIRT
+    - [SIM3](https://opencsirt.org/csirt-maturity/sim3-online-tool/) - SIM 3 Online Assessment Tool der Open CSIRT Foundation
+
+
+## IT Grundschutz
+### Anwendungen
+- [Office 365 Anforderungen](https://news.microsoft.com/wp-content/uploads/prod/sites/40/2023/03/Office365_IT-Grundschutz_Workbook_DE.pdf) - Leitfaden zur Anwendung des IT Grundschutz auf Microsoft 365
+
+### Auslandsreisen
+- [Sicherheit auf Auslandsdienstreisen](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium_Einzel_PDFs_2023/03_CON_Konzepte_und_Vorgehensweisen/CON_7_Informationssicherheit_auf_Auslandsreisen_Edition_2023.pdf?__blob=publicationFile&v=3#download=1) - BSI IT Grundschutz Baustein CON.7 (Stand Februar 2023)
+- [Sicherheit auf Geschäftsreisen](https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2022/2022-05-24-informationsblatt-geschaeftsreise.html) [[Allgemein]](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/wirtschafts-wissenschaftsschutz/2022-05-24-infoblatt-geschaeftsreisen-allgemein.pdf?__blob=publicationFile&v=3) [[China]](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/wirtschafts-wissenschaftsschutz/2022-05-24-infoblatt-geschaeftsreisen-china.pdf?__blob=publicationFile&v=7) - Informationen des Wirtschaftsschutz/Verfassungsschutz
+- [IT Sicherheit auf Reisen](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/IT-Sicherheit-auf-Reisen/it-sicherheit-auf-reisen_node.html) - BSI Reisehinweise
+
+
+
+## To be sorted
+- [Macro Security](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/microsoft-office-macro-security) - Entscheidungshilfe und Konfigurationsempfehlungen des Australian Cyber Security Center (ACSC) 
+",0,0,1,0,public-administration,"[cybersecurity, infosec, public-administration]",0
+10,technologiestiftung,leitfaden-agile-verwaltung,technologiestiftung,https://github.com/technologiestiftung/leitfaden-agile-verwaltung,https://api.github.com/repos/leitfaden-agile-verwaltung/technologiestiftung,Guide to the development of digital services for public administrations,"# Leitfaden Agile Verwaltung
+
+This repository contains the source code for _Agil durch den Verwaltungsalltag_, a (German-language) guide to the development of digital services for public administrations.
+
+> This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+## Requirements
+
+- Node.js (version defined in `.nvmrc`)
+
+## Installation
+
+Make sure to have the Node version defined in `.nvmrc` installed. Then install all dependencies:
+
+```bash
+npm ci
+```
+
+## Local Development
+
+```bash
+npm start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+## Build
+
+```bash
+npm build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Project structure
+
+This project was bootstrapped via Docusaurus, so the folder structure mostly follows their conventions.
+
+Noteworthy might be that we adjusted some of their default components (`/src/theme/`), created custom components (`/src/components/`), and did considerable styling changes (`/src/css/custom.css` and throughout the various `*.module.css` files in the directories).
+
+Static assets are defined in `static/`.
+
+## Deployment
+
+This project is deployed to [Netlify](https://www.netlify.com/). Updates to the `main` branch will automatically trigger a new deploy.
+
+If you don't want an update to trigger a new deploy, you can use the flag `[skip ci]` in your commit message and Netlify will ignore it. This can be useful for chores such as updating the README file.
+
+Example:
+
+```bash
+git commit -m ""docs: update README [skip ci]""
+```
+
+## Matomo
+
+We use Matomo to collect (anonymous) usage data. Find the relevant code in `docusaurus.config.js` and `lib/matomoPlugin.js`.
+",0,0,3,7,public-administration,"[guide, public-administration]",0
+11,fffelix-jan,NTCS-PA,,https://github.com/fffelix-jan/NTCS-PA,https://api.github.com/repos/NTCS-PA/fffelix-jan,PA system that can play messages sent to it over Discord using gTTS. Originally for North Toronto Christian School. Designed to work together with NCH TimeChimes.,"# NTCS-PA
+PA system that can play messages sent to it over Discord using gTTS. Originally for North Toronto Christian School. Designed to work together with NCH TimeChimes.
+## Installation  
+1. Install the latest version of Python 3.
+1. Download all the files in this repository to a folder on your Windows computer.
+1. Download `nircmdc.exe` from the website below, and place it in the same folder.
+1. Install the necessary modules. Type: `pip install gTTS discord`
+1. Open `ntcs_pa_discord.py` in an editor, and add your bot's token.
+1. Run `ntcs_pa_discord.py`.
+
+## Credits  
+* NirCmd 2.86 - Copyright (c) 2003-2019 Nir Sofer (https://www.nirsoft.net/utils/nircmd.html)
+* MTR PA system sound effect `attn.wav` - Copyright (c) MTR Corporation Limited (http://www.mtr.com.hk)
+* playsound - Copyright (c) 2017 TaylorSMarks (licenced under the MIT Licence) (https://github.com/TaylorSMarks/playsound)
+",0,0,2,0,public-administration,"[automation, discord, gtts, nch-timechimes, ntcs-pa, pa, public-address, public-administration, sound]",0
+12,techlib,spis,techlib,https://github.com/techlib/spis,https://api.github.com/repos/spis/techlib,Správní informační systém je otevřený nástroj pro vedení elektronických evidencí.,,0,0,9,7,public-administration,"[czech-republic, document-management, public-administration, record-management]",0
+13,Jeshua-Romero-Guadarrama,Analisis_politico_con_R,,https://github.com/Jeshua-Romero-Guadarrama/Analisis_politico_con_R,https://api.github.com/repos/Analisis_politico_con_R/Jeshua-Romero-Guadarrama,"📖 Un complemento interactivo para entender y dominar el Análisis Político con R: Políticas Existentes, Creación de Políticas, Política Social, Política Económica y Administración Pública","<p align=""center""><img align=""center"" src=""https://github.com/Jeshua-Romero-Guadarrama/CienciaPolitica/blob/main/docs/images/CienciaPolitica.png"" width=""30%"" height=""30%""></p>
+
+## 📖 Sobre el curso
+
+<p><img src=""https://github.com/Jeshua-Romero-Guadarrama/Econoalgoritmia/blob/Econoalgoritmia/docs/images/logo.png"" alt=""logo"" align=""right"" width=""20%"" height=""20%""> 
+El presente texto nace al calor de las exigencias pedagógicas de todos los ciudadanos mexicanos interesados en la ciencia política. A partir de los años que he pasado detrás de innumerables libros (con el objetivo de gestar, buscar y probar nuevos conocimientos), ve la luz pública este trabajo, que fué creciendo y cambiando lentamente, empezando como apuntes de la universidad. Creo que ha alcanzado la madurez suficiente para ser compartido con el mundo. Con independencia de su valor intrínseco, tengo entendido que hace mucho tiempo que no se hacía una obra de este tipo (lo que ciertamente le corresponde al lector juzgar). En la bibliografía especializada disponible en castellano, el antecedente más inmediato que conozco es **Teorías políticas contemporáneas: Una introducción**, de Klaus von Beyme. La primera edición alemana es de 1972, cuya edición en castellano (difícil de hallar), es de 1977. Esa obra fué mi primera orientación; en consecuencia, mantengo en lo fundamental su esquema y algo de su terminología (tengo una deuda intelectual con el formidable profesor de Heildelberg).</p>
+
+El curso se puede consultar aquí: [Análisis Político Usando R](https://jeshua-romero-guadarrama.github.io/CienciaPolitica/)
+___
+
+<p align=""center""><a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/""><img alt=""Creative Commons License"" style=""border-width:0"" src=""https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg""/></a></p><br/>Esta obra está autorizada bajo la <a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/"">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+#### Referencias bibliográficas
+Von Beyme, K. (1977). *Teorías políticas contemporáneas: Una introducción*. Instituto de Estudios Políticos.",0,0,1,0,public-administration,"[applied-statistics, economic-policy, existing-policies, non-governmental-organizations, non-profit-organizations, policy-creation, public-administration, public-sector, r, r-programming, social-policy, statistical-analysis, statistical-inference, statistical-learning, statistical-methods, statistical-models]",0
+14,BenjaminFReese,stretch02,,https://github.com/BenjaminFReese/stretch02,https://api.github.com/repos/stretch02/BenjaminFReese,Stretch Exercise for Assignment07,"# stretch02
+The code in strech02.qmd creates stretch02.html. The analysis contained within stretch02 predicts why civil servants leave federal service. More specifically, the model tries to classify civil servants' exit decisions based on if they quit or if they left for some other reason. The code begins by loading in three distinct datasets. A dataset from the Office of Personnel Management that has civil servant exit data, a dataset with economic variables from Michael Bailey's Real Stats, and presidential approval rating data. More information about these datasets can be found in stretch02.html. Once the data is loaded, I clean each dataset, create a categorical civil servant education variable, create the ""quit"" or ""not quit"" variable, and then join the three datasets together by quarter. Due to the different cross-sections included in the three different datasets, I end only with the years of 2005-2009. 
+Once the data is cleaned, I conduct some basic exploratory data analysis shown in a series of data visualizations. After the EDA, I split the data into a training and testing set, describe and specify a logistic regression, random forest, and CART machine learning models, and implement the CART model. Stretch02.html ends with my presentation of the best model results and a discussion of the error metric. Overall, accuracy is about .68 and recall about .53. While the recall is not great, and recall is one of the most important error metrics for this model, the accuracy is not terrible. Regardless of the accuracy, the results indicate that employees are more likely to quit in the early days of their service compared to longer serving employees. The final discussion in the paper is about next steps and includes arguments for improved feature selection and modeling decisions.
+",0,0,2,0,public-administration,"[bureaucracy, civil-service, machine-learning, public-administration]",0
+15,technologiestiftung,oeffentliches-gestalten-docusaurus,technologiestiftung,https://github.com/technologiestiftung/oeffentliches-gestalten-docusaurus,https://api.github.com/repos/oeffentliches-gestalten-docusaurus/technologiestiftung,CityLAB Berlin's handbook for working innovatively in public administration as a documentation-style website,"# Öffentliches Gestalten (Public Design)
+
+CityLAB Berlin's [handbook](https://citylab-berlin.org/en/projects/handbuch/) for working innovatively in public administration as a documentation-style website.
+
+The handbook documents a large collection of methods and contextual information on how to start innovation processes in public administrations.
+
+> We use [Docusaurus](https://docusaurus.io/), a modern static website generator, as our content engine.
+
+---
+
+## Installation
+
+Make sure you have [Node.js](https://nodejs.org/en) installed and you're using the Node version as defined in `.nvmrc`. Then install the necessary dependencies.
+
+```bash
+npm install
+```
+
+## Local Development
+
+```bash
+npm start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### CSS
+
+Docusaurus provides styling out-of-the-box. They currently use a mix of theme class names, Infima (their CSS library) class names and CSS modules. Find the most recent information in their [styling documentation](https://docusaurus.io/docs/styling-layout).
+
+We have additionally added [TailwindCSS](https://tailwindcss.com/) to our project.
+
+Our strategy for customizing the styling is to (wherever possible) override Docusaurus's classes in `src/css/custom.css` by using Tailwind's `@apply` rule. This is to avoid [""swizzling""](https://docusaurus.io/docs/swizzling) Docusaurus components and adding our own Tailwind utilities to the markdown. We do this because swizzling [is only save for some components](https://docusaurus.io/docs/swizzling#what-is-safe-to-swizzle).
+
+Whenever we really need to swizzle a component or we create a custom component we use Tailwind's utility classes in the markup.
+
+Note that we define our color scheme in CSS variables in `src/css/custom.css` and reference them in our `tailwind.config.js` in order to avoid duplicating our theme contents.
+
+### Search locally
+
+If you want to use the search feature ([Algolia DocSearch](https://docsearch.algolia.com/)) locally, create a file `.env` and fill it according to the `.env.example`. If you don't have access to the required values, please ask a repository mainatiner for help.
+
+## Content
+
+### Phases and methods
+
+The book consists of 5 chapters that we call _phases_, an introduction chapter, and some opening and closing content.
+
+Find the main content in `./docs`:
+
+```plain
+docs
+├── 0-einfuehrung
+│   ├── index.mdx
+│   ├── [...]
+├── 1-vorbereiten
+│   ├── 01-ist-zustand-betrachten.mdx
+│   ├── [...]
+```
+
+Note that all methods are centrally stored in another directory:
+
+```plain
+src/assets/methods
+├── entwicklungsmatrix.md
+├── fuenf-finger-feedback.md
+├── gewaltfreie-kommunikation.md
+├── [...]
+```
+
+Each of these `.md` files is the central source of truth for the method contents and is used in the rendered pages (e.g. `docs/1-vorbereiten/01-ist-zustand-betrachten.mdx`) like so:
+
+```mdx
+import { MethodCard } from '@site/src/components/MethodCard';
+import { MethodSummary } from '@site/src/components/MethodSummary';
+import * as Entwicklungsmatrix from '@site/src/assets/methods/entwicklungsmatrix.md'
+
+// [...]
+
+<MethodSummary
+  title={Entwicklungsmatrix.frontMatter.title}
+  time={Entwicklungsmatrix.frontMatter.time}
+  attributes={Entwicklungsmatrix.frontMatter.attributes}
+  footer={Entwicklungsmatrix.frontMatter.note}
+>
+  <Entwicklungsmatrix.default />
+</MethodSummary>
+
+<MethodCard
+  title={Entwicklungsmatrix.frontMatter.title}
+  surtitle=""Arbeitsblatt""
+  attributes={[Entwicklungsmatrix.frontMatter.time]}
+  imageUrl={""/img/01_hero.svg""}
+/>
+
+// [...]
+```
+
+#### Updating methods
+
+If you want to change, add, or delete methods, please make the change first in `src/assets/methods`.
+
+Then we have to do something that feels a bit repetitive, but is required for our customized Docusaurus setup.
+
+```mdx
+import * as MyNewMethod from '@site/src/assets/methods/my-new-method.md'
+
+## My method title from MyNewMethod
+
+<MethodSummary
+  title={MyNewMethod.frontMatter.title}
+  time={MyNewMethod.frontMatter.time}
+  attributes={MyNewMethod.frontMatter.attributes}
+  footer={MyNewMethod.frontMatter.note}
+>
+  <MyNewMethod.default />
+</MethodSummary>
+```
+
+Assuming we have created a new method, we import it and render it inside a `MethodSummary`. Unfortunately we also have to add a H2 with the method title right above. This is to make the Docusaurus table of contents work properly. But because we want don't want the headings to be duplicated, we need to hide its ID the heading by adding it in `src/css/custom.css`:
+
+```css
+#entwicklungsmatrix,
+#prozessverlauf
+/* [...] */
+{
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+}
+```
+
+> You can find out the ID by inspecting the generated markup in the browser console.
+
+### Chapter sidebar
+
+We autogenerate the contents of the sidebar that displays the book chapters (see `./sidebars.js`). This enables us to not having to think too much about keeping the sidebar and the contents in sync.
+
+**There is one caveat though**: We also have a custom table-of-content-type of of cpater overview (`./src/components/StepsOverview.tsx`). Here we hardcode the chapters because there doesn't seem to be a way to fetch the sidebar contents from a component dynamically. Keep this in mind when changing top-level chapters!
+
+## Build
+
+```bash
+npm run build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Deployment
+
+This project is deployed to [Vercel](https://vercel.com/). Updates to the `main` branch will automatically trigger a new deploy.
+
+### Search
+
+The project is configured with [Algolia DocSearch](https://docsearch.algolia.com/). DocSearch provides us with a search index that makes all text content of the handbook accessible via a search field. In order to make the search work, Vercel is configure with the necessary environment variables as specified in `.env.example`.
+
+## License
+
+The source code is licensed as defined in `LICENSE`. The book contents are licensed under [Creative Commons Attribution-NonCommercial ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+",0,0,6,7,public-administration,"[citylab-berlin, public-administration, service-design]",0
+16,lucastiburtino,deslocamentos,,https://github.com/lucastiburtino/deslocamentos,https://api.github.com/repos/deslocamentos/lucastiburtino,"Aplicativo em Python para padronização na solicitação de deslocamentos, além de agilizar processo de autorização pela autoridade competente","# Deslocamentos
+Aplicativo em Python para padronização na solicitação de deslocamentos, além de agilizar processo de autorização pela autoridade competente
+
+Projeto em construção.
+
+Deve possuir:
+
+1. Tela inicial para login utilizando certificação digital;
+
+2. Opção para solicitação, cancelamento e autorização (ou não) do deslocamento a partir do perfil do usuário;
+
+    2.1. Solicitação: realizada via formulário padrão com dados mínimos (poderá ser criado deslocamento para outro usuário através de opção Convocação);
+    
+    2.2. Cancelamento: realizado via seleção de deslocamento criado pelo usuário;
+    
+    2.3. Autorização (ou não): realizada via seleção de deslocamentos encaminhados pelos usuários; após conclusão será encaminhado e-mail para os usuários a serem deslocados;
+
+3. Poderá haver opção para prestação de contas de deslocamentos.
+",0,0,2,0,public-administration,"[administracao-publica, public-administration, python]",0
+17,marinimau,public_administration_blockchain_certified_document_sharing,,https://github.com/marinimau/public_administration_blockchain_certified_document_sharing,https://api.github.com/repos/public_administration_blockchain_certified_document_sharing/marinimau,A dApp to distribute blockchain certified documents from PAs to citizens. All the features are accessible via REST api.,"[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+# Public Administration Blockchain Certified Document Sharing
+
+A dApp to distribute blockchain certified documents from PAs to citizens. All the features are accessible via REST api.
+
+Citizen related features are accessible also via frontend.
+
+## Getting Started
+
+```bash
+$ git clone https://github.com/marinimau/public_administration_blockchain_certified_document_sharing.git
+$ cd public_administration_blockchain_certified_document_sharing
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip3 install -r requirements.txt
+$ python3 manage.py makemigrations user
+$ python3 manage.py makemigrations document
+$ python3 manage.py makemigrations transaction
+$ python3 manage.py migrate
+$ python3 manage.py runserver
+```
+
+Note that you will need to create a super user (using ""createsuperuser"" command) and then you will need to create PA, operator, and citizen using the admin interface  at ```http://127.0.0.1:8000/admin/```.
+
+IMPORTANT: use valid Etherum credential for the operator, and ensure that he as some Ether in his balance (default testnet is Rinkeby, you can change it in settings)
+
+## Test the project
+
+```bash
+$ python3 manage.py test
+```
+
+
+## Features
+
+* Citizens and PA operators management
+* Document creation and update (by version creation)
+* Public and private documents: if a document is private citizen must have read permission
+* Document version inherits permissions from document
+* Pa management: an operator can update (create versions) only for documents owned by his PA, an operator can view only public documents or private documents (if they are owned by his PA)
+* Automatic document SC and document version (transaction in the document SC) deploy
+* Automatic fingerprint validation in download phase.
+* SC operator authentication based on whitelist
+* Citizen can add to favorites documents
+
+
+## OpenApi documentation
+
+The documentation is available at ```http://127.0.0.1:8000/documentation/```.
+
+Note that only endpoints accessible with current authorization are shown:
+* if you are unauthorized you see only public endpoints
+* if you are authorized as citizen you see public + citizen endpoints
+* if you are authorized as pa operator you see public + operator endpoints
+
+## Author
+
+* [Mauro Marini](https://github.com/marinimau)
+",0,0,2,0,public-administration,"[abcde-agile-method, blockchain, dapp, django-rest-framework, ethereum-dapp, openapi3, public-administration, smart-contracts]",0
+18,technologiestiftung,service-agentinnen,technologiestiftung,https://github.com/technologiestiftung/service-agentinnen,https://api.github.com/repos/service-agentinnen/technologiestiftung,Website for the service design training for public administrations by CityLAB Berlin,"![](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiestiftung%20Berlin-blue)
+
+# ServiceAgent:innen
+
+![A screenshot of the ServiceAgent:innen website](./README.png)
+
+This repository contains the code of the ServiceAgent:innen (service agent) static website. It is a guide for contemporary and agile administration work. It presents 8 modules that illustrate how governmental administration can benefit from digital and user-centric processes, in order to modernize themselves and work more effectively.
+
+## Tech Stack
+
+### Content & Structure (HTML)
+
+This static site is built with [Eleventy (11ty)](https://www.11ty.dev/docs/). It uses the templating language [liquid](https://liquidjs.com/index.html) to combine together data and templates.
+
+### Styling (CSS)
+
+The pages are styles using [Tailwind CSS](https://tailwindcss.com).
+
+### Interativity (JavaScript)
+
+The Javascript included in this page is vanilla and is minified using [uglifyjs](https://www.npmjs.com/package/uglify-js).
+
+## Getting started
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+A development server will be available at [http://localhost:8080](http://localhost:8080).
+
+## Layouts
+
+Layouts are templates that wrap other templates and surrounds them with markup. We use 3 types of layouts:
+
+- **Base:** This layout contains the HTML present in every page. It includes, for instance, the HTML head and the meta tags, scripts and stylesheets.
+- **Content:** This layout is applied to all the pages, except error pages such as the 404 page.
+- **Module:** The layout applies to individual module pages and contains reccurrent elements such as the hero section or the module's methods.
+
+## Home page
+
+The homepage is `src/index.liquid`. It is a simple combination of other templates. Data for this page is defines in the `src/_data/` folder.
+
+## Modules
+
+### Overview
+
+The modules overview can be found in `src/modules/index.liquid`. It leverages the concept of collections in the liquid templating language. The file `src/modules/modules.json` defines how module pages are generated. For instance, it makes available all markdown files tagged `module` available under the collection named `module`. This collection is picked up by a custom collection (defined in `.eleventy.js`) that sorts the modules according to the file slug (01 - 08):
+
+```js
+eleventyConfig.addCollection(""sortedModules"", function (collectionApi) {
+  const sortedModules = collectionApi
+    .getFilteredByTag(""module"")
+    .sort((a, b) => {
+      return a.fileSlug - b.fileSlug;
+    });
+  return sortedModules;
+});
+```
+
+The custom collection can then be used in `src/modules/index.liquid` as such:
+
+```html
+{% for module in collections.sortedModules %}
+<li>{{ module.title }}</li>
+{% endfor %}
+```
+
+### Individual module
+
+The individual module pages are generated using the markdown files found in `src/modules/0{1-8}.md`. The markdown's frontmatter and contents are used together with the layout `src/_includes/layouts/module.liquid` to create individual HTML pages.
+
+<details>
+<summary>The front matter is used as in this example</summary>
+
+```yml
+---
+title: Service Design und Nutzerorientierung # required
+socialMediaImagePath: /assets/images/modules/01-social-image.webp # required
+socialMediaImageType: image/webp # required
+socialMediaImageAlt: Modul 1 “Service Design und Nutzerorientierung” # required
+abstract: Short summary of the module
+example: Text for the example block of the page # required
+example_image_alt: Description of what is depicted in the example image # required if example image is desired
+methods: # array of methods, not required, often has only one entry
+  - title: Customer Journey
+    abstract: Short summary of the method
+    description: Detailed description'
+    doc_path: /path/to/accompanying/doc.pdf
+further_reading: # array of resources
+  - title: Bürokratieabbau durch Digitalisierung
+    description: Gutachten Öffentliche IT und Fraunhofer
+    link: https://www.normenkontrollrat.bund.de/resource/blob/300864/753834/ea4c588fa9edf79304d947baf766e624/2015-11-12-gutachten-egov-2015-dokumentation-data.pdf?download=1
+  - title: Zufriedenheit mit behördlichen Leistungen
+    description: Befragung des Statistischen Bundesamts 2019
+    link: https://www.amtlich-einfach.de/SharedDocs/Downloads/Ergebnisse_Buerger_2019.pdf?__blob=publicationFile&v=2
+hypotheses: # array of short hypotheses, not required
+  - text: Service Design erzeugt gute Angebote, die Stress für Mitarbeiter:innen reduzieren, Geld sparen und Ressourcen freisetzen
+```
+
+</details>
+
+## Assets
+
+The assets such as images, icons, stylesheets, aso. can be found in `src/assets/`. If you want to use a folder inside that doesn't exist yet, you need to add it to the Eleventy [asset pipeline](https://www.11ty.dev/docs/copy/).
+
+### Image optimizitaion
+
+We try to serve images that are optimized for different devices and screen sizes. If you want to add a new image to the site, consider this workflow:
+
+1. Create the image using you preferred software (e.g. Sketch)
+2. Export the image in both PNG and WEBP format in the following widths: 400px, 600px, 800px (you may skip some of the widths if they are not needed for your use case). Create exports with the following structure: `{name}-{width}.{format}`, e.g. `hero-800.webp`
+3. Your software might have not exported the images in the most compressed way. Double-check if further reduction of file size is possible.
+4. In the site, use the partial in `src/_includes/partials/picture.liquid` to render the image. See the comments in the partial for usage instructions.
+5. If the image will be rendered in such a way that the 800px-wide image does not suffize, consider adjusting the `picture.liquid` to the new requirements. For our _current_ state no image needs to be wider than 800px.
+
+## Data
+
+General data can be defined in `src_/data/`.
+
+## Includes (Layouts and Partials)
+
+`src/_includes` holds all [layouts](https://www.11ty.dev/docs/layouts/) and [partials](https://www.11ty.dev/docs/config/#directory-for-includes).
+
+## Testing
+
+For testing we use [Cypress](https://docs.cypress.io/guides/overview/why-cypress.html) and [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro/).
+
+Tests should cover the basic interactions of the website and ensure that all important content is present. Cypress tests should be added to `cypress/integration/`.
+
+## Running tests locally
+
+Make a test run:
+
+```bash
+npm run test
+```
+
+Launching the test runner in watch mode:
+
+```bash
+npm run test:watch
+```
+
+## Running tests in CI
+
+In `.github/workflows/test.yml` we have configured Cypress to run all pushes and pull requests to `main`. The passing of this test run is required for merging changes.
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align=""center""><a href=""https://github.com/dnsos""><img src=""https://avatars.githubusercontent.com/u/15640196?v=4?s=64"" width=""64px;"" alt=""""/><br /><sub><b>Dennis Ostendorf</b></sub></a><br /><a href=""https://github.com/technologiestiftung/service-agentinnen/commits?author=dnsos"" title=""Code"">💻</a> <a href=""#design-dnsos"" title=""Design"">🎨</a> <a href=""#content-dnsos"" title=""Content"">🖋</a> <a href=""https://github.com/technologiestiftung/service-agentinnen/commits?author=dnsos"" title=""Documentation"">📖</a></td>
+    <td align=""center""><a href=""https://vogelino.com/""><img src=""https://avatars.githubusercontent.com/u/2759340?v=4?s=64"" width=""64px;"" alt=""""/><br /><sub><b>Lucas Vogel</b></sub></a><br /><a href=""https://github.com/technologiestiftung/service-agentinnen/commits?author=vogelino"" title=""Code"">💻</a> <a href=""https://github.com/technologiestiftung/service-agentinnen/commits?author=vogelino"" title=""Documentation"">📖</a></td>
+    <td align=""center""><a href=""https://github.com/Lisa-Stubert""><img src=""https://avatars.githubusercontent.com/u/61182572?v=4?s=64"" width=""64px;"" alt=""""/><br /><sub><b>Lisa-Stubert</b></sub></a><br /><a href=""#content-Lisa-Stubert"" title=""Content"">🖋</a> <a href=""https://github.com/technologiestiftung/service-agentinnen/commits?author=Lisa-Stubert"" title=""Code"">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Content Licencing
+
+Texts and content available as [CC BY](https://creativecommons.org/licenses/by/3.0/de/).
+
+Illustrations by Lea Scheidt, all rights reserved.
+
+## Credits
+
+<table>
+  <tr>
+    <td>
+      Made by <a src=""https://citylab-berlin.org/de/start/"">
+        <br />
+        <br />
+        <img width=""200"" src=""https://citylab-berlin.org/wp-content/uploads/2021/05/citylab-logo.svg"" />
+      </a>
+    </td>
+    <td>
+      A project by <a src=""https://www.technologiestiftung-berlin.de/"">
+        <br />
+        <br />
+        <img width=""150"" src=""https://citylab-berlin.org/wp-content/uploads/2021/05/tsb.svg"" />
+      </a>
+    </td>
+    <td>
+      Supported by <a src=""https://www.berlin.de/rbmskzl/"">
+        <br />
+        <br />
+        <img width=""80"" src=""https://citylab-berlin.org/wp-content/uploads/2021/12/B_RBmin_Skzl_Logo_DE_V_PT_RGB-300x200.png"" />
+      </a>
+    </td>
+  </tr>
+</table>
+",0,0,1,6,public-administration,"[citylab-berlin, public-administration]",0
+19,Jeshua-Romero-Guadarrama,Ciencia_politica_Teoria_y_practica,,https://github.com/Jeshua-Romero-Guadarrama/Ciencia_politica_Teoria_y_practica,https://api.github.com/repos/Ciencia_politica_Teoria_y_practica/Jeshua-Romero-Guadarrama,"📖 Un complemento interactivo para entender y dominar la Teoría y Práctica de la Ciencia Política: Políticas Públicas, Sistemas Políticos, Filosofía Política, Comportamientos Político y Metodología.","<p align=""center""><img align=""center"" src=""https://github.com/Jeshua-Romero-Guadarrama/CienciaPolitica/blob/main/docs/images/CienciaPolitica.png"" width=""30%"" height=""30%""></p>
+
+## 📖 Sobre el curso
+
+<p><img src=""https://github.com/Jeshua-Romero-Guadarrama/Econoalgoritmia/blob/Econoalgoritmia/docs/images/logo.png"" alt=""logo"" align=""right"" width=""20%"" height=""20%""> 
+El presente texto nace al calor de las exigencias pedagógicas de todos los ciudadanos mexicanos interesados en la ciencia política. A partir de los años que he pasado detrás de innumerables libros (con el objetivo de gestar, buscar y probar nuevos conocimientos), ve la luz pública este trabajo, que fué creciendo y cambiando lentamente, empezando como apuntes de la universidad. Creo que ha alcanzado la madurez suficiente para ser compartido con el mundo. Con independencia de su valor intrínseco, tengo entendido que hace mucho tiempo que no se hacía una obra de este tipo (lo que ciertamente le corresponde al lector juzgar). En la bibliografía especializada disponible en castellano, el antecedente más inmediato que conozco es **Teorías políticas contemporáneas: Una introducción**, de Klaus von Beyme. La primera edición alemana es de 1972, cuya edición en castellano (difícil de hallar), es de 1977. Esa obra fué mi primera orientación; en consecuencia, mantengo en lo fundamental su esquema y algo de su terminología (tengo una deuda intelectual con el formidable profesor de Heildelberg).</p>
+
+El curso se puede consultar aquí: [Ciencia Política: Teoría y Práctica](https://cienciapolitica.jeshuanomics.com/)
+___
+
+<p align=""center""><a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/""><img alt=""Creative Commons License"" style=""border-width:0"" src=""https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg""/></a></p><br/>Esta obra está autorizada bajo la <a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/"">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+#### Referencias bibliográficas
+Von Beyme, K. (1977). *Teorías políticas contemporáneas: Una introducción*. Instituto de Estudios Políticos.",0,0,1,0,public-administration,"[economic-policy, existing-policies, non-governmental-organizations, non-profit-organizations, phylosophy, policy-creation, political-movements, political-theory, politics, public-administration, public-sector, social-movements, social-policy]",0
+20,ian-adams,academic-website,,https://github.com/ian-adams/academic-website,https://api.github.com/repos/academic-website/ian-adams,Personal academic-focused website for Ian T. Adams,"# academic-website
+Personal academic focused website for Ian T. Adams
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41cec13b-04b9-449c-a3c0-583902841e83/deploy-status)](https://app.netlify.com/sites/ianadams/deploys)
+",0,0,1,0,public-administration,"[adams, body-worn-cameras, ian, policing, public-administration, r]",0

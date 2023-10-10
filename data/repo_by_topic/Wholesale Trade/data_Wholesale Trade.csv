@@ -1,0 +1,2221 @@
+Unnamed: 0,repo,user,organization,url (HTML),url (API),description,readme,stargazer count,watcher count,subscriber count,open issue count,topic (search),topics,NAICS Code
+0,papyrussolution,OpenPapyrus,,https://github.com/papyrussolution/OpenPapyrus,https://api.github.com/repos/OpenPapyrus/papyrussolution,"Sophisticated ERP, CRM, Point-Of-Sale, etc. Open source now. This system is developed since 1996.","# OpenPapyrus
+
+www.petroglif.ru
+
+# En
+
+### The enterprise management system OpenPapyrus
+
+The developed system for management of small and medium enterprises. It includes a very extensive functionality of ERP, CRM, Point-Of-Sale.
+Perfectly operates in the following business segments:
+
+* Wholesale
+* Retail
+* Pharmacy
+* Restaurants and cafes
+* Beauty salons
+* Fitness clubs
+
+One of the best in its class systems in the Russian market.
+It supports a large number of types of equipment and is able to interact with a variety of popular systems.
+
+Programming Language: C ++
+
+Operating system: Windows XP or higher
+
+Language: Russian 
+Experimental translation phase: English, German, Dutch, Portuguese
+
+Integration with services, equipment and systems:
+* EGAIS
+* EDI systems
+* Cash register module Set-Retail
+* Frontol cash register module
+* Pepsico iSales
+* IP-telephony server Asterisk
+* Universal hardware driver ATOL
+* Fiscal registrars Shtrif-FR
+* Fiscal registrars Viki Print
+* Fiscal registrars Pirit
+* Electronic scales CAS
+* Electronic scales DIGI
+* Electronic scales Mettler-Toledo
+* Electronic scales Bizerba
+* Electronic scales Shtrih-Print
+* Datamax label printers (DPL and ELTRON description languages)
+* Zebra label printers (ZPL description language)
+* UDS customer loyalty system
+
+features.pdf: detailed (but, alas, not full) features description.
+
+ppmanual.pdf: Documentation (big, but also not very full).
+
+OPpyJobSrvr_x.x.xx.xxxxx.exe: optional server component JobServer, ensuring the execution of works on schedule
+  and able to ensure the functioning of mobile devices, as well as (for high-enterprises)
+  a 3-tier server. To familiarize with the system at the initial stage is not necessary.
+
+To install from scratch:
+
+* First setup OPpyServer_x.x.xx.xxxxx.exe
+* Then setup OPpyClient_x.x.xx.xxxxx.exe
+
+You can start working. With 2 attached distribution database:
+
+sample - a small demo database
+
+empty - empty database for actual use
+
+The name for authorization in both databases: 'master' without a password.
+
+To update release run OPpyUpdate_x.x.xx.xxxxx.exe
+
+The functionality is similar to a fully proprietary versions Papyrus, but the database is not compatible
+because of different encryption keys.
+
+Support paid.
+
+### Last release links
+
+* [OpenPapyrus Server](http://uhtt.ru/dispatcher/dc/download?key=openpapyrus-setup-server)
+* [OpenPapyrus Client](http://uhtt.ru/dispatcher/dc/download?key=openpapyrus-setup-client)
+* [OpenPapyrus Update](http://uhtt.ru/dispatcher/dc/download?key=openpapyrus-setup-update)
+* [OpenPapyrus JobServer](http://uhtt.ru/dispatcher/dc/download?key=openpapyrus-setup-jobserver)
+
+* [OpenPapyrus Features (pdf)](http://uhtt.ru/dispatcher/dc/download?key=papyrus-features)
+* [OpenPapyrus Manual (pdf)](http://uhtt.ru/dispatcher/dc/download?key=papyrus-manual)
+
+-------
+### Screenshots
+
+![Ware Edit Dialog](https://github.com/papyrussolution/OpenPapyrus/blob/master/ManWork/Pict/PNG/dlg-goods.png)
+
+![Person Edit Dialog](https://github.com/papyrussolution/OpenPapyrus/blob/master/ManWork/Pict/PNG/dlg-person.png)
+
+![Pos Pane Dialog](https://github.com/papyrussolution/OpenPapyrus/blob/master/ManWork/Pict/PNG/sh-pospane.PNG)
+-------
+
+# Ru
+
+### Система управления предприятием OpenPapyrus
+
+Развитая система для управления малым и средним предприятием. Включает очень обширный функционал ERP, CRM, Point-Of-Sale.
+Превосходно работает в следующих сегментах бизнеса:
+
+* Оптовая торговля
+* Розничная торговля
+* Аптечный бизнес
+* Рестораны и кафе
+* Салоны красоты
+* Фитнес-клубы
+
+Одна из лучших систем аналогичного класса на российском рынке.
+Поддерживает большое количество типов оборудования и умеет взаимодействовать со множеством популярных систем.
+
+Язык программирования: C++
+
+Операционная система: Windows XP или выше
+
+Язык: Русский
+
+Экспериментальная фаза перевода: English, German, Dutch, Portuguese
+
+Интеграция с сервисами, оборудованием и системами:
+* ЕГАИС
+* Меркурий (ВЕТИС)
+* Честный Знак
+* Системы EDI
+* Кассовый модуль Сет-Ритейл
+* Кассовый модуль Фронтол
+* Pepsico iSales
+* Сервер ip-телефонии Asterisk
+* Универсальный драйвер оборудования Атол
+* Фискальные регистраторы Штриф-ФР
+* Фискальные регистраторы Viki Print
+* Фискальные регистраторы Pirit
+* Электронные весы CAS
+* Электронные весы DIGI
+* Электронные весы Mettler-Toledo
+* Электронные весы Bizerba
+* Электронные весы Штрих-Принт
+* Принтеры этикеток Datamax (языки описания DPL и ELTRON)
+* Принтеры этикеток Zebra (язык описания ZPL)
+* Система лояльности клиентов UDS
+
+features.pdf: подробное (но, увы, не полное) описание возможностей.
+
+ppmanual.pdf: документация (большая, но тоже очень не полная).
+
+OPpyJobSrvr_x.x.xx.xxxxx.exe: опциональный серверный компонент JobServer, обеспечивающий выполнение работ по расписанию
+  и способный обеспечивать функционирование мобильных устройств, а также (для высоконагруженных предприятий)
+  как 3-tier сервер. Для ознакомления с системой на начальном этапе не нужен.
+
+Для инсталляции с нуля:
+
+* Сначала установите OPpyServer_x.x.xx.xxxxx.exe
+* Затем установите OPpyClient_x.x.xx.xxxxx.exe
+
+Можно начинать работать. С дистрибутивом прилагаются 2 базы данных:
+
+sample - небольшая демонстрационная база
+
+empty - пустая база данных для реального использования
+
+Имя для авторизации в обеих базах данных: master без пароля.
+
+Для обновления релиза запустите OPpyUpdate_x.x.xx.xxxxx.exe
+
+Функциональность полностью аналогична проприетарной версии Papyrus, но базы данных не совместимы
+из-за разных ключей шифрования.
+
+Поддержка платная.
+
+
+",220,220,8,10,wholesale,"[accounting, bizerba, business, c-plus-plus, cpp, crm, datamax, egais, erp, frontol, inventory, invoice, orders, point-of-sale, restorant, retail, russian, setretail, wholesale, windows]",0.0
+1,moqui,PopCommerce,moqui,https://github.com/moqui/PopCommerce,https://api.github.com/repos/PopCommerce/moqui,"POP Commerce is an eCommerce and ERP application suite for retail and wholesale organizations. POP Commerce is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens.","## POP (Plain-Old-Product) Commerce - Retail and Wholesale ERP and eCommerce
+
+[![license](http://img.shields.io/badge/license-CC0%201.0%20Universal-blue.svg)](https://github.com/moqui/PopCommerce/blob/master/LICENSE.md)
+[![build](https://travis-ci.org/moqui/PopCommerce.svg)](https://travis-ci.org/moqui/PopCommerce)
+[![release](http://img.shields.io/github/release/moqui/PopCommerce.svg)](https://github.com/moqui/PopCommerce/releases)
+[![commits since release](http://img.shields.io/github/commits-since/moqui/PopCommerce/v2.2.0.svg)](https://github.com/moqui/PopCommerce/commits/master)
+[![downloads](http://img.shields.io/github/downloads/moqui/PopCommerce/total.svg)](https://github.com/moqui/PopCommerce/releases)
+
+[![Discourse Forum](https://img.shields.io/badge/moqui%20forum-discourse-blue.svg)](https://forum.moqui.org)
+[![Google Group](https://img.shields.io/badge/google%20group-moqui-blue.svg)](https://groups.google.com/d/forum/moqui)
+[![LinkedIn Group](https://img.shields.io/badge/linked%20in%20group-moqui-blue.svg)](https://www.linkedin.com/groups/4640689)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-moqui-blue.svg)](http://stackoverflow.com/questions/tagged/moqui)
+
+POP Commerce is a simple eCommerce application and an admin app to administer the eCommerce site and manage various 
+aspects of a retail or wholesale business, from customer service and fulfillment to accounting. The goal is for POP 
+Commerce to include all functionality a general retail business might need.
+
+While meant to be a usable and functional, the primary purpose is to be a easy to customize starting point for custom 
+eCommerce sites and a demonstration of the use of Moqui Framework and Mantle Business Artifacts entities and services 
+for building eCommerce applications.
+
+POP Commerce is based on the Moqui Framework and Mantle Business Artifacts projects. It reuses various ERP screens from 
+the SimpleScreens project. 
+
+### Running POP Commerce
+
+To run POP Commerce you need Moqui Framework, POP Commerce itself, and the components it depends on. Moqui supports a 
+few methods for setup and deployment as described in the documentation here:
+
+<http://www.moqui.org/docs/framework/Run+and+Deploy>
+
+The easiest way to try POP Commerce is with the binary distribution available on GitHub:
+
+<https://github.com/moqui/PopCommerce/releases>
+
+If you don't have gradle or ant installed you can use this command line to run Java directly:
+
+    $ java -jar moqui.war
+
+### Build and Run Locally
+
+To get and locally run the latest POP Commerce you'll need JDK 8 or later (OpenJDK or Oracle), and either a git client or you can 
+use the binary download link on GitHub.
+
+Java can be downloaded here (make sure to use the Download button under the **JDK** column, NOT the under the JRE column):
+
+<http://www.oracle.com/technetwork/java/javase/downloads/index.html>
+
+The following instructions use the Gradle Wrapper to build. You can optionally download and install Gradle 
+(from <http://www.gradle.org/downloads>) and use **gradle** instead of **./gradlew** in the example commands.
+
+To download Moqui/Mantle/PopCommerce source and build/run locally use the following steps:
+
+#### Step 1: Download Moqui Framework
+
+Zip: <https://github.com/moqui/moqui-framework/archive/master.zip>
+
+Git: <https://github.com/moqui/moqui-framework.git>
+
+From either source you should put the contents in a **moqui** directory for the next steps. If you use the Zip download 
+change the directory name from **moqui-framework-master** to **moqui**. If you clone the Git repository clone it into 
+a **moqui** directory. 
+
+#### Step 2: Download POP Commerce and Dependencies
+
+This is easy with the dependency configuration per component, and the Gradle get component tasks. With Gradle Wrapper 
+you don't need to install Gradle separately to do this. The PopCommerce component is configured by default in the Moqui 
+addons.xml file, so just run:
+
+    $ ./gradlew getComponent -Pcomponent=PopCommerce
+
+If you downloaded the zip archive for Moqui Framework this will download the zip archives for PopCommerce and each 
+component it depends on. If you cloned from the git repository this will clone all components from their repositories. 
+
+#### Step 3: Build and Load Data
+
+From the **moqui** directory run:
+ 
+    $ ./gradlew load
+
+This will build Moqui and load seed and demo data from all components into an embedded H2 database.
+
+#### Step 4: Run Moqui
+
+From the **moqui** directory run:
+ 
+    $ java -jar moqui.war
+
+#### Step 5: Access the POP Commerce applications
+
+For the eCommerce application, in your browser go to:
+
+<http://localhost:8080/popc>
+
+Or for the admin application go to:
+
+<http://localhost:8080/vapps/PopcAdmin>
+
+Use the button in the lower-left corner of the screen login as John Doe.
+
+### Setup Commands Quick Reference
+
+Java 8 JDK is required (OpenJDK or Oracle): <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
+
+Here are command line steps for initial checkout, setup, and run:
+
+    $ git clone git@github.com:moqui/moqui-framework.git moqui
+    $ cd moqui
+    $ ./gradlew getComponent -Pcomponent=PopCommerce
+    $ ./gradlew load
+    $ java -jar moqui.war
+
+Here are steps for a basic update (for development with clean out and rebuild of database):
+
+    $ cd moqui
+    $ ./gradlew cleanAll gitPullAll
+    $ ./gradlew load
+    $ java -jar moqui.war
+
+To access the eCommerce app go to something like <http://localhost:8080/popc> in a web browser. To access the admin app 
+go to <http://localhost:8080/vapps/PopcAdmin>.
+",72,72,33,5,wholesale,"[accounting, application, crm, ecommerce-application, erp, erp-application, inventory, java, mantle, mantle-business, moqui, moqui-framework, pop-commerce, purchasing, retail, sales, web, webapp, wholesale]",0.0
+2,xpertdev,Bjs-Wholesale-Coupon-Bot,,https://github.com/xpertdev/Bjs-Wholesale-Coupon-Bot,https://api.github.com/repos/Bjs-Wholesale-Coupon-Bot/xpertdev,Add coupons automatically to your BJ's Wholesale Club account without clicking or tapping a thousand times.,"# Bjs-Wholesale-Coupon-Bot
+
+#### Instructions
+
+- Open https://www.bjs.com/myCoupons in Google Chrome / Microsoft Edge
+- Signin to your account
+- Run JavaScript in the console. Guide: https://developers.google.com/web/tools/chrome-devtools/console/javascript
+
+
+```
+function sleep(t) {  
+  const start = Date.now();
+  while (Date.now() - start < t);
+}
+
+var interval = setInterval(function(){
+	const buttons = document.getElementsByName('clipToCard');
+
+			
+	buttons.forEach(btn => {
+		console.log(""Clicking: "" + buttons.length + "" "", btn);
+		btn.click();
+		btn.scrollIntoView({behavior:""smooth""});
+		buttons[btn].remove();
+		sleep(3000);
+	});
+
+    if (buttons.length === 0) {
+        console.log(""Done"");
+        clearInterval(interval);
+    }
+		
+}, 3000);
+    
+```    
+
+You may need to run this more than once (press the up arrow in the console, and Enter again.)
+",11,11,2,1,wholesale,"[bjs, bot, coupon, javascript, wholesale]",0.0
+3,davidroberto,-NOT-MAINTAINED-magento2-b2b,,https://github.com/davidroberto/-NOT-MAINTAINED-magento2-b2b,https://api.github.com/repos/-NOT-MAINTAINED-magento2-b2b/davidroberto,[NOT-MAINTAINED]B2B free module for Magento 2,"# magento2-b2b
+
+Restrict access to a website for a group of customers
+
+## Getting Started
+
+If you don't already have a multi-websites Magento, you first you need to create a new website (admin->stores). 
+Then install the module from Composer (the module is listed in Packagist), or clone it from Github. 
+You'll have a new ""B2B"" tab in the configuration page, where you'll be able to select a website and a group of customers (a ""wholesale"" groupe for example). 
+
+Save it, and it's done! The website selected is now accessible only by the customers from the selected group of customers.
+If the user is not identified and try to access the website, he'll be redirected to the login form. If, after loggin, it doesn't belong
+to the corrected group, he'll be redirected to the default website.
+",5,5,2,0,wholesale,"[b2b, magento2, magento2-extension, magento2-module, wholesale]",0.0
+4,MagePsycho,Magento2-Store-Restriction-Pro,,https://github.com/MagePsycho/Magento2-Store-Restriction-Pro,https://api.github.com/repos/Magento2-Store-Restriction-Pro/MagePsycho,"Magento 2 Store Restriction Pro (Restrict Access, Require Customer Approval, Disable Registration, etc.)","## Overview:
+Magento 2 Store Restriction Pro extension provides the complete restriction functionality for your store in many ways (disabling registration, requiring customer approval, restricting access to special customers while allowing guess access to certain pages)
+
+![Magento 2 Store Restriction Backend Demo](http://g.recordit.co/Xr3dYtofnH.gif)
+
+## Features:
+### 1. General
+
+* Upgrade Proof Module(purely event-observer based, no any preferences/rewrites).
+* Compatible with Magento CE 2.X & EE 2.X.
+* Option to enable/disable the functionality as per store.
+* Compatible with Magento 2 Custom Redirect Pro Extension.
+* Essential Module for B2B/B2C, private sale, member only, invite only stores.
+
+### 2. Customer Registration
+* Provides option to disable the customer registration (with an optional custom message).
+* Includes Magento 2 Customer Group Selector / Switcher extension for FREE, which allows customer group selection/automatic group switching from the registration page.
+![Magento 2 Store Restriction Customer Registration](https://www.magepsycho.com/media/catalog/product/3/-/3-m2-backend-registration-settings-disabled.png)
+
+### 3. Customer Activation/Approval
+This feature gives the store owner the ability to approve or reject the new customer account.  
+Since it requires the pre-verification of every new customer, it becomes one of the essentials modules for B2B & B2C.  
+
+Some of the key features:
+* Option to enable/disable the customer approval feature
+* Configurable customer groups that require admin approval
+* Option to auto-approve new customer registration
+* Easier approval management for the admin
+* Notify admin on new customer registration (with configurable email template)
+* Notify customer on his/her account approval or rejection (with configurable email template)
+* Configurable message (html tags supported) & redirection for the non-approved customer
+
+![Magento 2 Store Restriction - Require Customer Approval/Activation - General Setting](https://www.magepsycho.com/media/catalog/product/m/2/m2-srp-registration-settings-customer-approval-enabled-general.png)
+
+![Magento 2 Store Restriction - Require Customer Approval/Activation - Notification Setting](https://www.magepsycho.com/media/catalog/product/m/2/m2-srp-registration-settings-customer-approval-enabled-notification.png)
+
+![Magento 2 Store Restriction - Require Customer Approval/Activation - Admin Management](https://www.magepsycho.com/media/catalog/product/m/2/m2-srp-customer-approval-actions-customer-listing.png)
+
+### 4. Store Restriction
+
+Provides Store Restriction of two types
+1. Non-Restricted
+    * The store is accessible for all the users.
+1. Restricted (Only configured pages accessible)
+    * The store is restricted, requires login to be accessible.
+    * Provides option to select which customer group(s) can access the restricted store.
+    * Provides option to redirect the not allowed user to the custom page(Login, CMS or any custom page) with configured message (html tags supported).
+    * Provides option to allow certain CMS, Category, Product & custom module pages for guest users.
+1. Accessible (Only configured pages/sections restricted) - *coming soon*
+    
+![Restriction Type: Restricted (Only configured pages accessible)](https://www.magepsycho.com/media/catalog/product/6/-/6-m2-backend-restriction-settings-restricted-accessible-general-2.png)
+
+## Installation
+1. Download the extension .zip file and extract the files.
+1. Copy the extension files from src/ folder to the {magento2-root-dir}/
+1. Run the following series of command from SSH console of your server:
+`php bin/magento module:enable MagePsycho_StoreRestrictionPro MagePsycho_GroupSwitcherPro --clear-static-content`
+`php bin/magento setup:upgrade`
+1. Flush the store cache
+`php bin/magento cache:flush`
+1. Go to Admin > Stores > Configuration > MagePsycho > Store Restriction Pro > Configure your settings here...
+
+## Live Demo:
+* [View Frontend Demo](http://m2-store-restriction-pro.mage-expo.com/customer/account/create/)  
+* [View Backend Demo](http://m2-store-restriction-pro.mage-expo.com/admin_m2demo)
+
+## Changelog
+**Version v1.0.6 (2020-04-24)**
+- Added html tag support in custom messages
+
+**Version v1.0.5 (2020-04-15)**
+- Fixed the /customer/account/createPassword bug
+
+**Version v1.0.4 (2020-04-11)**
+- Added Added customer activation/approval feature
+- Changed Refactored the code
+- Added Tested the compatibility with Magento v2.3.4
+
+**Version v1.0.3 (2019-11-12)**
+- Refactored the code
+- Changed Fixed the system configuration tab issue
+- Added Tested the compatibility with Magento v2.3.3
+
+**Version 1.0.2 (2019-05-23)**
+- Fixed redirection issue from homepage
+- Fixed registration disabled case
+- Compatibility tested with Magento v2.3.x
+
+**Version 1.0.0 (2017-06-12)**
+    
+- Initial Release.
+
+### People also search:
+
+- magento 2 restriction
+- magento 2 restriction module
+- magento 2 restriction extension
+- magento 2 restriction extension free
+- magento 2 customer restriction
+- magento 2 customer group restriction
+- magento 2 restrict by customer group
+- magento 2 cms restriction
+- magento 2 page restriction
+- magento 2 product restriction
+- magento 2 category restriction
+- magento 2 restrict category access
+- magento 2 website restriction
+- magento 2 cart restriction
+- magento 2 shipping restriction
+- magento 2 shipment restriction
+- magento 2 payment restriction
+- magento 2 restrict shipping method
+- magento 2 restrict payment method
+- magento 2 restrict cash on delivery
+- magento 2 restrict zip codes
+- magento 2 require customer approval
+- magento 2 customer activation
+- magento 2 approve customer
+- magento 2 b2c extension
+- magento 2 b2b extension
+- magento 2 b2b extension free
+- magento 2 wholesale extension
+- magento 2 call for price
+- magento 2 hide price
+- magento 2 hide product price
+- magento 2 hide product price extension
+- magento 2 hide product price extension free
+- magento 2 hide add to cart
+- magento 2 hide add to cart button
+- magento 2 disable add to cart
+- magento 2 disable add to cart button
+- magento 2 customer group select
+- magento 2 customer group switch
+- magento 2 restricted access
+- magento 2 login only store
+- magento 2 force login
+
+
+### Other FREE Magento 2 Extensions on GitHub
+
+- [Custom Shipping Module for Magento 2](https://github.com/MagePsycho/magento2-custom-shipping)
+- [Magento 2 Easy Template Path Hints](https://github.com/MagePsycho/magento2-easy-template-path-hints)
+- [Magento 2 Storefront Links Manager](https://github.com/MagePsycho/magento2-storefront-links-manager)
+- [Magento 2 Custom Customer Address Attribute](https://github.com/MagePsycho/magento2-custom-customer-address-attribute)
+- [Magento 2 Starter Theme](https://github.com/MagePsycho/magento2-starter-theme)
+- [Magento 2 Bash Script Installer](https://github.com/MagePsycho/magento2-installer-bash-script)
+- [Bash Script: Backup Magento2 Code + Database](https://github.com/MagePsycho/magento2-db-code-backup-bash-script)
+",5,5,2,0,wholesale,"[b2b, b2c, customer-activation, customer-approval, customer-registration, disable-register, disable-registration, ecommerce, magento, magento-extension, magento-module, magento2, magento2-extension, magento2-extension-free, magento2-module, registration, restriction, retail, store, wholesale]",0.0
+5,JarrydLong,wholesale-customers-for-woo,,https://github.com/JarrydLong/wholesale-customers-for-woo,https://api.github.com/repos/wholesale-customers-for-woo/JarrydLong,Allow your WooCommerce to sell wholesale to your WooCommerce customers.,,4,4,2,3,wholesale,"[wholesale, woocommerce, woocommerce-plugin, wordpress, wordpress-plugin]",0.0
+6,kiasarecool,wordpress,,https://github.com/kiasarecool/wordpress,https://api.github.com/repos/wordpress/kiasarecool,custom php + css to woocommerce to make woocommerce work for B2B wholesale non public sales,"Hopefully some of this will help you! Lots of custom changes I made to woocommerce to make my website kcplantfactory.com work for B2B wholesale yet still allow guests to see every page on the site without worry of them placing orders or seeing prices. Google loves that and it has helped tremendously with the SEO.
+
+I always do what I can to avoid using a plugin whenever possible since they are 90% bloatware, 100% definately slow the whole site down and more often than not end up causing some kind of conflict and drive you (or your web dev) insane trying to fix.
+
+Custom fees for any payment plugin should be included with woocommerce by default if you ask me; it is not... but it is easy enough to implement, so here it is :)
+
+Check out the CSS section for help centering things and making those long product names fit etc.
+
+",3,3,1,0,wholesale,"[free, wholesale, wordpress, wordpressplugin]",0.0
+7,KiOui,woocommerce-bulk-variations,,https://github.com/KiOui/woocommerce-bulk-variations,https://api.github.com/repos/woocommerce-bulk-variations/KiOui,A WooCommerce utility to let customers add multiple product variations at once to cart,"# WooCommerce Bulk Variations
+
+A WooCommerce utility to let customers add multiple product variations at once to 
+cart. This might be useful for wholesale stores that are selling products to
+customers where customers should be able to add a lot of products to the cart in
+one go. The plugin adds the possibility to enable a bulk product form for variable
+products.
+
+## Setup
+
+To set up the plugin, first install WooCommerce and then enable this plugin. All
+products will show a ""Bulk variation form settings"" window on the sidebar when
+editing a product on the admin backend. You can decide whether to enable or disable 
+the bulk and single order form of the product page. If you enable the bulk form, 
+you have to also edit the column and row attribute settings. Check the product page
+for the resulting table.
+",3,3,2,0,wholesale,"[ecommerce, wholesale, woocommerce, wordpress]",0.0
+8,Apekshagaonkar,DATA-SCIENCE,,https://github.com/Apekshagaonkar/DATA-SCIENCE,https://api.github.com/repos/DATA-SCIENCE/Apekshagaonkar,Performed data analysis and ml model training on different publicly available datasets .,# Data-Science,1,1,2,0,wholesale,"[data-analysis, data-science, data-visualization, machine-learning, pca, scikitlearn-machine-learning, stock-market, supermarket, supervised-learning, unsupervised-learning, wholesale]",0.0
+9,ajshah7,WholeSale-Management-Netbeans-java-Application,,https://github.com/ajshah7/WholeSale-Management-Netbeans-java-Application,https://api.github.com/repos/WholeSale-Management-Netbeans-java-Application/ajshah7,A java Application on wholesale management using MySql has backend in NetbeansIDE.,"# WholeSale-Management-Netbeans-java-Application
+A java Application on wholesale management using MySql has backend in NetbeansIDE.
+A joint project created for educational purpose with Anushka Bargava.
+
+For MySql table blueprints, go through the insert commands in the code.
+
+for note: If you are using this code for your purpose, please make sure to play with the code and understanding it. Modify the code match your
+expetations.
+",1,1,1,0,wholesale,"[desktop-application, java, netbeans, netbeans-ide, netbeans-project, wholesale]",0.0
+10,tarunthota3,WMS,,https://github.com/tarunthota3/WMS,https://api.github.com/repos/WMS/tarunthota3,An application for wholesale business to computerize their data,"# WMS
+An application for wholesale business to computerize their data management and maximising their sales
+
+
+## Built with
+ - Node
+ - Express
+ - ReactJS
+
+## Available Scripts
+
+In the project directory, you can run:
+
+Client Side: `npm start`
+
+Server Side : `cd server && node ./server.js`
+
+
+
+
+",1,1,2,18,wholesale,"[business, react, wholesale]",0.0
+11,abdelhamidkaram,ddq-wholesale,,https://github.com/abdelhamidkaram/ddq-wholesale,https://api.github.com/repos/ddq-wholesale/abdelhamidkaram,The Wholesale Pricing and Multiple Price Categories plugin is a powerful extension for your WordPress website that allows store owners to offer wholesale pricing to their customers,"# DDQ-Wholesale Pricing and Multiple Price Categories Plugin
+
+## Description
+
+The Wholesale Pricing and Multiple Price Categories plugin is a powerful extension for your WordPress website that allows store owners to offer wholesale pricing to their customers. With this plugin, you can set up different price categories based on quantities, allowing you to offer tiered pricing for bulk purchases.
+
+## Features
+
+- **Wholesale Pricing**: Set up discounted pricing for wholesale customers based on quantity.
+- **Multiple Price Categories**: Create multiple price categories to accommodate different customer segments or pricing tiers.
+- **Flexible Quantity Ranges**: Define custom quantity ranges and corresponding prices for each price category.
+- **Easy Configuration**: Configure the plugin settings easily from the WordPress admin area.
+- **Seamless Integration**: The plugin integrates smoothly with your existing WooCommerce setup.
+
+## Installation
+
+1. Download the plugin zip file from the GitHub repository.
+2. Extract the downloaded file.
+3. Copy the extracted folder to the `wp-content/plugins/` directory of your WordPress installation.
+4. Activate the plugin from the Plugins page in your WordPress admin dashboard.
+
+## Usage
+
+1. Configure the plugin settings by navigating to the plugin settings page in your WordPress admin dashboard.
+2. Create price categories and define the quantity ranges and prices for each category.
+3. Assign the appropriate price category to each product based on your pricing structure.
+4. The plugin will automatically adjust the prices based on the quantity selected by the customer in the frontend.
+
+## Support
+
+For any issues or questions regarding the Wholesale Pricing and Multiple Price Categories plugin, please [contact our support team](mailto:contact@abdelhamid.dev).
+
+## Contributing
+
+We welcome contributions to improve the Wholesale Pricing and Multiple Price Categories plugin. If you have any suggestions, bug reports, or code enhancements, please submit a pull request on our GitHub repository.
+
+## License
+
+The Wholesale Pricing and Multiple Price Categories plugin is released under the [GPL-2.0 License](LICENSE).
+",1,1,1,0,wholesale,"[wholesale, woocommer, woocommerce, woocommerce-extension, woocommerce-plugin, wordpress, wordpress-development, wordpress-plugin]",0.0
+12,dgluesen,wrangling-sales-workload,,https://github.com/dgluesen/wrangling-sales-workload,https://api.github.com/repos/wrangling-sales-workload/dgluesen,"Raw data of real analytical use cases in a number of industries and companies are frequently provided in an Excel-based form. These files usually cannot be processed directly in machine learning models, but must first be cleaned and preprocessed. In this process, many different types of pitfalls may occur. This makes data preprocessing an essential time factor in the daily work of a data scientist. In this concise project an Excel spreadsheet will be presented which in this form is closely oriented to a real case, but contains only simulated figures for reasons of data and business results protection. However, the form and structure of the file corresponds to a real case and could be encountered by a data scientist in a company in this way.",,1,1,2,0,wholesale,"[cleansing, human-resources, preprocessing, python, python3, realworld, retail, retail-data, seaborn, wholesale, wrangling]",0.0
+13,burtonlueth,webPrices,,https://github.com/burtonlueth/webPrices,https://api.github.com/repos/webPrices/burtonlueth,webPrices: Scrape pricing with rvest and the tidyverse,"# webPrices
+webPrices: Tools to scrape prices with rvest and the tidyverse
+
+webPrices is a set of tools for harvesting pricing from online. It has two main goals:
+
+ 1. Effectively extract price information and other relevant product details from web stores;
+ 2. Do so in a tidy format.
+
+-   Install it from github
+
+``` r
+if (packageVersion(""devtools"") < 1.6) {
+  install.packages(""devtools"")
+    }
+devtools::install_github(""burtonlueth/webPrices"")
+```
+
+The package is designed as part of an overall pricing strategy for a b2b distribution company. To summarize the overall
+strategy, we intend to connect prices to public market pricing to better reflect customers' willingness-to-pay. 
+Our theory is this approach will outperform the traditional aggregated market segmentation model.
+
+webPrices is designed to provide tools for scraping prices from a several of online market places with a focus on wire, electrical and lighting goods, and keeping consistent formatting so that the data may be aggregated. 
+
+The first set of functions that comprise the package are to be used to extract pricing and product data from home depot.com
+
+A brief example of a workflow is shown below. The function hd_tidy_scrape() returns an object ```d``` in the global
+environment and it's a list of tibbles.
+
+``` r
+main <- ""http://www.homedepot.com/b/Electrical-Dimmers-Switches-Outlets/N-5yc1vZc34h""
+pages <- hd_build_multi_page_links(main)
+prods <- purrr::map(pages, hd_get_product_links)
+prods <- prods %>% unlist %>% hd_add_main_url
+hd_tidy_scrape(prods)
+df <- reduce(d, rbind)
+```
+Or a more concise way to accomplish the same results:
+
+``` r
+main <- ""http://www.homedepot.com/b/Electrical-Dimmers-Switches-Outlets/N-5yc1vZc34h""
+df <- hd_catalog_scrape(main)
+```
+
+Happy pricing!
+",0,0,1,0,wholesale,"[b2b, distribution, extract-pricing, price, pricing, rvest, scrape-prices, scraper, scraping-websites, strategy, tidyverse, wholesale]",0.0
+14,robertofernandezmartinez,businesscase-sql-wholesaler-public,,https://github.com/robertofernandezmartinez/businesscase-sql-wholesaler-public,https://api.github.com/repos/businesscase-sql-wholesaler-public/robertofernandezmartinez,Business case (SQL): Revenue optimization for a multinational wholesaler,"# Business case - SQL - Revenue optimization for a multinational wholesaler
+
+
+## *(This is only a public readme. Project files are private: you must request access: https://www.linkedin.com/in/robertofernandezmartinez/)*
+
+
+The General Manager of a multinational wholesaler decided to start exploiting data in order to **improve revenue**.
+
+The project was divided in 6 weekly sprints. I reported our analysis to each member of the steering committee, every week.
+
+Database tables
+- **Ventas** (Sales)
+- **Clientes** (Clients): clients are *stores*
+- **Productos** (Products)
+- **Canales** (Channels)
+
+I used SQL and business analytics techniques:
+
+- **Data cleaning and preparation**
+- **Entity Relationship optimization**
+- **Margin growth**
+- **Portfolio analysis**
+- **Customer segmentation**
+- **Customer Development Potential**
+- **Customer reactivation**
+- **Recommendation engine**
+- **Other specific business queries**
+
+Steering committee and responsibilities:
+
+- **Strategy Director**: Project coordination
+- **CIO**: Ease data access. Help in data quality inquieres and issues.
+- **CMO**: Increase revenue. Develop advanced solutions.
+- **COO**: Reduce costs. Increase margin.
+- **CSO**: Client management optimization. International expansion.
+",0,0,1,0,wholesale,"[customer-development, customer-segmentation, data-analysis, data-analytics, data-cleaning, data-types, entity-relationship-diagram, margin, mysql, portfolio-optimization, profit-and-loss, revenue, sql, variable-selection, variables, wholesale]",0.0
+15,bomzj,house-fresh,,https://github.com/bomzj/house-fresh,https://api.github.com/repos/house-fresh/bomzj,House Fresh is an ecommerce platform that specializes in wholesale and small-scale wholesale deliveries of fresh and frozen food products.,"# House Fresh - Wholesale Ecommerce Project
+
+## Description
+
+House Fresh is an ecommerce platform that specializes in wholesale and small-scale wholesale deliveries of fresh and frozen food products. Our range of products includes sandwiches, baked goods, cakes, and salads, all produced in-house. In addition to our online platform, we also operate a home-style buffet cafe called ""Lunch Buffet,"" offering delivery of wholesome, complete meals to offices for corporate catering.
+
+![house-fresh](https://github.com/bomzj/house-fresh/assets/2025775/8bb93865-75fb-4efe-bd6e-4418a59e260c)
+
+## Features
+
+- Wholesale and small-scale wholesale deliveries of our own food products
+- Extensive selection of ready-made products available in bulk:
+  - Fresh and frozen bread, baguettes, ciabatta
+  - Baguette-based sandwiches
+  - Bread for sandwiches and hot dogs
+  - Baked goods, pastries, croissants, muffins
+  - Delicious cakes and cake jars
+  - Fresh salads
+  - Hot wholesale meals for cafes, coffee shops, bistros, canteens, restaurants, schools, medical facilities, business centers, and offices
+- Customized production of wholesale products:
+  - Cakes
+  - Baked goods
+  - Baguette sandwiches
+  - Sandwiches and more
+
+## Services
+
+- Individual menu customization
+- Corporate catering services
+- Daily menu updates for lunch
+- Extensive selection of items:
+  - Salads
+  - Soups
+  - Hot dishes
+  - Side dishes
+  - Beverages
+  - Baked goods
+- Free delivery of meals to offices and homes
+- Cafeteria and cafe services
+- Catering services
+- Affordable prices
+",0,0,1,0,wholesale,"[ecommerce, shopping-cart, wholesale]",0.0
+16,ezwelty,bcf-website,,https://github.com/ezwelty/bcf-website,https://api.github.com/repos/bcf-website/ezwelty,Website for Boulder Cooperative Food,"# Boulder Cooperative Food (BCF) website
+
+Website is published automatically using GitHub Pages to https://ezwelty.github.io/bcf-website.
+",0,0,2,0,wholesale,"[bulk, cooperative, food, organic-agriculture, website, wholesale]",0.0
+17,LiveRamp,akp_wholesale_pipelines,LiveRamp,https://github.com/LiveRamp/akp_wholesale_pipelines,https://api.github.com/repos/akp_wholesale_pipelines/LiveRamp,AKP and Wholesale DataFlow Pipelines,"# akp_wholesale_pipelines
+AKP and Wholesale DataFlow Pipelines
+",0,0,3,3,wholesale,"[akp, wholesale]",0.0
+18,alessiamonfardino22,WholeFoods,,https://github.com/alessiamonfardino22/WholeFoods,https://api.github.com/repos/WholeFoods/alessiamonfardino22,SQL analysis to determine whether the amount of badges increases the price of products,"# SQL/DataBase : WholeFoods
+<br>
+
+Companies can use AI to collect insightful data and navigation habits directly from consumers and use it for marketing purposes.
+Adding badges not only allows businesses to improve users’ interface but also enhances the understanding of customers’ preferences to drive sales and increase profits (Seranmadevi R. &
+Felisiya M., 2019). Whole Foods is taking advantage of the use of badges to engage clients and guide them through their shopping experience.
+This analysis aims at answering the quesion: Does the amount of badges increase price?
+To acquire this insight, I created and analyzed a DataBase on SQL with all the products sold on a specific date on the company's e-commerce. 
+",0,0,1,0,wholesale,"[badges, database, price-tracker, retail, sql, wholefoods, wholesale]",0.0
+19,HealthSource-Distributors-LLC,healthsource,HealthSource-Distributors-LLC,https://github.com/HealthSource-Distributors-LLC/healthsource,https://api.github.com/repos/healthsource/HealthSource-Distributors-LLC,Development of ideas for HealthSource Distributors.,"# healthsource
+Development of ideas for HealthSource Distributors.
+",0,0,1,0,wholesale,"[distribution, pharmaceutical-products, wholesale]",0.0
+20,SchillingEnterprises,Schilling-Interiors,SchillingEnterprises,https://github.com/SchillingEnterprises/Schilling-Interiors,https://api.github.com/repos/Schilling-Interiors/SchillingEnterprises,,,0,0,2,0,wholesale,"[retail, wholesale]",0.0
+21,ShmuelisData,Wholesale-Data-Analysis-Project,,https://github.com/ShmuelisData/Wholesale-Data-Analysis-Project,https://api.github.com/repos/Wholesale-Data-Analysis-Project/ShmuelisData,Wholesale Data Analytics Insights,"# Wholesale Project- By Ohad Shmueli
+Wholesale Data Analytics Insights
+
+**Data Analytics Insights for a Wholesale UK Online Retailer**
+**Introduction**: This data analytics project focuses on a transactional dataset from a registered UK online retail business specializing in unique gifts for global shops.
+The dataset covers transactions between 1st December 2010 and 9th December 2011.
+The primary objective of the project was to analyze sales trends, customer behavior, and product information to bring out actionable insights for enhancing business activities and sales performance.
+Data Collection and Preprocessing: The dataset, obtained from Kaggle.com, contained over 500K rows (activities) and was initially in .xls format.
+The data cleaning process involved removing duplicate records and handling null values.
+Afterward, the data was imported into an SQL database, where unnecessary blank fields were eliminated.
+
+**Data Analysis and Key Findings:**
+**1.	Revenue Growth:** Over the observed period, the company experienced a significant increase in revenue, with a total of $220k more in 2011 compared to 2010.
+This represents a noteworthy growth rate of 2.31% year on year. Identifying the factors contributing to this growth can help replicate successful strategies in the future.
+
+**2.	Average Sales Value:** The average sale value in 2010 was $457, while in 2011, it rose to $479.5, indicating a positive growth of 5.4% in the average transaction value.
+
+**3.	Seasonal Sales Trends:** Analysis revealed a consistent seasonal trend, with the last quarter of each year (September to December) showing the highest sales volume.
+This pattern was observed both in 2010 and 2011, suggesting the importance of focusing marketing efforts during these months.
+Understanding the seasonality of sales can assist in aligning marketing efforts and inventory management, ensuring optimal utilization of resources during peak demand periods.
+
+**4.	Top Selling Products:** Six out of the ten most popular products remained consistent between 2010 and 2011.
+Additionally, four new products entered the list of top-selling items in 2011. Understanding the performance of these products can aid in optimizing inventory and marketing strategies.
+This information can guide inventory management and marketing strategies to focus on high-demand items.
+
+**5.	Gross Profit Analysis:** Visualizing the gross profit of different products through a bar graph can provide insights into which products contribute significantly to the overall profitability of the business.
+
+**6.	Customer Behavior:** Analyzing customer buying habits revealed that only two out of the top customers increased their spending from the previous year.
+On the contrary, the remaining top customers showed decreased purchases.
+Understanding customer preferences and identifying the reasons behind the decline in sales can help in retaining and re-engaging these high-value customers.
+
+**Limitations:**
+**1.	Data Quality:** The accuracy of insights heavily relies on the quality of the dataset.
+Potential data inaccuracies or missing information could have affected the analysis and findings.
+
+**2.	Limited Time Frame:** The dataset covers only Two years, which might not capture long-term trends and behaviors.
+Analyzing data over multiple years could provide a more comprehensive perspective.
+
+**3.	Customer Segmentation:** The analysis did not consider customer segmentation, which could reveal deeper insights into various customer groups' preferences and behaviors.
+
+**Conclusions:** The data analytics project successfully uncovered valuable insights into the wholesale UK online retail business.
+
+**Key findings include revenue growth, seasonal sales patterns, top-selling products, and customer behavior.** 
+Utilizing these insights can empower the business to make data-driven decisions, optimize operations, and enhance customer satisfaction.
+
+**Impact and Applications:** The project's impact lies in its potential to drive business improvements.
+By leveraging the insights gained, the company can:
+**1.	Enhance Revenue:** Understanding sales trends and customer preferences can lead to targeted marketing efforts, resulting in increased revenue.
+
+**2.	Inventory Optimization:** Identifying top-selling products and seasonal demand patterns allows for better inventory management, reducing holding costs and stockouts.
+
+**3.	Customer Retention:** Addressing declining sales among top customers can lead to improved customer loyalty and retention.
+
+**4.	Marketing Strategy:** Tailoring marketing campaigns based on the performance of products and seasonal trends can lead to more effective and efficient marketing efforts.
+
+**Personal Reflection:** Undertaking this data analytics project was an insightful and rewarding experience.
+It provided the opportunity to delve into real-world data and reveal meaningful insights to support business decision-making.
+The project reinforced the importance of data cleaning and preparation in ensuring the accuracy and reliability of the analysis.
+Moreover, working with a large dataset and employing SQL and Excel for data analysis deepened my understanding of data manipulation and visualization techniques.
+It also highlighted the significance of translating technical findings into actionable business recommendations.
+Overall, the project has fueled my passion for data analytics and its potential to drive positive change in various domains.
+I am eager to continue exploring and applying data-driven approaches to solve complex problems and contribute to the success of organizations.
+",0,0,1,0,wholesale,"[wholesale, wholesale-lending-project, wholesale-review]",0.0
+22,MONEI,Shopify-api-node,MONEI,https://github.com/MONEI/Shopify-api-node,https://api.github.com/repos/Shopify-api-node/MONEI,Node Shopify connector sponsored by MONEI,,908,908,23,28,wholesaler,"[ecommerce, javascript, monei, node, node-module, nodejs, polaris, pricing-rules, shopify, shopify-api, wholesaler]",0.0
+23,ravicosoftltd,FreePOS,ravicosoftltd,https://github.com/ravicosoftltd/FreePOS,https://api.github.com/repos/FreePOS/ravicosoftltd,"Window based open source Point of sales built with c#, wpf and mysql","# FreePOS - Point Of Sales
+Point of Sales software for retailers, whole salers, products seller, service sellers, groccers, restaurents, barber shops and any kind of business 
+Window based open source Point of Sales software, built with c#, wpf and mysql.
+
+
+## Installation
+
+Install mysql database, then download the [freepos installer](https://github.com/ravicosoftltd/FreePOS/releases/latest/download/FreePOS.Setup.msi) and run
+
+### Features
+
+* All standard features for Point of sales
+* Inventory
+* Accounting
+* Customers and Vendors Ledger
+* Multiple users
+* Invoice printing
+* Reporting
+* Send Branded SMS from software
+* No Data limits
+* Easy to learn and use
+* C# WPF and MySql based latest stack
+* 100% free and open source
+* And much more
+
+### Some Sreenshots
+
+![login](screenshots/1-login.png)
+![dashboard](screenshots/2-dashboard.png)
+![sale window](screenshots/3-sale.png)
+![ledered sales](screenshots/3-salelegered.png)
+![ledered sales](screenshots/3-salelist.png)
+![product add](screenshots/4-productadd.png)
+![product list](screenshots/4-productlist.png)
+![product report](screenshots/4-productreport.png)
+![user add](screenshots/5-personadd.png)
+![user list](screenshots/5-personlist.png)
+![transactions](screenshots/6-transactions.png)
+![user list](screenshots/7-setting.png)
+![user list](screenshots/7-settingdatabase.png)
+
+### Requirements
+* .Net framework 4.8
+* Mysql >= 5.6
+
+## Contributing / Reporting issues
+We are looking for contributors to take part
+
+Create pull request or raise issues and start contributing.
+
+## License
+
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+More information is available at [freepos.pk](https://freepos.pk).
+",17,17,3,4,wholesaler,"[desktop-application, mysql, point-of-sale, pointofsales, pos, retailer, shops, wholesaler, wpf]",0.0
+24,mcareexport123,RAJA-HASAN,,https://github.com/mcareexport123/RAJA-HASAN,https://api.github.com/repos/RAJA-HASAN/mcareexport123,"M Care exports is well established leading third party pharmaceutical, Stockist, Exporter, Supplier, Wholesaler from india. Mcare Exports operating from last 17 years. We are supplier of qualitative pharmaceuticals products to the clients all over the world. We are approved by FDA and drug controller in india. Our Products are based on Branded Generic Pharmaceutical formulations. Mcare offers Medicines Online from India at Lowest Price, We are India’s leading pharmaceutical wholesaler, distributors, Life saving Drugs Exporter of Branded Generic Medicines. Mcare exports is Top third party manufacturing company in India, deals in Pharma exports business in India & Pharma products exported from India.","# RAJA-HASAN
+M Care exports is well established leading third party pharmaceutical, Stockist, Exporter, Supplier, Wholesaler from india. Mcare Exports operating from last 17 years. We are supplier of qualitative pharmaceuticals products to the clients all over the world. We are approved by FDA and drug controller in india. Our Products are based on Branded Generic Pharmaceutical formulations. Mcare offers Medicines Online from India at Lowest Price, We are India’s leading pharmaceutical wholesaler, distributors, Life saving Drugs Exporter of Branded Generic Medicines. Mcare exports is Top third party manufacturing company in India, deals in Pharma exports business in India &amp; Pharma products exported from India.
+",0,0,1,0,wholesaler,"[export, pharmaceuticals, pharmacy, stockist-inventory-management, supplier, wholesaler]",0.0
+25,dumidu1998,thoga.lk,,https://github.com/dumidu1998/thoga.lk,https://api.github.com/repos/thoga.lk/dumidu1998,Repo for the 2nd year group project Thoga.lk,"# Thoga.lk
+
+Repo for the 2nd year group project Thoga.lk  
+
+The main goal of this system is to make a connection between buyers and farmers to reduce their
+transport costs and give farmers a better price.
+As thoga.lk we try to uplift agro-industry in Sri Lanka and restoring it to the glorious state by
+facilitating and helping the traditional farmer through technology and transforming them to much
+more efficient, modern farmers. 
+
+
+## HTML, CSS, JS  and PHP
+
+
+",0,0,2,8,wholesaler,"[farmers, hacktoberfest, hacktoberfest2021, wholesaler]",0.0
+26,hangthpham,wholesale_management_database,,https://github.com/hangthpham/wholesale_management_database,https://api.github.com/repos/wholesale_management_database/hangthpham,Wholesale Management Database ,"# Database Project: Wholesale Management Database
+## Inspiration
+I used to work for a company based in Atlanta, GA. This company is a wholesaler of furniture and spa chairs. Since this was a small company, I had opportunities to be exposed to different functional departments and learnt a lot on the job. I was more specialized in operations and inventory management system so most of my work was collaborating with Sales department, warehouse supervisors and purchasing department. 
+During my time there, although they have other approaches to store the data, there was no consolidated database for all employees to access to. To resolve their problem, I developed a database on Google Drive (Google Sheets) to make it accessible for anyone from anywhere at any time. The project was one of my biggest accomplishments in that job that I’m still proud of until today. 
+That valuable experience inspired me to work on this personal project - wholesale management database where I utilize MySQL to build a consolidated and user-friendly database for internal use.
+
+## Project's Goal
+When it comes to information system, we cannot eliminate human error since the data entry process is required no matter how advance the system is. We know that the fewer steps human is involved in, the lesser errors they can make. That being said, my goal in this project is to mitigate human errors and simplifying the data entry process. 
+The idea to make this goal achievable is to use Triggers and Stored Procedures. Triggers are utilized to ensure that all the inputs are valid and contributed meaningfully to the database. Whereas Stored Procedures are optimized to minimize efforts and time by automated insert/update statements. Block of codes in each Stored Procedure can update/insert rows in associated tables accordingly.
+
+## Methodology
+MySQL Workbench 8.0
+
+## Table of Content
+* ERR Diagram
+* Tables: All tables in the database
+* List of Procedures and Triggers
+* Procedures: To add new employee, supplier, customer, product/inventory
+* Sales Order procedure: To add new order 
+* Purchasing Order procedure: To add new purchasing_order
+* Resolved accounts_check: To ensure accounts is resolved correctly
+* Sample data: Insert sample data using procedures
+
+
+",0,0,1,0,wholesaler,"[database-design, wholesaler]",0.0
+27,maciej-nowak,IS-Lexer-Parser-Gramma,,https://github.com/maciej-nowak/IS-Lexer-Parser-Gramma,https://api.github.com/repos/IS-Lexer-Parser-Gramma/maciej-nowak,Lexical and syntax gramma analysis app in example of wholesaler of sports clothing. Created at the University as the project within Intelligent Systems classes in 2016. The purpose of this project was to learn lexical and syntax gramma in PLY (Python Lex-Yacc).,"# IS-Lexer-Parser-Gramma
+Lexical and syntax gramma analysis app in example of wholesaler of sports clothing. Created at the University as the project within Intelligent Systems classes in 2016. The purpose of this project was to learn lexical and syntax gramma in PLY (Python Lex-Yacc).
+
+## App
+The football club orders from the wholesaler sports clothes for the club changing room. Order refers to a T-shirt, match shirts and shorts in different sizes and also in two different colors: blue and red. The program is designed to collect a full order as a compilation of various variants. This application is an example of show the scheme of building the program in PLY. App uses polish language. For see full details go to [documents](documents).
+
+### Screenshots
+Screenshots examples of orders and clothes states.
+
+<img src=""screenshots/result1.png"" width=""250""> <img src=""screenshots/result2.png"" width=""250""> <img src=""screenshots/result3.png"" width=""250"">
+
+## PLY
+PLY is a Python language library that allows to build parsers and compilers. PLY is based on the well-known Lex and Yacc libraries for language C - however, it is implemented from scratch in Python. PLY Library divided into two components LEX and YACC. 
+
+### LEX
+LEX serves for lexical analysis. With the help of LEX, a set of tokens of language and expressions regular is build. Selected tokens are extended by functions.
+
+### YACC
+YACC serves for syntactic analysis. With the help of YACC, sets of rules for language is build, the order can be determine and also rules can be extended with additional logic.
+
+## Issues
+In the processing of natural language the programmer has the task of deriving computer rules so that I can analyze, translate or generate a natural language understandable to a human being. The essence of this issue is usually issuing ordinary commands to computer in natural language.
+
+## Gramma
+Grammar is a method that describes acceptable sequences of words
+to the lexicon.
+
+### Lexicon
+{trzy, troje, siedem, jedna, chlopcow, druzyny, pilek, pilka malych, duze, wielka, niebieska, owalna}
+
+### Examples of acceptable sequences
+- trzy duze druzyny
+- troje malych chlopcow
+- siedem malych pilek
+- jedna wielka niebieska owalna piłka
+
+### Examples of unacceptable sequences
+- trzy
+- troje chlopcow malych
+- siedem malych duzych pilek
+- jedna wielka pilek
+
+## Formal gramma
+Grammar is a set of rules for text strings in formal language. Rules describe how to create text strings from the language alphabet in such a way that they are consistent with the language syntax. Grammar does not describe meaning string of text, but only its form.
+
+### Formula
+G = <N, V, P, S>
+N - collection of non-terminal symbols (auxiliary symbols)
+V - set of terminal symbols (lexicon words)
+P - collection of language production (grammar rules)
+S - start symbol (one of the non-terminal symbols)
+
+### Gramma example
+Grammar G = <N, V, P, S>
+- Collection of non-terminal symbols N = {cmd, art, color, size, number, shape, kind}
+- Collection of terminal symbols V = {trzy, troje, siedem, chlopcow, druzyny, pilek, pilka, malych, duze,wielka, niebieska, owalna}
+- Starting symbol S = cmd
+- The collection of language production P =  
+{  
+	cmd: (number, art),  
+	art: (size, color, shape, kind),  
+	number: (""trzy"", ""troje"", ""jedna"", ""siedem""),  
+	size: (""malych"", ""duze"", ""wielka""),  
+	color: (""niebieska""),  
+	shape: (""owalna""),  
+	kind: (""chlopcow"", ""druzyny"", ""pilek"", ""pilka"")  
+}
+
+## Lexical analysis
+Lexical analysis consists in dividing the text into tokens, and then assigning each of them from the lexicon. The program that performs this analysis it is called lexer (e.g.: LEX).
+
+### Lexical analysis examples
+IN: troje malych chlopcow  
+OUT: troje: NUMBER, malych: SIZE, chlopcow: KIND  
+  
+IN: jedna wielka niebieska owalna pilka  
+OUT: jedna: NUMBER, wielka: SIZE, niebieska: COLOR, owalna: SHAPE, pilka: KIND  
+
+## Syntax analysis
+The syntax analysis checks whether the input meets the grammar rules. In case of correctness, may return the series of actions taken. The program that this analysis is called a parser (eg: YACC).
+
+### Syntax analysis examples
+IN: jedna:SIZE owalna:SHAPE niebieska:COLOR wielka:SIZE pilka:KIND  
+OUT: Failure  
+  
+IN: jedna:NUMBER wielka:SIZE niebieska:COLOR owalna:SHAPE pilka:KIND
+OUT: Success. Action: Save into local database. Action: Send data to server.
+",0,0,3,0,wholesaler,"[intelligent-systems, lex, lexical-analysis, natural-language, ply, python-lex-yacc, syntax-analysis, syntax-gramma, terminal-symbols, university, wholesaler, yacc]",0.0
+28,ahmetonurslmz,PulsesWholesaler,,https://github.com/ahmetonurslmz/PulsesWholesaler,https://api.github.com/repos/PulsesWholesaler/ahmetonurslmz,"Pulses Wholesaler App - Manage Pulse Stock, Add Sale Records.","# PulsesWholesaler
+
+Migration directory includes create table queries, default insertion and procedures to keep them in backuped.
+
+",0,0,2,0,wholesaler,"[csharp, wholesaler, wholesaler-management]",0.0
+30,Koxpit,DataBaseOP,,https://github.com/Koxpit/DataBaseOP,https://api.github.com/repos/DataBaseOP/Koxpit,Приложение для управления предприятием оптовой торговли,,0,0,2,0,wholesaler-management,"[ado-net, wholesaler-management, windows-forms]",0.0
+31,alexgaudiosi,Multify,,https://github.com/alexgaudiosi/Multify,https://api.github.com/repos/Multify/alexgaudiosi,Ideal for Shopify wholesalers to allow users to order multiple variants of a product simultaneously using one form table.,"# Multify
+
+Multify allows your clients to preemptively see stock levels for all variants of a product, and order multiple quantities of each one simultaneously with a single Add To Cart click. Perfect for wholesale Shopify sites handling bulk orders.
+
+![Multift Image](/assets/multify-table.png)
+
+**NOTE:** This repository still a work in progress, the functionalty is there but I currently can't guarentee it will work instantly if you copy/paste the contents into your project, I'm working to make everything more dynamic, then do a few test runs - but it's very likely you'll need to do some tweaking to get it attuned to your store. Currently uses British spelling of 'Colour', update as needed.
+
+---
+
+### How it works
+
+As you can only add a single variant in a given call to the Shopify API, Multify will queue up your orders and fire off each cart addition in succession, it even has a max range set on the variant dropdown to stop over ordering based on its stock level, and greying out sold out items.
+
+---
+
+### How to use
+
+1. Create a new snippet called `multify.liquid` in your snippets folder and paste the contents of `snippets/multify.liquid` in it. The default variant titles are 'Colour' and 'Size', take note of the British spelling and change these so as to match your backend.
+
+2. In your `product.liquid` file, find the opening `<form>` tag, and remove it, then place an `{% include 'multify.liquid' %}` in its place.
+
+3. Still in your `product.liquid`, insert the contents of `multify.js.liquid` before the closing body tag.
+
+4. Give it a test run, and you should see the products fire off to the Shopify API in the console, on completion the table should reset all values to 0. 
+
+---
+
+**NOTE:** I haven't implemented to the functionality to update the max quantity selectors, as the stock isn't updated on the backend until an order is placed, it would get too sticky to try work out the new max ranges, but feel free to have a go.",8,8,2,0,shopify-wholesalers,"[liquid, order-multiple-variants, shopify, shopify-wholesalers, stock-levels, variants]",0.0
+tusharnankani,Swadeshi,,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
+![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
+
+### Problem Statement (*TSEC Codestorm - Hackathon'20*)
+- Implement a Web Based solution through which farmers can participate in a commodity exchange market. The solution should explain the process involved and the benefits of commodity exchange to the user.
+- The purpose of such an exchange is to provide a centralized marketplace where commodity producers can sell their commodities to those who want to use them for manufacturing or consumption.
+- The solution should enable farmers to create independent accounts and interact with dealers to avail the best profits and deals.
+
+## Tech Stack
+- Frontend
+	- HTML5
+	- CSS3
+	- Vanilla JavaScript
+
+- Backend
+	- Node.js (Express.js)
+
+- Database
+	- MongoDB
+
+### For the Live Demo, click [here](https://tusharnankani.github.io/Swadeshi/).
+
+- The live demo replicates the behavior of the site without the need for a real server. Instead, there is a mock server that is implemented in client side JavaScript, using `localStorage` as the database.
+- Please refer to [`frontend/mock-server.js`](frontend/mock-server.js) if you are curious about how the mock server is implemented.  
+- To get a better understanding of how the site works, please open the developer console (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>).  
+  The live demo logs a lot of details like network requests, responses and messages to the browser console.
+- The database can be inspected directly from the console by typing `Database.tables`.  
+  When the page is unloaded, the database is saved to `localStorage` with the key `database`. You can access this with `localStorage.database`.
+- Since this is just a prototype, there isn't any real OTP integration.  
+  If you run the server locally, then the OTP will be generated and logged to the server output.  
+  If you view the live demo then the OTP will be displayed as an alert and also logged to the browser console.
+
+## Logo
+* The *wheat* represents *farmer's pride*, and green around the wheat represents the *Indian fields.*
+<img src = ""frontend/logo.svg"" alt = ""Logo of a bushel of wheat, in a green circle"" width = ""128"" height = ""128"" />
+
+## Landing page flow
+- Unified landing page loads.
+- Do **GET** `/user`
+	- If successful, go to respective dashboard.
+- Wait for user to enter valid phone, and press next.
+- Do **POST** `/otp` body: `{phoneNumber}`
+	- If post is unsuccessful, then we have bigger problems.
+- (*) Wait for user to enter valid OTP, and press next.
+- Do **POST** `/authenticate` body: `{phoneNumber, otp}`
+	- If post is successful, do **GET** `/user`
+		- If user is found then go to respective dashboard.
+		- Else user does not exist, goto signup.
+- Inform user that OTP is wrong, goto (*)
+
+## Project Structure
+
+```
+frontend
+ ┣ contact
+ ┃ ┣ index.html
+ ┃ ┗ translation.js
+ ┣ farmer
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ signup
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ videos
+ ┃ ┣ farmer.mp4
+ ┃ ┗ wholesaler.mp4
+ ┣ wholesaler
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ background.svg
+ ┣ index.html
+ ┣ logo.svg
+ ┣ mock-server.js
+ ┣ script.js
+ ┣ style.css
+ ┣ translation.js
+ ┗ util.js
+```
+
+
+## Local Setup
+- Clone repository.
+- Setup MongoDB, either locally, in a Docker container or on the cloud.
+- Edit the MongoDB server Url in `/server/server.js`.
+- Run `npm install` and `npm start` in the `/server` folder.
+- Go to `https://localhost:5000` in your web browser.
+
+
+# *Website Demo*
+### Swadeshi
+#### Clean and simple UI.
+
+![0](https://user-images.githubusercontent.com/61280281/86548601-a71ed900-bf5a-11ea-8d31-2070803e1115.png)
+
+### Implemented Hindi and English, Font+ and Font- features for accesibilities.
+
+![1](https://user-images.githubusercontent.com/61280281/86548607-ab4af680-bf5a-11ea-8088-c1fb6920affc.png)
+
+### Simple Sign Up: Mobile - OTP authentication (*no need for e-mail or password*)
+
+## *SECURITY*: 
+* Mobile - OTP verification
+	* OTP is valid for 5 minutes from issue time
+	* Blind checking of OTP
+* Unified auth & identity token.
+	* Token is stored as a cookie on the client side
+	* Token valid for 2 days
+	* Every privileged request is authenticated on the server side
+	* Client side cookie is set to expire after 2 days
+
+![2](https://user-images.githubusercontent.com/61280281/86548624-bbfb6c80-bf5a-11ea-92d6-b62202ece254.png)
+
+## *Farmer's Portal*: 
+* Minimized the number of buttons and pages for accesibility for the farmer.
+* Everything on one page.
+* Simple add and remove icon.
+
+![3](https://user-images.githubusercontent.com/61280281/86548628-bef65d00-bf5a-11ea-8705-221f173032dd.png)
+
+### Simple add item page: Farmer can add quantity orginally with him and *price per unit item*.
+
+![4](https://user-images.githubusercontent.com/61280281/86548630-c0278a00-bf5a-11ea-9ef8-462fe8a65af7.png)
+
+![5](https://user-images.githubusercontent.com/61280281/86548636-c289e400-bf5a-11ea-8fed-45689bf76d6a.png)
+
+### Initially, the original added quantity is set to available quantity. As quantity is sold, the available quantity is updated, helping farmer keep track of what he added initially to the Farmer's Portal 
+
+![6](https://user-images.githubusercontent.com/61280281/86548641-c4ec3e00-bf5a-11ea-9058-d6a4e25e9892.png)
+
+## *Wholesaler's Portal*: 
+
+![7](https://user-images.githubusercontent.com/61280281/86548644-c7e72e80-bf5a-11ea-9e2b-9623a855af30.png)
+
+### Simple search bar to search product by category or item.
+
+![8](https://user-images.githubusercontent.com/61280281/86548648-cb7ab580-bf5a-11ea-88b4-4cd8a4cfdffb.png)
+
+
+![9](https://user-images.githubusercontent.com/61280281/86548652-cf0e3c80-bf5a-11ea-99eb-80d6e0b4701d.png)
+
+### Simply selecting the item, and ordering directly the required quantity. It will be added to *Ordered Items* for Wholesalers, and *Open Orders* for Farmers.
+
+![10](https://user-images.githubusercontent.com/61280281/86548657-d46b8700-bf5a-11ea-84a3-0fc5b3dfd806.png)
+
+### Simply, pressing the tick icon, if the order is delivered, the wholesaler can update it for himself and the farmers. 
+
+![11](https://user-images.githubusercontent.com/61280281/86548665-da616800-bf5a-11ea-9b33-a22c2c2a1ba8.png)
+
+### Both the Farmer's and the Wholesaler's numbers will be provided on the portals and how the transactions will take place can be discussed over call, according to one's convenience.
+
+# *Contact Page* - Simple and User-friendly:
+* **24 X 7 Helpline Service Center**
+* **[Videos](https://github.com/tusharnankani/Swadeshi/tree/master/frontend/videos) in Hindi explaining working of site to help both, the farmers and the wholesalers.**
+* **Added FAQs, in Hindi and English**
+
+![12](https://user-images.githubusercontent.com/61280281/86548673-e1887600-bf5a-11ea-9fca-7104ec9d52f4.png)
+![13](https://user-images.githubusercontent.com/61280281/86548675-e3523980-bf5a-11ea-87bf-feaf419a03c7.png)
+![14](https://user-images.githubusercontent.com/61280281/86548678-e3ead000-bf5a-11ea-8ee2-63145bfcaec7.png)
+
+
+# *Authors*
+* Harsh Kapadia (HarshKapadia2, harshgkapadia@gmail.com)
+	- [LinkedIn](http://www.linkedin.com/in/harsh-kapadia-426999175)
+* Kartik Soneji (KartikSoneji, kartiksoneji@rocketmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
+* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000,
+tusharnankani,Swadeshi,N/A,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
+![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
+
+### Problem Statement (*TSEC Codestorm - Hackathon'20*)
+- Implement a Web Based solution through which farmers can participate in a commodity exchange market. The solution should explain the process involved and the benefits of commodity exchange to the user.
+- The purpose of such an exchange is to provide a centralized marketplace where commodity producers can sell their commodities to those who want to use them for manufacturing or consumption.
+- The solution should enable farmers to create independent accounts and interact with dealers to avail the best profits and deals.
+
+## Tech Stack
+- Frontend
+	- HTML5
+	- CSS3
+	- Vanilla JavaScript
+
+- Backend
+	- Node.js (Express.js)
+
+- Database
+	- MongoDB
+
+### For the Live Demo, click [here](https://tusharnankani.github.io/Swadeshi/).
+
+- The live demo replicates the behavior of the site without the need for a real server. Instead, there is a mock server that is implemented in client side JavaScript, using `localStorage` as the database.
+- Please refer to [`frontend/mock-server.js`](frontend/mock-server.js) if you are curious about how the mock server is implemented.  
+- To get a better understanding of how the site works, please open the developer console (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>).  
+  The live demo logs a lot of details like network requests, responses and messages to the browser console.
+- The database can be inspected directly from the console by typing `Database.tables`.  
+  When the page is unloaded, the database is saved to `localStorage` with the key `database`. You can access this with `localStorage.database`.
+- Since this is just a prototype, there isn't any real OTP integration.  
+  If you run the server locally, then the OTP will be generated and logged to the server output.  
+  If you view the live demo then the OTP will be displayed as an alert and also logged to the browser console.
+
+## Logo
+* The *wheat* represents *farmer's pride*, and green around the wheat represents the *Indian fields.*
+<img src = ""frontend/logo.svg"" alt = ""Logo of a bushel of wheat, in a green circle"" width = ""128"" height = ""128"" />
+
+## Landing page flow
+- Unified landing page loads.
+- Do **GET** `/user`
+	- If successful, go to respective dashboard.
+- Wait for user to enter valid phone, and press next.
+- Do **POST** `/otp` body: `{phoneNumber}`
+	- If post is unsuccessful, then we have bigger problems.
+- (*) Wait for user to enter valid OTP, and press next.
+- Do **POST** `/authenticate` body: `{phoneNumber, otp}`
+	- If post is successful, do **GET** `/user`
+		- If user is found then go to respective dashboard.
+		- Else user does not exist, goto signup.
+- Inform user that OTP is wrong, goto (*)
+
+## Project Structure
+
+```
+frontend
+ ┣ contact
+ ┃ ┣ index.html
+ ┃ ┗ translation.js
+ ┣ farmer
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ signup
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ videos
+ ┃ ┣ farmer.mp4
+ ┃ ┗ wholesaler.mp4
+ ┣ wholesaler
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ background.svg
+ ┣ index.html
+ ┣ logo.svg
+ ┣ mock-server.js
+ ┣ script.js
+ ┣ style.css
+ ┣ translation.js
+ ┗ util.js
+```
+
+
+## Local Setup
+- Clone repository.
+- Setup MongoDB, either locally, in a Docker container or on the cloud.
+- Edit the MongoDB server Url in `/server/server.js`.
+- Run `npm install` and `npm start` in the `/server` folder.
+- Go to `https://localhost:5000` in your web browser.
+
+
+# *Website Demo*
+### Swadeshi
+#### Clean and simple UI.
+
+![0](https://user-images.githubusercontent.com/61280281/86548601-a71ed900-bf5a-11ea-8d31-2070803e1115.png)
+
+### Implemented Hindi and English, Font+ and Font- features for accesibilities.
+
+![1](https://user-images.githubusercontent.com/61280281/86548607-ab4af680-bf5a-11ea-8088-c1fb6920affc.png)
+
+### Simple Sign Up: Mobile - OTP authentication (*no need for e-mail or password*)
+
+## *SECURITY*: 
+* Mobile - OTP verification
+	* OTP is valid for 5 minutes from issue time
+	* Blind checking of OTP
+* Unified auth & identity token.
+	* Token is stored as a cookie on the client side
+	* Token valid for 2 days
+	* Every privileged request is authenticated on the server side
+	* Client side cookie is set to expire after 2 days
+
+![2](https://user-images.githubusercontent.com/61280281/86548624-bbfb6c80-bf5a-11ea-92d6-b62202ece254.png)
+
+## *Farmer's Portal*: 
+* Minimized the number of buttons and pages for accesibility for the farmer.
+* Everything on one page.
+* Simple add and remove icon.
+
+![3](https://user-images.githubusercontent.com/61280281/86548628-bef65d00-bf5a-11ea-8705-221f173032dd.png)
+
+### Simple add item page: Farmer can add quantity orginally with him and *price per unit item*.
+
+![4](https://user-images.githubusercontent.com/61280281/86548630-c0278a00-bf5a-11ea-9ef8-462fe8a65af7.png)
+
+![5](https://user-images.githubusercontent.com/61280281/86548636-c289e400-bf5a-11ea-8fed-45689bf76d6a.png)
+
+### Initially, the original added quantity is set to available quantity. As quantity is sold, the available quantity is updated, helping farmer keep track of what he added initially to the Farmer's Portal 
+
+![6](https://user-images.githubusercontent.com/61280281/86548641-c4ec3e00-bf5a-11ea-9058-d6a4e25e9892.png)
+
+## *Wholesaler's Portal*: 
+
+![7](https://user-images.githubusercontent.com/61280281/86548644-c7e72e80-bf5a-11ea-9e2b-9623a855af30.png)
+
+### Simple search bar to search product by category or item.
+
+![8](https://user-images.githubusercontent.com/61280281/86548648-cb7ab580-bf5a-11ea-88b4-4cd8a4cfdffb.png)
+
+
+![9](https://user-images.githubusercontent.com/61280281/86548652-cf0e3c80-bf5a-11ea-99eb-80d6e0b4701d.png)
+
+### Simply selecting the item, and ordering directly the required quantity. It will be added to *Ordered Items* for Wholesalers, and *Open Orders* for Farmers.
+
+![10](https://user-images.githubusercontent.com/61280281/86548657-d46b8700-bf5a-11ea-84a3-0fc5b3dfd806.png)
+
+### Simply, pressing the tick icon, if the order is delivered, the wholesaler can update it for himself and the farmers. 
+
+![11](https://user-images.githubusercontent.com/61280281/86548665-da616800-bf5a-11ea-9b33-a22c2c2a1ba8.png)
+
+### Both the Farmer's and the Wholesaler's numbers will be provided on the portals and how the transactions will take place can be discussed over call, according to one's convenience.
+
+# *Contact Page* - Simple and User-friendly:
+* **24 X 7 Helpline Service Center**
+* **[Videos](https://github.com/tusharnankani/Swadeshi/tree/master/frontend/videos) in Hindi explaining working of site to help both, the farmers and the wholesalers.**
+* **Added FAQs, in Hindi and English**
+
+![12](https://user-images.githubusercontent.com/61280281/86548673-e1887600-bf5a-11ea-9fca-7104ec9d52f4.png)
+![13](https://user-images.githubusercontent.com/61280281/86548675-e3523980-bf5a-11ea-87bf-feaf419a03c7.png)
+![14](https://user-images.githubusercontent.com/61280281/86548678-e3ead000-bf5a-11ea-8ee2-63145bfcaec7.png)
+
+
+# *Authors*
+* Harsh Kapadia (HarshKapadia2, harshgkapadia@gmail.com)
+	- [LinkedIn](http://www.linkedin.com/in/harsh-kapadia-426999175)
+* Kartik Soneji (KartikSoneji, kartiksoneji@rocketmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
+* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000
+tusharnankani,Swadeshi,N/A,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
+![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
+
+### Problem Statement (*TSEC Codestorm - Hackathon'20*)
+- Implement a Web Based solution through which farmers can participate in a commodity exchange market. The solution should explain the process involved and the benefits of commodity exchange to the user.
+- The purpose of such an exchange is to provide a centralized marketplace where commodity producers can sell their commodities to those who want to use them for manufacturing or consumption.
+- The solution should enable farmers to create independent accounts and interact with dealers to avail the best profits and deals.
+
+## Tech Stack
+- Frontend
+	- HTML5
+	- CSS3
+	- Vanilla JavaScript
+
+- Backend
+	- Node.js (Express.js)
+
+- Database
+	- MongoDB
+
+### For the Live Demo, click [here](https://tusharnankani.github.io/Swadeshi/).
+
+- The live demo replicates the behavior of the site without the need for a real server. Instead, there is a mock server that is implemented in client side JavaScript, using `localStorage` as the database.
+- Please refer to [`frontend/mock-server.js`](frontend/mock-server.js) if you are curious about how the mock server is implemented.  
+- To get a better understanding of how the site works, please open the developer console (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>).  
+  The live demo logs a lot of details like network requests, responses and messages to the browser console.
+- The database can be inspected directly from the console by typing `Database.tables`.  
+  When the page is unloaded, the database is saved to `localStorage` with the key `database`. You can access this with `localStorage.database`.
+- Since this is just a prototype, there isn't any real OTP integration.  
+  If you run the server locally, then the OTP will be generated and logged to the server output.  
+  If you view the live demo then the OTP will be displayed as an alert and also logged to the browser console.
+
+## Logo
+* The *wheat* represents *farmer's pride*, and green around the wheat represents the *Indian fields.*
+<img src = ""frontend/logo.svg"" alt = ""Logo of a bushel of wheat, in a green circle"" width = ""128"" height = ""128"" />
+
+## Landing page flow
+- Unified landing page loads.
+- Do **GET** `/user`
+	- If successful, go to respective dashboard.
+- Wait for user to enter valid phone, and press next.
+- Do **POST** `/otp` body: `{phoneNumber}`
+	- If post is unsuccessful, then we have bigger problems.
+- (*) Wait for user to enter valid OTP, and press next.
+- Do **POST** `/authenticate` body: `{phoneNumber, otp}`
+	- If post is successful, do **GET** `/user`
+		- If user is found then go to respective dashboard.
+		- Else user does not exist, goto signup.
+- Inform user that OTP is wrong, goto (*)
+
+## Project Structure
+
+```
+frontend
+ ┣ contact
+ ┃ ┣ index.html
+ ┃ ┗ translation.js
+ ┣ farmer
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ signup
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ videos
+ ┃ ┣ farmer.mp4
+ ┃ ┗ wholesaler.mp4
+ ┣ wholesaler
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ background.svg
+ ┣ index.html
+ ┣ logo.svg
+ ┣ mock-server.js
+ ┣ script.js
+ ┣ style.css
+ ┣ translation.js
+ ┗ util.js
+```
+
+
+## Local Setup
+- Clone repository.
+- Setup MongoDB, either locally, in a Docker container or on the cloud.
+- Edit the MongoDB server Url in `/server/server.js`.
+- Run `npm install` and `npm start` in the `/server` folder.
+- Go to `https://localhost:5000` in your web browser.
+
+
+# *Website Demo*
+### Swadeshi
+#### Clean and simple UI.
+
+![0](https://user-images.githubusercontent.com/61280281/86548601-a71ed900-bf5a-11ea-8d31-2070803e1115.png)
+
+### Implemented Hindi and English, Font+ and Font- features for accesibilities.
+
+![1](https://user-images.githubusercontent.com/61280281/86548607-ab4af680-bf5a-11ea-8088-c1fb6920affc.png)
+
+### Simple Sign Up: Mobile - OTP authentication (*no need for e-mail or password*)
+
+## *SECURITY*: 
+* Mobile - OTP verification
+	* OTP is valid for 5 minutes from issue time
+	* Blind checking of OTP
+* Unified auth & identity token.
+	* Token is stored as a cookie on the client side
+	* Token valid for 2 days
+	* Every privileged request is authenticated on the server side
+	* Client side cookie is set to expire after 2 days
+
+![2](https://user-images.githubusercontent.com/61280281/86548624-bbfb6c80-bf5a-11ea-92d6-b62202ece254.png)
+
+## *Farmer's Portal*: 
+* Minimized the number of buttons and pages for accesibility for the farmer.
+* Everything on one page.
+* Simple add and remove icon.
+
+![3](https://user-images.githubusercontent.com/61280281/86548628-bef65d00-bf5a-11ea-8705-221f173032dd.png)
+
+### Simple add item page: Farmer can add quantity orginally with him and *price per unit item*.
+
+![4](https://user-images.githubusercontent.com/61280281/86548630-c0278a00-bf5a-11ea-9ef8-462fe8a65af7.png)
+
+![5](https://user-images.githubusercontent.com/61280281/86548636-c289e400-bf5a-11ea-8fed-45689bf76d6a.png)
+
+### Initially, the original added quantity is set to available quantity. As quantity is sold, the available quantity is updated, helping farmer keep track of what he added initially to the Farmer's Portal 
+
+![6](https://user-images.githubusercontent.com/61280281/86548641-c4ec3e00-bf5a-11ea-9058-d6a4e25e9892.png)
+
+## *Wholesaler's Portal*: 
+
+![7](https://user-images.githubusercontent.com/61280281/86548644-c7e72e80-bf5a-11ea-9e2b-9623a855af30.png)
+
+### Simple search bar to search product by category or item.
+
+![8](https://user-images.githubusercontent.com/61280281/86548648-cb7ab580-bf5a-11ea-88b4-4cd8a4cfdffb.png)
+
+
+![9](https://user-images.githubusercontent.com/61280281/86548652-cf0e3c80-bf5a-11ea-99eb-80d6e0b4701d.png)
+
+### Simply selecting the item, and ordering directly the required quantity. It will be added to *Ordered Items* for Wholesalers, and *Open Orders* for Farmers.
+
+![10](https://user-images.githubusercontent.com/61280281/86548657-d46b8700-bf5a-11ea-84a3-0fc5b3dfd806.png)
+
+### Simply, pressing the tick icon, if the order is delivered, the wholesaler can update it for himself and the farmers. 
+
+![11](https://user-images.githubusercontent.com/61280281/86548665-da616800-bf5a-11ea-9b33-a22c2c2a1ba8.png)
+
+### Both the Farmer's and the Wholesaler's numbers will be provided on the portals and how the transactions will take place can be discussed over call, according to one's convenience.
+
+# *Contact Page* - Simple and User-friendly:
+* **24 X 7 Helpline Service Center**
+* **[Videos](https://github.com/tusharnankani/Swadeshi/tree/master/frontend/videos) in Hindi explaining working of site to help both, the farmers and the wholesalers.**
+* **Added FAQs, in Hindi and English**
+
+![12](https://user-images.githubusercontent.com/61280281/86548673-e1887600-bf5a-11ea-9fca-7104ec9d52f4.png)
+![13](https://user-images.githubusercontent.com/61280281/86548675-e3523980-bf5a-11ea-87bf-feaf419a03c7.png)
+![14](https://user-images.githubusercontent.com/61280281/86548678-e3ead000-bf5a-11ea-8ee2-63145bfcaec7.png)
+
+
+# *Authors*
+* Harsh Kapadia (HarshKapadia2, harshgkapadia@gmail.com)
+	- [LinkedIn](http://www.linkedin.com/in/harsh-kapadia-426999175)
+* Kartik Soneji (KartikSoneji, kartiksoneji@rocketmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
+* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000
+tusharnankani,Swadeshi,N/A,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
+![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
+
+### Problem Statement (*TSEC Codestorm - Hackathon'20*)
+- Implement a Web Based solution through which farmers can participate in a commodity exchange market. The solution should explain the process involved and the benefits of commodity exchange to the user.
+- The purpose of such an exchange is to provide a centralized marketplace where commodity producers can sell their commodities to those who want to use them for manufacturing or consumption.
+- The solution should enable farmers to create independent accounts and interact with dealers to avail the best profits and deals.
+
+## Tech Stack
+- Frontend
+	- HTML5
+	- CSS3
+	- Vanilla JavaScript
+
+- Backend
+	- Node.js (Express.js)
+
+- Database
+	- MongoDB
+
+### For the Live Demo, click [here](https://tusharnankani.github.io/Swadeshi/).
+
+- The live demo replicates the behavior of the site without the need for a real server. Instead, there is a mock server that is implemented in client side JavaScript, using `localStorage` as the database.
+- Please refer to [`frontend/mock-server.js`](frontend/mock-server.js) if you are curious about how the mock server is implemented.  
+- To get a better understanding of how the site works, please open the developer console (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>).  
+  The live demo logs a lot of details like network requests, responses and messages to the browser console.
+- The database can be inspected directly from the console by typing `Database.tables`.  
+  When the page is unloaded, the database is saved to `localStorage` with the key `database`. You can access this with `localStorage.database`.
+- Since this is just a prototype, there isn't any real OTP integration.  
+  If you run the server locally, then the OTP will be generated and logged to the server output.  
+  If you view the live demo then the OTP will be displayed as an alert and also logged to the browser console.
+
+## Logo
+* The *wheat* represents *farmer's pride*, and green around the wheat represents the *Indian fields.*
+<img src = ""frontend/logo.svg"" alt = ""Logo of a bushel of wheat, in a green circle"" width = ""128"" height = ""128"" />
+
+## Landing page flow
+- Unified landing page loads.
+- Do **GET** `/user`
+	- If successful, go to respective dashboard.
+- Wait for user to enter valid phone, and press next.
+- Do **POST** `/otp` body: `{phoneNumber}`
+	- If post is unsuccessful, then we have bigger problems.
+- (*) Wait for user to enter valid OTP, and press next.
+- Do **POST** `/authenticate` body: `{phoneNumber, otp}`
+	- If post is successful, do **GET** `/user`
+		- If user is found then go to respective dashboard.
+		- Else user does not exist, goto signup.
+- Inform user that OTP is wrong, goto (*)
+
+## Project Structure
+
+```
+frontend
+ ┣ contact
+ ┃ ┣ index.html
+ ┃ ┗ translation.js
+ ┣ farmer
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ signup
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ videos
+ ┃ ┣ farmer.mp4
+ ┃ ┗ wholesaler.mp4
+ ┣ wholesaler
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ background.svg
+ ┣ index.html
+ ┣ logo.svg
+ ┣ mock-server.js
+ ┣ script.js
+ ┣ style.css
+ ┣ translation.js
+ ┗ util.js
+```
+
+
+## Local Setup
+- Clone repository.
+- Setup MongoDB, either locally, in a Docker container or on the cloud.
+- Edit the MongoDB server Url in `/server/server.js`.
+- Run `npm install` and `npm start` in the `/server` folder.
+- Go to `https://localhost:5000` in your web browser.
+
+
+# *Website Demo*
+### Swadeshi
+#### Clean and simple UI.
+
+![0](https://user-images.githubusercontent.com/61280281/86548601-a71ed900-bf5a-11ea-8d31-2070803e1115.png)
+
+### Implemented Hindi and English, Font+ and Font- features for accesibilities.
+
+![1](https://user-images.githubusercontent.com/61280281/86548607-ab4af680-bf5a-11ea-8088-c1fb6920affc.png)
+
+### Simple Sign Up: Mobile - OTP authentication (*no need for e-mail or password*)
+
+## *SECURITY*: 
+* Mobile - OTP verification
+	* OTP is valid for 5 minutes from issue time
+	* Blind checking of OTP
+* Unified auth & identity token.
+	* Token is stored as a cookie on the client side
+	* Token valid for 2 days
+	* Every privileged request is authenticated on the server side
+	* Client side cookie is set to expire after 2 days
+
+![2](https://user-images.githubusercontent.com/61280281/86548624-bbfb6c80-bf5a-11ea-92d6-b62202ece254.png)
+
+## *Farmer's Portal*: 
+* Minimized the number of buttons and pages for accesibility for the farmer.
+* Everything on one page.
+* Simple add and remove icon.
+
+![3](https://user-images.githubusercontent.com/61280281/86548628-bef65d00-bf5a-11ea-8705-221f173032dd.png)
+
+### Simple add item page: Farmer can add quantity orginally with him and *price per unit item*.
+
+![4](https://user-images.githubusercontent.com/61280281/86548630-c0278a00-bf5a-11ea-9ef8-462fe8a65af7.png)
+
+![5](https://user-images.githubusercontent.com/61280281/86548636-c289e400-bf5a-11ea-8fed-45689bf76d6a.png)
+
+### Initially, the original added quantity is set to available quantity. As quantity is sold, the available quantity is updated, helping farmer keep track of what he added initially to the Farmer's Portal 
+
+![6](https://user-images.githubusercontent.com/61280281/86548641-c4ec3e00-bf5a-11ea-9058-d6a4e25e9892.png)
+
+## *Wholesaler's Portal*: 
+
+![7](https://user-images.githubusercontent.com/61280281/86548644-c7e72e80-bf5a-11ea-9e2b-9623a855af30.png)
+
+### Simple search bar to search product by category or item.
+
+![8](https://user-images.githubusercontent.com/61280281/86548648-cb7ab580-bf5a-11ea-88b4-4cd8a4cfdffb.png)
+
+
+![9](https://user-images.githubusercontent.com/61280281/86548652-cf0e3c80-bf5a-11ea-99eb-80d6e0b4701d.png)
+
+### Simply selecting the item, and ordering directly the required quantity. It will be added to *Ordered Items* for Wholesalers, and *Open Orders* for Farmers.
+
+![10](https://user-images.githubusercontent.com/61280281/86548657-d46b8700-bf5a-11ea-84a3-0fc5b3dfd806.png)
+
+### Simply, pressing the tick icon, if the order is delivered, the wholesaler can update it for himself and the farmers. 
+
+![11](https://user-images.githubusercontent.com/61280281/86548665-da616800-bf5a-11ea-9b33-a22c2c2a1ba8.png)
+
+### Both the Farmer's and the Wholesaler's numbers will be provided on the portals and how the transactions will take place can be discussed over call, according to one's convenience.
+
+# *Contact Page* - Simple and User-friendly:
+* **24 X 7 Helpline Service Center**
+* **[Videos](https://github.com/tusharnankani/Swadeshi/tree/master/frontend/videos) in Hindi explaining working of site to help both, the farmers and the wholesalers.**
+* **Added FAQs, in Hindi and English**
+
+![12](https://user-images.githubusercontent.com/61280281/86548673-e1887600-bf5a-11ea-9fca-7104ec9d52f4.png)
+![13](https://user-images.githubusercontent.com/61280281/86548675-e3523980-bf5a-11ea-87bf-feaf419a03c7.png)
+![14](https://user-images.githubusercontent.com/61280281/86548678-e3ead000-bf5a-11ea-8ee2-63145bfcaec7.png)
+
+
+# *Authors*
+* Harsh Kapadia (HarshKapadia2, harshgkapadia@gmail.com)
+	- [LinkedIn](http://www.linkedin.com/in/harsh-kapadia-426999175)
+* Kartik Soneji (KartikSoneji, kartiksoneji@rocketmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
+* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000
+tusharnankani,Swadeshi,N/A,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
+![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
+
+### Problem Statement (*TSEC Codestorm - Hackathon'20*)
+- Implement a Web Based solution through which farmers can participate in a commodity exchange market. The solution should explain the process involved and the benefits of commodity exchange to the user.
+- The purpose of such an exchange is to provide a centralized marketplace where commodity producers can sell their commodities to those who want to use them for manufacturing or consumption.
+- The solution should enable farmers to create independent accounts and interact with dealers to avail the best profits and deals.
+
+## Tech Stack
+- Frontend
+	- HTML5
+	- CSS3
+	- Vanilla JavaScript
+
+- Backend
+	- Node.js (Express.js)
+
+- Database
+	- MongoDB
+
+### For the Live Demo, click [here](https://tusharnankani.github.io/Swadeshi/).
+
+- The live demo replicates the behavior of the site without the need for a real server. Instead, there is a mock server that is implemented in client side JavaScript, using `localStorage` as the database.
+- Please refer to [`frontend/mock-server.js`](frontend/mock-server.js) if you are curious about how the mock server is implemented.  
+- To get a better understanding of how the site works, please open the developer console (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>).  
+  The live demo logs a lot of details like network requests, responses and messages to the browser console.
+- The database can be inspected directly from the console by typing `Database.tables`.  
+  When the page is unloaded, the database is saved to `localStorage` with the key `database`. You can access this with `localStorage.database`.
+- Since this is just a prototype, there isn't any real OTP integration.  
+  If you run the server locally, then the OTP will be generated and logged to the server output.  
+  If you view the live demo then the OTP will be displayed as an alert and also logged to the browser console.
+
+## Logo
+* The *wheat* represents *farmer's pride*, and green around the wheat represents the *Indian fields.*
+<img src = ""frontend/logo.svg"" alt = ""Logo of a bushel of wheat, in a green circle"" width = ""128"" height = ""128"" />
+
+## Landing page flow
+- Unified landing page loads.
+- Do **GET** `/user`
+	- If successful, go to respective dashboard.
+- Wait for user to enter valid phone, and press next.
+- Do **POST** `/otp` body: `{phoneNumber}`
+	- If post is unsuccessful, then we have bigger problems.
+- (*) Wait for user to enter valid OTP, and press next.
+- Do **POST** `/authenticate` body: `{phoneNumber, otp}`
+	- If post is successful, do **GET** `/user`
+		- If user is found then go to respective dashboard.
+		- Else user does not exist, goto signup.
+- Inform user that OTP is wrong, goto (*)
+
+## Project Structure
+
+```
+frontend
+ ┣ contact
+ ┃ ┣ index.html
+ ┃ ┗ translation.js
+ ┣ farmer
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ signup
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ videos
+ ┃ ┣ farmer.mp4
+ ┃ ┗ wholesaler.mp4
+ ┣ wholesaler
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ background.svg
+ ┣ index.html
+ ┣ logo.svg
+ ┣ mock-server.js
+ ┣ script.js
+ ┣ style.css
+ ┣ translation.js
+ ┗ util.js
+```
+
+
+## Local Setup
+- Clone repository.
+- Setup MongoDB, either locally, in a Docker container or on the cloud.
+- Edit the MongoDB server Url in `/server/server.js`.
+- Run `npm install` and `npm start` in the `/server` folder.
+- Go to `https://localhost:5000` in your web browser.
+
+
+# *Website Demo*
+### Swadeshi
+#### Clean and simple UI.
+
+![0](https://user-images.githubusercontent.com/61280281/86548601-a71ed900-bf5a-11ea-8d31-2070803e1115.png)
+
+### Implemented Hindi and English, Font+ and Font- features for accesibilities.
+
+![1](https://user-images.githubusercontent.com/61280281/86548607-ab4af680-bf5a-11ea-8088-c1fb6920affc.png)
+
+### Simple Sign Up: Mobile - OTP authentication (*no need for e-mail or password*)
+
+## *SECURITY*: 
+* Mobile - OTP verification
+	* OTP is valid for 5 minutes from issue time
+	* Blind checking of OTP
+* Unified auth & identity token.
+	* Token is stored as a cookie on the client side
+	* Token valid for 2 days
+	* Every privileged request is authenticated on the server side
+	* Client side cookie is set to expire after 2 days
+
+![2](https://user-images.githubusercontent.com/61280281/86548624-bbfb6c80-bf5a-11ea-92d6-b62202ece254.png)
+
+## *Farmer's Portal*: 
+* Minimized the number of buttons and pages for accesibility for the farmer.
+* Everything on one page.
+* Simple add and remove icon.
+
+![3](https://user-images.githubusercontent.com/61280281/86548628-bef65d00-bf5a-11ea-8705-221f173032dd.png)
+
+### Simple add item page: Farmer can add quantity orginally with him and *price per unit item*.
+
+![4](https://user-images.githubusercontent.com/61280281/86548630-c0278a00-bf5a-11ea-9ef8-462fe8a65af7.png)
+
+![5](https://user-images.githubusercontent.com/61280281/86548636-c289e400-bf5a-11ea-8fed-45689bf76d6a.png)
+
+### Initially, the original added quantity is set to available quantity. As quantity is sold, the available quantity is updated, helping farmer keep track of what he added initially to the Farmer's Portal 
+
+![6](https://user-images.githubusercontent.com/61280281/86548641-c4ec3e00-bf5a-11ea-9058-d6a4e25e9892.png)
+
+## *Wholesaler's Portal*: 
+
+![7](https://user-images.githubusercontent.com/61280281/86548644-c7e72e80-bf5a-11ea-9e2b-9623a855af30.png)
+
+### Simple search bar to search product by category or item.
+
+![8](https://user-images.githubusercontent.com/61280281/86548648-cb7ab580-bf5a-11ea-88b4-4cd8a4cfdffb.png)
+
+
+![9](https://user-images.githubusercontent.com/61280281/86548652-cf0e3c80-bf5a-11ea-99eb-80d6e0b4701d.png)
+
+### Simply selecting the item, and ordering directly the required quantity. It will be added to *Ordered Items* for Wholesalers, and *Open Orders* for Farmers.
+
+![10](https://user-images.githubusercontent.com/61280281/86548657-d46b8700-bf5a-11ea-84a3-0fc5b3dfd806.png)
+
+### Simply, pressing the tick icon, if the order is delivered, the wholesaler can update it for himself and the farmers. 
+
+![11](https://user-images.githubusercontent.com/61280281/86548665-da616800-bf5a-11ea-9b33-a22c2c2a1ba8.png)
+
+### Both the Farmer's and the Wholesaler's numbers will be provided on the portals and how the transactions will take place can be discussed over call, according to one's convenience.
+
+# *Contact Page* - Simple and User-friendly:
+* **24 X 7 Helpline Service Center**
+* **[Videos](https://github.com/tusharnankani/Swadeshi/tree/master/frontend/videos) in Hindi explaining working of site to help both, the farmers and the wholesalers.**
+* **Added FAQs, in Hindi and English**
+
+![12](https://user-images.githubusercontent.com/61280281/86548673-e1887600-bf5a-11ea-9fca-7104ec9d52f4.png)
+![13](https://user-images.githubusercontent.com/61280281/86548675-e3523980-bf5a-11ea-87bf-feaf419a03c7.png)
+![14](https://user-images.githubusercontent.com/61280281/86548678-e3ead000-bf5a-11ea-8ee2-63145bfcaec7.png)
+
+
+# *Authors*
+* Harsh Kapadia (HarshKapadia2, harshgkapadia@gmail.com)
+	- [LinkedIn](http://www.linkedin.com/in/harsh-kapadia-426999175)
+* Kartik Soneji (KartikSoneji, kartiksoneji@rocketmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
+* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000
+tusharnankani,Swadeshi,N/A,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
+![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
+
+### Problem Statement (*TSEC Codestorm - Hackathon'20*)
+- Implement a Web Based solution through which farmers can participate in a commodity exchange market. The solution should explain the process involved and the benefits of commodity exchange to the user.
+- The purpose of such an exchange is to provide a centralized marketplace where commodity producers can sell their commodities to those who want to use them for manufacturing or consumption.
+- The solution should enable farmers to create independent accounts and interact with dealers to avail the best profits and deals.
+
+## Tech Stack
+- Frontend
+	- HTML5
+	- CSS3
+	- Vanilla JavaScript
+
+- Backend
+	- Node.js (Express.js)
+
+- Database
+	- MongoDB
+
+### For the Live Demo, click [here](https://tusharnankani.github.io/Swadeshi/).
+
+- The live demo replicates the behavior of the site without the need for a real server. Instead, there is a mock server that is implemented in client side JavaScript, using `localStorage` as the database.
+- Please refer to [`frontend/mock-server.js`](frontend/mock-server.js) if you are curious about how the mock server is implemented.  
+- To get a better understanding of how the site works, please open the developer console (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>).  
+  The live demo logs a lot of details like network requests, responses and messages to the browser console.
+- The database can be inspected directly from the console by typing `Database.tables`.  
+  When the page is unloaded, the database is saved to `localStorage` with the key `database`. You can access this with `localStorage.database`.
+- Since this is just a prototype, there isn't any real OTP integration.  
+  If you run the server locally, then the OTP will be generated and logged to the server output.  
+  If you view the live demo then the OTP will be displayed as an alert and also logged to the browser console.
+
+## Logo
+* The *wheat* represents *farmer's pride*, and green around the wheat represents the *Indian fields.*
+<img src = ""frontend/logo.svg"" alt = ""Logo of a bushel of wheat, in a green circle"" width = ""128"" height = ""128"" />
+
+## Landing page flow
+- Unified landing page loads.
+- Do **GET** `/user`
+	- If successful, go to respective dashboard.
+- Wait for user to enter valid phone, and press next.
+- Do **POST** `/otp` body: `{phoneNumber}`
+	- If post is unsuccessful, then we have bigger problems.
+- (*) Wait for user to enter valid OTP, and press next.
+- Do **POST** `/authenticate` body: `{phoneNumber, otp}`
+	- If post is successful, do **GET** `/user`
+		- If user is found then go to respective dashboard.
+		- Else user does not exist, goto signup.
+- Inform user that OTP is wrong, goto (*)
+
+## Project Structure
+
+```
+frontend
+ ┣ contact
+ ┃ ┣ index.html
+ ┃ ┗ translation.js
+ ┣ farmer
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ signup
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ videos
+ ┃ ┣ farmer.mp4
+ ┃ ┗ wholesaler.mp4
+ ┣ wholesaler
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ background.svg
+ ┣ index.html
+ ┣ logo.svg
+ ┣ mock-server.js
+ ┣ script.js
+ ┣ style.css
+ ┣ translation.js
+ ┗ util.js
+```
+
+
+## Local Setup
+- Clone repository.
+- Setup MongoDB, either locally, in a Docker container or on the cloud.
+- Edit the MongoDB server Url in `/server/server.js`.
+- Run `npm install` and `npm start` in the `/server` folder.
+- Go to `https://localhost:5000` in your web browser.
+
+
+# *Website Demo*
+### Swadeshi
+#### Clean and simple UI.
+
+![0](https://user-images.githubusercontent.com/61280281/86548601-a71ed900-bf5a-11ea-8d31-2070803e1115.png)
+
+### Implemented Hindi and English, Font+ and Font- features for accesibilities.
+
+![1](https://user-images.githubusercontent.com/61280281/86548607-ab4af680-bf5a-11ea-8088-c1fb6920affc.png)
+
+### Simple Sign Up: Mobile - OTP authentication (*no need for e-mail or password*)
+
+## *SECURITY*: 
+* Mobile - OTP verification
+	* OTP is valid for 5 minutes from issue time
+	* Blind checking of OTP
+* Unified auth & identity token.
+	* Token is stored as a cookie on the client side
+	* Token valid for 2 days
+	* Every privileged request is authenticated on the server side
+	* Client side cookie is set to expire after 2 days
+
+![2](https://user-images.githubusercontent.com/61280281/86548624-bbfb6c80-bf5a-11ea-92d6-b62202ece254.png)
+
+## *Farmer's Portal*: 
+* Minimized the number of buttons and pages for accesibility for the farmer.
+* Everything on one page.
+* Simple add and remove icon.
+
+![3](https://user-images.githubusercontent.com/61280281/86548628-bef65d00-bf5a-11ea-8705-221f173032dd.png)
+
+### Simple add item page: Farmer can add quantity orginally with him and *price per unit item*.
+
+![4](https://user-images.githubusercontent.com/61280281/86548630-c0278a00-bf5a-11ea-9ef8-462fe8a65af7.png)
+
+![5](https://user-images.githubusercontent.com/61280281/86548636-c289e400-bf5a-11ea-8fed-45689bf76d6a.png)
+
+### Initially, the original added quantity is set to available quantity. As quantity is sold, the available quantity is updated, helping farmer keep track of what he added initially to the Farmer's Portal 
+
+![6](https://user-images.githubusercontent.com/61280281/86548641-c4ec3e00-bf5a-11ea-9058-d6a4e25e9892.png)
+
+## *Wholesaler's Portal*: 
+
+![7](https://user-images.githubusercontent.com/61280281/86548644-c7e72e80-bf5a-11ea-9e2b-9623a855af30.png)
+
+### Simple search bar to search product by category or item.
+
+![8](https://user-images.githubusercontent.com/61280281/86548648-cb7ab580-bf5a-11ea-88b4-4cd8a4cfdffb.png)
+
+
+![9](https://user-images.githubusercontent.com/61280281/86548652-cf0e3c80-bf5a-11ea-99eb-80d6e0b4701d.png)
+
+### Simply selecting the item, and ordering directly the required quantity. It will be added to *Ordered Items* for Wholesalers, and *Open Orders* for Farmers.
+
+![10](https://user-images.githubusercontent.com/61280281/86548657-d46b8700-bf5a-11ea-84a3-0fc5b3dfd806.png)
+
+### Simply, pressing the tick icon, if the order is delivered, the wholesaler can update it for himself and the farmers. 
+
+![11](https://user-images.githubusercontent.com/61280281/86548665-da616800-bf5a-11ea-9b33-a22c2c2a1ba8.png)
+
+### Both the Farmer's and the Wholesaler's numbers will be provided on the portals and how the transactions will take place can be discussed over call, according to one's convenience.
+
+# *Contact Page* - Simple and User-friendly:
+* **24 X 7 Helpline Service Center**
+* **[Videos](https://github.com/tusharnankani/Swadeshi/tree/master/frontend/videos) in Hindi explaining working of site to help both, the farmers and the wholesalers.**
+* **Added FAQs, in Hindi and English**
+
+![12](https://user-images.githubusercontent.com/61280281/86548673-e1887600-bf5a-11ea-9fca-7104ec9d52f4.png)
+![13](https://user-images.githubusercontent.com/61280281/86548675-e3523980-bf5a-11ea-87bf-feaf419a03c7.png)
+![14](https://user-images.githubusercontent.com/61280281/86548678-e3ead000-bf5a-11ea-8ee2-63145bfcaec7.png)
+
+
+# *Authors*
+* Harsh Kapadia (HarshKapadia2, harshgkapadia@gmail.com)
+	- [LinkedIn](http://www.linkedin.com/in/harsh-kapadia-426999175)
+* Kartik Soneji (KartikSoneji, kartiksoneji@rocketmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
+* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000
+tusharnankani,Swadeshi,N/A,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
+![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
+
+### Problem Statement (*TSEC Codestorm - Hackathon'20*)
+- Implement a Web Based solution through which farmers can participate in a commodity exchange market. The solution should explain the process involved and the benefits of commodity exchange to the user.
+- The purpose of such an exchange is to provide a centralized marketplace where commodity producers can sell their commodities to those who want to use them for manufacturing or consumption.
+- The solution should enable farmers to create independent accounts and interact with dealers to avail the best profits and deals.
+
+## Tech Stack
+- Frontend
+	- HTML5
+	- CSS3
+	- Vanilla JavaScript
+
+- Backend
+	- Node.js (Express.js)
+
+- Database
+	- MongoDB
+
+### For the Live Demo, click [here](https://tusharnankani.github.io/Swadeshi/).
+
+- The live demo replicates the behavior of the site without the need for a real server. Instead, there is a mock server that is implemented in client side JavaScript, using `localStorage` as the database.
+- Please refer to [`frontend/mock-server.js`](frontend/mock-server.js) if you are curious about how the mock server is implemented.  
+- To get a better understanding of how the site works, please open the developer console (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>).  
+  The live demo logs a lot of details like network requests, responses and messages to the browser console.
+- The database can be inspected directly from the console by typing `Database.tables`.  
+  When the page is unloaded, the database is saved to `localStorage` with the key `database`. You can access this with `localStorage.database`.
+- Since this is just a prototype, there isn't any real OTP integration.  
+  If you run the server locally, then the OTP will be generated and logged to the server output.  
+  If you view the live demo then the OTP will be displayed as an alert and also logged to the browser console.
+
+## Logo
+* The *wheat* represents *farmer's pride*, and green around the wheat represents the *Indian fields.*
+<img src = ""frontend/logo.svg"" alt = ""Logo of a bushel of wheat, in a green circle"" width = ""128"" height = ""128"" />
+
+## Landing page flow
+- Unified landing page loads.
+- Do **GET** `/user`
+	- If successful, go to respective dashboard.
+- Wait for user to enter valid phone, and press next.
+- Do **POST** `/otp` body: `{phoneNumber}`
+	- If post is unsuccessful, then we have bigger problems.
+- (*) Wait for user to enter valid OTP, and press next.
+- Do **POST** `/authenticate` body: `{phoneNumber, otp}`
+	- If post is successful, do **GET** `/user`
+		- If user is found then go to respective dashboard.
+		- Else user does not exist, goto signup.
+- Inform user that OTP is wrong, goto (*)
+
+## Project Structure
+
+```
+frontend
+ ┣ contact
+ ┃ ┣ index.html
+ ┃ ┗ translation.js
+ ┣ farmer
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ signup
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ videos
+ ┃ ┣ farmer.mp4
+ ┃ ┗ wholesaler.mp4
+ ┣ wholesaler
+ ┃ ┣ index.html
+ ┃ ┣ script.js
+ ┃ ┗ style.css
+ ┣ background.svg
+ ┣ index.html
+ ┣ logo.svg
+ ┣ mock-server.js
+ ┣ script.js
+ ┣ style.css
+ ┣ translation.js
+ ┗ util.js
+```
+
+
+## Local Setup
+- Clone repository.
+- Setup MongoDB, either locally, in a Docker container or on the cloud.
+- Edit the MongoDB server Url in `/server/server.js`.
+- Run `npm install` and `npm start` in the `/server` folder.
+- Go to `https://localhost:5000` in your web browser.
+
+
+# *Website Demo*
+### Swadeshi
+#### Clean and simple UI.
+
+![0](https://user-images.githubusercontent.com/61280281/86548601-a71ed900-bf5a-11ea-8d31-2070803e1115.png)
+
+### Implemented Hindi and English, Font+ and Font- features for accesibilities.
+
+![1](https://user-images.githubusercontent.com/61280281/86548607-ab4af680-bf5a-11ea-8088-c1fb6920affc.png)
+
+### Simple Sign Up: Mobile - OTP authentication (*no need for e-mail or password*)
+
+## *SECURITY*: 
+* Mobile - OTP verification
+	* OTP is valid for 5 minutes from issue time
+	* Blind checking of OTP
+* Unified auth & identity token.
+	* Token is stored as a cookie on the client side
+	* Token valid for 2 days
+	* Every privileged request is authenticated on the server side
+	* Client side cookie is set to expire after 2 days
+
+![2](https://user-images.githubusercontent.com/61280281/86548624-bbfb6c80-bf5a-11ea-92d6-b62202ece254.png)
+
+## *Farmer's Portal*: 
+* Minimized the number of buttons and pages for accesibility for the farmer.
+* Everything on one page.
+* Simple add and remove icon.
+
+![3](https://user-images.githubusercontent.com/61280281/86548628-bef65d00-bf5a-11ea-8705-221f173032dd.png)
+
+### Simple add item page: Farmer can add quantity orginally with him and *price per unit item*.
+
+![4](https://user-images.githubusercontent.com/61280281/86548630-c0278a00-bf5a-11ea-9ef8-462fe8a65af7.png)
+
+![5](https://user-images.githubusercontent.com/61280281/86548636-c289e400-bf5a-11ea-8fed-45689bf76d6a.png)
+
+### Initially, the original added quantity is set to available quantity. As quantity is sold, the available quantity is updated, helping farmer keep track of what he added initially to the Farmer's Portal 
+
+![6](https://user-images.githubusercontent.com/61280281/86548641-c4ec3e00-bf5a-11ea-9058-d6a4e25e9892.png)
+
+## *Wholesaler's Portal*: 
+
+![7](https://user-images.githubusercontent.com/61280281/86548644-c7e72e80-bf5a-11ea-9e2b-9623a855af30.png)
+
+### Simple search bar to search product by category or item.
+
+![8](https://user-images.githubusercontent.com/61280281/86548648-cb7ab580-bf5a-11ea-88b4-4cd8a4cfdffb.png)
+
+
+![9](https://user-images.githubusercontent.com/61280281/86548652-cf0e3c80-bf5a-11ea-99eb-80d6e0b4701d.png)
+
+### Simply selecting the item, and ordering directly the required quantity. It will be added to *Ordered Items* for Wholesalers, and *Open Orders* for Farmers.
+
+![10](https://user-images.githubusercontent.com/61280281/86548657-d46b8700-bf5a-11ea-84a3-0fc5b3dfd806.png)
+
+### Simply, pressing the tick icon, if the order is delivered, the wholesaler can update it for himself and the farmers. 
+
+![11](https://user-images.githubusercontent.com/61280281/86548665-da616800-bf5a-11ea-9b33-a22c2c2a1ba8.png)
+
+### Both the Farmer's and the Wholesaler's numbers will be provided on the portals and how the transactions will take place can be discussed over call, according to one's convenience.
+
+# *Contact Page* - Simple and User-friendly:
+* **24 X 7 Helpline Service Center**
+* **[Videos](https://github.com/tusharnankani/Swadeshi/tree/master/frontend/videos) in Hindi explaining working of site to help both, the farmers and the wholesalers.**
+* **Added FAQs, in Hindi and English**
+
+![12](https://user-images.githubusercontent.com/61280281/86548673-e1887600-bf5a-11ea-9fca-7104ec9d52f4.png)
+![13](https://user-images.githubusercontent.com/61280281/86548675-e3523980-bf5a-11ea-87bf-feaf419a03c7.png)
+![14](https://user-images.githubusercontent.com/61280281/86548678-e3ead000-bf5a-11ea-8ee2-63145bfcaec7.png)
+
+
+# *Authors*
+* Harsh Kapadia (HarshKapadia2, harshgkapadia@gmail.com)
+	- [LinkedIn](http://www.linkedin.com/in/harsh-kapadia-426999175)
+* Kartik Soneji (KartikSoneji, kartiksoneji@rocketmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
+* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000

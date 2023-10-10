@@ -22545,7 +22545,7 @@ product, unit price, stock code etc.
 STRATEGY : Performed Multivariate Regression Analysis & developed a model with RMSE metric to generalize well on unseen data.
 
 ",0,0,1,0,retail-data,"[hackathon-project, knn-regression, linear-regression, machine-learning, pandas, python, retail-data]",0
-samirsaci,inventory-deterministic,N/A,https://github.com/samirsaci/inventory-deterministic,https://api.github.com/repos/inventory-deterministic/samirsaci,Inventory Management for Retail — Deterministic Demand,"## Inventory Management for Retail — Deterministic Demand 📈
+samirsaci,inventory-deterministic,,https://github.com/samirsaci/inventory-deterministic,https://api.github.com/repos/inventory-deterministic/samirsaci,Inventory Management for Retail — Deterministic Demand,"## Inventory Management for Retail — Deterministic Demand 📈
 *Build a simple model to simulate the impact of several replenishment rules (Basic, EOQ) on the inventory costs and ordering costs*
 
 <p align=""center"">
@@ -22592,8 +22592,8 @@ Senior Supply Chain Engineer with an international experience working on Logisti
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
 
-",10,10,1,0,retail,"[inventory, inventory-management, python, retail, supply-chain, supply-chain-management]",00000
-samirsaci,supply-planning,N/A,https://github.com/samirsaci/supply-planning,https://api.github.com/repos/supply-planning/samirsaci,Supply Planning using Linear Programming with Python,"## Supply Planning using Linear Programming with Python 🚛
+",10,10,1,0,retail,"[inventory, inventory-management, python, retail, supply-chain, supply-chain-management]",0
+samirsaci,supply-planning,,https://github.com/samirsaci/supply-planning,https://api.github.com/repos/supply-planning/samirsaci,Supply Planning using Linear Programming with Python,"## Supply Planning using Linear Programming with Python 🚛
 *Where do you need to allocate your stock to meet customers demand and reduce your transportation costs?*
 
 
@@ -22634,8 +22634,8 @@ This repository code you will find all the code used to explain the concepts pre
 Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
-",9,9,1,0,retail,"[linear-programming, optimization, python, retail, supply-chain, supply-chain-management, supply-planning]",00000
-samirsaci,sap-automation-po,N/A,https://github.com/samirsaci/sap-automation-po,https://api.github.com/repos/sap-automation-po/samirsaci,Orders Creation Automation with SAP for Retail Using VB,"## Orders Creation Automation with SAP for Retail Using VB 🏪
+",9,9,1,0,retail,"[linear-programming, optimization, python, retail, supply-chain, supply-chain-management, supply-planning]",0
+samirsaci,sap-automation-po,,https://github.com/samirsaci/sap-automation-po,https://api.github.com/repos/sap-automation-po/samirsaci,Orders Creation Automation with SAP for Retail Using VB,"## Orders Creation Automation with SAP for Retail Using VB 🏪
 *Automatically creating Purchase Order(s) based on information stored in an Excel spreadsheet.*
 
 <p align=""center"">
@@ -22669,8 +22669,8 @@ This repository code you will find all the code used to explain the concepts pre
 Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
-",2,2,1,0,retail,"[procurement, retail, rpa, sap, supply-chain, supply-chain-management, vba]",00000
-samirsaci,product-segmentation,N/A,https://github.com/samirsaci/product-segmentation,https://api.github.com/repos/product-segmentation/samirsaci,Product Segmentation for Retail with Python,"## Product Segmentation for Retail with Python 📈
+",2,2,1,0,retail,"[procurement, retail, rpa, sap, supply-chain, supply-chain-management, vba]",0
+samirsaci,product-segmentation,,https://github.com/samirsaci/product-segmentation,https://api.github.com/repos/product-segmentation/samirsaci,Product Segmentation for Retail with Python,"## Product Segmentation for Retail with Python 📈
 *A statistical methodology to segment your products based on turnover and demand variability*
 
 <p align=""center"">
@@ -22712,8 +22712,8 @@ Senior Supply Chain Engineer with an international experience working on Logisti
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
 
-",6,6,1,0,retail,"[inventory-management, product-management, python, retail, supply-chain, supply-chain-management]",00000
-samirsaci,sap-automation,N/A,https://github.com/samirsaci/sap-automation,https://api.github.com/repos/sap-automation/samirsaci,Product Listing Automation with SAP for Retail Using VB,"## Product Listing Automation with SAP for Retail Using VB 🏪
+",6,6,1,0,retail,"[inventory-management, product-management, python, retail, supply-chain, supply-chain-management]",0
+samirsaci,sap-automation,,https://github.com/samirsaci/sap-automation,https://api.github.com/repos/sap-automation/samirsaci,Product Listing Automation with SAP for Retail Using VB,"## Product Listing Automation with SAP for Retail Using VB 🏪
 *Automated Listing Articles Excel-VB and SAP GUI Scripting Tool.*
 
 <p align=""center"">
@@ -22751,8 +22751,8 @@ Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://s
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
 
 
-",1,1,1,0,retail,"[retail, rpa, sap, supply-chain, supply-chain-management, vba]",00000
-samirsaci,procurement-management,N/A,https://github.com/samirsaci/procurement-management,https://api.github.com/repos/procurement-management/samirsaci,Procurement Process Optimization with Python,"## Procurement Process Optimization with Python 🚛
+",1,1,1,0,retail,"[retail, rpa, sap, supply-chain, supply-chain-management, vba]",0
+samirsaci,procurement-management,,https://github.com/samirsaci/procurement-management,https://api.github.com/repos/procurement-management/samirsaci,Procurement Process Optimization with Python,"## Procurement Process Optimization with Python 🚛
 *Use non-linear programming to find the optimal ordering policy that minimizes capital, transportation and storage costs*
 
 <p align=""center"">
@@ -22786,7 +22786,7 @@ This repository code you will find all the code used to explain the concepts pre
 Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
-",3,3,1,0,retail,"[procurement, python, retail, supply-chain, supply-chain-management]",00000
+",3,3,1,0,retail,"[procurement, python, retail, supply-chain, supply-chain-management]",0
 databricks-industry-solutions,als-recommender,databricks-industry-solutions,https://github.com/databricks-industry-solutions/als-recommender,https://api.github.com/repos/als-recommender/databricks-industry-solutions,Products We Think You Might Like: Generating Personalized Recommendations Using Matrix Factorization,"## ALS Recommender System Intro
 
 Recommender systems are becoming increasing important as companies seek better ways to select products to present to end users. In this solution accelerator, we will explore a form of collaborative filter referred to as a matrix factorization.  
@@ -22808,8 +22808,8 @@ The challenge in developing a matrix factorization recommender is the large amou
 ## Instruction
 
 To run this accelerator, clone this repo into a Databricks workspace. Attach the `RUNME` notebook to any cluster running a DBR 11.0 or later runtime, and execute the notebook via Run-All. A multi-step-job describing the accelerator pipeline will be created, and the link will be provided. Execute the multi-step-job to see how the pipeline runs. The job configuration is written in the RUNME notebook in json format. The cost associated with running the accelerator is the user's responsibility.
-",1,1,2,1,retail,"[databricks, databricks-industry-solutions, recommendation-engine, recommendation-system, recommender-system, retail]",00000
-navassherif98,Dash_4U-Analysis,N/A,https://github.com/navassherif98/Dash_4U-Analysis,https://api.github.com/repos/Dash_4U-Analysis/navassherif98,This Repository contains a Simple Dash App for Stock and Monthly Report Analysis of Shop(4U),"![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Dash_4U-Analysis.svg?cache=remove)
+",1,1,2,1,retail,"[databricks, databricks-industry-solutions, recommendation-engine, recommendation-system, recommender-system, retail]",0
+navassherif98,Dash_4U-Analysis,,https://github.com/navassherif98/Dash_4U-Analysis,https://api.github.com/repos/Dash_4U-Analysis/navassherif98,This Repository contains a Simple Dash App for Stock and Monthly Report Analysis of Shop(4U),"![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Dash_4U-Analysis.svg?cache=remove)
 
 # Dash_4U-Analysis
 
@@ -22817,8 +22817,8 @@ navassherif98,Dash_4U-Analysis,N/A,https://github.com/navassherif98/Dash_4U-Anal
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55757415/115176464-c8684480-a0ea-11eb-9f8a-d7dfac7f8106.gif)
-",1,1,0,0,retail,"[analysis, api, application, business, business-analytics, dash, dash-apps, dashboard, development, financial-analysis, graph, python, retail, sqlalchemy]",00000
-samirsaci,inventory-stochastic,N/A,https://github.com/samirsaci/inventory-stochastic,https://api.github.com/repos/inventory-stochastic/samirsaci,Inventory Management for Retail — Stochastic Demand,"## Inventory Management for Retail — Stochastic Demand 📈
+",1,1,0,0,retail,"[analysis, api, application, business, business-analytics, dash, dash-apps, dashboard, development, financial-analysis, graph, python, retail, sqlalchemy]",0
+samirsaci,inventory-stochastic,,https://github.com/samirsaci/inventory-stochastic,https://api.github.com/repos/inventory-stochastic/samirsaci,Inventory Management for Retail — Stochastic Demand,"## Inventory Management for Retail — Stochastic Demand 📈
 *Simulate the impact of safety stock level on inventory management performance metrics assuming a normal distribution of your demand*
 
 <p align=""center"">
@@ -22858,8 +22858,8 @@ Senior Supply Chain Engineer with an international experience working on Logisti
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
 
-",8,8,1,1,retail,"[inventory-management, optimization, python, retail, stochastic, supply-chain, supply-chain-management]",00000
-navassherif98,Website-4U_Mens_and_Sports,N/A,https://github.com/navassherif98/Website-4U_Mens_and_Sports,https://api.github.com/repos/Website-4U_Mens_and_Sports/navassherif98,This repository contains a Business website for 4U Mens and Sports Retail Shop and its hosted on Heroku and Github ,"# Website-4U_Mens_and_Sports
+",8,8,1,1,retail,"[inventory-management, optimization, python, retail, stochastic, supply-chain, supply-chain-management]",0
+navassherif98,Website-4U_Mens_and_Sports,,https://github.com/navassherif98/Website-4U_Mens_and_Sports,https://api.github.com/repos/Website-4U_Mens_and_Sports/navassherif98,This repository contains a Business website for 4U Mens and Sports Retail Shop and its hosted on Heroku and Github ,"# Website-4U_Mens_and_Sports
 
 A Website for Retail Shop : 4U Mens and Sports , Mundur
 <br />
@@ -22870,8 +22870,8 @@ A Website for Retail Shop : 4U Mens and Sports , Mundur
 
 ### Hosted on Heroku
 #### check it out : https://mundur4u.herokuapp.com/
-",2,2,1,0,retail,"[bootstrap, business, business-website, css, github, heroku, hosted, html, javascript, python, retail, retail-shop, shop, templates, website, website-for-business, website-for-retailshop]",00000
-samirsaci,business-profitability,N/A,https://github.com/samirsaci/business-profitability,https://api.github.com/repos/business-profitability/samirsaci,Maximize your Business Profitability with Python,"## Maximize your Business Profitability with Python 📈
+",2,2,1,0,retail,"[bootstrap, business, business-website, css, github, heroku, hosted, html, javascript, python, retail, retail-shop, shop, templates, website, website-for-business, website-for-retailshop]",0
+samirsaci,business-profitability,,https://github.com/samirsaci/business-profitability,https://api.github.com/repos/business-profitability/samirsaci,Maximize your Business Profitability with Python,"## Maximize your Business Profitability with Python 📈
 *Use linear programming to help your local bakery to improve its business profitability by selecting the right items to sell*
 
 <p align=""center"">
@@ -22908,8 +22908,8 @@ Senior Supply Chain Engineer with an international experience working on Logisti
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
 
-",2,2,2,0,retail,"[business-profit, linear-programming, operations-research, optimization, python, retail, supply-chain, supply-chain-management]",00000
-eugenebelieve,marketplace,N/A,https://github.com/eugenebelieve/marketplace,https://api.github.com/repos/marketplace/eugenebelieve,"A Marketplace POV running Microservices on NodeJS & ExpressJS, a Frontend application on ReactJS and a MongoDB Database. You can quickly import a retail dataset and have a fully functional Marketplace with login, users, products, catalogs, review, orders, payment and much more.","<img src=""application/public/images/marketplace/marketplace.png"" alt=""dashboard"" height=""400"">
+",2,2,2,0,retail,"[business-profit, linear-programming, operations-research, optimization, python, retail, supply-chain, supply-chain-management]",0
+eugenebelieve,marketplace,,https://github.com/eugenebelieve/marketplace,https://api.github.com/repos/marketplace/eugenebelieve,"A Marketplace POV running Microservices on NodeJS & ExpressJS, a Frontend application on ReactJS and a MongoDB Database. You can quickly import a retail dataset and have a fully functional Marketplace with login, users, products, catalogs, review, orders, payment and much more.","<img src=""application/public/images/marketplace/marketplace.png"" alt=""dashboard"" height=""400"">
 
 A Marketplace running on a <strong>MongoDB Atlas database</strong> with Microservices on <strong>Nodejs & Expressjs</strong> and a <strong>frontend on Reactjs</strong>
 
@@ -22988,8 +22988,8 @@ john@example.com (Customer)
 jane@example.com (Customer)
 123456
 ```
-",2,2,1,1,retail,"[express, marketplace, mern, mongodb, node, react, retail]",00000
-samirsaci,segmentation,N/A,https://github.com/samirsaci/segmentation,https://api.github.com/repos/segmentation/samirsaci,Streamlit Application for ABC Analysis & Product Segmentation ,"# Automate ABC Analysis & Product Segmentation with Streamlit 📈
+",2,2,1,1,retail,"[express, marketplace, mern, mongodb, node, react, retail]",0
+samirsaci,segmentation,,https://github.com/samirsaci/segmentation,https://api.github.com/repos/segmentation/samirsaci,Streamlit Application for ABC Analysis & Product Segmentation ,"# Automate ABC Analysis & Product Segmentation with Streamlit 📈
 *A statistical methodology to segment your products based on turnover and demand variability using an automated solution with a web application designed with the framework Streamlit*
 
 <p align=""center"">
@@ -23184,4 +23184,4 @@ _For more information: [Inventory Management for Retail — Stochastic Demand](h
 Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
-",13,13,1,0,retail,"[inventory-management, product-segmentation, retail, streamlit, supply-chain, supply-chain-management]",00000
+",13,13,1,0,retail,"[inventory-management, product-segmentation, retail, streamlit, supply-chain, supply-chain-management]",0

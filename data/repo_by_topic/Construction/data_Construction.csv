@@ -16439,7 +16439,7 @@ This project is built using YOLOv8, a popular object detection framework. If you
 Created by Janah Patricia Morano
 
 ",0,0,1,0,helmet-detection,"[computer-vision, helmet-detection, live-detection, yolov8]",0
-sahand995,Time-Related-Heatmap,N/A,https://github.com/sahand995/Time-Related-Heatmap,https://api.github.com/repos/Time-Related-Heatmap/sahand995,Time-related Heatmap using a customized C# algorithm in Unity for occupancy simulation and time management in construction sites,"# Time-Related Crowd Occupancy Heat-map:
+sahand995,Time-Related-Heatmap,,https://github.com/sahand995/Time-Related-Heatmap,https://api.github.com/repos/Time-Related-Heatmap/sahand995,Time-related Heatmap using a customized C# algorithm in Unity for occupancy simulation and time management in construction sites,"# Time-Related Crowd Occupancy Heat-map:
 Using a customized C# algorithm, I have developed a Time-Related Heat-map that plots the movement and occupancy concentration of any moving object on a 2D surface plain. The tool can be used for various use cases such as visualizing and tracking workers’ location, as well as the high occupancy pin points in a construction site.
 
 
@@ -16450,7 +16450,7 @@ Using a customized C# algorithm, I have developed a Time-Related Heat-map that p
 </p>
 
 
-",5,5,1,0,construction,"[construction, constructionsite, csharp, heatmap, simulation, unity, visualization]",00000
+",5,5,1,0,construction,"[construction, constructionsite, csharp, heatmap, simulation, unity, visualization]",0
 RUB-Informatik-im-Bauwesen,loin-ontology,RUB-Informatik-im-Bauwesen,https://github.com/RUB-Informatik-im-Bauwesen/loin-ontology,https://api.github.com/repos/loin-ontology/RUB-Informatik-im-Bauwesen,"This repository includes the LOIN ontology according to EN 17412-1 with specification of IDS developed by buildingSMART International and ICDD ISO 21597-1. Furthermore, an example is added as demonstration of the LOIN ontology","Markdown documentation created by [pyLODE](http://github.com/rdflib/pyLODE) 2.4
 
 # Level of Information Need (LOIN) Ontology
@@ -17288,8 +17288,8 @@ Range(s) |[loin:Identifier](Identifier) (c)<br />
 * Data Properties: dp
 * Annotation Properties: dp
 * Properties: p
-* Named Individuals: ni",0,0,0,0,construction,"[construction, icdd, ids, information-delivery, ontology, owl, rdf]",00000
-shchilkin,personal-website,N/A,https://github.com/shchilkin/personal-website,https://api.github.com/repos/personal-website/shchilkin,The first version of my portfolio website. Project created to learn React and JavaScript as well to showcase my skills.,"# Personal Website
+* Named Individuals: ni",0,0,0,0,construction,"[construction, icdd, ids, information-delivery, ontology, owl, rdf]",0
+shchilkin,personal-website,,https://github.com/shchilkin/personal-website,https://api.github.com/repos/personal-website/shchilkin,The first version of my portfolio website. Project created to learn React and JavaScript as well to showcase my skills.,"# Personal Website
 [![Build Status](https://travis-ci.org/CrazyRedKitten/personal-website.svg?branch=Stable)](https://travis-ci.org/CrazyRedKitten/personal-website)
 
 Hosting my little web-related projects here
@@ -17297,8 +17297,8 @@ Hosting my little web-related projects here
 [Available here](https://crazyredkitten.media ""My Personal Website!"")  :blush:
 
 :construction: Currently is under development :construction:
-",0,0,0,6,construction,"[avatar-generator, construction, dark-mode, nodejs, personal-site, react]",00000
-Dilip-Biswas,WebGIS,N/A,https://github.com/Dilip-Biswas/WebGIS,https://api.github.com/repos/WebGIS/Dilip-Biswas,"WebGIS Projects of Ulm City Portal, Germany",,0,0,2,0,construction,"[construction, under]",00000
+",0,0,0,6,construction,"[avatar-generator, construction, dark-mode, nodejs, personal-site, react]",0
+Dilip-Biswas,WebGIS,,https://github.com/Dilip-Biswas/WebGIS,https://api.github.com/repos/WebGIS/Dilip-Biswas,"WebGIS Projects of Ulm City Portal, Germany",,0,0,2,0,construction,"[construction, under]",0
 ISAC-SIMO,ISAC-SIMO,ISAC-SIMO,https://github.com/ISAC-SIMO/ISAC-SIMO,https://api.github.com/repos/ISAC-SIMO/ISAC-SIMO,"Build Change - Intelligent Supervision Assistant for Construction - Sistema Inteligente de Monitoreo de Obra. This project is an offshoot of PD3R, runner-up in the CFC 2018 Global Challenge.","# ISAC SIMO
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack)
@@ -17426,24 +17426,15 @@ Please read [our contributing guidelines](CONTRIBUTING.md) for details of how yo
 
 This project is licensed under the Apache Software License, Version 2, unless otherwise stated.  Separate third party code objects invoked within this project are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
 
-",28,28,9,16,construction,"[build-change, call-for-code, construction, hacktoberfest, isac-simo, visual-recognition]",00000
-shchilkin,personal-website,N/A,https://github.com/shchilkin/personal-website,https://api.github.com/repos/personal-website/shchilkin,The first version of my portfolio website. Project created to learn React and JavaScript as well to showcase my skills.,"# Personal Website
-[![Build Status](https://travis-ci.org/CrazyRedKitten/personal-website.svg?branch=Stable)](https://travis-ci.org/CrazyRedKitten/personal-website)
-
-Hosting my little web-related projects here
-
-[Available here](https://crazyredkitten.media ""My Personal Website!"")  :blush:
-
-:construction: Currently is under development :construction:
-",0,0,0,6,construction,"[avatar-generator, construction, dark-mode, nodejs, personal-site, react]",00000
-Erfanh1995,Kharita_inputconverter,N/A,https://github.com/Erfanh1995/Kharita_inputconverter,https://api.github.com/repos/Kharita_inputconverter/Erfanh1995,"Convert ""Standard"" GPS trajectory files into Kharita* algorithm inputs","# Kharita_inputconverter
+",28,28,9,16,construction,"[build-change, call-for-code, construction, hacktoberfest, isac-simo, visual-recognition]",0
+Erfanh1995,Kharita_inputconverter,,https://github.com/Erfanh1995/Kharita_inputconverter,https://api.github.com/repos/Kharita_inputconverter/Erfanh1995,"Convert ""Standard"" GPS trajectory files into Kharita* algorithm inputs","# Kharita_inputconverter
 Convert ""Standard"" GPS trajectory files into Kharita* algorithm inputs.
 
 It was assumed that the trajectory files' names end with ""_{ID}""
 
 Link to Kharita source code: <a href=""https://github.com/vipyoung/kharita"">Kharita</a>
-",1,1,1,0,construction,"[construction, map]",00000
-ubeevn,Industry-Factory-and-Engineering,ubeevn,https://github.com/ubeevn/Industry-Factory-and-Engineering,https://api.github.com/repos/Industry-Factory-and-Engineering/ubeevn,,,0,0,2,0,construction,"[bootstrap3, company, construction, html, industry, templates-point]",00000
+",1,1,1,0,construction,"[construction, map]",0
+ubeevn,Industry-Factory-and-Engineering,ubeevn,https://github.com/ubeevn/Industry-Factory-and-Engineering,https://api.github.com/repos/Industry-Factory-and-Engineering/ubeevn,,,0,0,2,0,construction,"[bootstrap3, company, construction, html, industry, templates-point]",0
 RUB-Informatik-im-Bauwesen,icdd2ams,RUB-Informatik-im-Bauwesen,https://github.com/RUB-Informatik-im-Bauwesen/icdd2ams,https://api.github.com/repos/icdd2ams/RUB-Informatik-im-Bauwesen,"This repository contains ontologies, data, queries, and source code presented in ""BIM-based organization of inspection data using Semantic Web technology for infrastructure asset management"" published at EUROSTRUCT 2021 conference.","# Asset Condition Integration from information containers into relational Asset Management databases (icdd2ams)
 
 This repository contains ontologies, data, queries, and source code presented in ""BIM-based organization of inspection data using Semantic Web technology for infrastructure asset management"" published at EUROSTRUCT 2021 conference. It includes a minimal ABox ontology for integrating  asset conditions located using [Building Topology Ontology (BOT)](https://github.com/w3c-lbd-cg/bot) within an [Information Container for linked document delivery (ICDD)](https://www.iso.org/standard/74389.html) into SQL-based asset management systems. See the following files:
@@ -17474,8 +17465,8 @@ The authors gratefully acknowledge CEDR (Conference of European Directors of Roa
 ## Contact information
 Liu Liu (liu.liu-m6r@rub.de / [ResearchGate profile](https://www.researchgate.net/profile/Liu-Liu-84)) and Philipp Hagedorn (philipp.hagedorn-n6v@rub.de / [GitHub profile](https://github.com/philhag) / [ResearchGate profile](https://www.researchgate.net/profile/Philipp-Hagedorn))  
 Further information on https://www.inf.bi.ruhr-uni-bochum.de/iib/index.html.en
-",0,0,1,0,construction,"[aec, assetmanagement, construction, ontology, owl, rdf, sparql]",00000
-OpenDataBIM,VisualBIM,N/A,https://github.com/OpenDataBIM/VisualBIM,https://api.github.com/repos/VisualBIM/OpenDataBIM,,"# Parametric visualization of your project data for Revit and IFC files
+",0,0,1,0,construction,"[aec, assetmanagement, construction, ontology, owl, rdf, sparql]",0
+OpenDataBIM,VisualBIM,,https://github.com/OpenDataBIM/VisualBIM,https://api.github.com/repos/VisualBIM/OpenDataBIM,,"# Parametric visualization of your project data for Revit and IFC files
 Any medium-sized construction project is a source of big data with hundreds of thousands of different elements, which in turn have tens or hundreds of different parameters or properties. Up from now to properly understand this data you can use the BIMJSON format to visualize all the information on all elements and its properties as a multidimensional point cloud.
 
 Open App:  http://visualbim.bimopensource.com/
@@ -17558,8 +17549,8 @@ OpenDataBIM - You Way to Free Tools in Construction.
 
 ### Go to  BIM 2.0  go to  Open Data
 ![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/BIM20.jpg)
-",12,12,1,0,construction,"[bigdata, construction, dash, data-visualization, ifc, plotly, plotly-dash, revit, visualization, visualization-tools]",00000
-AkashPushkar,material_recognition,N/A,https://github.com/AkashPushkar/material_recognition,https://api.github.com/repos/material_recognition/AkashPushkar,This project is for construction material recognition from the images collected at a construction site.  ,"## Material recognition project
+",12,12,1,0,construction,"[bigdata, construction, dash, data-visualization, ifc, plotly, plotly-dash, revit, visualization, visualization-tools]",0
+AkashPushkar,material_recognition,,https://github.com/AkashPushkar/material_recognition,https://api.github.com/repos/material_recognition/AkashPushkar,This project is for construction material recognition from the images collected at a construction site.  ,"## Material recognition project
 
 This is project for classifying construction materials based on the data collected from a construction site. The algorithm can be divided into follwing steps:
  * Segmenting a given image into patches
@@ -17576,9 +17567,9 @@ Below is example result produced by the model trained
 (left image= input, right image= output)
 
 ![result](./docs/result.png)
-",5,5,3,0,construction-site,"[construction-site, material-recognition]",00000
-ubeevn,Construction-Industrial,ubeevn,https://github.com/ubeevn/Construction-Industrial,https://api.github.com/repos/Construction-Industrial/ubeevn,,,0,0,2,0,construction,"[bootstrap3, construction, html]",00000
-OpenDataBIM,Checking-the-quality-of-Revit-and-IFC-projects,N/A,https://github.com/OpenDataBIM/Checking-the-quality-of-Revit-and-IFC-projects,https://api.github.com/repos/Checking-the-quality-of-Revit-and-IFC-projects/OpenDataBIM,Checking the quality of Revit and IFC projects,"# Checking-the-quality-of-Revit-and-IFC-projects
+",5,5,3,0,construction-site,"[construction-site, material-recognition]",0
+ubeevn,Construction-Industrial,ubeevn,https://github.com/ubeevn/Construction-Industrial,https://api.github.com/repos/Construction-Industrial/ubeevn,,,0,0,2,0,construction,"[bootstrap3, construction, html]",0
+OpenDataBIM,Checking-the-quality-of-Revit-and-IFC-projects,,https://github.com/OpenDataBIM/Checking-the-quality-of-Revit-and-IFC-projects,https://api.github.com/repos/Checking-the-quality-of-Revit-and-IFC-projects/OpenDataBIM,Checking the quality of Revit and IFC projects,"# Checking-the-quality-of-Revit-and-IFC-projects
 
 ![](https://opendatabim.io/wp-content/uploads/2023/02/projects-data-2.gif)
 
@@ -17677,4 +17668,4 @@ With these steps, you should be able to run Python code on a new computer withou
 To that end, we offer consultations with our team of experts to help users address any issues they’re facing. Our team has extensive experience working with BIM software and data, and we’re always happy to share our knowledge and expertise with our users.
 
 Contact Us: info@opendatabim.io
-",8,8,1,0,construction,"[3d, bau, check, construction, ifc, jupyter-notebook, models, openbim, parameters, projects, python, python3, revit]",00000
+",8,8,1,0,construction,"[3d, bau, check, construction, ifc, jupyter-notebook, models, openbim, parameters, projects, python, python3, revit]",0

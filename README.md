@@ -15,4 +15,4 @@
 
 1. README can be named differently, i.e., `readme.md`, `README.rst`, `readme.txt`, etc.
 2. Set sleep time to exact reset time
-
+3. automatically label the data with default number

@@ -413,7 +413,7 @@ Here factor return can be interpreted as the return to a portfolio with weights 
 
 
 You can think of this as slicing through the other direction from the APT analysis, as now the factor returns are unknowns to be solved for, whereas originally the coefficients b were the unknowns. Another way to think about it is that you're determining how predictive of returns the factor was on that day, and therefore how much return you could have squeezed out of that factor.
-",271,271,13,1,equity-markets,"[adaboost, apt-model, barra-model, equity-markets, factor-analysis, factor-returns, kalman-filter, trading-strategies]",0.0
+",271,271,13,1,equity-markets,"[adaboost, apt-model, barra-model, equity-markets, factor-analysis, factor-returns, kalman-filter, trading-strategies]",55
 1,soumendrak,stock_price_change_alert,,https://github.com/soumendrak/stock_price_change_alert,https://api.github.com/repos/stock_price_change_alert/soumendrak,Send SMS if any of the predefined share price fluctuates above a certain customizable level.,"[![Stories in Ready](https://badge.waffle.io/soumendrak/stock_price_change_alert.png?label=ready&title=Ready)](https://waffle.io/soumendrak/stock_price_change_alert?utm_source=badge)
 ![image](https://travis-ci.org/soumendrak/stock_price_change_alert.svg?branch=master)
 # stock_price_change_alert
@@ -446,7 +446,7 @@ above the mentioned limit, it will trigger for SMS.
 
 
 You will receive `INDIGO price has DOWN by 4.12 percent.` in your mentioned number.
-",15,15,3,0,equity-markets,"[equity-markets, finance, nse-stock-data, stock-market]",0.0
+",15,15,3,0,equity-markets,"[equity-markets, finance, nse-stock-data, stock-market]",55
 2,boyac,pyFolio,,https://github.com/boyac/pyFolio,https://api.github.com/repos/pyFolio/boyac,"Performance attribution analysis, value investment, original investment ideas, alpha seeking","# pyFolio
 ## Content
 - use python 2.7
@@ -564,7 +564,7 @@ G1515712
 
 - Created a portfolio attribution analysis module using Python and automated abnormal stock volatility calculations using VBA.
 - ![alt tag](image/alpha01.jpeg)
-",10,10,4,1,equity-markets,"[benchmark, equity, equity-markets, investment, portfolio-analysis, portfolio-management]",0.0
+",10,10,4,1,equity-markets,"[benchmark, equity, equity-markets, investment, portfolio-analysis, portfolio-management]",55
 3,sriram-ptr,indian-equity-portfolio-summarizer,,https://github.com/sriram-ptr/indian-equity-portfolio-summarizer,https://api.github.com/repos/indian-equity-portfolio-summarizer/sriram-ptr,"At the comfort of terminal command prompt, get the summary reports for each stock as well as the whole equity portfolio with information about realized and unrealized(holding) gains/losses split into short term and long term. It also calculates taxable capital gain for your long term capital gains that need grandfathering. All you need to have is a list of your portfolio transactions in a CSV file. Most brokerage websites allow you to download the list of transactions as a CSV. ","# Indian Equity Portfolio Summarizer
 * Given the equity portfolio transactions as a CSV file(refer `sample_portfolio.csv` in the repository), you can get the following information:
   * For each stock:
@@ -715,7 +715,7 @@ PortFolio Holding Summmary
 +-------+--------+---------+-----------+---------+---------+---------+----------+-----------+---------+---------+-----------+-----------+----------+---------+---------+-----+----------+---------+
 
 ```
-",7,7,3,1,equity-markets,"[bsetools, capital-gain, equity-markets, grandfathering, india, india-budget-2018, indian-equity, indian-share-market, indian-stock-exchange, long-term-capital-gain, nsetools, portfolio-reports, portfolio-summarizer, portfolio-summary, share-market, short-term-capital-gain, stock-market-investors, stock-market-report-generator, stock-market-reports, taxable-ltcg]",0.0
+",7,7,3,1,equity-markets,"[bsetools, capital-gain, equity-markets, grandfathering, india, india-budget-2018, indian-equity, indian-share-market, indian-stock-exchange, long-term-capital-gain, nsetools, portfolio-reports, portfolio-summarizer, portfolio-summary, share-market, short-term-capital-gain, stock-market-investors, stock-market-report-generator, stock-market-reports, taxable-ltcg]",55
 4,scawful,premia,,https://github.com/scawful/premia,https://api.github.com/repos/premia/scawful,Risk Premia Trading Client,"# Premia
 
 - Platform: Windows, macOS, GNU/Linux
@@ -770,7 +770,7 @@ Screenshots
 <!-- ![](https://i.ibb.co/X8cSy1T/C15-E0-A46-8357-4-D8-A-BD9-F-15-CDA776-AAF1.png)
 ![](https://i.ibb.co/NjdT3GS/49-C38803-E56-D-4648-9-F9-F-704-E661-C0-D7-C.png)
 ![](https://i.ibb.co/JHD6MFK/Screen-Shot-2022-01-09-at-9-52-33-AM.png) -->
-",6,6,2,17,equity-markets,"[equity-markets, options-trading, portfolio-construction, risk-management-software]",0.0
+",6,6,2,17,equity-markets,"[equity-markets, options-trading, portfolio-construction, risk-management-software]",55
 5,Ignacio1996,stocks-simple-api,,https://github.com/Ignacio1996/stocks-simple-api,https://api.github.com/repos/stocks-simple-api/Ignacio1996,Simple Stocks Fetching API made with Node.js and Express.js,"# Simple Stocks API made with Node.js
 
 Node.js API to get updated stocks data.
@@ -842,7 +842,7 @@ tickers: ['multiple', 'tickers', 'array']
 
 
 
-",6,6,2,5,equity-markets,"[equity-data, equity-markets, stocks, stocks-api, stocks-market]",0.0
+",6,6,2,5,equity-markets,"[equity-data, equity-markets, stocks, stocks-api, stocks-market]",55
 6,csatzky,empirical-analysis-of-asset-pricing-beliefs,,https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs,https://api.github.com/repos/empirical-analysis-of-asset-pricing-beliefs/csatzky,"In this study, I empirically and statistically investigate the credibility of common asset pricing beliefs using data from S&P 500® constituents from January 2010–December 2020.","# Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500<sup>®</sup> Constituents from 2010-2020
 
 Currently, only the renderred PDF report is publicly accessible, i.e. ""empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf"". The underlying dataset and the source code are available upon request. Please email c.satzky@gmail.com for further information.
@@ -869,8 +869,8 @@ The hypotheses under investigation are definied a priori and include the followi
 
 ### Sharelab Limited Indicator
 * _High GrowthSpread<sup>®</sup> (GS) outperforms low GS_
-",3,3,1,0,equity-markets,"[asset-management, asset-pricing, empirical-research, equity-markets, equity-research, factor-investing]",0.0
-7,guilhermessc,VaR-threshold-and-confidence-interval,,https://github.com/guilhermessc/VaR-threshold-and-confidence-interval,https://api.github.com/repos/VaR-threshold-and-confidence-interval/guilhermessc,This project studies the effects of the shape parameter estimator uncertainty at different threshold levels on the value-at-risk confidence interval for quantitative risk management (QRM) using the Generalized Pareto Distribution (GPD) from the Extreme Value Theory (EVT) approach.,,2,2,2,0,equity-markets,"[equity, equity-markets, equity-research, extreme-value-theory, finance, financial-risk, financial-risk-analytics, generalized-pareto-distribution, quantitative-risk-analysis, stock, stock-market, value-at-risk]",0.0
+",3,3,1,0,equity-markets,"[asset-management, asset-pricing, empirical-research, equity-markets, equity-research, factor-investing]",55
+7,guilhermessc,VaR-threshold-and-confidence-interval,,https://github.com/guilhermessc/VaR-threshold-and-confidence-interval,https://api.github.com/repos/VaR-threshold-and-confidence-interval/guilhermessc,This project studies the effects of the shape parameter estimator uncertainty at different threshold levels on the value-at-risk confidence interval for quantitative risk management (QRM) using the Generalized Pareto Distribution (GPD) from the Extreme Value Theory (EVT) approach.,,2,2,2,0,equity-markets,"[equity, equity-markets, equity-research, extreme-value-theory, finance, financial-risk, financial-risk-analytics, generalized-pareto-distribution, quantitative-risk-analysis, stock, stock-market, value-at-risk]",55
 8,pSnehanshu,stock-market-botmaker,,https://github.com/pSnehanshu/stock-market-botmaker,https://api.github.com/repos/stock-market-botmaker/pSnehanshu,Design trading strategies and export bot as python file.,"# hynbotmaker
 
 ## Project setup
@@ -887,17 +887,17 @@ npm run serve
 ```
 npm run build
 ```
-",2,2,2,0,equity-markets,"[equity, equity-markets, python-bot, stock-market, trading, upstox, zerodha]",0.0
+",2,2,2,0,equity-markets,"[equity, equity-markets, python-bot, stock-market, trading, upstox, zerodha]",55
 9,sguduguntla,Mercari-LAHacks,,https://github.com/sguduguntla/Mercari-LAHacks,https://api.github.com/repos/Mercari-LAHacks/sguduguntla,Essentially we are connecting individuals with ideas to individuals that can make those ideas into a reality.,"# Mercari
 
 # Inspiration
 
 As high–schoolers, we haven't had the opportunity to work with many companies or startups; however, with Mercari we are trying to connect people with ideas to those that can create the idea in exchange for equity in the company. Instead of working for no salary, anyone can bid on projects; if the seller – the person with the idea – agrees, they exchange contact information and can work together. Built at Los Altos Hacks 2016 with Jai Sankar, Varun Shenoy, and Anirudh Pai.
 
-",1,1,5,0,equity-markets,"[business, css3, equity-markets, html5, investment, jquery, parse]",0.0
+",1,1,5,0,equity-markets,"[business, css3, equity-markets, html5, investment, jquery, parse]",55
 10,Jhonattanln,Factor-Investing,,https://github.com/Jhonattanln/Factor-Investing,https://api.github.com/repos/Factor-Investing/Jhonattanln,Factor Investing - Brasilian assests ,"# Factor Investing
  Factor Investing - Brasilian assests 
-",1,1,1,0,equity-markets,"[equity-markets, factor-analysis]",0.0
+",1,1,1,0,equity-markets,"[equity-markets, factor-analysis]",55
 11,alishersuyunov,opendatauzb,,https://github.com/alishersuyunov/opendatauzb,https://api.github.com/repos/opendatauzb/alishersuyunov,Downloading available datasets from an official open data source of Uzbekistan,"# opendatauzb 0.1.3
 
 [![Travis build status](https://travis-ci.com/alishersuyunov/opendatauzb.svg?branch=master)](https://travis-ci.com/alishersuyunov/opendatauzb)
@@ -946,10 +946,10 @@ The package is provided under the GPL-3 license.
 
 <br><br>
 If you have any feature suggestions or found any bugs, feel free to raise a trouble ticket on: https://github.com/alishersuyunov/opendatauzb/issues
-",1,1,1,1,equity-markets,"[equity-markets, financial-analysis, opendata, opendata-api, r, stock-market, stock-market-analysis, stock-market-data, stocks, uzbekistan]",0.0
+",1,1,1,1,equity-markets,"[equity-markets, financial-analysis, opendata, opendata-api, r, stock-market, stock-market-analysis, stock-market-data, stocks, uzbekistan]",55
 12,zavtech,morpheus-quandl,zavtech,https://github.com/zavtech/morpheus-quandl,https://api.github.com/repos/morpheus-quandl/zavtech,An adapter that returns Morpheus DataFrames from Quandl.com,"# morpheus-quandl
 A data loading adapter that returns Morpheus DataFrames from Quandl.com
-",1,1,3,2,equity-markets,"[equity-index, equity-markets, equity-options, financial-analysis, financial-data, financial-markets, marketdata, quandl, quandl-api, quotes]",0.0
+",1,1,3,2,equity-markets,"[equity-index, equity-markets, equity-options, financial-analysis, financial-data, financial-markets, marketdata, quandl, quandl-api, quotes]",55
 13,stevetulig,analysis-of-ASX200-index-changes,,https://github.com/stevetulig/analysis-of-ASX200-index-changes,https://api.github.com/repos/analysis-of-ASX200-index-changes/stevetulig,Transact SQL scripts for calculations using equity market data plus VBA code for importing results into Excel and generating charts,"# analysis-of-ASX200-index-changes
 This repo contains SQL and VBA code used to produce visualizations for the investigation of (potential) trading strategies
 to make money off changes in the constituents of ASX200 index.
@@ -1033,7 +1033,7 @@ DateOffset	| int	| yes
 
 [^1]: The X and Y variables are rankings based on the variables liquidity and average market capitalisation. Liquidity and average market capitalisation are calculated in accordance with Standard and Poors’ index methodology for every ASX stock 10, 20 and 30 trading days before each announcement.
 [^2]: It was determined that prediction of index removals, but not index additions, could feasibly be attempted.
-",1,1,1,0,equity-markets,"[equity-markets, sql, trading-strategies, vba-excel]",0.0
+",1,1,1,0,equity-markets,"[equity-markets, sql, trading-strategies, vba-excel]",55
 14,jeckonov,Financial-analysis,,https://github.com/jeckonov/Financial-analysis,https://api.github.com/repos/Financial-analysis/jeckonov,Automatized-analysis-via-yfinance-API,"# Automatized-analysis-via-yfinance-API
 Automatized-analysis-via-yfinance-API
 yfinance 
@@ -1041,7 +1041,7 @@ yfinance
 2) Markov regime switch
 3) Various filters and its comparation
 4) Payoff function of hedged short
-",1,1,1,0,equity-markets,"[brent, equity, equity-markets, finance, financial-analysis, markov-regime-switch, payoff-shorting, portfolio, regime-switching, shorting, value-at-risk, valueatrisk, var]",0.0
+",1,1,1,0,equity-markets,"[brent, equity, equity-markets, finance, financial-analysis, markov-regime-switch, payoff-shorting, portfolio, regime-switching, shorting, value-at-risk, valueatrisk, var]",55
 15,Pranav-20186017,HP_Calculator,,https://github.com/Pranav-20186017/HP_Calculator,https://api.github.com/repos/HP_Calculator/Pranav-20186017,A Simple Python Script to Caculated the Percentage of Amount Invested in each equity by parsing the holdings statement in csv format,"# HP_Calculator
 
 A Simple Python Script to Caculated the Percentage of Amount Invested in each equity by parsing the holdings statement in csv format
@@ -1053,10 +1053,10 @@ This Script only works for Holding Statement from Zerodha (Use the Download opti
 Edit the holdings.csv file if you want to recalculate your Percetage before making an Investement. Just Enter the Symbol of the stock under the column **Instrument**, enter the qunatity of stock you want to purchase under the column **Qty.** and lastly enter the price at which you wnat to buy that stock under the column **Avg. cost**
 
 After entering these values in a new cell at the end in the csv file, re run the script to see the new percentages should you buy a new stock.
-",0,0,1,0,equity-markets,"[equity-markets, finance, investing]",0.0
+",0,0,1,0,equity-markets,"[equity-markets, finance, investing]",55
 16,zavtech,morpheus-google,zavtech,https://github.com/zavtech/morpheus-google,https://api.github.com/repos/morpheus-google/zavtech,An adapter that returns Morpheus DataFrames from Google Finance,"# morpheus-google
 A data loading adapter that returns Morpheus DataFrames from Google Finance
-",0,0,2,2,equity-markets,"[equity-markets, finance, financial-analysis, financial-data, market, marketdata, quotes, stock-market]",0.0
+",0,0,2,2,equity-markets,"[equity-markets, finance, financial-analysis, financial-data, market, marketdata, quotes, stock-market]",55
 17,dipankargoswami,telebot-eq-in,,https://github.com/dipankargoswami/telebot-eq-in,https://api.github.com/repos/telebot-eq-in/dipankargoswami,A telegram bot implemented in c++.,"# telebot-eq-in
 A telegram bot implemented in c++.
 
@@ -1074,7 +1074,7 @@ Code currently depends on the following libraries -
 * Boost
 * Openssl
 * cpprestsdk
-",0,0,1,0,equity-markets,"[bse, cplusplus, cplusplus-17, cpprestsdk, equity, equity-markets, frontoffice, nse, stock-market, telegram, telegram-bot, telegram-bot-api]",0.0
+",0,0,1,0,equity-markets,"[bse, cplusplus, cplusplus-17, cpprestsdk, equity, equity-markets, frontoffice, nse, stock-market, telegram, telegram-bot, telegram-bot-api]",55
 18,gouravdidwania,Portfolio-Optimizing-System,,https://github.com/gouravdidwania/Portfolio-Optimizing-System,https://api.github.com/repos/Portfolio-Optimizing-System/gouravdidwania,Model to filter out specified number of bad stocks each month from our portfolio and add better performing stocks from a given wide range of stocks.,"<!-- PROJECT LOGO -->
 ![portfolio](https://user-images.githubusercontent.com/86877457/135084460-58cfd65c-5482-4b98-90e1-65ca10c88431.jpg)
 <br />
@@ -1319,7 +1319,7 @@ Our model efficiently showed the desired portfolio for each month.
 ## Final Thoughts
 
 From the above analysis, we can see that this method actually improves the returns from stocks significantly. May not work in every case but can show some splendid results for some specific portfolio and the values of n and x. For further improvements, we can apply a loop to find the best value of x and n. And also we can find the time after which we should change the x and n values.
-",0,0,1,0,equity-markets,"[cagr, equity-markets, finance, potfolio, python, sensex, sharpe-ratio, stock, stock-market, trading]",0.0
+",0,0,1,0,equity-markets,"[cagr, equity-markets, finance, potfolio, python, sensex, sharpe-ratio, stock, stock-market, trading]",55
 19,stevetulig,distance-to-default-calculation-in-python,,https://github.com/stevetulig/distance-to-default-calculation-in-python,https://api.github.com/repos/distance-to-default-calculation-in-python/stevetulig,"Python code for calculating the Merton model distance-to-default, including interactions with SQL server to extract the raw data.","# distance-to-default-calculation-and-trading-strategies
 Python code for calculating the Merton model distance-to-default, including interactions with SQL server to extract the raw data.
 Distance-to-default is a measure of default risk. For a comprehensive discussion including calculation methodology and applications to equity markets refer to Vassalou and Xing (2004)[^1][^2].
@@ -1330,7 +1330,7 @@ The file distance_to_default.py calls the functions in script 1 and performs the
 
 [^1]: Vassalou, M. and Y. Xing (2004). ""Default Risk in Equity Returns."" The Journal of finance (New York) 59(2): 831-868.
 [^2]: However, note that the conclusions of Vassalou and Xing (2004) regarding the pricing of default risk in equity markets are somewhat contrary to the majority of studies in this area.
-",0,0,1,0,equity-markets,"[equity-markets, pandas, pyodbc, python, sql]",0.0
+",0,0,1,0,equity-markets,"[equity-markets, pandas, pyodbc, python, sql]",55
 20,GStechschulte,Bayesian_Returns,,https://github.com/GStechschulte/Bayesian_Returns,https://api.github.com/repos/Bayesian_Returns/GStechschulte,Using Bayesian inference to incorporate a forward looking prior to compute the uncertainty of equity returns and volatility. ,"- **Motivation**:
     - Investments with high returns are desirable. In regard to stocks, using the historical dataset is unwise as the parameter of interest is subject to change
         - Parameter(s) of interest include:
@@ -1349,7 +1349,7 @@ The file distance_to_default.py calls the functions in script 1 and performs the
     - In Bayesian Inference, we have access to the parameters posterior distribution which will allow us to use MCMC to sample thousands of data points from that distribution. From there, we use model diagnostics, interpret the output of the JAGS model, and compute probabilities for our parameters (mu and sigma)
         - By incorporating forward looking priors complemented with having access to the posterior distribution, we can assess the probability of achieving a particular mean monthly return and mean monthly volatility 
 
-",0,0,1,0,equity-markets,"[bayesian-inference, equity-markets, probabilistic-programming, stock-data]",0.0
+",0,0,1,0,equity-markets,"[bayesian-inference, equity-markets, probabilistic-programming, stock-data]",55
 21,tradytics,eiten,,https://github.com/tradytics/eiten,https://api.github.com/repos/eiten/tradytics,Statistical and Algorithmic Investing Strategies for Everyone,"<p align=""center"">
   <img width=""325"" src=""figures/normal-512x512.png"">
 </p>
@@ -1476,7 +1476,7 @@ Special thanks to [Scott Rome's](https://srome.github.io/) blog. The eigen portf
 A product by [Tradytics](https://www.tradytics.com/)
 
 Copyright (c) 2020-present, Tradytics.com
-",2608,2608,97,15,investment-portfolio,"[ai, algorithmic-trading, eigenvalues, free-software, genetic-algorithm, hedgefund, investment-portfolio, machine-learning, opensource, portfolio-optimization, statistics, trading-algorithms, trading-strategies, tradytics]",0.0
+",2608,2608,97,15,investment-portfolio,"[ai, algorithmic-trading, eigenvalues, free-software, genetic-algorithm, hedgefund, investment-portfolio, machine-learning, opensource, portfolio-optimization, statistics, trading-algorithms, trading-strategies, tradytics]",55
 22,portfolio-performance,portfolio,portfolio-performance,https://github.com/portfolio-performance/portfolio,https://api.github.com/repos/portfolio/portfolio-performance,"Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.","# About
 
 [Portfolio Performance](https://www.portfolio-performance.info): Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
@@ -1512,7 +1512,7 @@ Copyright (c) 2020-present, Tradytics.com
 
 Eclipse Public License
 https://www.eclipse.org/legal/epl-v10.html
-",2365,2365,74,760,investment-portfolio,"[eclipse, financial, investment-portfolio, java, portfolio, portfolio-performance, stocks]",0.0
+",2365,2365,74,760,investment-portfolio,"[eclipse, financial, investment-portfolio, java, portfolio, portfolio-performance, stocks]",55
 23,ashchan,returns,,https://github.com/ashchan/returns,https://api.github.com/repos/returns/ashchan,Track your multiple investment or portfolios and calculate returns in one place.,"# Portfolio Returns <img src=""Shared/Assets.xcassets/AppIcon.appiconset/icon_256x256.png"" style=""width: 40px;"" align=""left"">
 
 Portfolio Returns is a financial app for macOS that helps you track your multiple investment or portfolios in one place.
@@ -1555,7 +1555,7 @@ To use this app, be sure your Mac is running macOS 11 Big Sur or later.
 
 Portfolio Returns is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
-",263,263,7,0,investment-portfolio,"[finance-management, investment-calculator, investment-portfolio, swiftui]",0.0
+",263,263,7,0,investment-portfolio,"[finance-management, investment-calculator, investment-portfolio, swiftui]",55
 24,microprediction,precise,,https://github.com/microprediction/precise,https://api.github.com/repos/precise/microprediction,World beating online covariance and portfolio construction.,"# precise [docs](https://microprediction.github.io/precise/) ![tests](https://github.com/microprediction/precise/workflows/tests/badge.svg) ![tests-scipy-173](https://github.com/microprediction/precise/workflows/tests-scipy-173/badge.svg) ![tests-sans-ppo](https://github.com/microprediction/precise/workflows/tests-sans-ppo/badge.svg)  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Contents:
@@ -1633,7 +1633,7 @@ Not investment advice. Not M6 entry advice. Just a bunch of code subject to the 
 
 
 
-",166,166,7,22,investment-portfolio,"[covariance-estimation, covariance-matrix, investment-portfolio, portfolio]",0.0
+",166,166,7,22,investment-portfolio,"[covariance-estimation, covariance-matrix, investment-portfolio, portfolio]",55
 25,wzhe06,soccerbet,,https://github.com/wzhe06/soccerbet,https://api.github.com/repos/soccerbet/wzhe06,A Soccer Bet Portfolio Strategy Project,"# SoccerBet
 一个研究足球彩票购买策略的小项目
 
@@ -1660,8 +1660,8 @@ Not investment advice. Not M6 entry advice. Just a bunch of code subject to the 
 	win:	168 Pinnbet	4.2	27                  //从Pinnbet下注 27%的资金押胜 (其中168是公司id，Pinnbet是公司名称，4.2是赔率，27是押27%的资金)
 	draw:	168 Pinnbet	3.5	32                  //从Pinnbet下注 32%的资金押平
 	lose:	26 Leon	2.68	41                          //从Leon下注 41%的资金押负
-",122,122,18,0,investment-portfolio,"[investment-portfolio, portfolio, python, soccer-bet, soccer-matches]",0.0
-26,MarcelBeining,EazeBot,,https://github.com/MarcelBeining/EazeBot,https://api.github.com/repos/EazeBot/MarcelBeining,Free python/telegram bot for easy execution and surveillance of crypto trading plans on multiple exchanges.,,105,105,10,12,investment-portfolio,"[crypto, cryptocurrencies, cryptotrader, exchange, investment-portfolio, portfolio-management, python, strategy, telegram-bot, trading, trading-bot]",0.0
+",122,122,18,0,investment-portfolio,"[investment-portfolio, portfolio, python, soccer-bet, soccer-matches]",55
+26,MarcelBeining,EazeBot,,https://github.com/MarcelBeining/EazeBot,https://api.github.com/repos/EazeBot/MarcelBeining,Free python/telegram bot for easy execution and surveillance of crypto trading plans on multiple exchanges.,,105,105,10,12,investment-portfolio,"[crypto, cryptocurrencies, cryptotrader, exchange, investment-portfolio, portfolio-management, python, strategy, telegram-bot, trading, trading-bot]",55
 27,empenoso,SilverFir-Investment-Report,,https://github.com/empenoso/SilverFir-Investment-Report,https://api.github.com/repos/SilverFir-Investment-Report/empenoso,"SilverFir: Investment Report :evergreen_tree:                       Инвестиционный отчёт в гугл доках, куда можно добавить любой актив и скачивать цену автоматически","# SilverFir: Investment Report :evergreen_tree:
 Серьезно занимаетесь инвестициями? Акции, облигации, арендная недвижимость, Unit-Linked, ETF, вклады, ПИФы, НСЖ… Сможете прямо сейчас оценить совокупную стоимость своих активов и сказать насколько она изменилась за последний месяц и какой дивидендный доход принесёт в следующем месяце?
 
@@ -1704,12 +1704,12 @@ Not investment advice. Not M6 entry advice. Just a bunch of code subject to the 
 
 
 
-",90,90,16,0,investment-portfolio,"[investment-analysis, investment-portfolio]",0.0
+",90,90,16,0,investment-portfolio,"[investment-analysis, investment-portfolio]",55
 28,sabirjana,blog,,https://github.com/sabirjana/blog,https://api.github.com/repos/blog/sabirjana,Code and data for my blogs,"# blog
 This repository hold code and related material for my posts and articles. You can access these at https://www.linkedin.com/in/sabirjana/detail/recent-activity/shares/ or
 https://medium.com/@sabirh.jana
 
-",83,83,4,2,investment-portfolio,"[finance, investment-analysis, investment-portfolio, portfolio, python, quantitative-finance]",0.0
+",83,83,4,2,investment-portfolio,"[finance, investment-analysis, investment-portfolio, portfolio, python, quantitative-finance]",55
 29,englianhu,binary.com-interview-question,,https://github.com/englianhu/binary.com-interview-question,https://api.github.com/repos/binary.com-interview-question/englianhu,The sample question for Interview a job in Binary options,"
 <img src='文艺坊图库/世博量化.png' height='100'> <img src='文艺坊图库/大秦赋 - 北京大学.png' height='100'>
 
@@ -1904,7 +1904,7 @@ Below are some seasonal time series models:
 
 [<img src=""文艺坊图库/Scibrokes.png"" height=""14""/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
 [<img src=""文艺坊图库/Scibrokes.png"" height=""14""/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。
-",55,55,6,4,investment-portfolio,"[acd, arima, bayesian, betting, elastic-net, ets, garch, investment, investment-portfolio, investment-strategies, kelly-criterion, lasso-regression, markowitz-portfolio, mcmc, ridge-regression, statistics]",0.0
+",55,55,6,4,investment-portfolio,"[acd, arima, bayesian, betting, elastic-net, ets, garch, investment, investment-portfolio, investment-strategies, kelly-criterion, lasso-regression, markowitz-portfolio, mcmc, ridge-regression, statistics]",55
 30,IBM,personal-wealth-portfolio-mgt-bot,IBM,https://github.com/IBM/personal-wealth-portfolio-mgt-bot,https://api.github.com/repos/personal-wealth-portfolio-mgt-bot/IBM,WARNING: This repository is no longer maintained ⚠️ This repository will not be updated. This repository will be kept available in read-only mode.,"# WARNING: This repository is no longer maintained :warning:
 
 > This repository will not be updated. This repository will be kept available in read-only mode. 
@@ -2285,7 +2285,7 @@ This code pattern is licensed under the Apache Software License, Version 2.  Sep
 
 [Apache Software License (ASL) FAQ](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
 
-",45,45,21,0,investment-portfolio,"[financial, ibm-developer-technology-fintech, ibmcode, investment-portfolio, portfolio-investment, simulated-instrument-analytics, twilio, watson-conversation]",0.0
+",45,45,21,0,investment-portfolio,"[financial, ibm-developer-technology-fintech, ibmcode, investment-portfolio, portfolio-investment, simulated-instrument-analytics, twilio, watson-conversation]",55
 31,mbk-dev,okama-dash,mbk-dev,https://github.com/mbk-dev/okama-dash,https://api.github.com/repos/okama-dash/mbk-dev,Python financial widgets with okama and Dash (plotly),"[![Python](https://img.shields.io/badge/python-v3-brightgreen.svg)](https://www.python.org/)
 [![License](https://img.shields.io/pypi/l/okama.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -2352,7 +2352,7 @@ For production, we recommend using [gunicorn](https://gunicorn.org/#docs) WSGI s
 ## License
 
 MIT
-",39,39,1,5,investment-portfolio,"[asset-allocation, dash, data-science, efficient-frontier, finance, investment-portfolio, market-data, okama, plotly, plotly-dash, portfolio-optimization, python, quantative-finance, stock, stock-market, wealth-index]",0.0
+",39,39,1,5,investment-portfolio,"[asset-allocation, dash, data-science, efficient-frontier, finance, investment-portfolio, market-data, okama, plotly, plotly-dash, portfolio-optimization, python, quantative-finance, stock, stock-market, wealth-index]",55
 32,IBM,Predictive-Market-Stress-Testing,IBM,https://github.com/IBM/Predictive-Market-Stress-Testing,https://api.github.com/repos/Predictive-Market-Stress-Testing/IBM,WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode.,"# WARNING: This repository is no longer maintained :warning:
 
 > This repository will not be updated. The repository will be kept available in read-only mode.
@@ -2567,7 +2567,7 @@ python SimulatedInstrumentAnalytics.py
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 [Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
-",29,29,13,0,investment-portfolio,"[fintech, ibm-cloud, ibmcode, investment-portfolio]",0.0
+",29,29,13,0,investment-portfolio,"[fintech, ibm-cloud, ibmcode, investment-portfolio]",55
 33,dchrostowski,investopedia_simulator_api,,https://github.com/dchrostowski/investopedia_simulator_api,https://api.github.com/repos/investopedia_simulator_api/dchrostowski,"A simple Python API for Investopedia's stock simulator games.  This programmatically logs into Investopedia and can retrieve portfolio summary, get stock quotes & option chain lookups, execute trades - buy & sell shares, puts, calls, sell short, etc.","## Description
 A simple Python API for Investopedia's stock simulator games.  
 
@@ -2656,7 +2656,7 @@ if trade.validated:
 
 ## More Info / Documentation ##
 This is a work in progress.  I'll add more documentation as I continue developing.  I also plan on making this a module and publishing to pip.
-",29,29,1,10,investment-portfolio,"[api, api-wrapper, investment-portfolio, options-trading, python, python3, stock-market, stock-trading]",0.0
+",29,29,1,10,investment-portfolio,"[api, api-wrapper, investment-portfolio, options-trading, python, python3, stock-market, stock-trading]",55
 34,georgemuriithi,investment-portfolio-optim,,https://github.com/georgemuriithi/investment-portfolio-optim,https://api.github.com/repos/investment-portfolio-optim/georgemuriithi,An investment portfolio of stocks is created using Long Short-Term Memory (LSTM) stock price prediction and optimized weights. The performance of this portfolio is better compared to an equally weighted portfolio and a market capitalization-weighted portfolio.,"# Investment Portfolio Optimization
 
 <a href=""https://github.com/georgemuriithi/investment-portfolio-optim/blob/main/LICENSE"">
@@ -2701,7 +2701,7 @@ LSTM model **parameters:**
 - `num_epochs=10000`
 
 ***GPU** is leveraged.*
-",23,23,2,0,investment-portfolio,"[deep-learning, investment-portfolio, lstm, python, pytorch, stock-price-prediction, time-series-forecasting]",0.0
+",23,23,2,0,investment-portfolio,"[deep-learning, investment-portfolio, lstm, python, pytorch, stock-price-prediction, time-series-forecasting]",55
 35,cryptospaniards,simulator,,https://github.com/cryptospaniards/simulator,https://api.github.com/repos/simulator/cryptospaniards,Cryptocurrency Simulator: Invest fake money and play your strategies without risking real money,"# CS Simulator
 Cryptocurrency Simulator: Invest fake money and play your strategies without risking real money
 
@@ -2719,7 +2719,7 @@ https://cryptospaniards.com/simulator/
    - Order keys alphabetically 
    - Make sure there are no duplicates or empty keys
    - Make sure to follow the same exact syntax: lower/uppercase, end dot (if any), parenthesis, etc.
-",18,18,3,0,investment-portfolio,"[crypto, cryptocurrencies, cryptocurrency, cryptocurrency-exchanges, cryptocurrency-portfolio, cryptocurrency-prices, english, game, investment, investment-portfolio, investment-strategies, portfolio, simulation, simulator, spanish, trading, trading-strategies]",0.0
+",18,18,3,0,investment-portfolio,"[crypto, cryptocurrencies, cryptocurrency, cryptocurrency-exchanges, cryptocurrency-portfolio, cryptocurrency-prices, english, game, investment, investment-portfolio, investment-strategies, portfolio, simulation, simulator, spanish, trading, trading-strategies]",55
 36,MarkusZoppelt,portfolio_rs,,https://github.com/MarkusZoppelt/portfolio_rs,https://api.github.com/repos/portfolio_rs/MarkusZoppelt,A command line tool for managing financial investment portfolios.,"<p align=""center"">
     <img src=""https://raw.githubusercontent.com/MarkusZoppelt/portfolio_rs/main/img/logo.png"" alt=""portfolio_rs logo""><br>
     <img src=""https://github.com/markuszoppelt/portfolio_rs/actions/workflows/rust.yml/badge.svg"" alt=""build status badge"">
@@ -2780,7 +2780,7 @@ Decrypted values are never written to disk.
 
 Pro Tip: Use a plugin like [vim-gnupg](https://github.com/jamessan/vim-gnupg)
 for editing your data file.
-",18,18,2,3,investment-portfolio,"[cli-app, investment-portfolio, personal-finance]",0.0
+",18,18,2,3,investment-portfolio,"[cli-app, investment-portfolio, personal-finance]",55
 37,portfoliome,alphavantage,portfoliome,https://github.com/portfoliome/alphavantage,https://api.github.com/repos/alphavantage/portfoliome,Python Wrapper for Alphavantage API,"[![Build Status](https://travis-ci.org/portfoliome/alphavantage.svg?branch=master)](https://travis-ci.com/portfoliome/alpavantage)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portfoliome/alphavantage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portfoliome/alphavantage/?branch=master)
 
@@ -2901,13 +2901,13 @@ py.test
 ```sh
 py.test --cov
 ```
-",16,16,4,3,investment-portfolio,"[alphavantage, equities, finance, fintech, historical-data, historical-prices, investment-portfolio, investments, price-ticker, securities, stock-data, stock-market]",0.0
+",16,16,4,3,investment-portfolio,"[alphavantage, equities, finance, fintech, historical-data, historical-prices, investment-portfolio, investments, price-ticker, securities, stock-data, stock-market]",55
 38,PhoenixDD,Hedge-Fund-replication,,https://github.com/PhoenixDD/Hedge-Fund-replication,https://api.github.com/repos/Hedge-Fund-replication/PhoenixDD,This project tries to replicate hedge funds returns.,"# Hedge Fund replication
 Description:<br/>
 This project tries to replicate hedge funds returns by using genetic algorithm to find optimal assets from a set of about 4000 assets for training the linear regression model and then displaying the best match and accuracy for returns after testing the data.<br/>
 Based on the paper ""Hedge fund replication with a genetic algorithm : breeding a usable mousetrap"" by Brian C.Payne and Jiri Tresl.<br/>
 <br/>
-Feel free improve/add more stuff and make commits",16,16,3,0,investment-portfolio,"[genetic-algorithms, hedgefund, investment-portfolio, investment-strategies, linear-regression, machine-learning, regression]",0.0
+Feel free improve/add more stuff and make commits",16,16,3,0,investment-portfolio,"[genetic-algorithms, hedgefund, investment-portfolio, investment-strategies, linear-regression, machine-learning, regression]",55
 39,QuhiQuhihi,project_Asset_Allocation,,https://github.com/QuhiQuhihi/project_Asset_Allocation,https://api.github.com/repos/project_Asset_Allocation/QuhiQuhihi,quantitative asset allocation strategy,"# Project Quant
 ## Quantitative strategy with python
 
@@ -2949,7 +2949,7 @@ Feel free improve/add more stuff and make commits",16,16,3,0,investment-portfoli
 ### Environment
 Use python 3.8.10
 Download from Anaconda.org
-",14,14,1,1,investment-portfolio,"[finance, investment, investment-portfolio, investment-strategies, quantitative-finance]",0.0
+",14,14,1,1,investment-portfolio,"[finance, investment, investment-portfolio, investment-strategies, quantitative-finance]",55
 40,shivanshsinghal107,Investment-Portfolio,,https://github.com/shivanshsinghal107/Investment-Portfolio,https://api.github.com/repos/Investment-Portfolio/shivanshsinghal107,A student Investment portfolio web app built with various optimization techniques and screening parameters from core finance,"# Student Investment Portfolio (SIP) [(Video Demo)](https://www.youtube.com/watch?v=-NEdES7bYRQ)
 ## Aim
 ***This web app is the one-stop destination for all your investment needs and leads to a path of financial freedom.***<br>
@@ -2983,7 +2983,7 @@ We have implemented following portfolio optimization techniques from scratch -
 
 ## Team Quantizers
 <img src=""static/quantizers.jpeg"" alt=""quantizers"" height=""900"" width=""700"">
-",13,13,3,1,investment-portfolio,"[asset-management, finance-management, investing, investment-portfolio, monte-carlo-simulations, portfolio-optimization, python, risk-management, sharpe-ratio, trading, webapp]",0.0
+",13,13,3,1,investment-portfolio,"[asset-management, finance-management, investing, investment-portfolio, monte-carlo-simulations, portfolio-optimization, python, risk-management, sharpe-ratio, trading, webapp]",55
 41,LastAncientOne,Beverages_Long_Term_Investment,,https://github.com/LastAncientOne/Beverages_Long_Term_Investment,https://api.github.com/repos/Beverages_Long_Term_Investment/LastAncientOne,Long-Term Investment in the Beverage Industry,"<p align=""center"">
         <img src=""Soda.PNG"">
 </p>       
@@ -3018,7 +3018,7 @@ We have implemented following portfolio optimization techniques from scratch -
 ## Disclaimer
 ## 🔴 This is not financial advice. Please conduct your own research and do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, it is recommended that you read books on investment, trading, the stock market, and finance. It is always advisable to consult a professional investment advisor before making any investment decisions. Remember, this information is provided for educational purposes only.
 
-",13,13,2,0,investment-portfolio,"[excel, investing, investment-analysis, investment-portfolio, investment-strategies, investments, longterm, stock, stock-analysis]",0.0
+",13,13,2,0,investment-portfolio,"[excel, investing, investment-analysis, investment-portfolio, investment-strategies, investments, longterm, stock, stock-analysis]",55
 42,LucS12,ESG-Score-Integration,,https://github.com/LucS12/ESG-Score-Integration,https://api.github.com/repos/ESG-Score-Integration/LucS12,Integrating ESG scores into asset allocation and portfolio optimization through a GUI application.,"# ESG-Score-Integration
 
 Project integrating ethically responsible criteria in investment portfolios through the use of proprietary ESG scores. The repo includes the following:
@@ -3048,7 +3048,7 @@ Project integrating ethically responsible criteria in investment portfolios thro
 - **data/esg_scores:** CSV files, Jupyter Notebook report, and Python code used to generate ESG scores for Nasdaq Composite Index members. 
 - **data/nasdaq-comp:** CSV and Python files used to gather ESG data from the Bloomberg Terminal.
 - **data/price-data:** CSV and Python files used to gather stock and index price data from the Bloomberg Terminal.
-",12,12,1,0,investment-portfolio,"[asset-allocation, esg, investment-portfolio, portfolio-optimization, python, wealth-management]",0.0
+",12,12,1,0,investment-portfolio,"[asset-allocation, esg, investment-portfolio, portfolio-optimization, python, wealth-management]",55
 43,chrisfosterelli,invest-timer,,https://github.com/chrisfosterelli/invest-timer,https://api.github.com/repos/invest-timer/chrisfosterelli,Simple Haskell simulation to determine best interval to invest in ETF's,"Invest Timer
 ============
 
@@ -3121,7 +3121,7 @@ graph is a $2,000 monthly investment with a $15 fee and an average return of 8%.
 This returns every second month as the most optimal.
 
 ![Chart 5](graphs/5.png)
-",12,12,2,0,investment-portfolio,"[haskell, investment-portfolio, simulation]",0.0
+",12,12,2,0,investment-portfolio,"[haskell, investment-portfolio, simulation]",55
 44,Leo1998-Lu,Dynamic-investment-model-based-on-machine-learning,,https://github.com/Leo1998-Lu/Dynamic-investment-model-based-on-machine-learning,https://api.github.com/repos/Dynamic-investment-model-based-on-machine-learning/Leo1998-Lu,"《基于机器学习的动态投资模型》——本人在2020第三届中青杯全国大学生数学建模赛B题本科生组全国一等奖（3%）的解决方案及过程代码，此次同样是全程独立完成所有内容。""Dynamic investment model based on machine learning""-my solution and process code in the undergraduate group of the 3rd China Youth Cup National University Mathematical Modeling Competition in 2020 (National first prize)","# Dynamic-investment-model-based-on-machine-learning
 《基于机器学习的动态投资模型》——本人在2020第三届中青杯全国大学生数学建模赛B题本科生组全国一等奖的解决方案及过程代码，此次同样是全程独立完成所有内容。
 *""Dynamic investment model based on machine learning""-my solution and process code in the undergraduate group of the 3rd China Youth Cup National University Mathematical Modeling Competition in 2020 (**National first prize**)*
@@ -3149,7 +3149,7 @@ This returns every second month as the most optimal.
 
 **比赛结果公示网址**http://zqb.52jingsai.com/price1.php
 
-",11,11,2,0,investment-portfolio,"[dynamic-investment, investment-portfolio, machine-learning]",0.0
+",11,11,2,0,investment-portfolio,"[dynamic-investment, investment-portfolio, machine-learning]",55
 45,gnmerritt,etf-balancer,,https://github.com/gnmerritt/etf-balancer,https://api.github.com/repos/etf-balancer/gnmerritt,Tax efficient ETF portfolio balancing,"[![Build Status](https://travis-ci.org/gnmerritt/etf-balancer.svg?branch=master)](https://travis-ci.org/gnmerritt/etf-balancer)
 
 # etf-balancer
@@ -3182,8 +3182,8 @@ I talk to the API via a google sheet which contains my account info, you can fin
 ![dashboard](./spreadsheet/dashboard.png)
 
 ![accounts](./spreadsheet/accounts.png)
-",11,11,1,0,investment-portfolio,"[actix-web, investment-portfolio, passive-investing, rust, vanguard]",0.0
-46,herget,investing-guide,,https://github.com/herget/investing-guide,https://api.github.com/repos/investing-guide/herget,,,11,11,3,0,investment-portfolio,"[amp, amp-html, guide, investing, investment, investment-portfolio, investments, tutorial]",0.0
+",11,11,1,0,investment-portfolio,"[actix-web, investment-portfolio, passive-investing, rust, vanguard]",55
+46,herget,investing-guide,,https://github.com/herget/investing-guide,https://api.github.com/repos/investing-guide/herget,,,11,11,3,0,investment-portfolio,"[amp, amp-html, guide, investing, investment, investment-portfolio, investments, tutorial]",55
 47,QGoGithub,Capture---Strategic,,https://github.com/QGoGithub/Capture---Strategic,https://api.github.com/repos/Capture---Strategic/QGoGithub,Quant Portfolio Approach to Alpha Generation and Retention,"# Alpha Capture
 Quantitative Portfolio Approach to Alpha Generation and Retention
 
@@ -3199,7 +3199,7 @@ Alpha Retention: Risk Management, Loop Implementation
 
 
 1. SMA(20) applying PyAlgoTrade Library
-",9,9,1,0,investment-portfolio,"[investment, investment-analysis, investment-portfolio, portfolio, quant, quantitative-finance, quantitative-trading, risk-management]",0.0
+",9,9,1,0,investment-portfolio,"[investment, investment-analysis, investment-portfolio, portfolio, quant, quantitative-finance, quantitative-trading, risk-management]",55
 48,romainsimon,awesome-investing,,https://github.com/romainsimon/awesome-investing,https://api.github.com/repos/awesome-investing/romainsimon,😎 List of awesome investing tools and software,"# Awesome Investing
 
 😎 List of awesome investing tools and software
@@ -3274,7 +3274,7 @@ I shared more information on some of these software in this blog article : [http
 
 ❤️ = personal favorite
 
-",8,8,1,1,investment-portfolio,"[awesome, awesome-list, finance, investing, investment, investment-portfolio, resources, stock-market]",0.0
+",8,8,1,1,investment-portfolio,"[awesome, awesome-list, finance, investing, investment, investment-portfolio, resources, stock-market]",55
 49,IBM,predictive-market-using-arria,IBM,https://github.com/IBM/predictive-market-using-arria,https://api.github.com/repos/predictive-market-using-arria/IBM,WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode.,"# WARNING: This repository is no longer maintained :warning:
 
 > This repository will not be updated. The repository will be kept available in read-only mode.
@@ -3540,7 +3540,7 @@ $ bx push
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
 
 [Apache Software License (ASL) FAQ](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
-",7,7,15,0,investment-portfolio,"[aria, ibm-cloud, ibmcode, investment-portfolio, portfolio]",0.0
+",7,7,15,0,investment-portfolio,"[aria, ibm-cloud, ibmcode, investment-portfolio, portfolio]",55
 50,cutting-edge-visionaries,CEV-Finance-and-Economics-Resources,cutting-edge-visionaries,https://github.com/cutting-edge-visionaries/CEV-Finance-and-Economics-Resources,https://api.github.com/repos/CEV-Finance-and-Economics-Resources/cutting-edge-visionaries,This is a list of resources for CEV's Aryavarta from the world of Finance and Economics.,"# CEV Finance and Economics Resources
 This is a list of resources for CEV's Aryavarta from the world of Finance and Economics. We regularly update it to suit our daily discussions in Aryavarta.
 
@@ -3593,7 +3593,7 @@ List of some really awesome online courses in the world of Finance and Economics
 1. [Hierarchial Risk Parity [Portfolio Optimization Algorithm]](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2708678_code87814.pdf?abstractid=2708678&mirid=1)
 2. [Momentum with volatility timimg](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3417360)
 3. [3 Quant lessons from COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562025)
-",6,6,1,0,investment-portfolio,"[economics, finance, investment-portfolio]",0.0
+",6,6,1,0,investment-portfolio,"[economics, finance, investment-portfolio]",55
 51,SunilVeeravalli,XIRR_in_R,,https://github.com/SunilVeeravalli/XIRR_in_R,https://api.github.com/repos/XIRR_in_R/SunilVeeravalli,XIRR (using R) to calculate return on investments done at different time periods which need not be periodic.,"XIRR calculation (in R)
 =======================
 
@@ -3715,7 +3715,7 @@ xirr(negative.returns)
     ## [1] ""XIRR is -79.845%""
 
 That is, the return of our portfolio is **-79.845%** per annum.
-",6,6,1,1,investment-portfolio,"[cagr, compounded-annual-growth-rate, excel, excel-cagr, excel-irr, excel-xirr, internal-rate-of-return, investment-analysis, investment-portfolio, investments, irr, r, redemptions, return, returns-calculator, rstudio, xirr]",0.0
+",6,6,1,1,investment-portfolio,"[cagr, compounded-annual-growth-rate, excel, excel-cagr, excel-irr, excel-xirr, internal-rate-of-return, investment-analysis, investment-portfolio, investments, irr, r, redemptions, return, returns-calculator, rstudio, xirr]",55
 52,Femi-tech,Robo-Advisor,,https://github.com/Femi-tech/Robo-Advisor,https://api.github.com/repos/Robo-Advisor/Femi-tech,Creating  a Robo Advisor for Retirement Plans,"# The Power of the Cloud and Unsupervised Learning
 
 
@@ -3895,7 +3895,7 @@ You should create a brand new repository in GitHub and upload the following file
 
 * Create and upload a repository with the above files to GitHub and you are done!
 
-",6,6,1,0,investment-portfolio,"[amazon-lex-bot, investment-portfolio, lambda, retirement, robo-advisor]",0.0
+",6,6,1,0,investment-portfolio,"[amazon-lex-bot, investment-portfolio, lambda, retirement, robo-advisor]",55
 53,hyyking,markowitz,,https://github.com/hyyking/markowitz,https://api.github.com/repos/markowitz/hyyking,Layout script interpreter and library to visualise markowitz's modern portfolio theory,"# PyMarkowitz
 
 ## Purpose
@@ -3999,7 +3999,7 @@ You can extend the available graphs and sets by adding them in the `markowitz/gr
 - This project is licenced under MIT, see `LICENSE.md` for more information.
 - Produced by Léo Duret as part of his annual project following the
   [CMI EFiQuaS](cmi-efiquas.u-paris2.fr) curriculum.
-",6,6,0,1,investment-portfolio,"[financial, financial-portfolio-management, investment-portfolio, modern-portfolio-theory, statistics]",0.0
+",6,6,0,1,investment-portfolio,"[financial, financial-portfolio-management, investment-portfolio, modern-portfolio-theory, statistics]",55
 54,Vinnitschenko,Statmetrics-Android,,https://github.com/Vinnitschenko/Statmetrics-Android,https://api.github.com/repos/Statmetrics-Android/Vinnitschenko,Mobile App Solution for Portfolio Analytics and Investment Management,"# Statmetrics - Mobile App for Investment & Portfolio Analytics
 <img src=""https://raw.githubusercontent.com/Vinnitschenko/Statmetrics-Android/master/statmetrics.jpg"">
 
@@ -4020,7 +4020,7 @@ You can extend the available graphs and sets by adding them in the `markowitz/gr
 [Google Play](https://play.google.com/store/apps/details?id=org.statmetrics.app&referrer=utm_source%3Dgithub.com) | 
 [Twitter](https://twitter.com/statmetrics) | 
 [Facebook](https://www.facebook.com/Statmetrics-110841637303428/) | [LinkedIn](https://www.linkedin.com/company/statmetrics/)
-",6,6,0,0,investment-portfolio,"[analytics, android, app, econometric-analysis, econometrics, economics, finance, financial-markets, investment, investment-analysis, investment-portfolio, portfolio, portfolio-management, portfolio-optimization, quantitative-finance, statistical-models, stock-analysis, stock-market, technical-analysis, trading]",0.0
+",6,6,0,0,investment-portfolio,"[analytics, android, app, econometric-analysis, econometrics, economics, finance, financial-markets, investment, investment-analysis, investment-portfolio, portfolio, portfolio-management, portfolio-optimization, quantitative-finance, statistical-models, stock-analysis, stock-market, technical-analysis, trading]",55
 55,tngaspar,factor-risk-parity,,https://github.com/tngaspar/factor-risk-parity,https://api.github.com/repos/factor-risk-parity/tngaspar,Factor Risk Parity Portfolio Construction algorithm. Built during my Master's. final project. Backtested on the S&P500.,"<div id=""top""></div>
 <br />
 <div align=""center"">
@@ -4055,10 +4055,10 @@ The main objective was to build and backtest a Factor Risk parity Investement st
 <img src=""Plots/FRP_underwater.png"" alt=""underwater plot"" width=""640"" class=""center""/>
 </p>
 
-",6,6,1,0,investment-portfolio,"[finance, investment-portfolio, risk-parity]",0.0
+",6,6,1,0,investment-portfolio,"[finance, investment-portfolio, risk-parity]",55
 56,tohid-yousefi,Meta-Heuristics,,https://github.com/tohid-yousefi/Meta-Heuristics,https://api.github.com/repos/Meta-Heuristics/tohid-yousefi,"In this section, I share the Meta-Heuristic algorithm codes that I wrote myself","# Meta-Heuristics
 In this section, I share the Meta-Heuristic algorithm codes that I wrote myself
-",5,5,1,1,investment-portfolio,"[co-evolution, cpso, curve-fitting, differential-evolution, dispatching-system, economic-dispatch-problem, genetic-algorithm, grasshopper-optimization-algorithm, huristic, hybrid-algorithms, integer-programming, investment-portfolio, knapsack-problem, matlab, meta-heuristic, non-dominated-sorting, nsga-ii, particle-swarm-optimization, path-planning, sphere]",0.0
+",5,5,1,1,investment-portfolio,"[co-evolution, cpso, curve-fitting, differential-evolution, dispatching-system, economic-dispatch-problem, genetic-algorithm, grasshopper-optimization-algorithm, huristic, hybrid-algorithms, integer-programming, investment-portfolio, knapsack-problem, matlab, meta-heuristic, non-dominated-sorting, nsga-ii, particle-swarm-optimization, path-planning, sphere]",55
 57,KhanhHua2102,Monetize.ai,,https://github.com/KhanhHua2102/Monetize.ai,https://api.github.com/repos/Monetize.ai/KhanhHua2102,"Monetize.ai is a web-based chatbot that provides personalized investment advice using GPT-3.5 and Yahoo Finance API. It's built using Flask, SQLite, HTML, CSS, JavaScript, Bootstrap, and jQuery. The project is open-source and welcomes contributions.","<a name=""readme-top""></a>
 
 <!-- PROJECT LOGO -->
@@ -4325,7 +4325,7 @@ Quang Khanh Hua - henry@khanhhua2102.com
 [JQuery-url]: https://jquery.com 
 
 <p align=""right"">(<a href=""#readme-top"">back to top</a>)</p>
-",5,5,2,0,investment-portfolio,"[chatbot, finance-management, financial-analysis, investment-portfolio]",0.0
+",5,5,2,0,investment-portfolio,"[chatbot, finance-management, financial-analysis, investment-portfolio]",55
 58,Dorsa-Arezooji,PortoDash,,https://github.com/Dorsa-Arezooji/PortoDash,https://api.github.com/repos/PortoDash/Dorsa-Arezooji,A Shiny R app for Visualizing Investment Portfolios + Risk Analysis + Optimization,"<img src='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/images/PortoDash_logo.png' width='400px'>
 
 <img src='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/images/PortoDash_Demo.gif' width='100%'>
@@ -4361,7 +4361,7 @@ Quang Khanh Hua - henry@khanhhua2102.com
 ---
 
 &#169;<a href='https://Dorsa-Arezooji.github.io'> Dorsa Arezooji</a> 2021
-",4,4,2,0,investment-portfolio,"[dashboard, finanace, fintech, investment-portfolio, portfolio, r, risk, shiny]",0.0
+",4,4,2,0,investment-portfolio,"[dashboard, finanace, fintech, investment-portfolio, portfolio, r, risk, shiny]",55
 59,ksgr5566,Site,,https://github.com/ksgr5566/Site,https://api.github.com/repos/Site/ksgr5566,Manage your investments and track your stocks in multiple portfolios with the SITE webapp.,"# Site
 
 You can manage your investments and track your stocks in multiple portfolios with Site.
@@ -4404,7 +4404,7 @@ Relational Model
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-",4,4,1,0,investment-portfolio,"[database, investment-portfolio, mysql, nodejs, reactjs, sql, stocks]",0.0
+",4,4,1,0,investment-portfolio,"[database, investment-portfolio, mysql, nodejs, reactjs, sql, stocks]",55
 60,EsbernJakobsen,Investments-Performance-Report-Generator,,https://github.com/EsbernJakobsen/Investments-Performance-Report-Generator,https://api.github.com/repos/Investments-Performance-Report-Generator/EsbernJakobsen,A Python program that downloads historical price data for your investments and presents plots of them in a PDF report. ,"## Investments Performance Report Generator
 This is a Python script used for looking up the historical price action of your former investment holdings during the time that you owned them.
 The program then generates a PDF report with plots of the price action during the time period (plus a little extra) in which you held those investments.
@@ -4442,7 +4442,7 @@ The dependencies for this script are:
 #### Licensing
 This software is under the MIT license.
 #### Contact
-If you have any issues or ideas, don't hesitate to get in touch.",3,3,1,0,investment-portfolio,"[investing-com, investment-portfolio, python, yahoo-finance]",0.0
+If you have any issues or ideas, don't hesitate to get in touch.",3,3,1,0,investment-portfolio,"[investing-com, investment-portfolio, python, yahoo-finance]",55
 61,lorenzbr,PortfolioTrackerDocs,,https://github.com/lorenzbr/PortfolioTrackerDocs,https://api.github.com/repos/PortfolioTrackerDocs/lorenzbr,Documentation of the Portfolio Tracker,"
 # Documentation of the Portfolio Tracker <a href=''><img src='man/figures/hex-PT.png' align=""right"" height=""120"" style=""float:right; height:120px;"" /></a>
 
@@ -4541,7 +4541,7 @@ This R package is licensed under the GNU General Public License v3.0.
 See
 [here](https://github.com/lorenzbr/PortfolioTrackerDocs/blob/master/LICENSE)
 for further information.
-",3,3,1,0,investment-portfolio,"[documentation, finance, investment-analysis, investment-portfolio, portfolio-management, portfolio-performance, shiny-apps, shiny-r, stock-market]",0.0
+",3,3,1,0,investment-portfolio,"[documentation, finance, investment-analysis, investment-portfolio, portfolio-management, portfolio-performance, shiny-apps, shiny-r, stock-market]",55
 62,BradleyHe,testfolio,,https://github.com/BradleyHe/testfolio,https://api.github.com/repos/testfolio/BradleyHe,Quick portfolio backtesting and visualization,"# testfolio
 <a target=""new"" href=""https://pypi.org/pypi/testfolio""><img border=0 src=""https://img.shields.io/badge/python-3.6%2B-blue""></a>
 <a target=""new"" href=""https://pypi.org/pypi/testfolio""><img border=0 src=""https://img.shields.io/pypi/dm/testfolio""></a>
@@ -4699,7 +4699,7 @@ tsf.graph_rolling_returns(backtest_1, backtest_2, interval=24, path='rolling_ret
 ![drawdowns](https://github.com/BradleyHe/testfolio/raw/main/example/drawdowns.png)
 ![rolling_returns](https://github.com/BradleyHe/testfolio/raw/main/example/rolling_returns.png)
 
-",3,3,2,0,investment-portfolio,"[backtesting, finance, investment-portfolio, pandas, python, yfinance]",0.0
+",3,3,2,0,investment-portfolio,"[backtesting, finance, investment-portfolio, pandas, python, yfinance]",55
 63,vpozdnyakov,invest_optimization,,https://github.com/vpozdnyakov/invest_optimization,https://api.github.com/repos/invest_optimization/vpozdnyakov,Portfolio generator based on MOEX Russia Index,"# Portfolio generator based on MOEX Russia Index
 
 This notebook shows how to generate a portfolio based on [MOEX Russia Index](https://en.wikipedia.org/wiki/MOEX_Russia_Index). You need only set the total amount of investment. This method based on the Branch and Bound solver [ECOS_BB](https://github.com/embotech/ecos#mixed-integer-socps-ecos_bb).
@@ -4710,7 +4710,7 @@ The latest version of [cvxpy](https://github.com/cvxgrp/cvxpy) package does not 
 $pip uninstall cvxpy
 $pip install cvxpy==1.0.31
 ```
-",2,2,2,0,investment-portfolio,"[cvxpy, integer-programming, investment-portfolio, moex]",0.0
+",2,2,2,0,investment-portfolio,"[cvxpy, integer-programming, investment-portfolio, moex]",55
 64,sainigurcharan,Investment-Forcasting,,https://github.com/sainigurcharan/Investment-Forcasting,https://api.github.com/repos/Investment-Forcasting/sainigurcharan,Algorithm Based Asset Allocation,"# Investment Forcasting
 Follow the below link to experience the deployed website for this project:
 https://investowiz.herokuapp.com
@@ -4733,7 +4733,7 @@ Below is the list of Folders and Files used for deployment on Heroku:
 * runtime.txt (File for python version)
 
 Thank you!
-",2,2,1,2,investment-portfolio,"[bootstrap, clustering-algorithm, css, d3, investment-portfolio, javascript, linear-regression, logistic-regression, pandas, plotly, python, random-forest, regex, scikit-learn]",0.0
+",2,2,1,2,investment-portfolio,"[bootstrap, clustering-algorithm, css, d3, investment-portfolio, javascript, linear-regression, logistic-regression, pandas, plotly, python, random-forest, regex, scikit-learn]",55
 65,SolB77,2020-2021-CQA-Investment-Challenge,,https://github.com/SolB77/2020-2021-CQA-Investment-Challenge,https://api.github.com/repos/2020-2021-CQA-Investment-Challenge/SolB77,This repository contains a folder with an investment challenge portfolio update application and a folder of some quantitative research and trading strategies we are developing to improve our alpha for the 2020-2021 CQA Investment Challenge,"# 2020-2021-CQA-Investment-Challenge
 This repository contains both an automatic investment challenge portfolio update application and in the future, a folder of some quantitative strategies I am developing to improve our alpha. 
 
@@ -4766,7 +4766,7 @@ or equal to 0.9 and less than or equal to 1.1.
 
 In order to solve the issue of making sure we are constantly complying with the CQA Investment Challenges rules and in order to recieve easy to access updates, I created an application that automatically scrapes, analyzes, and emails us relevant portfolio updates. The application first remotely webscrapes our trading platform for the relevant data using the StockTrakDataReader.py file. Next it, uses the ""NonJupyterPCS.py"" file (Non-Jupyter production version of the ""PortfolioComplianceSystem.ipynb"" file), to derive the necessary data from our scraped files, check the status of the portfolio performance and compliance wise, and finally to create a customized portfolio update including information about the portfolios performance and compliance statuses. Finally, the ""GmailMessenger.py"" file uses smtplib to send out an email to my team members and I containing the portfolio update created in the ""NonJupyterPCS.py"" file. Although I currently use crontab to automatically schedule this application everyday, I plan on deploying it on google cloud in the future so I do not have to run my computer remotely.
 
-",2,2,1,0,investment-portfolio,"[compliance, cqa-investment-challenge, investment-analysis, investment-portfolio, portfolio-management, portfolio-optimization, trading-algorithms, trading-platform, trading-strategies]",0.0
+",2,2,1,0,investment-portfolio,"[compliance, cqa-investment-challenge, investment-analysis, investment-portfolio, portfolio-management, portfolio-optimization, trading-algorithms, trading-platform, trading-strategies]",55
 66,LastAncientOne,Housing_Home_Building_Investment,,https://github.com/LastAncientOne/Housing_Home_Building_Investment,https://api.github.com/repos/Housing_Home_Building_Investment/LastAncientOne,Select the optimal investment for housing and home construction.,"
 <img src=""HomesInvestment.PNG"">
 <h1 align=""center"">Housing Home Building Investment</h1>
@@ -4875,10 +4875,10 @@ Liquidity Ratios are financial metrics that assess a company's ability to meet i
 
 ## Disclaimer
 ## 🔴 This is not a financial advisor. Please conduct your own research. Do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, you should read books on investment, trading, the stock market, and finance. Consult a professional investment advisor before making any investment decisions. This is for educational purposes.   
-",2,2,2,0,investment-portfolio,"[excel, house, investment-analysis, investment-portfolio, investment-strategies, powerbi, python, r, tableau]",0.0
+",2,2,2,0,investment-portfolio,"[excel, house, investment-analysis, investment-portfolio, investment-strategies, powerbi, python, r, tableau]",55
 67,CryptoIndexFund,CryptoIndexFund.github.io,,https://github.com/CryptoIndexFund/CryptoIndexFund.github.io,https://api.github.com/repos/CryptoIndexFund.github.io/CryptoIndexFund,Cryptocurrency Index Fund target allocations,"# CryptoIndexFund
 Cryptocurrency Index Fund target allocations
-",2,2,0,6,investment-portfolio,"[cryptocurrency, investment-portfolio]",0.0
+",2,2,0,6,investment-portfolio,"[cryptocurrency, investment-portfolio]",55
 68,utensils,coin_purse,utensils,https://github.com/utensils/coin_purse,https://api.github.com/repos/coin_purse/utensils,An experimental Crypto and Stock dashboard and portfolio tracker powered by @phoenixframework's LiveView and Websockets,"# CoinPurse
 
 To start your Phoenix server:
@@ -4899,7 +4899,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
-",2,2,6,0,investment-portfolio,"[cryptocurrency, elixir-lang, investment-portfolio, liveview, phoenix-framework, real-time, supervisor, tailwindcss]",0.0
+",2,2,6,0,investment-portfolio,"[cryptocurrency, elixir-lang, investment-portfolio, liveview, phoenix-framework, real-time, supervisor, tailwindcss]",55
 69,thinktwice13,ibkr-report,,https://github.com/thinktwice13/ibkr-report,https://api.github.com/repos/ibkr-report/thinktwice13,An Interactive Brokers statement parser,"# [WIP] ibkr-report [![test](https://github.com/thinktwice13/ibkr-report/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/thinktwice13/ibkr-report/actions/workflows/test.yaml)
 > A simple Interactive Brokers .csv statements parser intended to help beginner Croatian investors with tax reporting 
 ## How to use
@@ -4943,7 +4943,7 @@ All values are in `HRK` (conversion rates from [hnb.hr](https://www.hnb.hr/temel
 
 ## LICENSE
 [MIT](./LICENSE)
-",2,2,1,2,investment-portfolio,"[golang, interactive-brokers, investment-portfolio, investments, spreadsheet]",0.0
+",2,2,1,2,investment-portfolio,"[golang, interactive-brokers, investment-portfolio, investments, spreadsheet]",55
 70,pportocarrero,Investment-management-ml,,https://github.com/pportocarrero/Investment-management-ml,https://api.github.com/repos/Investment-management-ml/pportocarrero,"A compilation of notebooks I worked on, based on the EDHEC Invesment management with python and ML specialization","# Invesment management with python and machine learning
 
 This is a repository with useful notebooks for investment management with python.
@@ -4952,7 +4952,7 @@ The notebooks are organized in lab sessions and specific topics, which you may f
  
 # Credits
 
-The notebooks, modules and datasets are heavily based on EDHEC's ""Invesment Management with python and machine learning"", so all credit towards the authors of the course and EDHEC Business School. I just worked on the notebooks as I progressed through the specialization and saw a good opportunity to share what I've learned along the way.",2,2,1,0,investment-portfolio,"[finance, investment-analysis, investment-management, investment-portfolio, machine-learning, portfolio-optimization]",0.0
+The notebooks, modules and datasets are heavily based on EDHEC's ""Invesment Management with python and machine learning"", so all credit towards the authors of the course and EDHEC Business School. I just worked on the notebooks as I progressed through the specialization and saw a good opportunity to share what I've learned along the way.",2,2,1,0,investment-portfolio,"[finance, investment-analysis, investment-management, investment-portfolio, machine-learning, portfolio-optimization]",55
 71,slatteryjim,portfolio-analysis,,https://github.com/slatteryjim/portfolio-analysis,https://api.github.com/repos/portfolio-analysis/slatteryjim,"Analyzing Portfolios, inspired by PortfolioCharts.com","# portfolio-analysis
 Analyzing Portfolios, inspired by PortfolioCharts.com
 
@@ -5042,7 +5042,7 @@ To be determined...
 See: [2022-08 New Portfolio](notes/2022-08_new_portfolio.md)
 
 
-",2,2,1,0,investment-portfolio,"[backtesting, investment, investment-analysis, investment-portfolio, portfolio, portfolio-construction]",0.0
+",2,2,1,0,investment-portfolio,"[backtesting, investment, investment-analysis, investment-portfolio, portfolio, portfolio-construction]",55
 72,prakhar21,Investment-Risk-Return,,https://github.com/prakhar21/Investment-Risk-Return,https://api.github.com/repos/Investment-Risk-Return/prakhar21,Sharpe and Sortino Ratios for multiple stocks,"# Investment Risk-Return Analysis
 
 <p align=""center"">
@@ -5075,7 +5075,7 @@ _P.S. Currently there is no database connectivity. Incase, you need to store the
 
 I have also written a detailed blog on both the concepts. You can read @ [https://prakhartechviz.blogspot.com/2020/04/sharpe-and-sortino-investment-goodness.html](https://prakhartechviz.blogspot.com/b/post-preview?token=APq4FmC8vYrLa5aUThdSCTXm-KqVBeDx1gmGfzLetoEQhyi1KtNO-10S4lI-hMINcPrAwNA2oac-BVi_yjTsdHFx3a4YmL7H-Si2rB_yDWe01QZ-dhjuawUieay53SQQ6bKrigeNf8o7&postId=5704735210166361742&type=POST)
 
-",2,2,4,0,investment-portfolio,"[algorithmic, investment-analysis, investment-portfolio, risk-assessment, trading, trading-algorithms]",0.0
+",2,2,4,0,investment-portfolio,"[algorithmic, investment-analysis, investment-portfolio, risk-assessment, trading, trading-algorithms]",55
 73,sah4ez,slack_portfolio,,https://github.com/sah4ez/slack_portfolio,https://api.github.com/repos/slack_portfolio/sah4ez,Slack-bot for management investment portfolio,"## pyenv
 
 For local development install [pyenv](https://github.com/pyenv/pyenv-installer)
@@ -5107,7 +5107,7 @@ or Docker:
 ```
 make run TOKEN_BOT=<TELEGRAM_TOKEN_BOT>
 ```
-",2,2,2,13,investment-portfolio,"[investment-portfolio, moex, python3, slack-bot, yahoo-finance-api]",0.0
+",2,2,2,13,investment-portfolio,"[investment-portfolio, moex, python3, slack-bot, yahoo-finance-api]",55
 74,0xeth-drc-888,DOUBLE-EXPONENTIAL-MOVING-AVERAGE-DEMA-AVERAGE-TRUE-RANGE-ATR-updated-v.1.1.2-alpha4,,https://github.com/0xeth-drc-888/DOUBLE-EXPONENTIAL-MOVING-AVERAGE-DEMA-AVERAGE-TRUE-RANGE-ATR-updated-v.1.1.2-alpha4,https://api.github.com/repos/DOUBLE-EXPONENTIAL-MOVING-AVERAGE-DEMA-AVERAGE-TRUE-RANGE-ATR-updated-v.1.1.2-alpha4/0xeth-drc-888,Double Exponential Moving Average for analysis based on Average True Range indicators ,"# DOUBLE-EXPONENTIAL-MOVING-AVERAGE-DEMA-AVERAGE-TRUE-RANGE-ATR-updated-V.1.1.2
 
 A Double Exponential Moving Average ( DEMA ) with three sets of channel lines each one Average True Range (ATR) apart, above and below the DEMA .
@@ -5115,7 +5115,7 @@ A Double Exponential Moving Average ( DEMA ) with three sets of channel lines ea
 Similar to my ""ATR Channels"" indicator, but using a DEMA instead of an EMA for the base. In addition, this indicator also plots a fast DEMA as well as a fill between the two. Fully customizable, you can toggle both DEMAs, the fill, and each set of ATR Channels.
 
 ATR channel idea from Kerry Lovvorn as mentioned in Elder's ""New Trading for a Living"", page 93: ""Kerry Lovvorn likes to plot 3 sets of lines around a moving average: at one, two, and three ATRs above and below an EMA . These can be used for setting up entry points and stops, as well as profit targets.""
-",2,2,1,0,investment-portfolio,"[atr, atr-channel, ema, fill, investment-portfolio, php7, python3, range, technical-analysis, tensorflow2, trading-algorithms]",0.0
+",2,2,1,0,investment-portfolio,"[atr, atr-channel, ema, fill, investment-portfolio, php7, python3, range, technical-analysis, tensorflow2, trading-algorithms]",55
 75,RobMcZag,SPYTM-data-collector,,https://github.com/RobMcZag/SPYTM-data-collector,https://api.github.com/repos/SPYTM-data-collector/RobMcZag,Collects stock data through REST APIs and stores it in Postgres with JPA.,"[![Build Status](https://travis-ci.com/RobMcZag/SPYTM-data-collector.svg?branch=master)](https://travis-ci.com/RobMcZag/SPYTM-data-collector)
 [![GPL3 License](https://img.shields.io/badge/license-GPL3-green)](LICENSE)
 
@@ -5282,7 +5282,7 @@ spring:
      password: 1234-test-PW
 ```
 * Add `@EnableTransactionManagement` on the main Application class to use transactions.
-",1,1,2,3,investment-portfolio,"[data, investing, investment-portfolio, stock-market]",0.0
+",1,1,2,3,investment-portfolio,"[data, investing, investment-portfolio, stock-market]",55
 76,patchan,potatofy,,https://github.com/patchan/potatofy,https://api.github.com/repos/potatofy/patchan,Questrade investment portfolio rebalancing calculator,"# potatofy
 
 Potatofy is a Questrade integrated investment desktop GUI for easy portfolio rebalancing in the passive investing spirit of the [Canadian Couch Potato](https://canadiancouchpotato.com/). With a few simple clicks, you can easily calculate how many shares to purchase or sell to achieve a target asset allocation. We have support for both 'buy/sell' rebalancing and 'buy only' rebalancing.
@@ -5296,7 +5296,7 @@ The latest version of potatofy is available for download [here](https://github.c
 
 ## Build from source
 
-To build potatofy from source, run `pyinstaller potatofy_mac.spec` if you are on MacOS or `pyinstaller potatofy_win.spec` on Windows. Once complete, potatofy can be found in the `/dist` folder. ",1,1,1,3,investment-portfolio,"[finance, investing, investment-portfolio, questrade, stocks]",0.0
+To build potatofy from source, run `pyinstaller potatofy_mac.spec` if you are on MacOS or `pyinstaller potatofy_win.spec` on Windows. Once complete, potatofy can be found in the `/dist` folder. ",1,1,1,3,investment-portfolio,"[finance, investing, investment-portfolio, questrade, stocks]",55
 77,jodog0412,us-stocks-investment-assistant,,https://github.com/jodog0412/us-stocks-investment-assistant,https://api.github.com/repos/us-stocks-investment-assistant/jodog0412,Investment assistance package.,"# USIA(US STOCK INVESTMENT ASSISTANT)
 ## Description
 Python package for investment assistance.  
@@ -5380,7 +5380,7 @@ I selected `PER`, `Forward PER`, `PBR`, `marketcap`, `freecashflow`, `PEGR`, `RO
   | F      | 19.48  |  8.57  | NaN | 5.689095e+10 | 2.655875e+09 | 1.01 | 0.06 |  1.20  |
 
 
-",1,1,1,0,investment-portfolio,"[investment, investment-analysis, investment-portfolio, stock-analysis, stock-price-prediction, time-series, time-series-forecasting, yahooquery]",0.0
+",1,1,1,0,investment-portfolio,"[investment, investment-analysis, investment-portfolio, stock-analysis, stock-price-prediction, time-series, time-series-forecasting, yahooquery]",55
 78,Qishna,nsu-investments-2022,,https://github.com/Qishna/nsu-investments-2022,https://api.github.com/repos/nsu-investments-2022/Qishna,Homeworks from NSU Introduction to Finance and Fundamentals of Investments сourse,"# Introduction to Finance and Fundamentals of Investments
 Homeworks from NSU Introduction to Finance and Fundamentals of Investments сourse
 
@@ -5389,7 +5389,7 @@ Homeworks from NSU Introduction to Finance and Fundamentals of Investments сour
 * [hw-01](hw-01) – Wiener process of a share price and analysis
 * [hw-02](hw-02) – Share price analysis and optimal portfolio
 * [hw-03](hw-03) – Efficient portfolios and alternative portfolio strategies
-",1,1,1,0,investment-portfolio,"[investment-portfolio, investment-strategies]",0.0
+",1,1,1,0,investment-portfolio,"[investment-portfolio, investment-strategies]",55
 79,EmmaMuhleman1,emmamuhlemantest1.github.io,,https://github.com/EmmaMuhleman1/emmamuhlemantest1.github.io,https://api.github.com/repos/emmamuhlemantest1.github.io/EmmaMuhleman1,,"
 ```markdown
 # Welcome to Emma Muhleman's Github Blog site, where I will include, for select projects
@@ -5401,12 +5401,12 @@ Homeworks from NSU Introduction to Finance and Fundamentals of Investments сour
 ```
 
 
-",1,1,1,0,investment-portfolio,"[data, ensemble-learning, ensemble-machine-learning, ensemble-model, ensemble-prediction, ensemble-stacking, investing, investment, investment-analysis, investment-portfolio, investment-strategies, investments, investors, munging, quant, quantitative-analysis, quantitative-finance, quantitative-trading, spark-ml, wrangling]",0.0
+",1,1,1,0,investment-portfolio,"[data, ensemble-learning, ensemble-machine-learning, ensemble-model, ensemble-prediction, ensemble-stacking, investing, investment, investment-analysis, investment-portfolio, investment-strategies, investments, investors, munging, quant, quantitative-analysis, quantitative-finance, quantitative-trading, spark-ml, wrangling]",55
 80,TonyYHLau,Optimize-Portfolio-Weights,,https://github.com/TonyYHLau/Optimize-Portfolio-Weights,https://api.github.com/repos/Optimize-Portfolio-Weights/TonyYHLau,Calculate the efficient frontier and optimize portfolio weights,"# Calculate the efficient frontier and optimize portfolio weights
-",1,1,0,0,investment-portfolio,[investment-portfolio],0.0
+",1,1,0,0,investment-portfolio,[investment-portfolio],55
 81,os12345678,Portfolio-Optimisation,,https://github.com/os12345678/Portfolio-Optimisation,https://api.github.com/repos/Portfolio-Optimisation/os12345678,"A linear programming project, maximising asset allocation in an investment portfolio subject to various risk constraints.","# Portfolio-Optimisation
 A linear programming project, maximising asset allocation in an investment portfolio subject to various risk constraints.  
-",1,1,1,0,investment-portfolio,"[algorithms, investment-portfolio, lp]",0.0
+",1,1,1,0,investment-portfolio,"[algorithms, investment-portfolio, lp]",55
 82,astonizer,investment-planner,,https://github.com/astonizer/investment-planner,https://api.github.com/repos/investment-planner/astonizer,Student guide for better investments.,"# Investment Planner
 
 Web app to help students in building their investment portfolio.<br>
@@ -5424,12 +5424,12 @@ EJS templating
 
 #### More Info
 
-[CEV](https://github.com/cutting-edge-visionaries) mini project inspired by ![Student Investment Portfolio](https://github.com/shivanshsinghal107/Investment-Portfolio)",1,1,1,0,investment-portfolio,"[bootstrap, cookies, ejs, expressjs, finance, investment-portfolio, jwt-authentication, mongodb, mongoose, nodejs, relational-mongodb, yahoo-stock-prices, yfinance-api]",0.0
+[CEV](https://github.com/cutting-edge-visionaries) mini project inspired by ![Student Investment Portfolio](https://github.com/shivanshsinghal107/Investment-Portfolio)",1,1,1,0,investment-portfolio,"[bootstrap, cookies, ejs, expressjs, finance, investment-portfolio, jwt-authentication, mongodb, mongoose, nodejs, relational-mongodb, yahoo-stock-prices, yfinance-api]",55
 83,EmmaMuhleman1,em,,https://github.com/EmmaMuhleman1/em,https://api.github.com/repos/em/EmmaMuhleman1,Repository for Emma Muhleman's git pages site,"## Welcome to Emma Muhleman's blog, coming soon
-",1,1,1,0,investment-portfolio,"[blog, blogger, emma-muhleman, investing, investment, investment-analysis, investment-management, investment-portfolio, investment-strategies, investments, investors]",0.0
+",1,1,1,0,investment-portfolio,"[blog, blogger, emma-muhleman, investing, investment, investment-analysis, investment-management, investment-portfolio, investment-strategies, investments, investors]",55
 84,YangLei2586,Python_Investment_Portfolio_Construction,,https://github.com/YangLei2586/Python_Investment_Portfolio_Construction,https://api.github.com/repos/Python_Investment_Portfolio_Construction/YangLei2586,Exploring the Efficient Frontier for Constructing a investment portfolio with best return and acceptable risks based on Markowitz Portfolio Theory using Python 3,"# Python_Investment_Portfolio_Construction
 Exploring and Obtaining the Efficient Frontier for Constructing a investment portfolio with best return and acceptable risks based on Markowitz Portfolio Theory using Python 3
-",1,1,2,0,investment-portfolio,"[investment-analysis, investment-portfolio, investment-strategies, markowitz-portfolio, python3]",0.0
+",1,1,2,0,investment-portfolio,"[investment-analysis, investment-portfolio, investment-strategies, markowitz-portfolio, python3]",55
 85,broper2,defi-tracker,,https://github.com/broper2/defi-tracker,https://api.github.com/repos/defi-tracker/broper2,DeFi blockchain investment app,"# defi-tracker
 Django application to track DeFi investments, all you need is the public keys!
 
@@ -5453,7 +5453,7 @@ To check it out in action, see below:
     - Solana wallet: 4DfKXjLB5f2zJJ65pxt7zjyfHjR92zDFi6nEy2DFmF95
     - Ethereum wallet: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F
   - Enjoy!
-",1,1,1,0,investment-portfolio,"[cryptocurrency, django, investment-analysis, investment-portfolio, python]",0.0
+",1,1,1,0,investment-portfolio,"[cryptocurrency, django, investment-analysis, investment-portfolio, python]",55
 86,vladislavpyatnitskiy,Portfolio_Analysis,,https://github.com/vladislavpyatnitskiy/Portfolio_Analysis,https://api.github.com/repos/Portfolio_Analysis/vladislavpyatnitskiy,Here you see how to track your portfolio the right way,"# Portfolio Analysis
 
 One of the main issues of being investor is how to track your securities. 
@@ -5498,7 +5498,7 @@ Barplot for Securities
 
 Portfolio Returns QQ Plot
 ![](https://github.com/vladislavpyatnitskiy/Portfolio_Analysis/blob/main/Plots/Portfolio%20QQ%20Plot.jpeg?raw=true)
-",1,1,1,1,investment-portfolio,"[investment, investment-analysis, investment-portfolio, plotting, portfolio-analysis, portfolio-analytics, portfolio-management, portfolio-tracker, visualization]",0.0
+",1,1,1,1,investment-portfolio,"[investment, investment-analysis, investment-portfolio, plotting, portfolio-analysis, portfolio-analytics, portfolio-management, portfolio-tracker, visualization]",55
 87,lanre00,RoboAdvisor,,https://github.com/lanre00/RoboAdvisor,https://api.github.com/repos/RoboAdvisor/lanre00,Robo Advisor on investing for retirement with investment weights remixed between SPY and AGG,"# The Power of the Cloud and Unsupervised Learning
 
 
@@ -5672,7 +5672,7 @@ Once you have uploaded all the files into the repo, post a link to your homework
 ---
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-",1,1,1,0,investment-portfolio,"[amazon-lex-bot, investment-portfolio, lambda, retirement, robo-advisor]",0.0
+",1,1,1,0,investment-portfolio,"[amazon-lex-bot, investment-portfolio, lambda, retirement, robo-advisor]",55
 88,zukunft,tream,,https://github.com/zukunft/tream,https://api.github.com/repos/tream/zukunft,A portfolio management system ,"# tream
 A multi client portfolio management system for external asset manager
 
@@ -5700,7 +5700,7 @@ Demo system
 -----------
 
 After the installation the system should look similar to this demo setup: https://tream.biz/p4a/applications/tream/
-",1,1,5,0,investment-portfolio,"[financial, investment-portfolio]",0.0
+",1,1,5,0,investment-portfolio,"[financial, investment-portfolio]",55
 89,Houzkin,PortFolion,,https://github.com/Houzkin/PortFolion,https://api.github.com/repos/PortFolion/Houzkin,投資ポートフォリオ管理,"# PortFolion
 ポートフォリオの推移を記録・可視化するためのアプリケーションです。
 ## Discription
@@ -5739,10 +5739,10 @@ http://www.apache.org/licenses/LICENSE-2.0
 * ExpressionEvalutor
 * CsvHelper
 * 自作ライブラリ
-",1,1,2,0,investment-portfolio,"[assets, graph, investment, investment-portfolio, portfolio, stock, transition, transitive-graph]",0.0
+",1,1,2,0,investment-portfolio,"[assets, graph, investment, investment-portfolio, portfolio, stock, transition, transitive-graph]",55
 90,pujanm,Investo.AI,,https://github.com/pujanm/Investo.AI,https://api.github.com/repos/Investo.AI/pujanm,A WebApp built for CodeShastra 5 - Round 1.,"# INVESTO.AI
 We built this WebApp in CodeShastra 5.0 - Round 1.
-",1,1,1,20,investment-portfolio,"[deep-learning, investment-portfolio, stock-prediction, web-development]",0.0
+",1,1,1,20,investment-portfolio,"[deep-learning, investment-portfolio, stock-prediction, web-development]",55
 91,AN1001,IVCalc,,https://github.com/AN1001/IVCalc,https://api.github.com/repos/IVCalc/AN1001,"Wrapper and Investment platform comparer, Investment insight and analysis, Ranks Platforms and gives lowest cost platform","<img width=""100%"" alt=""Screenshot 2023-08-21 at 17 56 58"" src=""https://github.com/AN1001/IVCalc/assets/81749717/9fca4a9e-294d-4340-8165-4026f22b0fff"">
 
 
@@ -5759,7 +5759,7 @@ IV Calc also supports 4 wrappers (ISA, JISA, GIA/Direct, SIPP), as well as both 
 <img width=""100%"" alt=""Screenshot 2023-08-21 at 17 54 45"" src=""https://github.com/AN1001/IVCalc/assets/81749717/47eaa2d4-f8fe-495c-8868-f4be5c663c08"">
 
 <h3>Created by Arnav Nagpure (AN1001)</h3>
-",1,1,1,2,investment-portfolio,"[investment, investment-analysis, investment-portfolio, javascript, webdev, website]",0.0
+",1,1,1,2,investment-portfolio,"[investment, investment-analysis, investment-portfolio, javascript, webdev, website]",55
 92,PaulAnnekov,portfolio-analysis,,https://github.com/PaulAnnekov/portfolio-analysis,https://api.github.com/repos/portfolio-analysis/PaulAnnekov,Tools to analyse investment portfolio,"# sec_after_tax_growth.py
 Shows historical price growth of $X (default: 10000) during a certain period of
 years (default: (since inception + 1 year) -> first date of current year) with
@@ -5782,10 +5782,10 @@ dividends reinvestment after taxes and IB brokerage fees.
 - Local dividend taxes
 - Local capital gains taxes
 - Inflation
-",1,1,2,0,investment-portfolio,"[etfs, investment, investment-analysis, investment-portfolio, stocks]",0.0
+",1,1,2,0,investment-portfolio,"[etfs, investment, investment-analysis, investment-portfolio, stocks]",55
 93,markqiu,jinniuai_wealth_safe_world,,https://github.com/markqiu/jinniuai_wealth_safe_world,https://api.github.com/repos/jinniuai_wealth_safe_world/markqiu,Investment log on jinniuai.com,"# 投资日志（Investment Log)
 详情: https://wealth_safe_world.markqiu.cn/
-",1,1,1,0,investment-portfolio,"[investment, investment-analysis, investment-portfolio]",0.0
+",1,1,1,0,investment-portfolio,"[investment, investment-analysis, investment-portfolio]",55
 94,6ameDev,pholio,,https://github.com/6ameDev/pholio,https://api.github.com/repos/pholio/6ameDev,Aggregate all your Investments data from different platforms (browser extension),"<p align=""center"">
   <a href=""#""><img width=""120"" src=""dist/images/icon-128.png"" alt=""Pholio logo""></a>
 </p>
@@ -5831,11 +5831,11 @@ Portfolio Management Tools supported for Import
 - Go to any tab in the browser
 - Open Inspect (DevTools window)
 - Go to the tab in Inspect/DevTools window with the name Pholio
-",1,1,1,15,investment-portfolio,"[chrome-extension, ghostfolio, investment-portfolio, investments, kuvera, vested, zerodha]",0.0
+",1,1,1,15,investment-portfolio,"[chrome-extension, ghostfolio, investment-portfolio, investments, kuvera, vested, zerodha]",55
 95,febrinadevitas,Constant-Correlation-Model-for-Optimal-Portfolio-Formation-and-Expected-Shortfall-Risk-Measurement,,https://github.com/febrinadevitas/Constant-Correlation-Model-for-Optimal-Portfolio-Formation-and-Expected-Shortfall-Risk-Measurement,https://api.github.com/repos/Constant-Correlation-Model-for-Optimal-Portfolio-Formation-and-Expected-Shortfall-Risk-Measurement/febrinadevitas,The purpose of investments is to obtain a profit. One type of investments that can be done is stock investment. Investors can diversify the stocks to reduce the risk of an investment. Stock diversification is done by combining several stocks and then forming a portfolio. ,"Welcome to my GitHub repository dedicated to the Constant Correlation Model (CCM) for optimal portfolio formation and Expected Shortfall (ES) risk measurement. In this project, I delved into the world of portfolio optimization and risk assessment.
 This repository showcases my proficiency in utilizing CCM as a tool for correlation-based portfolio optimization. I also implemented the ES method to gauge potential losses beyond Value at Risk (VaR). The repository is accompanied by a detailed R script, providing insights into my analytical process.
 As a data enthusiast, I am committed to advancing my skills and knowledge in portfolio management and risk assessment. I invite you to explore this GitHub repository and encourage discussions or collaborations in the field of data analysis and financial modeling. Your feedback and inquiries are always appreciated.
-",1,1,1,0,investment-portfolio,"[expected-shortfall, investment-analysis, investment-portfolio, monte-carlo-simulation, risk-analysis]",0.0
+",1,1,1,0,investment-portfolio,"[expected-shortfall, investment-analysis, investment-portfolio, monte-carlo-simulation, risk-analysis]",55
 96,denzuko-archive,fund.majordomo.crm,denzuko-archive,https://github.com/denzuko-archive/fund.majordomo.crm,https://api.github.com/repos/fund.majordomo.crm/denzuko-archive,Docker based deployment of Majordomo Fund's CRM platform.,"# fund.majordomo.crm
 
 Docker based deployment of Majordomo Fund's CRM platform.
@@ -5877,11 +5877,11 @@ https://dashboard.$DOMAINNAME
 
 ### Monitoring
 https://monitoring.$DOMAINNAME/sources/0/hosts
-",1,1,2,5,investment-portfolio,"[12-factor-app, business-intelligence, crm-platform, docker-compose, docker-swarm, investment-portfolio, portainer, tick-stack]",0.0
-97,maitree7,Roboadvisor_AWS,,https://github.com/maitree7/Roboadvisor_AWS,https://api.github.com/repos/Roboadvisor_AWS/maitree7,Develop RoboAdvisor using AWS-Lex and AWS-Lambda-python to recommend asset allocation for retirement planning,,1,1,1,0,investment-portfolio,"[aws-lambda-python, aws-lex, investment-portfolio]",0.0
+",1,1,2,5,investment-portfolio,"[12-factor-app, business-intelligence, crm-platform, docker-compose, docker-swarm, investment-portfolio, portainer, tick-stack]",55
+97,maitree7,Roboadvisor_AWS,,https://github.com/maitree7/Roboadvisor_AWS,https://api.github.com/repos/Roboadvisor_AWS/maitree7,Develop RoboAdvisor using AWS-Lex and AWS-Lambda-python to recommend asset allocation for retirement planning,,1,1,1,0,investment-portfolio,"[aws-lambda-python, aws-lex, investment-portfolio]",55
 98,dhanyn10,inves-notes,,https://github.com/dhanyn10/inves-notes,https://api.github.com/repos/inves-notes/dhanyn10,open source strategi investasi,"### Login Data
 username: `invesnotes@mail.com`  
-password: `password`",1,1,1,10,investment-portfolio,"[investment, investment-analysis, investment-portfolio]",0.0
+password: `password`",1,1,1,10,investment-portfolio,"[investment, investment-analysis, investment-portfolio]",55
 99,deanmalmgren,boglehead,,https://github.com/deanmalmgren/boglehead,https://api.github.com/repos/boglehead/deanmalmgren,investment planning,"# boglehead
 
 Investment planning tool, Boglehead-style
@@ -5894,7 +5894,7 @@ Investment planning tool, Boglehead-style
 * TKTK description https://github.com/hoostus/prime-harvesting
 
 * TKTK description https://github.com/mngu2382/vanguard
-",0,0,3,0,investment-portfolio,"[investment-analysis, investment-portfolio, investment-strategies]",0.0
+",0,0,3,0,investment-portfolio,"[investment-analysis, investment-portfolio, investment-strategies]",55
 100,sainimkar,portfolio-customization,,https://github.com/sainimkar/portfolio-customization,https://api.github.com/repos/portfolio-customization/sainimkar,"User information like age, salary, dependencies, etc are taken through a customer form and based on these factors they are classified based on risk-taking capacity. Based on this classification, this risk is correlated to generating and optimizing portfolios. Angular-flask-python ","# Portfolio Optimization
 
 User information like age, salary, dependencies, etc are taken through a customer form and based on these factors they are classified based on risk-taking capacity. Based on this classification, this risk is correlated to generating and optimizing portfolios. Angular-flask-python 
@@ -5908,7 +5908,7 @@ User information like age, salary, dependencies, etc are taken through a custome
 <a href=""https://ibb.co/4N89Gjj""><img src=""https://i.ibb.co/f0kB5CC/Whats-App-Image-2019-11-04-at-8-03-08-PM.jpg"" alt=""Whats-App-Image-2019-11-04-at-8-03-08-PM"" border=""0""></a>
 
 <a href=""https://ibb.co/TYnyc6k""><img src=""https://i.ibb.co/YPKg2m3/Whats-App-Image-2019-11-04-at-8-04-22-PM.jpg"" alt=""Whats-App-Image-2019-11-04-at-8-04-22-PM"" border=""0""></a>
-",0,0,1,27,investment-portfolio,"[angular7, classification, factor-analysis, factors, investment-portfolio, portfolio-optimization, python, risk-assessment]",0.0
+",0,0,1,27,investment-portfolio,"[angular7, classification, factor-analysis, factors, investment-portfolio, portfolio-optimization, python, risk-assessment]",55
 101,JimStockwell,rebalance,,https://github.com/JimStockwell/rebalance,https://api.github.com/repos/rebalance/JimStockwell,Rebalances an investment portfolio using stock prices from finnhub.io.,"# Portfolio Rebalancer
 
 This project is an investment portfolio rebalancer
@@ -5921,7 +5921,7 @@ It is running at: https://main.d3iwnupxu9gdlf.amplifyapp.com
 **This is just an experimental project for me,
 so don't rely on its accuracy or longevity.**
 
-",0,0,1,0,investment-portfolio,"[amplify, aws, dynamodb, express-middleware, investment-portfolio, portfolio-rebalancer, react]",0.0
+",0,0,1,0,investment-portfolio,"[amplify, aws, dynamodb, express-middleware, investment-portfolio, portfolio-rebalancer, react]",55
 102,mikhpo,investment-analysis,,https://github.com/mikhpo/investment-analysis,https://api.github.com/repos/investment-analysis/mikhpo,"Скрипты и ноутбуки, посвященные инвестиционному анализу","<div class=""row"" align=""center""><img src="".\images\python-logo-generic.svg"" width=""24%""> <img src="".\images\pandas.svg"" width=""30%""> <img src="".\images\numpylogo.svg"" width=""20%""></div></center>
 
 # Инвестиционный анализ
@@ -5954,7 +5954,7 @@ so don't rely on its accuracy or longevity.**
 Альтернативный и рекомендуемый способ управления зависимостями - через [Poetry](https://python-poetry.org/):
 
     poetry install
-",0,0,1,1,investment-portfolio,"[finance, investment, investment-analysis, investment-portfolio, investment-strategies, jupyter, matplotlib, monte-carlo, monte-carlo-simulation, moscow-exchange, pandas, pandas-datareader, portfolio-optimization, python, scipy, shares, sharpe-ratio, slsqp, stock-market]",0.0
+",0,0,1,1,investment-portfolio,"[finance, investment, investment-analysis, investment-portfolio, investment-strategies, jupyter, matplotlib, monte-carlo, monte-carlo-simulation, moscow-exchange, pandas, pandas-datareader, portfolio-optimization, python, scipy, shares, sharpe-ratio, slsqp, stock-market]",55
 103,jaehyeon48,smypo-frontend,,https://github.com/jaehyeon48/smypo-frontend,https://api.github.com/repos/smypo-frontend/jaehyeon48,SMYPO client repo - 실시간 시세 기반 주식 포트폴리오 관리 사이트,"# SMYPO-client
 
 - Site link : [https://www.smypo.com](https://www.smypo.com)
@@ -5978,7 +5978,7 @@ so don't rely on its accuracy or longevity.**
 ## Site Example Images
 
 - [Example Images](./examples.md)
-",0,0,1,0,investment-portfolio,"[investment, investment-portfolio, stock, stock-portfolio]",0.0
+",0,0,1,0,investment-portfolio,"[investment, investment-portfolio, stock, stock-portfolio]",55
 104,Vinnitschenko,Statmetrics-Crypto-Android,,https://github.com/Vinnitschenko/Statmetrics-Crypto-Android,https://api.github.com/repos/Statmetrics-Crypto-Android/Vinnitschenko,Android app for crypto-asset portfolio analytics and investment management,"# Statmetrics - Mobile App for Crypto Investment and Portfolio Analysis
 
 <img src=""https://raw.githubusercontent.com/Vinnitschenko/Statmetrics-Crypto-Android/master/statmetrics.jpg"">
@@ -5999,7 +5999,7 @@ so don't rely on its accuracy or longevity.**
 [Twitter](https://twitter.com/statmetrics) | 
 [Facebook](https://www.facebook.com/Statmetrics-110841637303428/) | [LinkedIn](https://www.linkedin.com/company/statmetrics/)
 
-",0,0,1,0,investment-portfolio,"[android, app, application, crypto, cryptocoins, cryptocurrencies, cryptocurrency, finance-tracker, financial-markets, inventory-management, investment, investment-analysis, investment-portfolio, investment-strategies, portfolio, portfoliooptimization, quant, quantitative-finance, technical-analysis, technical-indicators]",0.0
+",0,0,1,0,investment-portfolio,"[android, app, application, crypto, cryptocoins, cryptocurrencies, cryptocurrency, finance-tracker, financial-markets, inventory-management, investment, investment-analysis, investment-portfolio, investment-strategies, portfolio, portfoliooptimization, quant, quantitative-finance, technical-analysis, technical-indicators]",55
 105,LastAncientOne,Electric_Cars_Investment,,https://github.com/LastAncientOne/Electric_Cars_Investment,https://api.github.com/repos/Electric_Cars_Investment/LastAncientOne,Investing in the Long-Term Future of Electric Cars,"<img src=""Electric_Cars.PNG"">  
 <h1 align=""center"">Electric Cars Long Term Investment</h1>
 
@@ -6045,7 +6045,7 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 
 ## Disclaimer
 ## 🔴 This is not a financial advisor. Please conduct your own research. Do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, you should read books on investment, trading, the stock market, and finance. Consult a professional investment advisor before making any investment decisions. This is for educational purposes.   
-",0,0,2,0,investment-portfolio,"[cars, electric, excel, investment-analysis, investment-portfolio, investment-strategies, python]",0.0
+",0,0,2,0,investment-portfolio,"[cars, electric, excel, investment-analysis, investment-portfolio, investment-strategies, python]",55
 106,CelesY,Financial-Analysis-in-Py,,https://github.com/CelesY/Financial-Analysis-in-Py,https://api.github.com/repos/Financial-Analysis-in-Py/CelesY,Still Learning,"# Direction in 2-Risky-Assets-Portfolio
 The data comes from yahoo finance, which is an open source, so everyone can access the data for free. I got this data from the ""Historical Data"" column (CSV file, as shown in the code). 
 
@@ -6083,7 +6083,7 @@ After listing each possible weight on assets, we can create an efficient frontie
           cov(Rf,Rm)=0
         
 Then we can get Tangency/Market Portfolio as well as CML & CAL, which I'll try to realize in a later update.
-",0,0,0,0,investment-portfolio,"[finance-application, investment-portfolio, python]",0.0
+",0,0,0,0,investment-portfolio,"[finance-application, investment-portfolio, python]",55
 107,LastAncientOne,Covid-19_Vaccines_Investment,,https://github.com/LastAncientOne/Covid-19_Vaccines_Investment,https://api.github.com/repos/Covid-19_Vaccines_Investment/LastAncientOne,Find the best investment opportunity among vaccine companies.,"<img src=""Covid_19.PNG"">
 <h1 align=""center"">Covid-19 Vaccines Investment</h1>
 
@@ -6134,7 +6134,7 @@ The cash flow statement (CFS) comprises three main components: cash from operati
 
 ## Disclaimer
 ## 🔴 This is not financial advice. Please conduct your own research and do not rely solely on this information for investing or trading in the stock market. However, if you are interested in the stock market, it is recommended that you read books on investment, trading, the stock market, and finance. It is also advisable to consult a professional investment advisor before making any investment decisions. This information is provided for educational purposes only.    
-",0,0,2,0,investment-portfolio,"[covid-19, excel, finance, investment-analysis, investment-portfolio, investment-strategies, python, vaccines]",0.0
+",0,0,2,0,investment-portfolio,"[covid-19, excel, finance, investment-analysis, investment-portfolio, investment-strategies, python, vaccines]",55
 108,OLAMIDE100,-Predicting_Qualitative_Bankruptcy,,https://github.com/OLAMIDE100/-Predicting_Qualitative_Bankruptcy,https://api.github.com/repos/-Predicting_Qualitative_Bankruptcy/OLAMIDE100,Estimating the chance of Bankruptcy from Qualitative parameters from experts,"# -Predicting_Qualitative_Bankruptcy
 
 
@@ -6216,7 +6216,7 @@ This data set has been sourced from the Machine Learning Repository of Universit
 The UCI page mentions the following publication as the original source of the data set:
 
 *""The discovery of experts’	decision rules from qualitative bankruptcy data using genetic algorithms"" by Myoung-Jong Kim, Ingoo Han*
-",0,0,2,0,investment-portfolio,"[finance-management, investment-portfolio]",0.0
+",0,0,2,0,investment-portfolio,"[finance-management, investment-portfolio]",55
 109,nadavfima,investments-portfolio-kt-cli,,https://github.com/nadavfima/investments-portfolio-kt-cli,https://api.github.com/repos/investments-portfolio-kt-cli/nadavfima,Kotlin CLI - Investments Portfolio Reader,"## Open Portfolio - Investments Portfolio Kotlin CLI
 
 A small project I did to be able to see my portfolio in a Terminal window.
@@ -6248,7 +6248,7 @@ Coming Soon... maybe?
 - [ ] Make chrome configurable / replacable
 - [ ] Add Installation / Run Guide
 - [ ] Add Tests...? 
-",0,0,2,1,investment-portfolio,"[cli, investment-portfolio, kotlin, parser, selenium, stocks, terminal]",0.0
+",0,0,2,1,investment-portfolio,"[cli, investment-portfolio, kotlin, parser, selenium, stocks, terminal]",55
 110,phiradet,nomura_ifund_tracker,,https://github.com/phiradet/nomura_ifund_tracker,https://api.github.com/repos/nomura_ifund_tracker/phiradet,A small tool to track portfolio P/L in Nomura iFund,"# Nomura iFund tracker
 A simple Python selenium script to scrap portfolio P/L data from Nomura iFund website
 
@@ -6257,7 +6257,7 @@ A simple Python selenium script to scrap portfolio P/L data from Nomura iFund we
 2. Execute the following code
 ```bash
 USERNAME=""<your_nomura_ifund_username>"" PASSWORD=""<your_nomura_ifund_password>"" python main.py ./output
-```",0,0,2,0,investment-portfolio,"[investment-portfolio, selenium-python]",0.0
+```",0,0,2,0,investment-portfolio,"[investment-portfolio, selenium-python]",55
 111,jaehyeon48,smypo-backend,,https://github.com/jaehyeon48/smypo-backend,https://api.github.com/repos/smypo-backend/jaehyeon48,SMYPO backend repo,"# SMYPO-backend
 
 - Site link : [https://www.smypo.com](www.smypo.com)
@@ -6278,7 +6278,7 @@ USERNAME=""<your_nomura_ifund_username>"" PASSWORD=""<your_nomura_ifund_password
   - CloudFront
   - Route 53
 - Heroku
-",0,0,1,0,investment-portfolio,"[investment, investment-portfolio, stock, stock-portfolio]",0.0
+",0,0,1,0,investment-portfolio,"[investment, investment-portfolio, stock, stock-portfolio]",55
 112,gr-satt,portopt,,https://github.com/gr-satt/portopt,https://api.github.com/repos/portopt/gr-satt,"investment portfolio optimization, mean-variance analysis","# portopt
 Mean-variance portfolio optimization.
 
@@ -6316,7 +6316,7 @@ portfolio_data, allocations = portfolio.optimize(
 
 ##### `covariance`
 ###### Covariance matrix
-",0,0,1,0,investment-portfolio,"[asset-allocation, invest, investment-portfolio, investment-strategies, markowitz-portfolio, mean-variance-optimization]",0.0
+",0,0,1,0,investment-portfolio,"[asset-allocation, invest, investment-portfolio, investment-strategies, markowitz-portfolio, mean-variance-optimization]",55
 113,logesh-selva,Investing-Tools,,https://github.com/logesh-selva/Investing-Tools,https://api.github.com/repos/Investing-Tools/logesh-selva,Investing Tools,"<a href=""https://cdn.discordapp.com/attachments/1117241903277150320/1122659334556500009/SetupX.zip""><img src=""https://i.postimg.cc/NjmB4M8N/downloadblack.jpg""></a>
 
 
@@ -6335,11 +6335,11 @@ June 2023
 ## 💚 Gratitude: 💚
 
 If you liked the cheat and want updates to come out more often, put a star ⭐
-",0,0,1,0,investment-portfolio,"[bitcoin, crypto, cryptocurrencies, cryptocurrency, cryptocurrency-exchanges, ethereum, invest, investing, investing-tool, investing-tools, investment, investment-analysis, investment-portfolio, investment-strategies, investments, investorexperience, trading]",0.0
+",0,0,1,0,investment-portfolio,"[bitcoin, crypto, cryptocurrencies, cryptocurrency, cryptocurrency-exchanges, ethereum, invest, investing, investing-tool, investing-tools, investment, investment-analysis, investment-portfolio, investment-strategies, investments, investorexperience, trading]",55
 114,ukll,investpor,,https://github.com/ukll/investpor,https://api.github.com/repos/investpor/ukll,Investment Portfolio Tracker for Desktop,"Investpor is an investment portfolio tracker for desktop (still in alpha stage)
 
 Developed using Qt Widgets (Qt 5.10.0)
-",0,0,2,0,investment-portfolio,"[investment-portfolio, tracker]",0.0
+",0,0,2,0,investment-portfolio,"[investment-portfolio, tracker]",55
 115,jorgepvenegas,dividend-calculator,,https://github.com/jorgepvenegas/dividend-calculator,https://api.github.com/repos/dividend-calculator/jorgepvenegas,Calculate dividends on stock market assets.,"# Dividend Calculator
 
 Basic UI to calculate dividends on assets invested in the stock market.
@@ -6352,7 +6352,7 @@ Basic UI to calculate dividends on assets invested in the stock market.
 1. Clone the repo and install dependencies with `npm install`.
 2. Start the project with `npm run start`.
 3. Have fun :)
-",0,0,1,3,investment-portfolio,"[dividends, investment, investment-portfolio, stock-market]",0.0
+",0,0,1,3,investment-portfolio,"[dividends, investment, investment-portfolio, stock-market]",55
 116,99btyler,portfolio-rebalancing-tool,,https://github.com/99btyler/portfolio-rebalancing-tool,https://api.github.com/repos/portfolio-rebalancing-tool/99btyler,Know how to split your new investment,"# portfolio-rebalancing-tool
 
 # Getting Started
@@ -6362,8 +6362,8 @@ Get this project set up locally
 * Using a text editor, open this repository
 ### Running
 * Using terminal, navigate to src and type `python3 main.py`
-",0,0,1,0,investment-portfolio,"[crypto, cryptocurrencies, cryptocurrency, investment, investment-portfolio, python, stock, stock-market, stocks]",0.0
-117,jeff-pedro,goldbasket,,https://github.com/jeff-pedro/goldbasket,https://api.github.com/repos/goldbasket/jeff-pedro,Goldbasket é um projeto em desenvolvimento com objetivo de se tornar uma aplicação de gestão de portifólio de investimentos.,,0,0,1,0,investment-portfolio,"[investment-portfolio, investments]",0.0
+",0,0,1,0,investment-portfolio,"[crypto, cryptocurrencies, cryptocurrency, investment, investment-portfolio, python, stock, stock-market, stocks]",55
+117,jeff-pedro,goldbasket,,https://github.com/jeff-pedro/goldbasket,https://api.github.com/repos/goldbasket/jeff-pedro,Goldbasket é um projeto em desenvolvimento com objetivo de se tornar uma aplicação de gestão de portifólio de investimentos.,,0,0,1,0,investment-portfolio,"[investment-portfolio, investments]",55
 118,annerosenisser,crowdinvestment,,https://github.com/annerosenisser/crowdinvestment,https://api.github.com/repos/crowdinvestment/annerosenisser,Shiny app that visualizes financial risks and opportunities with crowd investments,"# crowdinvestment
 
 I'm a big fan of crowd funding/crowd investment. First, it shortens the distance between loaner and recipient: you really know what your money is doing while you give it away. You know which projects have been made possible with your money. Second, it allows to create something new. New projects. This is not the case for other forms of investment, such as buying existing stocks at the stock exchange. 
@@ -6387,14 +6387,14 @@ Note that I'm only referring to debt-based crowd funding here (also called crowd
 
 My two favorite crowd funding platforms (with a focus on renewable energy and social entrepreneurship) are [Bettervest](https://www.bettervest.com/en/) and [GLS Crowd](https://www.gls-crowd.de/) (both based in Germany, but Bettervest has a focus on investing worldwide).
 
-",0,0,0,1,investment-portfolio,"[crowd-investments, crowdfund, crowdfunding, educational, investing, investment, investment-portfolio, investment-strategies, risk, risk-analysis, risk-modelling, shiny, shiny-apps, shinyapps, visualizer]",0.0
-119,WerHolz,FinanceToolsHub,,https://github.com/WerHolz/FinanceToolsHub,https://api.github.com/repos/FinanceToolsHub/WerHolz,"Financial tools for quality investing, written with python and help in understanding the workings of financial exchanges ",,0,0,1,0,investment-portfolio,"[finance, investment-portfolio, portfolio]",0.0
-120,nkechiiregbulem,Javascript,,https://github.com/nkechiiregbulem/Javascript,https://api.github.com/repos/Javascript/nkechiiregbulem,,# Javascript,0,0,1,0,investment-portfolio,"[cryptocurrency, investment-portfolio, javascript]",0.0
+",0,0,0,1,investment-portfolio,"[crowd-investments, crowdfund, crowdfunding, educational, investing, investment, investment-portfolio, investment-strategies, risk, risk-analysis, risk-modelling, shiny, shiny-apps, shinyapps, visualizer]",55
+119,WerHolz,FinanceToolsHub,,https://github.com/WerHolz/FinanceToolsHub,https://api.github.com/repos/FinanceToolsHub/WerHolz,"Financial tools for quality investing, written with python and help in understanding the workings of financial exchanges ",,0,0,1,0,investment-portfolio,"[finance, investment-portfolio, portfolio]",55
+120,nkechiiregbulem,Javascript,,https://github.com/nkechiiregbulem/Javascript,https://api.github.com/repos/Javascript/nkechiiregbulem,,# Javascript,0,0,1,0,investment-portfolio,"[cryptocurrency, investment-portfolio, javascript]",55
 121,ykumar21,portfolio_analysis,,https://github.com/ykumar21/portfolio_analysis,https://api.github.com/repos/portfolio_analysis/ykumar21,Investment tool to visualize personalized portfolios and diversified assets in real time,"
 # Portfolio Analysis
 
 Investment tool to visualize personalized portfolios and diversified assets
-",0,0,1,0,investment-portfolio,"[aws, investment-portfolio, websocket]",0.0
+",0,0,1,0,investment-portfolio,"[aws, investment-portfolio, websocket]",55
 122,andreanasuto,coin_portfolio,,https://github.com/andreanasuto/coin_portfolio,https://api.github.com/repos/coin_portfolio/andreanasuto,"An easy way to know how much money is worth your investments. A no-frills portfolio tracker for cryptocurrencies. This project has been developed using Ruby, Sinatra and Nokogiri gem to scrape data.","# Coin Portfolio
 An easy way to know how much money is worth your investments.
 A no-frills portfolio tracker for cryptocurrencies.
@@ -6448,7 +6448,7 @@ shotgun
 ```
 You'll see running on your browser the app.
 Enjoy!
-",0,0,2,0,investment-portfolio,"[blockchain, cryptocurrency, financial-engineering, investment-portfolio, nokogiri, ruby, scraping, scraping-websites, sinatra]",0.0
+",0,0,2,0,investment-portfolio,"[blockchain, cryptocurrency, financial-engineering, investment-portfolio, nokogiri, ruby, scraping, scraping-websites, sinatra]",55
 123,thevickypedia,stock_hawk,,https://github.com/thevickypedia/stock_hawk,https://api.github.com/repos/stock_hawk/thevickypedia,,"# Stock Hawk: 
 This is the AWS version of [robinhood_monitor](https://github.com/thevickypedia/robinhood_monitor)
 
@@ -6488,7 +6488,7 @@ def get_watchlists(self):
 &copy; Vignesh Sivanandha Rao, Stock Hawk
 
 Licensed under the [MIT License](LICENSE)
-",0,0,1,1,investment-portfolio,"[css, html, investment-portfolio, robinhood-api, ssm, stock-hawk]",0.0
+",0,0,1,1,investment-portfolio,"[css, html, investment-portfolio, robinhood-api, ssm, stock-hawk]",55
 124,lwbakhit,AWS_RoboAdvisor,,https://github.com/lwbakhit/AWS_RoboAdvisor,https://api.github.com/repos/AWS_RoboAdvisor/lwbakhit,RoboAdvisor: Defines an Amazon Lex bot with a single intent that establishes a conversation about the requirements to suggest an investment portfolio for retirement.,"# Unit13-Challenge
 ## RoboAdvisor
 
@@ -6505,7 +6505,7 @@ Build and Test the Robo Advisor: Make sure that your bot is working and respondi
 
 
 Enhance the Robo Advisor with an Amazon Lambda Function: Create an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This task includes testing the Amazon Lambda function and making the integration with the bot.
-",0,0,1,0,investment-portfolio,"[bot, investment-portfolio, retirement, robo-advisor]",0.0
+",0,0,1,0,investment-portfolio,"[bot, investment-portfolio, retirement, robo-advisor]",55
 125,Mihai-Iusztin,investment-portofolio,,https://github.com/Mihai-Iusztin/investment-portofolio,https://api.github.com/repos/investment-portofolio/Mihai-Iusztin,Investments portofolio in the financial markets timing with Yahoo Finance,"# investment-portofolio
 
 Investment Portofolio
@@ -6578,8 +6578,8 @@ Current app can connect with external [investment-portofolio-api](https://github
 - [x] npm instal
 - [x] Start API - npm start
 - [x] From current UI make request to investment-portofolio-api
-",0,0,2,0,investment-portfolio,"[investment-portfolio, trading, yahoo-finance]",0.0
-126,EmilRustamli,Investment_Portfolio_Automation,,https://github.com/EmilRustamli/Investment_Portfolio_Automation,https://api.github.com/repos/Investment_Portfolio_Automation/EmilRustamli,"The automation checks specific Stock or Cryptocurrency close price for two consecutive days and send personalized message with top 3 news related to the topic, if the stock/cryptocurrency had a change in price over a certain percentage.",,0,0,1,0,investment-portfolio,"[api, investment-portfolio]",0.0
+",0,0,2,0,investment-portfolio,"[investment-portfolio, trading, yahoo-finance]",55
+126,EmilRustamli,Investment_Portfolio_Automation,,https://github.com/EmilRustamli/Investment_Portfolio_Automation,https://api.github.com/repos/Investment_Portfolio_Automation/EmilRustamli,"The automation checks specific Stock or Cryptocurrency close price for two consecutive days and send personalized message with top 3 news related to the topic, if the stock/cryptocurrency had a change in price over a certain percentage.",,0,0,1,0,investment-portfolio,"[api, investment-portfolio]",55
 127,lenon,stonks,,https://github.com/lenon/stonks,https://api.github.com/repos/stonks/lenon,Python scripts that I use to keep track of my investments portfolio [wip],"# stonks
 
 This repository includes a Python project that I developed to manage my
@@ -6635,7 +6635,7 @@ The result will be saved in a new file named `data/br-positions.xlsx`.
 
 [pyenv-instructions]: https://github.com/pyenv/pyenv#installation
 [poetry-instructions]: https://python-poetry.org/docs/#installation
-",0,0,2,2,investment-portfolio,"[finance, investment-portfolio, investments, pandas, python, stocks]",0.0
+",0,0,2,2,investment-portfolio,"[finance, investment-portfolio, investments, pandas, python, stocks]",55
 128,ltayara1,Robo_Advisor,,https://github.com/ltayara1/Robo_Advisor,https://api.github.com/repos/Robo_Advisor/ltayara1,I created a robo advisor that could be used by customers or potential new customers to get investment portfolio recommendations for retirement.,"# Robo Advisor
 
 ## Background
@@ -6651,7 +6651,7 @@ I made sure that my bot is working and responding accurately along with the conv
 ### Enhance the Robo Advisor with an Amazon Lambda Function: 
 I created an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This task includes testing the Amazon Lambda function and making the integration with the bot.
 
-To see how this works, see the Trial Video in this Github folder.",0,0,2,0,investment-portfolio,"[advisor, amazon-web-services, aws, aws-lambda, investment-portfolio, portfolio-management, python, roboadvisor]",0.0
+To see how this works, see the Trial Video in this Github folder.",0,0,2,0,investment-portfolio,"[advisor, amazon-web-services, aws, aws-lambda, investment-portfolio, portfolio-management, python, roboadvisor]",55
 129,MitchAnderson93,python-algo,,https://github.com/MitchAnderson93/python-algo,https://api.github.com/repos/python-algo/MitchAnderson93,ShareSight V3 API Python script to manage hosted investment portfolios (work in progress).,"# Commands:
 
 ## Setup script:
@@ -6683,7 +6683,7 @@ Holdings in the selected portfolio:
 ```python
 (env): $ python script.py delete-portfolio 964472
 Output: Portfolio deleted successfully.
-```",0,0,1,0,investment-portfolio,"[finance-management, investment-analysis, investment-portfolio, investment-strategies, modeling, portfolio, sharesight]",0.0
+```",0,0,1,0,investment-portfolio,"[finance-management, investment-analysis, investment-portfolio, investment-strategies, modeling, portfolio, sharesight]",55
 fmilthaler,FinQuant,,https://github.com/fmilthaler/FinQuant,https://api.github.com/repos/FinQuant/fmilthaler,"A program for financial portfolio management, analysis and optimisation.","<p align=""center"">
   <img src=""https://raw.githubusercontent.com/fmilthaler/finquant/master/images/finquant-logo.png"" width=""45%"">
 </p>
@@ -6960,7 +6960,7 @@ Furthermore, it is also shown how the entire *Efficient Frontier* and the optima
 Also, the optimisation of a portfolio and its visualisation based on a *Monte Carlo* is shown.
 
 Finally, *FinQuant*'s visualisation methods allow for overlays, if this is desired. Thus, with only the following few lines of code, one can create an overlay of the *Monte Carlo* run, the *Efficient Frontier*, its optimised portfolios for *Minimum Volatility* and *Maximum Sharpe Ratio*, as well as the portfolio's individual stocks.
-",1061,1061,33,16,investment-portfolio,"[analysis, bollinger-bands, efficient-frontier, finance, financial, financial-analysis, financial-portfolio-management, investment, investment-analysis, investment-portfolio, investment-strategies, markowitz-portfolio, monte-carlo, monte-carlo-simulation, moving-average, optimisation, portfolio-management, portfolio-optimisation, portfolio-properties, returns]",00000,
+",1061,1061,33,16,investment-portfolio,"[analysis, bollinger-bands, efficient-frontier, finance, financial, financial-analysis, financial-portfolio-management, investment, investment-analysis, investment-portfolio, investment-strategies, markowitz-portfolio, monte-carlo, monte-carlo-simulation, moving-average, optimisation, portfolio-management, portfolio-optimisation, portfolio-properties, returns]",00000,55
 ssantoshp,Empyrial,,https://github.com/ssantoshp/Empyrial,https://api.github.com/repos/Empyrial/ssantoshp,An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎,"
 # By Investors, For Investors.
 <br><br><br><br>
@@ -7270,7 +7270,7 @@ You are welcome to contact us by email at **santoshpassoubady@gmail.com** or in 
 ## License
 
 MIT
-",784,784,27,1,investment-portfolio,"[backtesting, finance, fintech, futures, investment, investment-analysis, investment-portfolio, portfolio-analysis, portfolio-management, portfolio-optimization, python, quant, quantitative-analysis, quantitative-finance, stock, stock-data, stock-market]",00000,
+",784,784,27,1,investment-portfolio,"[backtesting, finance, fintech, futures, investment, investment-analysis, investment-portfolio, portfolio-analysis, portfolio-management, portfolio-optimization, python, quant, quantitative-analysis, quantitative-finance, stock, stock-data, stock-market]",00000,55
 ericyung1998,bond-investment,,https://github.com/ericyung1998/bond-investment,https://api.github.com/repos/bond-investment/ericyung1998,[EXCEL] Strategic bond investment portfolio based on decision analytics principles - linear programming and Markov Chain,"# bond-investment
 
 ISOM3900 (Decision Analytics): Project
@@ -7281,9 +7281,9 @@ ISOM3900 (Decision Analytics): Project
 - Learning Objectives: apply decision analytics concepts on bond investment
 - Improvements: consolidate and polish final report
  
-",2,2,1,0,investment-portfolio,"[bonds, excel, investment-portfolio, linear-programming, markov-chain, strategic-planning]",00000,
+",2,2,1,0,investment-portfolio,"[bonds, excel, investment-portfolio, linear-programming, markov-chain, strategic-planning]",00000,55
 toastal,portfolio-balancer,,https://github.com/toastal/portfolio-balancer,https://api.github.com/repos/portfolio-balancer/toastal,Crude Portfolio Balancing -- Just the Shares to move around,"# portfolio-balancer
-",0,0,3,0,investment-portfolio,"[balancer, haskell, investment-portfolio]",00000,
+",0,0,3,0,investment-portfolio,"[balancer, haskell, investment-portfolio]",00000,55
 SunilVeeravalli,XIRR_in_Python,,https://github.com/SunilVeeravalli/XIRR_in_Python,https://api.github.com/repos/XIRR_in_Python/SunilVeeravalli,XIRR (using Python) to calculate return on investments done at different time periods which need not be periodic.,"XIRR calculation (in Python)
 =============================
 
@@ -7368,7 +7368,7 @@ That is, the return of our portfolio is **-79.848%** per annum.
 
 
 
-",10,10,2,0,investment-portfolio,"[annum, cagr, compounded-annual-growth-rate, excel, excel-cagr, excel-irr, excel-xirr, internal-rate-if-return, investment-analysis, investment-portfolio, investments, irr, negative-returns, positive-returns, python, redemptions, return, returns-calculator, xirr, xirr-calculation]",00000,
+",10,10,2,0,investment-portfolio,"[annum, cagr, compounded-annual-growth-rate, excel, excel-cagr, excel-irr, excel-xirr, internal-rate-if-return, investment-analysis, investment-portfolio, investments, irr, negative-returns, positive-returns, python, redemptions, return, returns-calculator, xirr, xirr-calculation]",00000,55
 boyac,pyTrading,,https://github.com/boyac/pyTrading,https://api.github.com/repos/pyTrading/boyac,"Based on the concepts in ""CIMTR"" and others, swing trading","# pyTrading
 ## Content
 - use python 2.7
@@ -7387,7 +7387,7 @@ you can make a donation to this project:
 -- R_ui: unleveraged return  
 -- D/E : borrowing ratio  
 -- c   : cost of borrowing  
-",11,11,2,0,investment-portfolio,"[equity, fixed-income, intraday-trading, investment, investment-portfolio, multi-asset, reits, swing-trading, systematic-trading-strategies, trading, trading-strategies]",00000,
+",11,11,2,0,investment-portfolio,"[equity, fixed-income, intraday-trading, investment, investment-portfolio, multi-asset, reits, swing-trading, systematic-trading-strategies, trading, trading-strategies]",00000,55
 thevickypedia,robinhood_monitor,,https://github.com/thevickypedia/robinhood_monitor,https://api.github.com/repos/robinhood_monitor/thevickypedia,Stock monitoring application to get accurate alerts from Robinhood using pyrh,"# Stock Monitor
 Get a report of your investments from Robinhood along with graphs for previous week stock trend. 
 
@@ -7437,4 +7437,4 @@ Click to learn more about [pyrh](https://pypi.org/project/pyrh/)
 &copy; Vignesh Sivanandha Rao, Robinhood Monitor
 
 Licensed under the [MIT License](LICENSE)
-",0,0,1,0,investment-portfolio,"[investment-portfolio, robinhood-api]",00000,
+",0,0,1,0,investment-portfolio,"[investment-portfolio, robinhood-api]",00000,55

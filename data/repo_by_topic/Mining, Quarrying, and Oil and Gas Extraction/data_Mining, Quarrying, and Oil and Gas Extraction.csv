@@ -69,7 +69,7 @@ Thanks ... for ...
 ## License
 
 <a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/""><img alt=""Creative Commons License"" style=""border-width:0"" src=""https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"" /></a><br />This work is licensed under a <a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/"">Creative Commons Attribution 4.0 International License</a>.
-",161,161,23,3,oil-and-gas,"[numerical-computation, oil-and-gas, reservoir-engineering]",0.0
+",161,161,23,3,oil-and-gas,"[numerical-computation, oil-and-gas, reservoir-engineering]",21
 1,dudley-fitzgerald,AutomatedWellLogCorrelation,,https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation,https://api.github.com/repos/AutomatedWellLogCorrelation/dudley-fitzgerald,Framework for correlating two or more well logs using feature vectors generated from CNN's in Pytorch,"# Automated well log correlation using Python
 
 This repository contains a preliminary (and admittely incomplete) set of scripts that can be used to correlate two or more well logs automatically without any user input.
@@ -149,7 +149,7 @@ Example of cost map and matching points:
 ![cost map #2](/images/costMap2.png)
 ![cost map #2](/images/costMap3.png)
 
-Each of the matching points is added to a NetworkX graph as an edge.  The purpose of generating this graph is to enable automated picking of individual markers or for generating a global interpretation across all wells and depths.  The results here are limited, but could be extended to encompass the global solution.",117,117,10,2,oil-and-gas,"[automated-interpretation, cnn, feature-vector, geology, interpretation, joblib, networkx, oil-and-gas, oil-wells, python, pytorch, sift, well-correlation, well-logs]",0.0
+Each of the matching points is added to a NetworkX graph as an edge.  The purpose of generating this graph is to enable automated picking of individual markers or for generating a global interpretation across all wells and depths.  The results here are limited, but could be extended to encompass the global solution.",117,117,10,2,oil-and-gas,"[automated-interpretation, cnn, feature-vector, geology, interpretation, joblib, networkx, oil-and-gas, oil-wells, python, pytorch, sift, well-correlation, well-logs]",21
 2,Skoltech-CHR,DeepField,Skoltech-CHR,https://github.com/Skoltech-CHR/DeepField,https://api.github.com/repos/DeepField/Skoltech-CHR,Machine learning framework for reservoir simulation,"[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://python.org)
 [![Pytorch](https://img.shields.io/badge/PyTorch-orange.svg)](https://pytorch.org)
 ![](https://github.com/Skoltech-CHR/DeepField/workflows/pylint-check/badge.svg)
@@ -250,7 +250,7 @@ doi = {https://doi.org/10.1016/j.petrol.2021.109332},
 url = {https://www.sciencedirect.com/science/article/pii/S0920410521009827}
 }
 ```
-",88,88,4,0,oil-and-gas,"[machine-learning, neural-network, oil-and-gas, petroleum-engineering, reservoir-engineering, reservoir-simulation]",0.0
+",88,88,4,0,oil-and-gas,"[machine-learning, neural-network, oil-and-gas, petroleum-engineering, reservoir-engineering, reservoir-simulation]",21
 3,yohanesnuwara,pyresim,,https://github.com/yohanesnuwara/pyresim,https://api.github.com/repos/pyresim/yohanesnuwara,Reservoir simulator in Python language,"# PyReSim*
 
 #### Python reservoir simulation from single-phase simple reservoir to multi-phase complex reservoir 
@@ -363,7 +363,7 @@ We tirelessly spent days and nights to continuously develop, fine-tune, and impr
 The author chooses Creative Commons BY-NC-ND 4.0 International to license this work. 
 
 <a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-nd/4.0/""><img alt=""Creative Commons License"" style=""border-width:0"" src=""https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"" /></a><br />This work is licensed under a <a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-nd/4.0/"">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-",77,77,11,1,oil-and-gas,"[oil-and-gas, reservoir-engineering, reservoir-simulation]",0.0
+",77,77,11,1,oil-and-gas,"[oil-and-gas, reservoir-engineering, reservoir-simulation]",21
 4,yohanesnuwara,python-bootcamp-for-geoengineers,,https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers,https://api.github.com/repos/python-bootcamp-for-geoengineers/yohanesnuwara,"Python source codes and notebooks from my courses I've given to SPEs and in Marietta College, Ohio, US","![python-bootcamp-for-geoengineers-logo](https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png)
 
 This repository contains all Python source codes, notebooks, and data that I use for my course I've given to SPE student chapters and in PioPetro (Marietta College, Ohio, US). Topics of these courses revolve around basics of Python programming and applications in exploration and production.
@@ -519,7 +519,7 @@ Enjoy!
 2. Well-log Data Processing and Petrophysics
 3. Exploring Seismic Data
 4. Exam
-",65,65,5,1,oil-and-gas,"[courses, geoscience, oil-and-gas, python, tutorials]",0.0
+",65,65,5,1,oil-and-gas,"[courses, geoscience, oil-and-gas, python, tutorials]",21
 5,equinor,neqsim,equinor,https://github.com/equinor/neqsim,https://api.github.com/repos/neqsim/equinor,"NeqSim is a library for calculation of fluid behavior, phase equilibrium and process simulation","# NeqSim
 
 [![Build Status](https://neqsim.visualstudio.com/neqsim_cicd/_apis/build/status/neqsim_build?branchName=master)](https://neqsim.visualstudio.com/neqsim_cicd/_build/latest?definitionId=1&branchName=master)
@@ -651,7 +651,7 @@ See [NeqSim homepage](https://equinor.github.io/neqsimhome/). NeqSim toolboxes a
 ## Related open source projects
 
 [NeqSim Python/Colab](https://github.com/EvenSol/NeqSim-Colab)
-",46,46,7,48,oil-and-gas,"[equation-of-state, fluid-properties, gas-production, gas-transport, java, oil-and-gas, phase-equilibrium, physical-properties, process-simulation, processing, pvt, thermodynamics]",0.0
+",46,46,7,48,oil-and-gas,"[equation-of-state, fluid-properties, gas-production, gas-transport, java, oil-and-gas, phase-equilibrium, physical-properties, process-simulation, processing, pvt, thermodynamics]",21
 6,equinor,neqsimpython,equinor,https://github.com/equinor/neqsimpython,https://api.github.com/repos/neqsimpython/equinor,"NeqSim is a library for calculation of fluid behavior, phase equilibrium and process simulation. This project is a Python interface to NeqSim.","# NeqSim Python
 
 NeqSim Python is part of the [NeqSim project](https://equinor.github.io/neqsimhome/). NeqSim Python is a Python interface to the [NeqSim Java library](https://github.com/equinor/neqsim) for estimation of fluid behavior and process design for oil and gas production. NeqSim Python toolboxes (eg. [thermoTools](https://github.com/equinor/neqsimpython/blob/master/neqsim/thermo/thermoTools.py) and [processTools](https://github.com/equinor/neqsimpython/blob/master/neqsim/process/processTools.py)) are implemented to streamline use of neqsim in Python. Examples of use are given in jupyter workbooks.
@@ -694,7 +694,7 @@ NeqSim is distributed under the [Apache-2.0](https://github.com/equinor/neqsimso
 ## Acknowledgments
 
 A number of master and PhD students at NTNU have contributed to development of NeqSim. We greatly acknowledge their contributions.
-",35,35,10,1,oil-and-gas,"[equation-of-state, fluid-dynamics, fluid-properties, gas-production, gas-transport, oil-and-gas, oil-production, process-simulation, pvt, python, thermodynamic-properties, thermodynamics]",0.0
+",35,35,10,1,oil-and-gas,"[equation-of-state, fluid-dynamics, fluid-properties, gas-production, gas-transport, oil-and-gas, oil-production, process-simulation, pvt, python, thermodynamic-properties, thermodynamics]",21
 7,beatrixparis,connectivity-modeling-system,,https://github.com/beatrixparis/connectivity-modeling-system,https://api.github.com/repos/connectivity-modeling-system/beatrixparis,"The CMS is a multiscale stochastic Lagrangian framework developed by Paris' Lab at the Rosenstiel School of Marine, Atmospheric & Earth Science to study complex behaviors, giving probabilistic estimates of dispersion, connectivity, fate of pollutants, and other Lagrangian phenomena. This repository facilitates community contributions to CMS modules","# connectivity-modeling-system (CMS), for more information please read and cite Paris et al. 2013EMS
 
   The CMS is a multiscale stochastic Lagrangian framework developed by Professor Claire B. Paris at the Paris' Lab of the University of Miami's Rosenstiel School of Marine, Atmospheric, and Earth Science to trace complex planktonic migrations and give probabilistic estimates of dispersion and migration, marine population and oceanographic connectivity, transport and fate of oil and gas, plastics, and other pollutants, and other Lagrangian phenomena. This repository FACILITATES & ENCOURAGES COMMUNITY CONTRIBUTIONS TO CMS MODULES.
@@ -707,7 +707,7 @@ The CMS uses RK4 timestepping and tricubic interpolation and is designed to be m
 
 CMS Google FORUM
 https://groups.google.com/forum/#!forum/connectivity-modeling-system-club
-",26,26,13,20,oil-and-gas,"[connectivity, deepsea, deepsea-spill, dispersion, lagrangian, larvae, migration, oil-and-gas, orientation, plastic, pollutants, transport]",0.0
+",26,26,13,20,oil-and-gas,"[connectivity, deepsea, deepsea-spill, dispersion, lagrangian, larvae, migration, oil-and-gas, orientation, plastic, pollutants, transport]",21
 8,bbcho,risktools-dev,,https://github.com/bbcho/risktools-dev,https://api.github.com/repos/risktools-dev/bbcho,Risk tools for commodities trading and finance,"# risktools
 
 Python implementation of the R package RTL.  
@@ -818,7 +818,7 @@ removed support for Python 3.6. Supports >= 3.7
 
 Companion package to https://github.com/bbcho/finoptions-dev
 
-",20,20,5,1,oil-and-gas,"[cme, commodities, crude, eia, finance, morningstar, nymex, oil, oil-and-gas, python, risk, risk-management, swaps]",0.0
+",20,20,5,1,oil-and-gas,"[cme, commodities, crude, eia, finance, morningstar, nymex, oil, oil-and-gas, python, risk, risk-management, swaps]",21
 9,Philliec459,NEW-Carbonate-Characterization-Workflow-Jupiter-Notebook-Modules-with-Clerke-Arab-D-Calibration-Data,,https://github.com/Philliec459/NEW-Carbonate-Characterization-Workflow-Jupiter-Notebook-Modules-with-Clerke-Arab-D-Calibration-Data,https://api.github.com/repos/NEW-Carbonate-Characterization-Workflow-Jupiter-Notebook-Modules-with-Clerke-Arab-D-Calibration-Data/Philliec459,Carbonate Reservoir Characterization workflow using Clerke’s carbonate Arab D Rosetta Stone calibration data to provide for a full pore system characterization with modeled saturations using Thomeer Capillary Pressure parameters for an Arab D complex carbonate reservoir,"# Carbonate Reservoir Characterization workflow using Clerke’s carbonate Arab D Rosetta Stone calibration data to provide for a full pore system characterization with modeled saturations using Thomeer Capillary Pressure parameters for an Arab D complex carbonate reservoir.
 ## New Scipy Optimization for Lithology including Illite Clay. This also has the FWL Search routine too.
 ### INSTALL NOTE: Please delete any previous installations and re-install this repositiry in full and keep the intire project together in one subirectory since there are relative paths.
@@ -982,7 +982,7 @@ https://github.com/Philliec459?tab=repositories
 2.	Clerke, E. A., Mueller III, H. W., Phillips, E. C., Eyvazzadeh, R. Y., Jones, D. H., Ramamoorthy, R., Srivastava, A., (2008) “Application of Thomeer Hyperbolas to decode the pore systems, facies and reservoir properties of the Upper Jurassic Arab D Limestone, Ghawar field, Saudi Arabia: A Rosetta Stone approach”, GeoArabia, Vol. 13, No. 4, p. 113-160, October, 2008. 
 3.	Hall, Brendon, “Facies classification using Machine Learning”, The Leading Edge, 2016, Volume 35, Issue 10
  
-",17,17,4,0,oil-and-gas,"[geology, logging, oil-and-gas, petroleum-engineering, petrophysics]",0.0
+",17,17,4,0,oil-and-gas,"[geology, logging, oil-and-gas, petroleum-engineering, petrophysics]",21
 10,Philliec459,Estimate-Core-Permeability-from-NMR-data-using-either-Map-Inversion-or-kNN,,https://github.com/Philliec459/Estimate-Core-Permeability-from-NMR-data-using-either-Map-Inversion-or-kNN,https://api.github.com/repos/Estimate-Core-Permeability-from-NMR-data-using-either-Map-Inversion-or-kNN/Philliec459,Estimate Core-based Permeability from NMR well log data,"# Estimate-Core-Permeability-from-NMR-data
 Estimate Core-based Permeability from NMR well log data
 
@@ -1000,7 +1000,7 @@ The kNN program used in this instance is inv_dist_perm_linux_kNN2.py. Again, we 
 The blue curve below shows the estimated permeability for our subject well and the red dots represent the core permeability measurements. 
 
 ![Summary_Image](PermEstimate.png) 
-",15,15,3,0,oil-and-gas,"[geoscience, oil-and-gas, permeability, petroleum-engineering, petrophysics, reservoir-characterization, reservoir-modeling]",0.0
+",15,15,3,0,oil-and-gas,"[geoscience, oil-and-gas, permeability, petroleum-engineering, petrophysics, reservoir-characterization, reservoir-modeling]",21
 11,bpamos,welltrajconvert,,https://github.com/bpamos/welltrajconvert,https://api.github.com/repos/welltrajconvert/bpamos,Calculate directional survey metadata points along the wellbore.,"# welltrajconvert
 
 The `welltrajconvert` is a Python package that allows a user to take the bare minimum required
@@ -1058,7 +1058,7 @@ Alternatively, you could install from source code. This will give you the **late
 	```
 	
 	At this point your command line should look something like: `(welltrajconvert) <User>:welltrajconvert <user>$`. The `(welltrajconvert)` indicates that your environment has been activated, and you can proceed with further package installations.
-",14,14,1,0,oil-and-gas,"[crs-transform, directional-survey, drilling, latitude, longitude-points, minimum-curvature-algorithm, oil-and-gas, trajectory, wellbore]",0.0
+",14,14,1,0,oil-and-gas,"[crs-transform, directional-survey, drilling, latitude, longitude-points, minimum-curvature-algorithm, oil-and-gas, trajectory, wellbore]",21
 12,Philliec459,Simple-Neural-Network-to-Estimate-Carbonate-Rock-Types,,https://github.com/Philliec459/Simple-Neural-Network-to-Estimate-Carbonate-Rock-Types,https://api.github.com/repos/Simple-Neural-Network-to-Estimate-Carbonate-Rock-Types/Philliec459,"We have developed a simple, 1 layer neural network to estimate Rock Types","# Simple-Neural-Network-to-Estimate-Rock-Types-Rock-Types
 We have developed a simple, 1 layer neural network to estimate Macro, Meso and Micro Rock Types
 ### Introduction
@@ -1193,7 +1193,7 @@ For nearly 300 samples, we have accurately predicted the correct RT for all by 6
 
 1 Clerke, E. A., Mueller III, H. W., Phillips, E. C., Eyvazzadeh, R. Y., Jones, D. H., Ramamoorthy, R., Srivastava, A., (2008) “Application of Thomeer Hyperbolas to decode the pore systems, facies and reservoir properties of the Upper Jurassic Arab D Limestone, Ghawar field, Saudi Arabia: A Rosetta Stone approach”, GeoArabia, Vol. 13, No. 4, p. 113-160, October, 2008. 
 
-",14,14,2,0,oil-and-gas,"[geoscience, oil-and-gas, petrophysical-properties, petrophysical-rock-types, petrophysics]",0.0
+",14,14,2,0,oil-and-gas,"[geoscience, oil-and-gas, petrophysical-properties, petrophysical-rock-types, petrophysics]",21
 13,FracThePermian,Reservoir-Simulation-Part-B,,https://github.com/FracThePermian/Reservoir-Simulation-Part-B,https://api.github.com/repos/Reservoir-Simulation-Part-B/FracThePermian,3D Graphical Output of well producers and injectors in oil reservoir.,"# Reservoir-Simulation-Part-B
 
 Compares analytical/numerical results for the drainage of multiple wells w/n the dimensions that you define (drainage area and depth). The Nechelik (.dat) files provide porosity and permeability for each unit block of reservoir. Modify the following variables to your liking.
@@ -1283,7 +1283,7 @@ Navigate to folder from Matlab (~/Reservoir-Simulation-Part-B/) and run the Proj
 
 ### License
 [MIT](https://opensource.org/licenses/MIT ""MIT"")
-",13,13,2,0,oil-and-gas,"[3d, 3d-simulation, discrete-mathematics, fem, finite-element-methods, gas, matlab, oil, oil-and-gas, petroleum-engineering, production, reservoir-engineering, reservoir-simulation, simulation]",0.0
+",13,13,2,0,oil-and-gas,"[3d, 3d-simulation, discrete-mathematics, fem, finite-element-methods, gas, matlab, oil, oil-and-gas, petroleum-engineering, production, reservoir-engineering, reservoir-simulation, simulation]",21
 14,aegis4048,GasCompressibility-py,,https://github.com/aegis4048/GasCompressibility-py,https://api.github.com/repos/GasCompressibility-py/aegis4048,Gas compressibility z-factor calculator package in Python,"![Alt text](docs/_static/intro_image.png)
 
 # GasCompressibility-py
@@ -1664,7 +1664,7 @@ The packages is under [MIT License](https://github.com/aegis4048/GasCompressibil
 ## 11. Cite As
 
 Eric \""Soobin\"" Kim, 2021, GasCompressibility-py Python Package, PyPI, Python Package Index, <https://pypi.org/project/gascompressibility/>.
-",12,12,1,1,oil-and-gas,"[chemical-engineering, oil-and-gas, petroleum, petroleum-engineering, python]",0.0
+",12,12,1,1,oil-and-gas,"[chemical-engineering, oil-and-gas, petroleum, petroleum-engineering, python]",21
 15,Accenture,OSDU-Ontology,Accenture,https://github.com/Accenture/OSDU-Ontology,https://api.github.com/repos/OSDU-Ontology/Accenture,"An ontology designed for oil and gas, and subsurface energy data based on the industry standards.","# OSDU Ontology 
 This is an open source ontology for the subsurface energy data based on [3rd release of the schema files and standards ](https://community.opengroup.org/osdu/platform/data-flow/data-loading/open-test-data/-/tree/master/rc--3.0.0/3-schema) specified by the [Open Subsurface Data Universe](https://osduforum.org/) community.
 Please see the [documentation](./docs) for more information about OSDU and how the ontology is designed.
@@ -1699,7 +1699,7 @@ To run metric calculation (with reporting in terminal):
 ~~~
 python3 -m create_ontology --src path_to_full_schema/ --report_metrics
 ~~~
-",11,11,7,14,oil-and-gas,"[knowledge-graph, oil-and-gas, ontology, owl, rdf]",0.0
+",11,11,7,14,oil-and-gas,"[knowledge-graph, oil-and-gas, ontology, owl, rdf]",21
 16,OlegRyzhkov2020,oil-project,,https://github.com/OlegRyzhkov2020/oil-project,https://api.github.com/repos/oil-project/OlegRyzhkov2020,Oil Data Analytics,"# Oil Data Analytics
 
 
@@ -1784,10 +1784,10 @@ ORDER BY p1.year DESC
 ## Contacts
 [Find Me on
 LinkedIn](https://www.linkedin.com/in/oleg-n-ryzhkov/)
-",10,10,1,1,oil-and-gas,"[dashboard, flask-application, html-css-javascript, interactive-maps, oil-and-gas, python, r, regression-analysis, sqlalchemy, time-series-analysis]",0.0
+",10,10,1,1,oil-and-gas,"[dashboard, flask-application, html-css-javascript, interactive-maps, oil-and-gas, python, r, regression-analysis, sqlalchemy, time-series-analysis]",21
 17,yohanesnuwara,petroleum-data-analytics-series,,https://github.com/yohanesnuwara/petroleum-data-analytics-series,https://api.github.com/repos/petroleum-data-analytics-series/yohanesnuwara,Series of tutorials and codes for Petroleum Data Analytics & ML,"# Petroleum Data Analytics (PDA) Series
-",9,9,1,0,oil-and-gas,"[data-analytics, machine-learning, oil-and-gas]",0.0
-18,pro-well-plan,opensource_apps,pro-well-plan,https://github.com/pro-well-plan/opensource_apps,https://api.github.com/repos/opensource_apps/pro-well-plan,Streamlit app covering our open source projects. Try it here:  https://lnkd.in/g2Yr5B9,,8,8,3,0,oil-and-gas,"[oil-and-gas, open-source, streamlit]",0.0
+",9,9,1,0,oil-and-gas,"[data-analytics, machine-learning, oil-and-gas]",21
+18,pro-well-plan,opensource_apps,pro-well-plan,https://github.com/pro-well-plan/opensource_apps,https://api.github.com/repos/opensource_apps/pro-well-plan,Streamlit app covering our open source projects. Try it here:  https://lnkd.in/g2Yr5B9,,8,8,3,0,oil-and-gas,"[oil-and-gas, open-source, streamlit]",21
 19,imayachita,wireline-log-plotting,,https://github.com/imayachita/wireline-log-plotting,https://api.github.com/repos/wireline-log-plotting/imayachita,Wireline Log Visualization/Plotting with Matplotlib in Python,"# wireline-log-plotting
 Wireline Log Visualization/Plotting with Matplotlib in Python with LAS file as input
 
@@ -1807,7 +1807,7 @@ Output:
 
 
 Credit to https://github.com/petroGG/Basic-Well-Log-Interpretation
-",7,7,1,0,oil-and-gas,"[geoscience, oil-and-gas, visualization]",0.0
+",7,7,1,0,oil-and-gas,"[geoscience, oil-and-gas, visualization]",21
 20,fraclad,wellArchitectureDesign,,https://github.com/fraclad/wellArchitectureDesign,https://api.github.com/repos/wellArchitectureDesign/fraclad,Leveraging matplotlib to visualize well drilling and construction,"# Well Design & Architecture
 
 A repository for a set of codes to vizualize a wellbore with pertinent information. 
@@ -1821,7 +1821,7 @@ Current result looks like something below (the dimensions are totally made up lo
 Possible development in the future will most likely revolve around adding more well construction elements such as hanging liners, expandable tubulars, perforation zone, etc. 
 
 Do consider helping!! Always open for a pull request. 
-",7,7,1,0,oil-and-gas,"[drilling, drilling-engineering, oil-and-gas, well, well-construction]",0.0
+",7,7,1,0,oil-and-gas,"[drilling, drilling-engineering, oil-and-gas, well, well-construction]",21
 21,rickdelpino,Oil_Finder_Rick_improved_2021,,https://github.com/rickdelpino/Oil_Finder_Rick_improved_2021,https://api.github.com/repos/Oil_Finder_Rick_improved_2021/rickdelpino,"Open source Windows Application in Python for Geosciences, Artificial Intelligence and Data Sciences - Initial stages, 2021","# Oil_Finder_Rick_improved_2021
 Open source Windows Application in Python for Geosciences, Artificial Intelligence and Data Sciences - 1st Framework Design 2020
 
@@ -1881,15 +1881,15 @@ What the software do so far:
 
 Inside the Data folder, there is a csv file ""Exploratory_Wells_Data.csv"" that is used in the Data Sciences module for
 testing purposes.
-",7,7,1,0,oil-and-gas,"[data-science, dataframe, geosciences, input-output, machine-learning, matplotlib, oil-and-gas, pyqt5, python, segy, seismic-data]",0.0
-22,FracThePermian,FEM-Reservoir-Drainage-3D,,https://github.com/FracThePermian/FEM-Reservoir-Drainage-3D,https://api.github.com/repos/FEM-Reservoir-Drainage-3D/FracThePermian,Compares analytical/numerical results for the drainage of a single well.,,6,6,0,2,oil-and-gas,"[3d, 3d-simulation, finite-element-methods, geology, matlab, oil-and-gas, petroleum, petroleum-engineering, physics-simulation, simulation]",0.0
+",7,7,1,0,oil-and-gas,"[data-science, dataframe, geosciences, input-output, machine-learning, matplotlib, oil-and-gas, pyqt5, python, segy, seismic-data]",21
+22,FracThePermian,FEM-Reservoir-Drainage-3D,,https://github.com/FracThePermian/FEM-Reservoir-Drainage-3D,https://api.github.com/repos/FEM-Reservoir-Drainage-3D/FracThePermian,Compares analytical/numerical results for the drainage of a single well.,,6,6,0,2,oil-and-gas,"[3d, 3d-simulation, finite-element-methods, geology, matlab, oil-and-gas, petroleum, petroleum-engineering, physics-simulation, simulation]",21
 23,jshumway0475,Petroleum,,https://github.com/jshumway0475/Petroleum,https://api.github.com/repos/Petroleum/jshumway0475,Discounted cash flow analysis for oil and gas,"# Petroleum Discounted Cash Flow Analysis  
 This repository contains a Jupyter Notebook called **`Multi-Well DCF.ipynb`** that takes as input oil and natural gas price forecasts (example file provided `STR-071521.csv`) and a list of properties that could be existing wells or future wells (example file provided `property_table.csv`) with several fields needed to create forecasts for oil and gas production, expenses, and capital. The Jupyter Notebook generates the forecasts for the time frame specified, discounts the projected cash flow stream, and provides output of key economic metrics such as net present value, rate of return, etc.
 
 Also included is a Jupyter Notebook called **`DCA Calcs.ipynb`** that is a simple calculator to forecast oil and gas volumes from Arps equations. This is a primary component of the Muti-Well DCF.ipynb program and is provided for reference.  
 
 It is important to note that all properties in the property_table.csv file must have forecast parameters anchored to a common start month ('Base Date' in cell 10 of the Multi-Well DCF.ipynb program). In the example file, the base date (start month) is set to July 2021.
-",5,5,1,0,oil-and-gas,"[decline-curve-analysis, discounted-cash-flows, forecasting, oil-and-gas, petroleum, petroleum-engineering]",0.0
+",5,5,1,0,oil-and-gas,"[decline-curve-analysis, discounted-cash-flows, forecasting, oil-and-gas, petroleum, petroleum-engineering]",21
 24,Yous3ry,Python_Automated_DCA,,https://github.com/Yous3ry/Python_Automated_DCA,https://api.github.com/repos/Python_Automated_DCA/Yous3ry,Python Automatic Decline Curve Analysis (DCA) For Petroleum Producing wells,"# Python Automatic Decline Curve Analysis (DCA) For Petroleum Producing wells
 
 ## Table of Contents
@@ -1924,8 +1924,8 @@ https://petrowiki.spe.org/Production_forecasting_decline_curve_analysis#:~:text=
 <br>
 <a id=""ref-1"">[2]</a> 
 https://rdrr.io/cran/EnvCpt/man/envcpt.html
-",5,5,1,0,oil-and-gas,"[change-detection, curve-fitting, decline-curve-analysis, oil-and-gas, petroleum, petroleum-engineering, reservoir, reservoir-engineering, sql]",0.0
-25,brunomsantiago,subsea_inpainting,,https://github.com/brunomsantiago/subsea_inpainting,https://api.github.com/repos/subsea_inpainting/brunomsantiago,Removing overlays from subsea inspection videos,,4,4,1,0,oil-and-gas,"[computer-vision, deep-neural-networks, image-dataset, image-inpainting, offshore, oil-and-gas, rov, subsea, underwater, video-inpainting]",0.0
+",5,5,1,0,oil-and-gas,"[change-detection, curve-fitting, decline-curve-analysis, oil-and-gas, petroleum, petroleum-engineering, reservoir, reservoir-engineering, sql]",21
+25,brunomsantiago,subsea_inpainting,,https://github.com/brunomsantiago/subsea_inpainting,https://api.github.com/repos/subsea_inpainting/brunomsantiago,Removing overlays from subsea inspection videos,,4,4,1,0,oil-and-gas,"[computer-vision, deep-neural-networks, image-dataset, image-inpainting, offshore, oil-and-gas, rov, subsea, underwater, video-inpainting]",21
 26,victoreronmosele,oil_and_gas_unit_converter,,https://github.com/victoreronmosele/oil_and_gas_unit_converter,https://api.github.com/repos/oil_and_gas_unit_converter/victoreronmosele,Oil and Gas Unit Converter is a mobile app that helps make various unit conversions in the oil and gas industry. ,"
 
 
@@ -1981,7 +1981,7 @@ MIT
 > [victoreronmosele.com](https://victoreronmosele.com) &nbsp;&middot;&nbsp;
 > GitHub [@victoreronmosele](https://github.com/victoreronmosele) &nbsp;&middot;&nbsp;
 
-",4,4,0,0,oil-and-gas,"[android, flutter, oil-and-gas]",0.0
+",4,4,0,0,oil-and-gas,"[android, flutter, oil-and-gas]",21
 27,james-roden,arcgis-ghsz,,https://github.com/james-roden/arcgis-ghsz,https://api.github.com/repos/arcgis-ghsz/james-roden,Calculates the base of the Gas Hydrate Stability Zone given a sea floor raster using Joides formula.,"# arcgis-ghsz
 An ArcGIS toolbox for caculating the base of the Gas Hydrate Stability Zone given a sea floor raster. Derived from the [Joides formula](http://www.odplegacy.org/PDF/Admin/JOIDES_Journal/JJ_1992_V18_No7.pdf).
 
@@ -2007,7 +2007,7 @@ Joides algorithm for calculating the GHSZ given the water depth (meters), bottom
 
 ## How to Use
 - Ensure the sea floor raster has only positive values. 
-",4,4,2,0,oil-and-gas,"[arcgis, environment, ghsz, hydrocarbons, methane, oil-and-gas, python, python2, sea-floor-raster]",0.0
+",4,4,2,0,oil-and-gas,"[arcgis, environment, ghsz, hydrocarbons, methane, oil-and-gas, python, python2, sea-floor-raster]",21
 28,devfabiosilva,witsml21parser,,https://github.com/devfabiosilva/witsml21parser,https://api.github.com/repos/witsml21parser/devfabiosilva,"A fast, robust and portable Witsml to BSON parser","# witsml21parser
 
 A fast, robust and portable [Witsml 2.1](https://energistics.org/witsml-data-standards) to [BSON parser](https://bsonspec.org/)
@@ -2293,7 +2293,7 @@ Consider any amount of donation in _BITCOIN_: *1JUzcSh3vsBCRji5n5rJsbHQfW3hYrNAW
 
 Thank you :)
 
-",3,3,1,0,oil-and-gas,"[bson, c, cplusplus, energistics, etp, java, nodejs, oil-and-gas, osdu, python, soap, witsml, xml]",0.0
+",3,3,1,0,oil-and-gas,"[bson, c, cplusplus, energistics, etp, java, nodejs, oil-and-gas, osdu, python, soap, witsml, xml]",21
 29,Jun-Tam,article_analysis_word2vec,,https://github.com/Jun-Tam/article_analysis_word2vec,https://api.github.com/repos/article_analysis_word2vec/Jun-Tam,NLP Article Trend Analysis (Oil & Gas),"# Article trend Analysis by word2vec
 
 ### Summary
@@ -2328,8 +2328,8 @@ The time-series plots below show recent article trends for individual ness vecto
 ### Reference
 Natural Language Processing In Action, Undestanding, analyzing, and generating text with Python, Manning <br>
 Hobson Lane, Cole Howard, Hannes Max Hapke <br>
-",3,3,1,0,oil-and-gas,"[energy, nlp, oil-and-gas, word2vec, wordcloud]",0.0
-30,gwallison,KS_injection_wells_formatting,,https://github.com/gwallison/KS_injection_wells_formatting,https://api.github.com/repos/KS_injection_wells_formatting/gwallison,Code to convert Kansas's injection well data to a different format,,3,3,2,0,oil-and-gas,"[chemicals, fracking, oil-and-gas, pollution]",0.0
+",3,3,1,0,oil-and-gas,"[energy, nlp, oil-and-gas, word2vec, wordcloud]",21
+30,gwallison,KS_injection_wells_formatting,,https://github.com/gwallison/KS_injection_wells_formatting,https://api.github.com/repos/KS_injection_wells_formatting/gwallison,Code to convert Kansas's injection well data to a different format,,3,3,2,0,oil-and-gas,"[chemicals, fracking, oil-and-gas, pollution]",21
 31,bysarmad,A-Tour-of-Oil-Industry-ML,,https://github.com/bysarmad/A-Tour-of-Oil-Industry-ML,https://api.github.com/repos/A-Tour-of-Oil-Industry-ML/bysarmad,"Machine Learning to predict share prices in the Oil & Gas Industry. In a nutshell, this is a quick introduction to understand the potential of data science and machine learning used in the oil industry. I have chosen to work with the stock price of a few oil companies (or oil service company) and the oil price data set as an example.","Machine Learning to predict share prices in the Oil & Gas Industry
 
 
@@ -2397,12 +2397,12 @@ Machine Learning and Prediction!
 I will skip sections of the code below to keep the article in a reasonable size. If you want to see the entire code with explanations, I have created the following notebook.
 
 Lets start coding!
-",3,3,1,0,oil-and-gas,"[data-science, machinelearning, oil-and-gas]",0.0
+",3,3,1,0,oil-and-gas,"[data-science, machinelearning, oil-and-gas]",21
 32,viandika,volve_horizon_trajectory,,https://github.com/viandika/volve_horizon_trajectory,https://api.github.com/repos/volve_horizon_trajectory/viandika,Plotting well trajectory and horizon with volve dataset,"# Volve Horizon and Trajectory
 
 This repository serves as a guide to create a plot seismic horizon surfaces and trajectory using python. In this example we use the open source Volve Dataset. 
 
-A script file witsml.py is also added to show how to get trajectory data from WITSML files.",3,3,1,0,oil-and-gas,[oil-and-gas],0.0
+A script file witsml.py is also added to show how to get trajectory data from WITSML files.",3,3,1,0,oil-and-gas,[oil-and-gas],21
 33,pafox38,Automate-the-Geo-Stuff,,https://github.com/pafox38/Automate-the-Geo-Stuff,https://api.github.com/repos/Automate-the-Geo-Stuff/pafox38,Useful code for geoscientists in the energy sector.  More useful code will be added over time.  Special thanks to all those coders out there that helped to pave the way.,"# Automate the Geo Stuff
 ## Useful code for geoscientists / geologists in the energy sector
  * A workflow that illustrates how you can utilize public data to quickly determine what may be driving production performance for horizontal wells drilled in a particular reservoir.  In this example, we use a dataset containing over 4,000 horizontal wells targeting the Eagle Ford Shale.  Although the resulting regressor models aren't perfect, one can identify some key learnings that will help focus BD efforts or detailed reservoir models.
@@ -2416,10 +2416,10 @@ A script file witsml.py is also added to show how to get trajectory data from WI
 These programs and files are free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
 © 2021 pafox38
-",3,3,1,0,oil-and-gas,"[data-science, data-visualization, geology, jupyter-notebook, machine-learning, oil-and-gas, python, scikit-learn, well-logs]",0.0
+",3,3,1,0,oil-and-gas,"[data-science, data-visualization, geology, jupyter-notebook, machine-learning, oil-and-gas, python, scikit-learn, well-logs]",21
 34,FreddyEcu-Ch,Oil-and-Gas-Resources,,https://github.com/FreddyEcu-Ch/Oil-and-Gas-Resources,https://api.github.com/repos/Oil-and-Gas-Resources/FreddyEcu-Ch,"In this repository, you will find resources related to the oil, gas and energy industry.","# Oil-and-Gas-Resources
 In this repository, you can find resources related to the oil, gas, and energy industry.
-",3,3,1,0,oil-and-gas,"[energy, oil-and-gas, petroleum-engineering, python]",0.0
+",3,3,1,0,oil-and-gas,"[energy, oil-and-gas, petroleum-engineering, python]",21
 35,antoniodagnino,Oil-Gas-Drilling-Activity-Prediction,,https://github.com/antoniodagnino/Oil-Gas-Drilling-Activity-Prediction,https://api.github.com/repos/Oil-Gas-Drilling-Activity-Prediction/antoniodagnino,"Drilling Activity Prediction: Oil and Gas operations are dramatically affected by supply, demand and several other factors that compromise the operational planning of resources. To overcome this challenge, predictive analytics could be applied to forecast rotary rig count inside United States using time-series data.","# Oil-Gas-Drilling-Activity-Prediction
 Drilling Activity Prediction: Oil and Gas operations are dramatically affected by supply, demand and several other factors that compromise the operational planning of resources. To overcome this challenge, predictive analytics could be applied to forecast rotary rig count inside United States using time-series data.
 
@@ -2512,15 +2512,15 @@ Note: Variables we want to Predict: **Oil Rig Count** and **Gas Rig Count** sepa
 - Plot Test Set Vs Predictions
 - Evaluation Metrics (Pending)
 - Create Model with Gas dataset to make predictions in Gas Rig Counts
-",3,3,1,0,oil-and-gas,"[forecasting, oil-and-gas, pandas, scikitlearn, statsmodels, time-series, time-series-forecasting]",0.0
-36,gwallison,CAS_reference_list,,https://github.com/gwallison/CAS_reference_list,https://api.github.com/repos/CAS_reference_list/gwallison,Now incorporated into openFF-build.  Short code to translate set of text files from SciFinder to tables of CAS# and their names. Includes a synonym list.,,2,2,2,0,oil-and-gas,"[chemicals, fracfocus, oil-and-gas]",0.0
+",3,3,1,0,oil-and-gas,"[forecasting, oil-and-gas, pandas, scikitlearn, statsmodels, time-series, time-series-forecasting]",21
+36,gwallison,CAS_reference_list,,https://github.com/gwallison/CAS_reference_list,https://api.github.com/repos/CAS_reference_list/gwallison,Now incorporated into openFF-build.  Short code to translate set of text files from SciFinder to tables of CAS# and their names. Includes a synonym list.,,2,2,2,0,oil-and-gas,"[chemicals, fracfocus, oil-and-gas]",21
 37,yohanesnuwara,pynodal,,https://github.com/yohanesnuwara/pynodal,https://api.github.com/repos/pynodal/yohanesnuwara,Nodal analysis using Python ,"# pynodal
 Nodal analysis using Python 
-",1,1,2,0,oil-and-gas,"[nodal-analysis, oil-and-gas]",0.0
+",1,1,2,0,oil-and-gas,"[nodal-analysis, oil-and-gas]",21
 38,ArslanKAS,Oil---Gas,,https://github.com/ArslanKAS/Oil---Gas,https://api.github.com/repos/Oil---Gas/ArslanKAS,Data Analytics on the Insights of Upstream and Downstream of Oil Production for Forecasting,"# Oil & Gas Analysis
 
 ![gas](https://github.com/ArslanKAS/Oil---Gas/blob/master/Oil_stream.png)
-",1,1,2,0,oil-and-gas,"[analysis, gas, oil, oil-and-gas, price]",0.0
+",1,1,2,0,oil-and-gas,"[analysis, gas, oil, oil-and-gas, price]",21
 39,AOlang98,Predictive-Modelling,,https://github.com/AOlang98/Predictive-Modelling,https://api.github.com/repos/Predictive-Modelling/AOlang98,The main objective if this project is: To develop a Predictive Maintenance Model For Fuel Distribution Infrastructure in Kenya.,"# Predictive Modelling for fuel distribution infrastructure in Kenya using Random Forest classifier.
 
 # Executive Summary
@@ -2636,8 +2636,8 @@ The project underscores the importance of data-driven decision-making in mainten
 
 
 
-",1,1,1,0,oil-and-gas,"[infrastructure, oil-and-gas, petroleum-engineering]",0.0
-40,gwallison,WV_production_formatter,,https://github.com/gwallison/WV_production_formatter,https://api.github.com/repos/WV_production_formatter/gwallison,Reformat fracking production numbers from West Virginia to a format more useful to GIS,,1,1,2,0,oil-and-gas,"[formatter, fracking, oil-and-gas]",0.0
+",1,1,1,0,oil-and-gas,"[infrastructure, oil-and-gas, petroleum-engineering]",21
+40,gwallison,WV_production_formatter,,https://github.com/gwallison/WV_production_formatter,https://api.github.com/repos/WV_production_formatter/gwallison,Reformat fracking production numbers from West Virginia to a format more useful to GIS,,1,1,2,0,oil-and-gas,"[formatter, fracking, oil-and-gas]",21
 41,rensalzado,DiluentESPOptimization,,https://github.com/rensalzado/DiluentESPOptimization,https://api.github.com/repos/DiluentESPOptimization/rensalzado,"NTNU Master Thesis, Energy and Process Engineering Department, Specialization: Industrial Process Technology","# DiluentESPOptimization
 TEP4905 – NTNU, Energy and Process Engineering Department, Master Thesis
 
@@ -2651,7 +2651,7 @@ Specialization: Industrial Process Technology
  This reposity includes:
  - Classes codes
  - Technical reports providing insights from different areas of the model 
-",1,1,1,0,oil-and-gas,"[matlab, matlab-oop, modelling, ntnu, oil-and-gas, oop, oop-in-matlab]",0.0
+",1,1,1,0,oil-and-gas,"[matlab, matlab-oop, modelling, ntnu, oil-and-gas, oop, oop-in-matlab]",21
 42,chews0n,glowing-waffle,,https://github.com/chews0n/glowing-waffle,https://api.github.com/repos/glowing-waffle/chews0n,SPE Calgary Data Science Mentorship program 2021,"# Glowing Waffle
 
 ## Introduction
@@ -2750,7 +2750,7 @@ This is a working list of features and will be modified as the project evolves:
 2. Initial Production in the first 180 days (IP180)
 
 ## License
-Glowing Waffle is licensed under the Apache License, Version 2.0. See LICENSE for the full license text.",1,1,3,3,oil-and-gas,"[data-science, machine-learning, oil-and-gas]",0.0
+Glowing Waffle is licensed under the Apache License, Version 2.0. See LICENSE for the full license text.",1,1,3,3,oil-and-gas,"[data-science, machine-learning, oil-and-gas]",21
 43,AyadiGithub,Brent-Crude-Oil-Price-Anomaly-Detection-in-Keras,,https://github.com/AyadiGithub/Brent-Crude-Oil-Price-Anomaly-Detection-in-Keras,https://api.github.com/repos/Brent-Crude-Oil-Price-Anomaly-Detection-in-Keras/AyadiGithub,Brent crude oil Price Anomaly Detection in Time Series Data with Keras,"# Brent-Crude-Oil-Price-Anomaly-Detection-in-Keras
 
 ## Brent crude oil price Anomaly Detection in Time Series Data with Keras
@@ -2799,12 +2799,12 @@ Source of Dataset: Yahoo Finance
 - CUDA 10.1
 - Tensorflow-gpu 
 - Keras-gpu
-",1,1,1,0,oil-and-gas,"[anomaly-detection, cudnnlstm, data-science, deep-learning, keras, lstm-neural-networks, machine-learning, oil-and-gas, tensorflow]",0.0
-44,ACRRL,RGB-Spectrometer,ACRRL,https://github.com/ACRRL/RGB-Spectrometer,https://api.github.com/repos/RGB-Spectrometer/ACRRL,"In this code, RGB spectrum is generated using Arduino",,1,1,1,0,oil-and-gas,"[acrrl, ai, mechatronic-systems, oil-and-gas, paper, power, rgb, shiraz, spectrometer, system, university, university-project]",0.0
+",1,1,1,0,oil-and-gas,"[anomaly-detection, cudnnlstm, data-science, deep-learning, keras, lstm-neural-networks, machine-learning, oil-and-gas, tensorflow]",21
+44,ACRRL,RGB-Spectrometer,ACRRL,https://github.com/ACRRL/RGB-Spectrometer,https://api.github.com/repos/RGB-Spectrometer/ACRRL,"In this code, RGB spectrum is generated using Arduino",,1,1,1,0,oil-and-gas,"[acrrl, ai, mechatronic-systems, oil-and-gas, paper, power, rgb, shiraz, spectrometer, system, university, university-project]",21
 45,FreddyEcu-Ch,Machine-Learning,,https://github.com/FreddyEcu-Ch/Machine-Learning,https://api.github.com/repos/Machine-Learning/FreddyEcu-Ch,Web App to apply EOR methods Screening,"# Machine-Learning WebApp
-",1,1,1,0,oil-and-gas,"[eor, machine-learning, oil-and-gas, reservoir-engineering]",0.0
-46,gwallison,ohio_production_to_FT_format,,https://github.com/gwallison/ohio_production_to_FT_format,https://api.github.com/repos/ohio_production_to_FT_format/gwallison,Jupyter notebook to reformat Ohio Oil&Gas production numbers to a version for easier GIS use.,,1,1,2,0,oil-and-gas,"[format-converter, fracking, oil-and-gas]",0.0
-47,OmarZOS,deep-learning-at-scale,,https://github.com/OmarZOS/deep-learning-at-scale,https://api.github.com/repos/deep-learning-at-scale/OmarZOS,This repository contains the necessary scripts for oil production flow prediction models that make use of spark's MLlib,,1,1,1,1,oil-and-gas,"[cnn-keras, hadoop-hdfs, lstm-neural-networks, oil-and-gas, oil-wells, spark]",0.0
+",1,1,1,0,oil-and-gas,"[eor, machine-learning, oil-and-gas, reservoir-engineering]",21
+46,gwallison,ohio_production_to_FT_format,,https://github.com/gwallison/ohio_production_to_FT_format,https://api.github.com/repos/ohio_production_to_FT_format/gwallison,Jupyter notebook to reformat Ohio Oil&Gas production numbers to a version for easier GIS use.,,1,1,2,0,oil-and-gas,"[format-converter, fracking, oil-and-gas]",21
+47,OmarZOS,deep-learning-at-scale,,https://github.com/OmarZOS/deep-learning-at-scale,https://api.github.com/repos/deep-learning-at-scale/OmarZOS,This repository contains the necessary scripts for oil production flow prediction models that make use of spark's MLlib,,1,1,1,1,oil-and-gas,"[cnn-keras, hadoop-hdfs, lstm-neural-networks, oil-and-gas, oil-wells, spark]",21
 48,Lamy237,Volve-field,,https://github.com/Lamy237/Volve-field,https://api.github.com/repos/Volve-field/Lamy237,Applying Big Data and associated technologies with Volve dataset,"# Volve-field
 
 ### Description
@@ -2820,7 +2820,7 @@ This repository is an attempt to apply Big Data and associated technologies with
 - Equinor ASA
 - Equinor Volve team
 - Volve license partners: ExxonMobil E&P Norway and Bayern gas Norge
-",1,1,1,0,oil-and-gas,"[data-analysis, jupyter-notebook, oil-and-gas, python, volve]",0.0
+",1,1,1,0,oil-and-gas,"[data-analysis, jupyter-notebook, oil-and-gas, python, volve]",21
 49,sulaihasubi,tokenization-spaCy,,https://github.com/sulaihasubi/tokenization-spaCy,https://api.github.com/repos/tokenization-spaCy/sulaihasubi,🌶 A tokenizer for oil and gas documents @sulaihasubi,"Tokenization with spaCy
 ========================
 [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
@@ -2952,7 +2952,7 @@ DetectTitle = [token for token in textAnalysis if not token.text.istitle()]
 print(len(DetectTitle))
 print(DetectTitle)
 ```
-",1,1,1,0,oil-and-gas,"[natural-language-processing, nlp, oil-and-gas, python, python3, spacy, tokenization, tokenizer]",0.0
+",1,1,1,0,oil-and-gas,"[natural-language-processing, nlp, oil-and-gas, python, python3, spacy, tokenization, tokenizer]",21
 50,HydraIndustriesOfficial,EnviroGas,,https://github.com/HydraIndustriesOfficial/EnviroGas,https://api.github.com/repos/EnviroGas/HydraIndustriesOfficial,The EnviroGas app and database are being designed to track and monitor CO2 and methane emissions in the oil and gas sector.,"# EnviroGas
 
 EnviroGas is an interactive app and database that is being developed to visualize CO2 and methane emissions in the oil and gas sector. The project aims to promote decarbonization initiatives, raise awareness, drive transparency, and inspire positive change within the industry.
@@ -3030,7 +3030,7 @@ To contribute to the project, follow these steps:
 - [ ] Collaborate with environmental organizations for potential partnerships.
 
 
-",1,1,1,10,oil-and-gas,"[carbon-emissions, co2, decarbonization, methane, oil, oil-and-gas]",0.0
+",1,1,1,10,oil-and-gas,"[carbon-emissions, co2, decarbonization, methane, oil, oil-and-gas]",21
 51,m4theus4ndr4de,regression-oil-production-prediction,,https://github.com/m4theus4ndr4de/regression-oil-production-prediction,https://api.github.com/repos/regression-oil-production-prediction/m4theus4ndr4de,Production prediction is one of the core problems in a company. The provided dataset is a set of nearby wells located in the United States and their 12 months cumulative production. The company data scientist needs to build a model from scratch to predict production.,"
 <img src=""image/extraction.jpg"" alt=""logo"" style=""zoom:100%;"" />
 
@@ -3163,9 +3163,9 @@ Boruta (feature selection algorithm) was used to select features for the model a
 <li>Try some dimensionality reduction algorithm to improve the model prediction capabilities.</li>
 <li>Improve the <a href=""https://m4theus4ndr4de-regression-oil-production--prediction-app-lhyr2y.streamlit.app/"" target=""_blank"">Streamlit app</a> adding more functions.</li>
 </ul>
-",1,1,1,0,oil-and-gas,"[catboost, catboostregressor, data-science, machine-learning, oil-and-gas, petroleum, regression]",0.0
-52,gwallison,FF-cleanup-test,,https://github.com/gwallison/FF-cleanup-test,https://api.github.com/repos/FF-cleanup-test/gwallison,NOTE: This project has been superceded by FF-POC.  Creating a clean and searchable data set from the FracFocus collection of chemical disclosures.  ,,1,1,2,0,oil-and-gas,"[chemicals, environmental-monitoring, fracfocus, fracking, oil-and-gas]",0.0
-53,gwallison,OK_injection_wells_formatting,,https://github.com/gwallison/OK_injection_wells_formatting,https://api.github.com/repos/OK_injection_wells_formatting/gwallison,Code to translate Oklahoma's state data on injection wells to a different format,,1,1,2,0,oil-and-gas,"[chemicals, formatting, fracking, oil-and-gas, pollution]",0.0
+",1,1,1,0,oil-and-gas,"[catboost, catboostregressor, data-science, machine-learning, oil-and-gas, petroleum, regression]",21
+52,gwallison,FF-cleanup-test,,https://github.com/gwallison/FF-cleanup-test,https://api.github.com/repos/FF-cleanup-test/gwallison,NOTE: This project has been superceded by FF-POC.  Creating a clean and searchable data set from the FracFocus collection of chemical disclosures.  ,,1,1,2,0,oil-and-gas,"[chemicals, environmental-monitoring, fracfocus, fracking, oil-and-gas]",21
+53,gwallison,OK_injection_wells_formatting,,https://github.com/gwallison/OK_injection_wells_formatting,https://api.github.com/repos/OK_injection_wells_formatting/gwallison,Code to translate Oklahoma's state data on injection wells to a different format,,1,1,2,0,oil-and-gas,"[chemicals, formatting, fracking, oil-and-gas, pollution]",21
 54,damianlujep,Hydraulic_Pump_Design_React,,https://github.com/damianlujep/Hydraulic_Pump_Design_React,https://api.github.com/repos/Hydraulic_Pump_Design_React/damianlujep,User interface which collects all the necessary parameters to design a hydraulic pump for the Oil & Gas industry. ,"# Hydraulic Pump Design with React
 
 Project developed with React and Material-UI from scratch. 
@@ -3225,8 +3225,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 
-",1,1,1,0,oil-and-gas,"[jwt-tokens, materila-ui, oil-and-gas, react, redux]",0.0
-55,swoyam2609,Oil-and-Gas-Price-Analysis-and-Prediction,,https://github.com/swoyam2609/Oil-and-Gas-Price-Analysis-and-Prediction,https://api.github.com/repos/Oil-and-Gas-Price-Analysis-and-Prediction/swoyam2609," Prediction  This repository contains the code and datasets for analyzing and predicting fuel prices, specifically Brent Oil, Crude Oil, Natural Gas, and Heating Oil. The project focuses on creating models to predict the closing prices of these fuels based on their opening, highest, and lowest prices.",,1,1,1,0,oil-and-gas,"[data, data-analysis, data-visualization, linear-regression, machine-learning, oil-and-gas, price-prediction]",0.0
+",1,1,1,0,oil-and-gas,"[jwt-tokens, materila-ui, oil-and-gas, react, redux]",21
+55,swoyam2609,Oil-and-Gas-Price-Analysis-and-Prediction,,https://github.com/swoyam2609/Oil-and-Gas-Price-Analysis-and-Prediction,https://api.github.com/repos/Oil-and-Gas-Price-Analysis-and-Prediction/swoyam2609," Prediction  This repository contains the code and datasets for analyzing and predicting fuel prices, specifically Brent Oil, Crude Oil, Natural Gas, and Heating Oil. The project focuses on creating models to predict the closing prices of these fuels based on their opening, highest, and lowest prices.",,1,1,1,0,oil-and-gas,"[data, data-analysis, data-visualization, linear-regression, machine-learning, oil-and-gas, price-prediction]",21
 56,WanIlmie,wanilmie.github.io,,https://github.com/WanIlmie/wanilmie.github.io,https://api.github.com/repos/wanilmie.github.io/WanIlmie,My portfolio,"###### wanilmie.github.io
 # **About Me**
 Researching data analytic application in oil & gas. Interests in data standards for exploration & production.
@@ -3255,7 +3255,7 @@ Function: return_graph()
 > The users of the information and data are expressly informed that the data provided by Equinor and the former Volve Licence partners is provided on an “as is” basis and may contain errors and omissions. Equinor and former Volve licence partners provide no warranties, expressed or implied, either relating to the content or to the relevance of the data. Equinor disclaims any liability for errors and defects associated with the data to the maximum extent permitted by law. Equinor and the former Volve Licence partners shall not be liable for any direct or indirect losses as a result of use of the data or concerning possible infringement of any intellectual property and/or patent rights of a third party.
 
 > Data Set Credits: Equinor and the Volve license partners
-",0,0,1,0,oil-and-gas,"[collaboration, data-analysis, data-visualization, exploratory-data-analysis, machine-learning, oil-and-gas, production-data-analysis]",0.0
+",0,0,1,0,oil-and-gas,"[collaboration, data-analysis, data-visualization, exploratory-data-analysis, machine-learning, oil-and-gas, production-data-analysis]",21
 57,rafferti95,My-projects,,https://github.com/rafferti95/My-projects,https://api.github.com/repos/My-projects/rafferti95,useful programs for my job,"# Мои ""подручные"" программы
 
 Программы которые я пишу для автоматизации и оптимизации рабочих процессов в сфере 3D-геологического моделирования. И одна моя самая первая собственная тестовая программка-копилка 😊
@@ -3266,10 +3266,10 @@ Function: return_graph()
 * [Координаты забоев скважин](https://github.com/rafferti95/My-projects/tree/test-programs/2_Wells%20bottoms) 📍
 * [Препобразование файлов инклинометрии](https://github.com/rafferti95/My-projects/tree/test-programs/3_Inclinometria) 📝
 
-",0,0,1,0,oil-and-gas,"[3d-modelling, oil-and-gas, python]",0.0
+",0,0,1,0,oil-and-gas,"[3d-modelling, oil-and-gas, python]",21
 58,Ayberk-Uyanik,GeoCos-v2.0,,https://github.com/Ayberk-Uyanik/GeoCos-v2.0,https://api.github.com/repos/GeoCos-v2.0/Ayberk-Uyanik,Web version of GeoCos!,"The first version of GeoCos has been developed as a desktop application allowing users to calculate geolocial chance of success values for exploration wells interactively.
 
-By this new version, GeoCos goes ONLINE! In addition to calculation of CoS with 3 table-based methods published in the last 20 years, results for each petroleum system element can be compared by bar and radar charts that can be downloaded for to display risk assessment summary. A short description for each table-based method and links to the research papers are also present.",0,0,1,0,oil-and-gas,"[css, css3, drilling, exploration, exploration-geophysics, html-css-javascript, html5, hydrocarbon, hydrocarbons, javascript, nodejs, oil-and-gas, oilandgas, plotlyjs, vanilla-javascript]",0.0
+By this new version, GeoCos goes ONLINE! In addition to calculation of CoS with 3 table-based methods published in the last 20 years, results for each petroleum system element can be compared by bar and radar charts that can be downloaded for to display risk assessment summary. A short description for each table-based method and links to the research papers are also present.",0,0,1,0,oil-and-gas,"[css, css3, drilling, exploration, exploration-geophysics, html-css-javascript, html5, hydrocarbon, hydrocarbons, javascript, nodejs, oil-and-gas, oilandgas, plotlyjs, vanilla-javascript]",21
 59,energypriceapi,energypriceapi-nodejs,,https://github.com/energypriceapi/energypriceapi-nodejs,https://api.github.com/repos/energypriceapi-nodejs/energypriceapi,Official Node.js API wrapper for energypriceapi.com,"# EnergypriceAPI
 
 energypriceapi is the official Node.js wrapper for EnergypriceAPI.com. This allows you to quickly integrate our foreign exchange rate API and currency conversion API into your application. Check https://energypriceapi.com documentation for more information.
@@ -3402,7 +3402,7 @@ For support, get in touch using [this form](https://energypriceapi.com/contact).
 
 [array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array 'Array'
 [number]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type 'Number'
-[string]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type 'String'",0,0,1,0,oil-and-gas,"[currency, currencyconverterapi, energy-data, gas, oil-and-gas, wti-oil]",0.0
+[string]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#String_type 'String'",0,0,1,0,oil-and-gas,"[currency, currencyconverterapi, energy-data, gas, oil-and-gas, wti-oil]",21
 60,DeflateAwning,alberta-og-data-tools,,https://github.com/DeflateAwning/alberta-og-data-tools,https://api.github.com/repos/alberta-og-data-tools/DeflateAwning,"A collection of Python tools for dealing with Alberta oil and gas data, including UWIs","# alberta-og-data-tools
 A collection of Python tools for dealing with Alberta oil and gas data, including UWIs.
 
@@ -3414,7 +3414,7 @@ This library implements a `WellLoc()` class, which represents a UWI surface loca
 See `test_uwi_tools.py` for a list of capabilities and conversions.
 
 Star this repo or open an issue if you want more examples!
-",0,0,1,0,oil-and-gas,"[alberta, oil-and-gas, parser, regex, unique-well-identifier, uwi]",0.0
+",0,0,1,0,oil-and-gas,"[alberta, oil-and-gas, parser, regex, unique-well-identifier, uwi]",21
 61,bfotland,force-hack-2019,,https://github.com/bfotland/force-hack-2019,https://api.github.com/repos/force-hack-2019/bfotland,Code for formation description to transcription/classification,"# FORCE Hackathon 2019
 Code for translating formation descriptions to transcriptions/classifications (grain size) using machine learning.
 
@@ -3454,7 +3454,7 @@ python machine_translation.py ""grain size""
 # or
 python machine_translation.py --help # to see other options.
 ```
-",0,0,2,1,oil-and-gas,"[machine-learning, machine-translation, oil-and-gas, python]",0.0
+",0,0,2,1,oil-and-gas,"[machine-learning, machine-translation, oil-and-gas, python]",21
 62,giovannivelludo,Antea-IFC-Export,,https://github.com/giovannivelludo/Antea-IFC-Export,https://api.github.com/repos/Antea-IFC-Export/giovannivelludo,"Library to convert .eywa files (proprietary format of Antea S.r.l.) to .ifc files, written during my internship at Antea S.r.l.","# Antea IFC Export
 Library to convert .eywa files to .ifc files.  
 Class `tech.antea.ifc.Main` contains an example of usage.
@@ -3502,7 +3502,7 @@ and UUIDs).
 [CoordinationView 2.0](https://standards.buildingsmart.org/MVD/RELEASE/IFC2x3/TC1/CV2_0/IFC2x3_CV2_0.zip)  
 [Implementation agreements](https://standards.buildingsmart.org/documents/Implementation/IFC_Implementation_Agreements/)  
 [EXPRESS specification (it's a more recent version than the one used in IFC, but they're similar)](https://www.steptools.com/stds/step/IS_final_p21e3.html)  
-[Implementation guidance](https://technical.buildingsmart.org/resources/ifcimplementationguidance/)  ",0,0,1,0,oil-and-gas,"[3d-models, ifc, ifc2x3, oil-and-gas]",0.0
+[Implementation guidance](https://technical.buildingsmart.org/resources/ifcimplementationguidance/)  ",0,0,1,0,oil-and-gas,"[3d-models, ifc, ifc2x3, oil-and-gas]",21
 63,sergey-frolov-pets,sergey-frolov-blog,,https://github.com/sergey-frolov-pets/sergey-frolov-blog,https://api.github.com/repos/sergey-frolov-blog/sergey-frolov-pets,my personal blog on Jekyll,"<h1>Flexton is an ultra-minimalist and responsive theme for Jekyll</h1>
 
 <p>Flexton created especially for those who appreciate minimalism and functionality.</p>
@@ -3555,8 +3555,8 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 <p>If you want to show your appreciation, buy me one <a href=""https://www.buymeacoffee.com/artemsheludko"" target=""_blank""><img src=""https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"" alt=""Buy Me A Coffee"" style=""height: auto !important;width: auto !important;"" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
 <p>Either way, your support is a way to thank me ❤️</p>
 <p align=""center""><b>Thank you for your support!</b></p>
-",0,0,0,0,oil-and-gas,"[ai, automation, bi, oil-and-gas]",0.0
-64,aggg97,CapIV,,https://github.com/aggg97/CapIV,https://api.github.com/repos/CapIV/aggg97,"This repository contains a Streamlit app built to visualize and analyze energy production data from unconventional wells using a public dataset. The app allows users to interactively explore the dataset, filter data by operator, well type, and well identifier, and view visualizations of production rates over time.",,0,0,1,0,oil-and-gas,"[argentina, oil-and-gas, petroleum, shale, streamlit-dashboard, vacamuerta]",0.0
+",0,0,0,0,oil-and-gas,"[ai, automation, bi, oil-and-gas]",21
+64,aggg97,CapIV,,https://github.com/aggg97/CapIV,https://api.github.com/repos/CapIV/aggg97,"This repository contains a Streamlit app built to visualize and analyze energy production data from unconventional wells using a public dataset. The app allows users to interactively explore the dataset, filter data by operator, well type, and well identifier, and view visualizations of production rates over time.",,0,0,1,0,oil-and-gas,"[argentina, oil-and-gas, petroleum, shale, streamlit-dashboard, vacamuerta]",21
 65,EduardoPach,Fast_Offshore_Wells_Model_Julia,,https://github.com/EduardoPach/Fast_Offshore_Wells_Model_Julia,https://api.github.com/repos/Fast_Offshore_Wells_Model_Julia/EduardoPach,This Repository will be destinated to the study of Offshore Well Modeling. The model that will be implemented is called Fast Offshore Wells Model (FOWM)  from the paper: Fast Offshore Wells Model (FOWM): A practical dynamic model formultiphase oil production systems in deepwater and ultra-deepwaterscenarios,"# Fast Offshore Wells Model (FOWM)
 
 In this repo the FOWM, from [Diehl et al., 2017](https://www.sciencedirect.com/science/article/abs/pii/S0098135417300443), will be replicated using Julia Programming Language.
@@ -3746,10 +3746,10 @@ Being:
 |    $K_{w}$    | $6.876\times 10^{-4}$ |    $-$    |
 |    $K_{a}$    | $2.293\times 10^{-5}$ |    $-$    |
 |    $K_{r}$    | $1.269\times 10^{+2}$ |    $-$    |
-| $\omega_{u}$  | $2.780\times 10^{0}$  |    $-$    |",0,0,1,0,oil-and-gas,"[chemical-engineering, numerical-integration, oil-and-gas, oil-wells]",0.0
+| $\omega_{u}$  | $2.780\times 10^{0}$  |    $-$    |",0,0,1,0,oil-and-gas,"[chemical-engineering, numerical-integration, oil-and-gas, oil-wells]",21
 66,caseyhnguyen,CA-Oil-Well-Data-Prediction-Program,,https://github.com/caseyhnguyen/CA-Oil-Well-Data-Prediction-Program,https://api.github.com/repos/CA-Oil-Well-Data-Prediction-Program/caseyhnguyen,A data prediction algorithm implemented in Python to infer depth and casing size data of California oil wells missing data using surrounding wells in the same oil field. Python libraries such as pandas for manipulating dataframes and geopy were utilized.,"# CA-Oil-Well-Data-Prediction-Program
 A data prediction algorithm implemented in Python to infer depth and casing size data of California oil wells missing data using surrounding wells in the same oil field. Python libraries such as pandas for manipulating dataframes and geopy were utilized.
-",0,0,2,0,oil-and-gas,"[geopy, oil-and-gas, oil-wells, pandas, python]",0.0
+",0,0,2,0,oil-and-gas,"[geopy, oil-and-gas, oil-wells, pandas, python]",21
 67,gwallison,openFF-build,,https://github.com/gwallison/openFF-build,https://api.github.com/repos/openFF-build/gwallison,Code for Open-FF constructor scripts; A project to transform the industry's FracFocus disclosure data into a usable resource.,"# README for open-FF repository and project
 
 This CodeOcean capsule is a system of code to transform data from 
@@ -4067,11 +4067,11 @@ Find the github repositories of code at:
    TEDX chemical list and TSCA list.
 
 
-",0,0,2,0,oil-and-gas,"[chemicals, data-science, disclosures, fracking, oil-and-gas]",0.0
-68,gubkinbot,pipecounter,,https://github.com/gubkinbot/pipecounter,https://api.github.com/repos/pipecounter/gubkinbot,Simple tubing counting tool,# pipecounter,0,0,1,0,oil-and-gas,"[cv, oil-and-gas, telegram-bot]",0.0
+",0,0,2,0,oil-and-gas,"[chemicals, data-science, disclosures, fracking, oil-and-gas]",21
+68,gubkinbot,pipecounter,,https://github.com/gubkinbot/pipecounter,https://api.github.com/repos/pipecounter/gubkinbot,Simple tubing counting tool,# pipecounter,0,0,1,0,oil-and-gas,"[cv, oil-and-gas, telegram-bot]",21
 69,OmarZOS,petroleum-data-aquisition-and-monitoring-dashboard,,https://github.com/OmarZOS/petroleum-data-aquisition-and-monitoring-dashboard,https://api.github.com/repos/petroleum-data-aquisition-and-monitoring-dashboard/OmarZOS,"As a part of production management architecture, This repository holds the web component of the full information system..","# petroleum-data-aquisition-and-monitoring-dashboard
 As a part of production management architecture, This repository holds the web component of the full information system..
-",0,0,1,6,oil-and-gas,"[docker, express-js, mysql, node-js, oil-and-gas]",0.0
+",0,0,1,6,oil-and-gas,"[docker, express-js, mysql, node-js, oil-and-gas]",21
 70,energypriceapi,energypriceapi-python,,https://github.com/energypriceapi/energypriceapi-python,https://api.github.com/repos/energypriceapi-python/energypriceapi,Official Python API wrapper for energypriceAPI.com,"# EnergypriceAPI
 
 energypriceapi is the official Python API wrapper for EnergypriceAPI.com. This allows you to quickly integrate our foreign exchange rate API and currency conversion API into your application. Check https://energypriceapi.com documentation for more information.
@@ -4191,7 +4191,7 @@ For support, get in touch using [this form](https://energypriceapi.com/contact).
 
 [List]: https://www.w3schools.com/python/python_datatypes.asp 'List'
 [number]: https://www.w3schools.com/python/python_datatypes.asp 'Number'
-[string]: https://www.w3schools.com/python/python_datatypes.asp 'String'",0,0,1,0,oil-and-gas,"[currency, currency-exchange-rates, gasoline-prices, oil, oil-and-gas, wti, wti-oil]",0.0
+[string]: https://www.w3schools.com/python/python_datatypes.asp 'String'",0,0,1,0,oil-and-gas,"[currency, currency-exchange-rates, gasoline-prices, oil, oil-and-gas, wti, wti-oil]",21
 71,prince13i-zz,AL_selenium_bot,,https://github.com/prince13i-zz/AL_selenium_bot,https://api.github.com/repos/AL_selenium_bot/prince13i-zz,A powerful python selenium based bot to download files using multi threading and OOPS concept.,"# AL_SeleniumBot
 A powerful python selenium based bot to download files using multi threading and OOPS concept.
 
@@ -4215,7 +4215,7 @@ The purpose of this spider is to download the following datafiles and feed into 
 
 ***Website used:***
 * https://www.gsa.state.al.us
-",0,0,1,0,oil-and-gas,"[alabama, automation, multithreading, oil-and-gas, oops, python, selenium, webscraping]",0.0
+",0,0,1,0,oil-and-gas,"[alabama, automation, multithreading, oil-and-gas, oops, python, selenium, webscraping]",21
 72,energypriceapi,energypriceapi-swift,,https://github.com/energypriceapi/energypriceapi-swift,https://api.github.com/repos/energypriceapi-swift/energypriceapi,Official Swift API wrapper for energypriceAPI.com,"# EnergypriceAPI
 
 energypriceapi is the official Swift wrapper for EnergypriceAPI.com. This allows you to quickly integrate our API and foreign exchange rate API into your application. Check https://energypriceapi.com documentation for more information.
@@ -4360,7 +4360,7 @@ For support, get in touch using [this form](https://energypriceapi.com/contact).
 
 [List]: https://www.w3schools.com/python/python_datatypes.asp 'List'
 [number]: https://www.w3schools.com/python/python_datatypes.asp 'Number'
-[string]: https://www.w3schools.com/python/python_datatypes.asp 'String'",0,0,1,0,oil-and-gas,"[energy-api, energy-data, exchange-rates, foreign-exchange-rates, gasoline-prices, oil-analysis, oil-and-gas]",0.0
+[string]: https://www.w3schools.com/python/python_datatypes.asp 'String'",0,0,1,0,oil-and-gas,"[energy-api, energy-data, exchange-rates, foreign-exchange-rates, gasoline-prices, oil-analysis, oil-and-gas]",21
 73,StartrexII,CalibrationFloatLevelGauge,,https://github.com/StartrexII/CalibrationFloatLevelGauge,https://api.github.com/repos/CalibrationFloatLevelGauge/StartrexII,studying the float level gauge,"# <center> Изучение поплавкового уровнемера </center>
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
@@ -4426,8 +4426,8 @@ git clone https://github.com/StartrexII/CalibrationFloatLevelGauge.git
 
 ## Выводы
 
-В результате расчета и построения характеристики понятно, что уровнемеры ультразвуковые - очень точные устройства, погрешность прямых измерений которых составляет порядка нескольких миллиметров (в нашем случае стандартное отклонение составило не более 3мм), что совершенно не критично при измерении высоты жидкости в резервуаре, которая может составлять более 10 метров.",0,0,1,0,oil-and-gas,"[calibration, oil-and-gas, pandas-dataframe, python, science]",0.0
-74,sahanextractives,sahan,sahanextractives,https://github.com/sahanextractives/sahan,https://api.github.com/repos/sahan/sahanextractives,,# sahan,0,0,1,0,oil-and-gas,"[mining, oil-and-gas]",0.0
+В результате расчета и построения характеристики понятно, что уровнемеры ультразвуковые - очень точные устройства, погрешность прямых измерений которых составляет порядка нескольких миллиметров (в нашем случае стандартное отклонение составило не более 3мм), что совершенно не критично при измерении высоты жидкости в резервуаре, которая может составлять более 10 метров.",0,0,1,0,oil-and-gas,"[calibration, oil-and-gas, pandas-dataframe, python, science]",21
+74,sahanextractives,sahan,sahanextractives,https://github.com/sahanextractives/sahan,https://api.github.com/repos/sahan/sahanextractives,,# sahan,0,0,1,0,oil-and-gas,"[mining, oil-and-gas]",21
 75,rensalzado,DiluentESPOptimizationDynamic,,https://github.com/rensalzado/DiluentESPOptimizationDynamic,https://api.github.com/repos/DiluentESPOptimizationDynamic/rensalzado,"NTNU TEP4240 System Simulation, final project","# DiluentESPOptimizationDynamic
 
 TEP4240 – NTNU, Energy and Process Engineering Department, Subject: System Simulation
@@ -4441,7 +4441,7 @@ TEP4240 – NTNU, Energy and Process Engineering Department, Subject: System Sim
    - Classes codes
    - Simulation main file
    - Final project report
-",0,0,1,0,oil-and-gas,"[bond-graphs, dynamic-simulations, matlab, matlab-oop, modelling, ntnu, oil-and-gas, oop-in-matlab]",0.0
+",0,0,1,0,oil-and-gas,"[bond-graphs, dynamic-simulations, matlab, matlab-oop, modelling, ntnu, oil-and-gas, oop-in-matlab]",21
 76,Phreak87,OilMeter,,https://github.com/Phreak87/OilMeter,https://api.github.com/repos/OilMeter/Phreak87,Measure oil consumption on a ESP8266 with a TCS34725 / APDS9960 Color Sensor on the burner status LED or HC-SR04 distance sensor,"# OilMeter
 
 Measure fluid consumption and levels on a ESP8266 via different Sensors:
@@ -4514,8 +4514,8 @@ Rectangular:  (h * w) / 2
 - Include HK1100C Pressure Sensor
 - Include HX711 weight Sensor
 - Include Liter per Percent heigth measurements.
-",0,0,1,0,oil-and-gas,"[apds-9960, esp8266, hc-sr04, home-assistant, home-automation, home-automaton, mqtt, oil, oil-and-gas, tcs34725]",0.0
-77,catalyst-cooperative,pudl,catalyst-cooperative,https://github.com/catalyst-cooperative/pudl,https://api.github.com/repos/pudl/catalyst-cooperative,"The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists.",,393,393,16,362,coal,"[cems, climate, coal, ddj, eia, eia860, eia923, electricity, emissions, energy, epa, etl, ferc, ghg, natural-gas, open-data, pudl, python, sqlite, utility]",0.0
+",0,0,1,0,oil-and-gas,"[apds-9960, esp8266, hc-sr04, home-assistant, home-automation, home-automaton, mqtt, oil, oil-and-gas, tcs34725]",21
+77,catalyst-cooperative,pudl,catalyst-cooperative,https://github.com/catalyst-cooperative/pudl,https://api.github.com/repos/pudl/catalyst-cooperative,"The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists.",,393,393,16,362,coal,"[cems, climate, coal, ddj, eia, eia860, eia923, electricity, emissions, energy, epa, etl, ferc, ghg, natural-gas, open-data, pudl, python, sqlite, utility]",21
 78,3dfxdev,EDGE,3dfxdev,https://github.com/3dfxdev/EDGE,https://api.github.com/repos/EDGE/3dfxdev,EDGE Source Code,"Welcome to EDGE!
 ---------------------
 
@@ -4576,8 +4576,8 @@ community and the various projects for the engine.
 editing documentation and other information related to the engine.
 
 (C) 1999 - 2022 [Isotope SoftWorks](https://www.facebook.com/IsotopeSoftWorks/) and Contributors (The EDGE Team). All Rights Reserved.
-",69,69,17,7,coal,"[3dge, 3dge-engine, coal, ddf, doom, dosdoom, edge, edge-engine, glbsp, hyper-3dge, hyperedge, rts, source-port]",0.0
-79,capstone-coal,pycoal,capstone-coal,https://github.com/capstone-coal/pycoal,https://api.github.com/repos/pycoal/capstone-coal,Python toolkit for characterizing Coal and Open-pit surface mining impacts on American Lands,,24,24,9,9,coal,"[classification, classification-algorithm, coal, hyperspectral-image-classification, open-surface-mining, python, surface-mining-activities]",0.0
+",69,69,17,7,coal,"[3dge, 3dge-engine, coal, ddf, doom, dosdoom, edge, edge-engine, glbsp, hyper-3dge, hyperedge, rts, source-port]",21
+79,capstone-coal,pycoal,capstone-coal,https://github.com/capstone-coal/pycoal,https://api.github.com/repos/pycoal/capstone-coal,Python toolkit for characterizing Coal and Open-pit surface mining impacts on American Lands,,24,24,9,9,coal,"[classification, classification-algorithm, coal, hyperspectral-image-classification, open-surface-mining, python, surface-mining-activities]",21
 80,aapple,sm-coal-app,,https://github.com/aapple/sm-coal-app,https://api.github.com/repos/sm-coal-app/aapple,这是一个使用Ionic2开发的集数据展示，交易，交流于一体的APP,"# 初衷
 跳槽以后来到了新的公司，新的项目，每天朝九晚五，终于摆脱了以前朝九晚九的加班生活，谁说程序员就必须加班了，感觉自己作息也变得正常了起来。
 
@@ -4675,7 +4675,7 @@ https://github.com/aapple/sm-coal-app
 应广大同学的强烈要求，支撑该APP后端的Spring-Boot项目也开放出来了，可以自由下载学习：
 https://github.com/aapple/coalapp
 
-",21,21,3,1,coal,"[app, coal, html, ionic, ionic2, ionic3, ionicframework, spring-boot]",0.0
+",21,21,3,1,coal,"[app, coal, html, ionic, ionic2, ionic3, ionicframework, spring-boot]",21
 81,ewoken,world-data-app,,https://github.com/ewoken/world-data-app,https://api.github.com/repos/world-data-app/ewoken,,"# world-data-app
 [![Build Status](https://travis-ci.com/ewoken/world-data-app.svg?branch=master)](https://travis-ci.com/ewoken/world-data-app)
 
@@ -4696,7 +4696,7 @@ cd world-data-app
 npm i
 npm start
 ```
-",9,9,4,41,coal,"[coal, data, energy, gas, oil, vizualisation, world]",0.0
+",9,9,4,41,coal,"[coal, data, energy, gas, oil, vizualisation, world]",21
 82,zero-one-group,global-coal-countdown,zero-one-group,https://github.com/zero-one-group/global-coal-countdown,https://api.github.com/repos/global-coal-countdown/zero-one-group,This is the accompanying repository for the Bloomberg Global Coal Countdown website.,"![](https://bloombergcoalcountdown.com/_next/static/images/big-black-logo-46b32763924ec161ae53ca88b2c25517.webp)
 
 This is the accompanying repository for the **[Bloomberg Global Coal Countdown](https://bloombergcoalcountdown.com/) (BGCC)** website.
@@ -4753,7 +4753,7 @@ In the `docker` directory, we make available a `Dockerfile` and a `requirements.
 ## License
 
 As the datasets are built upon the GEM's GCPT dataset, the BGCC datasets are also licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. Therefore, it is allowed to copy and redistribute, as well as to build upon the datasets for any purpose including for commercial purposes. If you do build upon the datasets, you must distribute it under the same license.
-",7,7,4,0,coal,"[climate-change, climate-data, coal, electricity, energy, energy-data]",0.0
+",7,7,4,0,coal,"[climate-change, climate-data, coal, electricity, energy, energy-data]",21
 83,MahadMuhammad,Learn-Assembly-The-Hard-Way,,https://github.com/MahadMuhammad/Learn-Assembly-The-Hard-Way,https://api.github.com/repos/Learn-Assembly-The-Hard-Way/MahadMuhammad,A single & unified source of all source codes & helping material in learning the Intel 8088 assembly language using DOSBOX as an emulator,"<p align=""middle"">
 <a href=""https://github.com/MahadMuhammad""><img alt=""views"" title=""Github views"" src=""https://komarev.com/ghpvc/?username=MahadMuhammad&style=flat-circle"" width=""125""/></a>
 
@@ -4958,7 +4958,7 @@ This repository would not be possible without the help of the following people:
 
 ---
 
-",4,4,1,1,coal,"[8086-emulator, 8088, arm, assembly, assembly-language, belal-hashmi-assembly-programs, belal-hashmi-exercise-solutions, c, coal, dosbox, intel, nasm-assembly]",0.0
+",4,4,1,1,coal,"[8086-emulator, 8088, arm, assembly, assembly-language, belal-hashmi-assembly-programs, belal-hashmi-exercise-solutions, c, coal, dosbox, intel, nasm-assembly]",21
 84,lrharris215,coal,,https://github.com/lrharris215/coal,https://api.github.com/repos/coal/lrharris215,"Fullstack Steam clone built with Ruby on Rails, PostgreSQL, and React.js","# README
 
 # Coal
@@ -5018,8 +5018,8 @@ class ShoppingCart extends React.Component {
 -   All icons are from Fontawesome.com
 -   The gift card pic: https://toppng.com/show_download/84324/steam-gift-card-usd-50-steam-digital/large
 -   All other pictures and screenshots are from the [Steam](https://store.steampowered.com/) website. 
-",3,3,1,0,coal,"[coal, games, shopping-cart]",0.0
-85,RazaRizvii,Cash-and-Carry-Project-in-Assembly-Language,,https://github.com/RazaRizvii/Cash-and-Carry-Project-in-Assembly-Language,https://api.github.com/repos/Cash-and-Carry-Project-in-Assembly-Language/RazaRizvii,"This is a online Cash and Carry Project, implemented in Assembly language. ",,3,3,1,0,coal,"[assembly, assembly-8086, assembly-arm, assembly-language, assembly-language-programming, assembly-x86, assemblyscript, cash-and-carry, coal, management, management-system, online-store]",0.0
+",3,3,1,0,coal,"[coal, games, shopping-cart]",21
+85,RazaRizvii,Cash-and-Carry-Project-in-Assembly-Language,,https://github.com/RazaRizvii/Cash-and-Carry-Project-in-Assembly-Language,https://api.github.com/repos/Cash-and-Carry-Project-in-Assembly-Language/RazaRizvii,"This is a online Cash and Carry Project, implemented in Assembly language. ",,3,3,1,0,coal,"[assembly, assembly-8086, assembly-arm, assembly-language, assembly-language-programming, assembly-x86, assemblyscript, cash-and-carry, coal, management, management-system, online-store]",21
 86,saumyatas,Coal_Mines_Visualization,,https://github.com/saumyatas/Coal_Mines_Visualization,https://api.github.com/repos/Coal_Mines_Visualization/saumyatas,Geospatial Data Analysis for detecting and analyzing coal mines.,"# Coal Mines Visualization on GEE
 A visualization tool created on Google Earth engine (GEE) to help analyze the coal mining area and predict the period of mining operation. 
 GEE is an open-source platform for geospatial data analysis and its visualization. We all know how tedious it is to download each satellite data tile and then curate it according to our need for further analysis. And if the area is large, say you are working on the entire country or on time series analysis, then downloading the satellite data (Landsat or Sentinel) for each and every region in a particular time range will take hours or days and require high density data storage. Even their analysis might need high end system with fast computing software. All this could be done in just few minutes and within 10-15 lines of code on GEE. Geospatial data computation on GEE not only saves time and storage but also provides flexibility. They have open-source [data catalog](https://developers.google.com/earth-engine/datasets/) including `Landsat` datasets, `Sentinel` datasets, `MODIS` Datasets, `NAIP` data, precipitation data, sea surface temperature data, CHIRPS climate data, and elevation data. You can check out this paper to know more about GEE platform. - [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
@@ -5067,7 +5067,7 @@ The expansion of mining area and change in operation can be visualized using Lan
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-",2,2,1,0,coal,"[coal, google-earth-engine, ndbi, ndvi, python, raster, satellite-data]",0.0
+",2,2,1,0,coal,"[coal, google-earth-engine, ndbi, ndvi, python, raster, satellite-data]",21
 87,gu-stav,coaltransitions,,https://github.com/gu-stav/coaltransitions,https://api.github.com/repos/coaltransitions/gu-stav,Research and Dialogue on the Future of Coal,"Frontend for [coaltransitions.org](https://coaltransitions.org) build with
 Gatsby. The data is fetched from a [wordpress backend](https://github.com/zoff-kollektiv/coaltransitions-cms).
 
@@ -5145,11 +5145,11 @@ The twitter search parameters can be found in `gatsby-config.js`.
 
 By running `npm run build` gatsby creates a static version of the site in
 `./public`.
-",1,1,0,43,coal,"[climate-change, coal, energy, gatsby, gatsbyjs, wordpress]",0.0
+",1,1,0,43,coal,"[climate-change, coal, energy, gatsby, gatsbyjs, wordpress]",21
 88,zia-foisal,Bangladseh-Power-Plant-Database,,https://github.com/zia-foisal/Bangladseh-Power-Plant-Database,https://api.github.com/repos/Bangladseh-Power-Plant-Database/zia-foisal,"The Global Power Plant Database is a comprehensive, open source database of power plants around the world. It centralizes power plant data to make it easier to navigate, compare and draw insights for Bangladesh . The database covers approximately 35,000 power plants from 167 countries and includes thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar). Each power plant is geolocated and entries contain information on plant capacity, generation, ownership, and fuel type. It will be continuously updated as data becomes available.","# Bangladseh-Power-Plant-Database
 Power Plants is an establishment for power generation. In Bangladesh, the consumption of per capita generation is very low only 220 kWh. Presently about 47% of the total population have access to electricity. Bangladesh Power Development Board' (BPDB) is the sole government authority for generation of electricity. Major power distribution agencies include the BPDB itself and the rural electrification board (REB). The Dhaka Electric Supply Authority (desa) and Dhaka Electric Supply Company (DESCO) for Dhaka or the Khulna Electric Supply Company (KESCO) for Khulna. The power division of the Ministry of Energy and Mineral Resources is the umbrella organisation that controls power generation, transmission and distribution. An Independent Power Project (IPP) of the ministry is under implementation for improvement in generation and distribution of electricity by government and private agencies.<br><br><br>
 [Power Plant Database Webmap](https://zia-foisal.github.io/Bangladseh-Power-Plant-Database/)
-",1,1,1,0,coal,"[bangladesh, coal, energy, gas, hydro, oil, solar-energy]",0.0
+",1,1,1,0,coal,"[bangladesh, coal, energy, gas, hydro, oil, solar-energy]",21
 89,awakechaudhry,slop-fired-boiler-efficiency-and-fuel-calculation,,https://github.com/awakechaudhry/slop-fired-boiler-efficiency-and-fuel-calculation,https://api.github.com/repos/slop-fired-boiler-efficiency-and-fuel-calculation/awakechaudhry,Boiler Direct & Indirect Efficiency calculator with Fuel imbalance and Fuel accounting,"# slop-fired-boiler-efficiency-and-fuel-calculation
 **The project is done in asociation with Dhampur sugar mills ltd.**<br>
 The aim of this project is to evaluate the efficiency of the boiler and finding fuel imbalance as well as fuel accounting which shows the fuel loss during the process.<br>
@@ -5159,10 +5159,10 @@ Boiler efficiency can be tested by the two ways-<br>
 The data for this project is collected by using algorathims from **DCS**.<br>
 In this project both type of **efficiecy,fuel imbalance,fuel accounting** is calculated for a 35tph slop fired boiler by analysing the data.<br>
 But efficiency,fuel imbalance and fuel accounting of any capacity slop fired boiler (which uses the fuel as mentions in excel sheet) can be calculated by using this sheet and much more things can be done. 
-",1,1,1,0,coal,"[bagasse, boiler, coal, distillery, mechanical-engineering, powerplant, ricehusk, slop, slop-fired-boiler, steamboiler]",0.0
+",1,1,1,0,coal,"[bagasse, boiler, coal, distillery, mechanical-engineering, powerplant, ricehusk, slop, slop-fired-boiler, steamboiler]",21
 90,drganghe,Rapid-and-Just-Coal-Transition-in-China,,https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China,https://api.github.com/repos/Rapid-and-Just-Coal-Transition-in-China/drganghe,"He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “Enabling a Rapid and Just Transition Away from Coal in China.” One Earth 3 (2): 187–94. https://doi.org/10.1016/j.oneear.2020.07.012","# Rapid-and-Just-Coal-Transition-in-China
 This repository include the data and file for paper He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “Enabling a Rapid and Just Transition Away from Coal in China.” One Earth 3 (2): 187–94. https://doi.org/10.1016/j.oneear.2020.07.012.
-",1,1,0,0,coal,"[china, coal, energy-transition, just-transition]",0.0
+",1,1,0,0,coal,"[china, coal, energy-transition, just-transition]",21
 91,kamarad-coal,minecraft-forge,kamarad-coal,https://github.com/kamarad-coal/minecraft-forge,https://api.github.com/repos/minecraft-forge/kamarad-coal,Minecraft Forge container to deploy servers on Kubernetes infrastructure in order to provide easy server spin-ups.,"Minecraft Forge Container
 ==========================
 
@@ -5248,7 +5248,7 @@ quay.io/kamaradcoal/minecraft-forge:1.16.5-36.1.0-latest
 ## Kubernetes Integration
 
 Coming soon.
-",1,1,1,7,coal,"[coal, container, containerization, docker, image, k8s, kamarad, kamarad-coal, kubernetes, minecraft, minecraft-forge]",0.0
+",1,1,1,7,coal,"[coal, container, containerization, docker, image, k8s, kamarad, kamarad-coal, kubernetes, minecraft, minecraft-forge]",21
 92,awais922609,Assembly-Programs,,https://github.com/awais922609/Assembly-Programs,https://api.github.com/repos/Assembly-Programs/awais922609,This repository contains a large number of assembly programmes that I created throughout my Bachelor's semester. There are also readme files connected to each lab that explain which lab contains which questions. Enjoy learning and give the repository a like if it helped you with coding.,"# Assembly Programs #
 Welcome to my repository of Assembly Programs! These programs were developed during my Bachelor's degree in Computer Science and are now available for public use. They include a variety of programs for different purposes, from simple arithmetic operations to more complex algorithms.
 
@@ -5275,7 +5275,7 @@ I would like to express my sincere gratitude to Dr. Muhammad Nouman from Fast Pe
 
 # Contributions
 Contributions to this repository are always welcome! Feel free to submit pull requests with your own programs or improvements to existing ones. Together, we can build a comprehensive library of assembly programs for everyone to use.
-",1,1,1,0,coal,"[advance-free-debugger, afd, asm, assembly, assembly-debugger, assembly-language, assembly-x86, coal, masm32, masm64, programming]",0.0
+",1,1,1,0,coal,"[advance-free-debugger, afd, asm, assembly, assembly-debugger, assembly-language, assembly-x86, coal, masm32, masm64, programming]",21
 93,kamarad-coal,minecraft-bungee,kamarad-coal,https://github.com/kamarad-coal/minecraft-bungee,https://api.github.com/repos/minecraft-bungee/kamarad-coal,Minecraft Bungee container to deploy servers on Kubernetes infrastructure in order to provide easy server spin-ups.,"Minecraft Bungee Container
 ==========================
 
@@ -5334,7 +5334,7 @@ quay.io/kamaradcoal/minecraft-bungee:latest
 ## Kubernetes Integration
 
 Coming soon.
-",1,1,0,7,coal,"[bungee, coal, container, docker, image, k8s, kamarad, kamarad-coal, kubernetes, minecraft]",0.0
+",1,1,0,7,coal,"[bungee, coal, container, docker, image, k8s, kamarad, kamarad-coal, kubernetes, minecraft]",21
 94,anserwaseem,print-diamonds,,https://github.com/anserwaseem/print-diamonds,https://api.github.com/repos/print-diamonds/anserwaseem,A program that draws a solid diamond on the screen.,"# print-diamonds
 
 ## PrintDiamond 
@@ -5346,7 +5346,7 @@ A function that draws a solid diamond on display memory after taking following p
 
 ## swap
 After printing the diamond for 5 seconds (using delay), swap the first 12 rows of the display memory with the last 12 rows using movs instruction. Do not clear the introduction screen in the start.
-",0,0,1,0,coal,"[asm-8086, asmx86, assembly-language, assembly-programming, belal-hashmi-answers, bios-interrupt, bit-manipulation, coal, dos-emulator, dosbox, software-interrupts, subroutines]",0.0
+",0,0,1,0,coal,"[asm-8086, asmx86, assembly-language, assembly-programming, belal-hashmi-answers, bios-interrupt, bit-manipulation, coal, dos-emulator, dosbox, software-interrupts, subroutines]",21
 95,manahilfatima31,digital_library,,https://github.com/manahilfatima31/digital_library,https://api.github.com/repos/digital_library/manahilfatima31,"The program will show the user menu of different categories available. The user can select a category by inputting a number. User can see the books available, issue the book or return the book. The number of books issued will increase when the user will return the book.","# digital_library
 The program will show the user menu of different categories available. The user can select a category by inputting a number. User can see the books available, issue the book or return the book. The number of books issued will increase when the user will return the book.
 
@@ -5358,13 +5358,13 @@ The future work is to add more sections and increase number of copies of each bo
 
 # Conclusion
 Thus, this program will help the user to issue or return a book at any time, it is actually a network of multimedia system, which provides fingertip access.
-",0,0,1,0,coal,"[assembly, assembly-language, assembly-x86, coal, digital-library, library, visual-studio, visual-studio-2019]",0.0
-96,zyn10,Assembly_Language,,https://github.com/zyn10/Assembly_Language,https://api.github.com/repos/Assembly_Language/zyn10,Assembly language Course Fall 2020,# ddddd21,0,0,1,0,coal,"[assembly-language-programming, assembly-x86, coal]",0.0
+",0,0,1,0,coal,"[assembly, assembly-language, assembly-x86, coal, digital-library, library, visual-studio, visual-studio-2019]",21
+96,zyn10,Assembly_Language,,https://github.com/zyn10/Assembly_Language,https://api.github.com/repos/Assembly_Language/zyn10,Assembly language Course Fall 2020,# ddddd21,0,0,1,0,coal,"[assembly-language-programming, assembly-x86, coal]",21
 97,unravelwwx,The-effect-of-the-Promoting-the-Big-and-Quashing-the-Small-Policy-,,https://github.com/unravelwwx/The-effect-of-the-Promoting-the-Big-and-Quashing-the-Small-Policy-,https://api.github.com/repos/The-effect-of-the-Promoting-the-Big-and-Quashing-the-Small-Policy-/unravelwwx,"codes of coal transport model in Shandong Province, China","#  Coal-fired-power-plant-Shandong
 This repository is for the life-cycle study of coal-fired power plant in Shandong, China
 The newly-built and retired power plants are derived by examining the difference between power plants in 2010 and in 2014.
-",0,0,1,0,coal,"[coal, plant, transport]",0.0
-98,codyben,phone-mine-map-atlas,,https://github.com/codyben/phone-mine-map-atlas,https://api.github.com/repos/phone-mine-map-atlas/codyben,"A ""better"" web client for PASDA georeferenced colliery maps. ",,0,0,2,0,coal,"[coal, geoscience]",0.0
+",0,0,1,0,coal,"[coal, plant, transport]",21
+98,codyben,phone-mine-map-atlas,,https://github.com/codyben/phone-mine-map-atlas,https://api.github.com/repos/phone-mine-map-atlas/codyben,"A ""better"" web client for PASDA georeferenced colliery maps. ",,0,0,2,0,coal,"[coal, geoscience]",21
 99,mustan-ali,Medical-Billing-System,,https://github.com/mustan-ali/Medical-Billing-System,https://api.github.com/repos/Medical-Billing-System/mustan-ali,Computer Organization and Assembly Language (COAL) Project,"# Medical-Billing-System
 
 CSC2201 - Computer Organization and Assembly Language  
@@ -5373,11 +5373,11 @@ CSCL2201 - Computer Organization and Assembly Language
 A medical billing system project is a system designed to help manage the daily operations of a medicine store. It can track inventory levels and process orders and sales information.
 The main goal of a medical billing system project is to improve the efficiency and effectiveness of the store's operations by automating tasks and providing a central location for storing and accessing important
 data. By using this system, store owners and managers can save time and reduce the risk of errors.
-",0,0,1,0,coal,"[assembly-language, coal, emu8086]",0.0
+",0,0,1,0,coal,"[assembly-language, coal, emu8086]",21
 100,VybzTech,Miners,,https://github.com/VybzTech/Miners,https://api.github.com/repos/Miners/VybzTech,Platinum Ville Mines limited is a mining company comprising of astute professionals with ownership/control of licensed mining sites in various locations in Nigeria.,"# miners
 
 Platinum Ville Mines limited is a mining company comprising of astute professionals with ownership/control of licensed mining sites in various locations in Nigeria.
-",0,0,1,0,coal,"[brine, coal, hard, limited, lithium, minecraft, mines, mining, platinum, rock, sites, websites]",0.0
+",0,0,1,0,coal,"[brine, coal, hard, limited, lithium, minecraft, mines, mining, platinum, rock, sites, websites]",21
 101,syedakashafatima,CasinoNumberGeneratorCOAL,,https://github.com/syedakashafatima/CasinoNumberGeneratorCOAL,https://api.github.com/repos/CasinoNumberGeneratorCOAL/syedakashafatima,This is a small beginners project using Computer Organization and Assembly Language (COAL) using Irvine32.inc Library. Hope it helps.,"# CasinoNumberGeneratorCOAL
 This is a small beginners project using Computer Organization and Assembly Language (COAL) using Irvine32.inc Library. 
 
@@ -5408,14 +5408,14 @@ It asks you if you want to continue the game. If you say ‘0’ which means ‘
 amount you want to bet again. It goes on until either the user chooses ‘1’ which means ‘no’ he does not wish to continue the 
 game or either he has zero money in his account. Either time it displays ""Thanks for playing the game. Your Balance is:” and 
 displays the remaining amount.
-",0,0,1,0,coal,"[assembly, assembly-language, coal, irvine32, lang, language, programming]",0.0
+",0,0,1,0,coal,"[assembly, assembly-language, coal, irvine32, lang, language, programming]",21
 102,FS-Artisan,CoalsCrafting-Core,FS-Artisan,https://github.com/FS-Artisan/CoalsCrafting-Core,https://api.github.com/repos/CoalsCrafting-Core/FS-Artisan,,"小组：FS工匠铺  
 程序：化龙焚天  
 美术：树芙蓉  
 相关链接： 
   MCBBS：https://www.mcbbs.net/thread-1148699-1-1.html  
   MC百科：https://www.mcmod.cn/class/3356.html  
-",0,0,0,0,coal,"[coal, minecraft-mod]",0.0
+",0,0,0,0,coal,"[coal, minecraft-mod]",21
 103,amnmalik,PhDThesis,,https://github.com/amnmalik/PhDThesis,https://api.github.com/repos/PhDThesis/amnmalik,Contains code and figures to my PhD thesis,"## PhDThesis
 Contains code and figures to my PhD thesis titled ""Barriers to power sector decarbonisation in India"".
 Thesis submitted to Technical University of Berlin, November 2021
@@ -5437,7 +5437,7 @@ The second article uses different mitigation scenarios and analyses, on a global
 The third publication highlights that the regional mismatch of energy infrastructure in India could become a significant barrier to effective decarbonisation. Most of the coal mines and coal power plants in India are concentrated in the poorer eastern states of Chhattisgarh, Odisha, and Jharkhand, where it is an important source of both employment and public economy. On the other hand, the best RE potentials in India are concentrated in the relatively wealthier western and southern states and are home to current and planned RE installations.  Continued fossil investments in coal-bearing regions could widen this gap and in pathways to deep decarbonisation, strongly accelerate the loss of coal jobs. Without complementary opportunities, this would negatively impact the livelihood of people living in these areas. We show that dedicated policies to increase solar installations in coal regions could ensure early geographic diversification of solar energy. It could help build broad support for the energy transition, required for climate targets, and could give India important benefits in terms of avoided climate impacts and local health. At the same time, solar alone cannot provide a just transition and there is an urgent need for engagement with all stakeholders exploring challenges and other opportunities into the transition. 
 
 In summary, despite the proliferation of climate considerations into decision-making at all political levels, there are still significant barriers to decarbonisation. Some of the most pressing challenges for fast-growing economies like India involve avoiding lock-ins in the power sector, which could have far-reaching consequences on the pace and cost of future decarbonisation. Higher-income nations could support the transition by providing cheaper RE-related finance and knowledge of increasing power system flexibility. At the same time, changes in the quantity and structure of jobs in the energy sector could also affect the pace of decarbonisation. Here, one key factor is the just transition of predominantly coal-bearing regions. The regional divide of fossil and RE assets and resources in India means that a regionally balanced transition from a fossil to a RE-based economy would not happen on its own; it needs dedicated policies supporting future solar installations in coal-bearing states. However, given the large size of the current coal workforce, additional solar capacity alone (in these regions) cannot replace all the lost jobs. It therefore requires to look for alternatives beyond the energy sector. 
-",0,0,1,0,coal,"[climate-change, coal, energy, energy-transition, india, phd, phd-thesis]",0.0
+",0,0,1,0,coal,"[climate-change, coal, energy, energy-transition, india, phd, phd-thesis]",21
 104,kinverarity1,lasio,,https://github.com/kinverarity1/lasio,https://api.github.com/repos/lasio/kinverarity1,Python library for reading and writing well data using Log ASCII Standard (LAS) files,"# lasio
 
 <p align=""center"">
@@ -5600,7 +5600,7 @@ See [Contributing](https://lasio.readthedocs.io/en/latest/contributing.html) for
 ## License
 
 [MIT](https://github.com/kinverarity1/lasio/blob/master/LICENSE)
-",320,320,32,46,petroleum,"[data-format, data-management, data-mining, geology, geophysics, geotechnical-engineering, groundwater, io, las-files, lasio, log-ascii-standard, mineral-exploration, petroleum, python, swung-t21]",0.0
+",320,320,32,46,petroleum,"[data-format, data-management, data-mining, geology, geophysics, geotechnical-engineering, groundwater, io, las-files, lasio, log-ascii-standard, mineral-exploration, petroleum, python, swung-t21]",21
 105,agilescientific,welly,agilescientific,https://github.com/agilescientific/welly,https://api.github.com/repos/welly/agilescientific,"Welly helps with well loading, wireline logs, log quality, data science","![Welly banner](https://www.dropbox.com/s/a8jg7zomi4wgolb/welly_banner.png?raw=1)
 
 [![Run tests](https://github.com/agilescientific/welly/actions/workflows/run-tests.yml/badge.svg)](https://github.com/agilescientific/welly/actions/workflows/run-tests.yml)
@@ -5660,7 +5660,7 @@ The [`lasio`](https://github.com/kinverarity1/lasio) project provides a very nic
 Sometimes we want a higher-level object, for example to contain methods that have nothing to do with LAS files. We may want to handle other well data, such as deviation surveys, tops (aka picks), engineering data, striplogs, synthetics, and so on. This is where `welly` comes in.
 
 `welly` uses `lasio` for data I/O, but hides much of it from the user. We recommend you look at both projects before deciding if you need the 'well-level' functionality that `welly` provides.
-",282,282,37,114,petroleum,"[data-management, data-mining, geology, geophysics, petroleum, petrophysics, python, swung-stack]",0.0
+",282,282,37,114,petroleum,"[data-management, data-mining, geology, geophysics, petroleum, petrophysics, python, swung-stack]",21
 106,akashlevy,Deep-Learn-Oil,,https://github.com/akashlevy/Deep-Learn-Oil,https://api.github.com/repos/Deep-Learn-Oil/akashlevy,Deep learning tools for predicting oil well data,"# Applying Deep Learning to Petroleum Well Data
 ## QRI Project at TRiCAM
 
@@ -5745,7 +5745,7 @@ Thanks to all our citers!
 
 ## Contact
 Please contact <akashlevy@gmail.com>, <janette_garcia08@hotmail.com>, <albert.tung0902@my.riohondo.edu> or <michelleyang@berkeley.edu> with any questions about this repository. Thank you!
-",81,81,18,0,petroleum,"[data-processing, dataset, deep-learning, harvard, keras, neural-network, petroleum, python, research]",0.0
+",81,81,18,0,petroleum,"[data-processing, dataset, deep-learning, harvard, keras, neural-network, petroleum, python, research]",21
 107,pro-well-plan,well_profile,pro-well-plan,https://github.com/pro-well-plan/well_profile,https://api.github.com/repos/well_profile/pro-well-plan,The python tool for well trajectories,"[![Cover](https://github.com/pro-well-plan/opensource_apps/raw/master/resources/pwp-bgd.gif)](https://prowellplan.com)
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pro-well-plan/well_profile/blob/master/LICENSE.md)
@@ -5829,7 +5829,7 @@ This project is licensed under the GNU Lesser General Public License v3.0 - see 
 *for further information contact juan@prowellplan.com*
 
 [![](https://user-images.githubusercontent.com/52009346/69100304-2eb3e800-0a5d-11ea-9a3a-8e502af2120b.png)](https://prowellplan.com)
-",70,70,10,2,petroleum,"[directional-drilling, drilling, drilling-engineering, petroleum, well-design, well-engineering, wellbore]",0.0
+",70,70,10,2,petroleum,"[directional-drilling, drilling, drilling-engineering, petroleum, well-design, well-engineering, wellbore]",21
 108,pro-well-plan,pwptemp,pro-well-plan,https://github.com/pro-well-plan/pwptemp,https://api.github.com/repos/pwptemp/pro-well-plan,pwptemp,"[![Cover](https://github.com/pro-well-plan/opensource_apps/raw/master/resources/pwp-bgd.gif)](https://prowellplan.com)
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pro-well-plan/pwptemp/blob/master/LICENSE.md)
@@ -5894,7 +5894,7 @@ This project is licensed under the GNU Lesser General Public License v3.0 - see 
 *for further information contact juan@prowellplan.com*
 
 [![](https://user-images.githubusercontent.com/52009346/69100304-2eb3e800-0a5d-11ea-9a3a-8e502af2120b.png)](https://prowellplan.com)
-",56,56,11,8,petroleum,"[drilling, injection, petroleum, production, simulation, temperature]",0.0
+",56,56,11,8,petroleum,"[drilling, injection, petroleum, production, simulation, temperature]",21
 109,GeostatisticsLessons,GeostatisticsLessonsNotebooks,,https://github.com/GeostatisticsLessons/GeostatisticsLessonsNotebooks,https://api.github.com/repos/GeostatisticsLessonsNotebooks/GeostatisticsLessons,These are python notebooks accompanying Lessons available at GeostatisticsLessons.com,"# Geostatistics Lessons Notebooks
 
 [Geostatistics Lessons](http://geostatisticslessons.com/) is an open disclosure of some guidance in geostatistical modeling reviewed by an editorial board. These python notebooks and data are prepared by Lesson authors to supplement their Lesson. As new Lessons are authored and notebooks created, this repository will be updated. 
@@ -5914,7 +5914,7 @@ Notebooks are implemented in Python 3 using the scientific python stack (includi
 ## License
 
 Notebooks are licensed under the [MIT](LICENSE) license separately from Lessons. Refer to [Geostatistics Lessons](http://geostatisticslessons.com/) for licensing information on the Lessons.
-",48,48,7,0,petroleum,"[applied-statistics, geostatistics, geostatistics-lessons, mining, notebook, petroleum, python-notebook, statistics]",0.0
+",48,48,7,0,petroleum,"[applied-statistics, geostatistics, geostatistics-lessons, mining, notebook, petroleum, python-notebook, statistics]",21
 110,pro-well-plan,petrodc,pro-well-plan,https://github.com/pro-well-plan/petrodc,https://api.github.com/repos/petrodc/pro-well-plan,Petroleum Data Collector,"[![Cover](https://github.com/pro-well-plan/opensource_apps/raw/master/resources/pwp-bgd.gif)](https://prowellplan.com)
 
 
@@ -5963,7 +5963,7 @@ This project is licensed under the GNU Lesser General Public License v3.0 - see 
 *for further information contact juan@prowellplan.com*
 
 [![](https://user-images.githubusercontent.com/52009346/69100304-2eb3e800-0a5d-11ea-9a3a-8e502af2120b.png)](https://prowellplan.com)
-",38,38,8,0,petroleum,"[data, engineering, geophysics, petroleum, petrophysics, well-logs]",0.0
+",38,38,8,0,petroleum,"[data, engineering, geophysics, petroleum, petrophysics, well-logs]",21
 111,derrickturk,aRpsDCA,,https://github.com/derrickturk/aRpsDCA,https://api.github.com/repos/aRpsDCA/derrickturk,R package for Arps decline curve analysis.,"# aRpsDCA
 ### an R package for Arps decline-curve analysis
 
@@ -6000,7 +6000,7 @@ v1.1.0 (2016-04-04): Arps declines with linear initial buildup periods, and fitt
 v1.1.1 (2017-07-23): EUR for declines with buildup now handled correctly; zero results from arps.q and arps.Np when decline with buildup was passed with only post-buildup time values are now corrected  
 
 (c) 2017 [dwt](http://www.github.com/derrickturk) | [terminus data science, LLC](http://www.terminusdatascience.com)
-",32,32,10,3,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",0.0
+",32,32,10,3,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",21
 112,f0nzie,rNodal,,https://github.com/f0nzie/rNodal,https://api.github.com/repos/rNodal/f0nzie,Nodal Analysis for Petroleum Production Engineering,"
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -6109,7 +6109,7 @@ represent the number of segment plus one and the columns are the
 calculations or variables.
 
 <img src=""man/figures/README-results_df.jpg"" width=""800px"" />
-",30,30,4,1,petroleum,"[data-science, nodal-analysis, petroleum, rstats]",0.0
+",30,30,4,1,petroleum,"[data-science, nodal-analysis, petroleum, rstats]",21
 113,derrickturk,ocd_production,,https://github.com/derrickturk/ocd_production,https://api.github.com/repos/ocd_production/derrickturk,Unpack and process a wcproduction.zip file from the New Mexico OCD's FTP site,"# OCD Production Parser
 
 A Rust program for parsing the `wcproduction.zip` monthly production file from the [New Mexico Oil Conservation Division](http://www.emnrd.state.nm.us/OCD/), as described in [""XMHell: Handling 38GB of UTF-16 XML with Rust""](https://usethe.computer/posts/14-xmhell.html).
@@ -6117,7 +6117,7 @@ A Rust program for parsing the `wcproduction.zip` monthly production file from t
 Freely available under the Apache License, version 2.0.
 
 ### (c) 2020 [dwt](https://usethe.computer) | [terminus data science, LLC](https://terminusdata.science)
-",25,25,2,0,petroleum,[petroleum],0.0
+",25,25,2,0,petroleum,[petroleum],21
 114,abhishekdbihani,synthetic_well-log_polynomial_regression,,https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression,https://api.github.com/repos/synthetic_well-log_polynomial_regression/abhishekdbihani,"This project attempts to construct a missing well log from other available well logs, more specifically an NMR well log from the measured Gamma Ray (GR), Caliper, Resistivity logs and the interpreted porosity from a well. ","## Constructing a Synthetic NMR Well-log using Machine Learning
 
 
@@ -6229,7 +6229,7 @@ Ruppel, C., Boswell, R., and Jones, E. (2008). Scientific results from Gulf of M
 
 
 
-",24,24,3,0,petroleum,"[feature-engineering, feature-selection, keathley-canyon, nmr, nmr-log, petroleum, petrophysics, polynomial-regression, porosity, resistivity-log, walker-ridge, well-logs]",0.0
+",24,24,3,0,petroleum,"[feature-engineering, feature-selection, keathley-canyon, nmr, nmr-log, petroleum, petrophysics, polynomial-regression, porosity, resistivity-log, walker-ridge, well-logs]",21
 115,donald-keighley,lasr,,https://github.com/donald-keighley/lasr,https://api.github.com/repos/lasr/donald-keighley,An R package for reading Log Ascii Standard (LAS) files for well log data.,"lasr
 ================
 Donny Keighley
@@ -6429,7 +6429,7 @@ lasr errs toward speed where lasio tends more toward user convenience.
 They are simply different products.
 
 Good luck, and if you have any suggestions reach out!
-",16,16,1,0,petroleum,"[gas, geology, geophysics, las, logs, oil, petroleum, petrophysics, well]",0.0
+",16,16,1,0,petroleum,"[gas, geology, geophysics, las, logs, oil, petroleum, petrophysics, well]",21
 116,mwentzWW,petrolpy,,https://github.com/mwentzWW/petrolpy,https://api.github.com/repos/petrolpy/mwentzWW,"Open source petroleum engineering projects, useful scripts, functions, and jupyter notebooks","# petrolpy
 
 This repository is meant to serve as an open source option for petroleum engineers and geoscientists with Python packages/modules. Check the wiki page for current projects. Please share any project ideas you may have. **All projects are a work in progress**.
@@ -6448,7 +6448,7 @@ You can run the notebooks by clicking the ""launch binder"" button above. The re
 ![alt text](petrolpy/Examples/Example_plots/pdf_example_output.png ""PDF Plot"")
 * Log Normal Distribution Probit Plot (EUR Example)
 ![alt text](petrolpy/Examples/Example_plots/probit_example_output.png ""Probit Plot"")
-",15,15,6,0,petroleum,"[petroleum, petroleum-economics, petroleum-engineering, reservoir, reservoir-modeling]",0.0
+",15,15,6,0,petroleum,"[petroleum, petroleum-economics, petroleum-engineering, reservoir, reservoir-modeling]",21
 117,derrickturk,public-oil-gas-data,,https://github.com/derrickturk/public-oil-gas-data,https://api.github.com/repos/public-oil-gas-data/derrickturk,Freely-available public oil & gas data,"# Public Oil & Gas Data
 ===================
 
@@ -6459,7 +6459,7 @@ Pull requests welcome!
 [The List](https://github.com/derrickturk/public-oil-gas-data/blob/master/public-oil-gas-data.md)
 
 Maintained by [dwt](https://github.com/derrickturk) | [terminus data science, LLC](http://www.terminusdatascience.com)
-",14,14,2,0,petroleum,"[petroleum, petroleum-dataset]",0.0
+",14,14,2,0,petroleum,"[petroleum, petroleum-dataset]",21
 118,derrickturk,pydca,,https://github.com/derrickturk/pydca,https://api.github.com/repos/pydca/derrickturk,"A ""simple"" decline-curve analysis example in Python","# pydca
 
 A simple example of implementing Arps decline curve analysis in Python, as described [on my blog](https://usethe.computer/posts/15-minimalist-dca-in-python.html). Example data is courtesy of the [New Mexico Oil Conservation Division](http://www.emnrd.state.nm.us/OCD/).
@@ -6467,7 +6467,7 @@ A simple example of implementing Arps decline curve analysis in Python, as descr
 Freely available under the Apache License, version 2.0.
 
 ### (c) 2020 [dwt](https://usethe.computer) | [terminus data science, LLC](https://terminusdata.science)
-",14,14,3,0,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",0.0
+",14,14,3,0,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",21
 123,derrickturk,oil-gas-mock-data,,https://github.com/derrickturk/oil-gas-mock-data,https://api.github.com/repos/oil-gas-mock-data/derrickturk,Mock data generators for oil & gas tools,"# Oil & Gas Mock Data Generators
 ##### by [dwt](http://www.github.com/derrickturk) | [terminus data science, LLC](http://www.terminusdatascience.com)
 
@@ -6475,7 +6475,7 @@ These generators produce ""plausible"" data for demonstrating oil and gas engine
 They are freely available for commercial and non-commercial use under the GNU Public License.
 
 (c) 2016 [dwt](http://www.github.com/derrickturk) | [terminus data science, LLC](http://www.terminusdatascience.com)
-",5,5,2,0,petroleum,"[petroleum, petroleum-dataset]",0.0
+",5,5,2,0,petroleum,"[petroleum, petroleum-dataset]",21
 124,oilmap,oilmap,oilmap,https://github.com/oilmap/oilmap,https://api.github.com/repos/oilmap/oilmap,Visualizing oil data on country maps using OilMap,"# OilMap-Web 🗺🛢 🌟
 Visualizing oil data on country maps using OilMap
 ---
@@ -6508,7 +6508,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 * **MapBox** - *Maps* - [MapBox](https://www.mapbox.com/)
 * **Inspiration** - *Amnesty Oil Spills* - [MapBox Labs](https://labs.mapbox.com/amnesty/)
-",3,3,3,0,petroleum,"[data-science, data-visualization, geographic-data, lease, mapbox-gl-js, mapping, maps, oil, oil-analysis, oil-exploration, oil-field-units, oil-market, petroleum, petroleum-economics, vizualize-data, world]",0.0
+",3,3,3,0,petroleum,"[data-science, data-visualization, geographic-data, lease, mapbox-gl-js, mapping, maps, oil, oil-analysis, oil-exploration, oil-field-units, oil-market, petroleum, petroleum-economics, vizualize-data, world]",21
 125,lanl-ansi,PetroleumModels.jl,lanl-ansi,https://github.com/lanl-ansi/PetroleumModels.jl,https://api.github.com/repos/PetroleumModels.jl/lanl-ansi,A Julia/JuMP Package for Petroleum Network Optimization,"# PetroleumModels.jl
 
 <img src=""https://lanl-ansi.github.io/PetroleumModels.jl/dev/assets/logo.svg"" align=""left"" width=""200"" alt=""PetroleumModels logo"">
@@ -6560,7 +6560,7 @@ The primary developer is Elena Khlebnikova, with significant contributions from 
 ## License
 
 This code is provided under a BSD license as part of the Multi-Infrastructure Control and Optimization Toolkit (MICOT) project, LA-CC-13-108.
-",3,3,5,14,petroleum,"[optimization, petroleum]",0.0
+",3,3,5,14,petroleum,"[optimization, petroleum]",21
 126,Ali-Saud,ML-in-PE,,https://github.com/Ali-Saud/ML-in-PE,https://api.github.com/repos/ML-in-PE/Ali-Saud,"Application of Machine Learning to predict future performances, and to do sensitivity analysis in reservoir simulations, which helps to solve petroleum engineering computational problems and taking decisions in a timely manner.","# Applications of Machine Learning in Petroleum Engineering
  
 #### Application of Machine Learning in petroleum engineering for predicting future performance, to help minimize the time and computational cost, in order to achieve History-Matched numerical models.
@@ -6570,7 +6570,7 @@ This code is provided under a BSD license as part of the Multi-Infrastructure Co
 #### accuracy in ML models is very high and more accurate than simulation models data, beacause of Upscaling and other procedures that lead to un-representative numerical models.
 
 ##### The project is in progress for 2022 year, If you are interested and want to contribute, please contact me on email: a.saoud2000@gmail.com
-",3,3,2,0,petroleum,"[learning, machine, petroleum, prediction, regression]",0.0
+",3,3,2,0,petroleum,"[learning, machine, petroleum, prediction, regression]",21
 127,BDI-UFRGS,O3POntology,BDI-UFRGS,https://github.com/BDI-UFRGS/O3POntology,https://api.github.com/repos/O3POntology/BDI-UFRGS,A domain ontology for offshore petroleum production plants that uses BFO as a top-level ontology.,"# Offshore Petroleum Production Plant Ontology (O3PO)
 A domain ontology for offshore petroleum production plants that uses BFO as a top-level ontology.
 
@@ -6579,13 +6579,13 @@ Directly imported ontologies:
   - GeoCore
   - IOF-Core
   - Information Artifact Ontology (IAO)
-",2,2,2,1,petroleum,"[applied-ontology, bfo, ontology, petroleum]",0.0
+",2,2,2,1,petroleum,"[applied-ontology, bfo, ontology, petroleum]",21
 128,derrickturk,typecurve.js,,https://github.com/derrickturk/typecurve.js,https://api.github.com/repos/typecurve.js/derrickturk,typecurve.js: some tools for decline-curve analysis and aggregation on the client side,"# typecurve.js
 ## Being a javascript library suitable for interactive aggregation and decline-curve analysis of production data,
 ## Or, the ramblings of a madman
 
 (c) 2014 dwt | terminus data science, LLC
-",2,2,2,0,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",0.0
+",2,2,2,0,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",21
 129,daimessdn,las_converter,,https://github.com/daimessdn/las_converter,https://api.github.com/repos/las_converter/daimessdn,well log LAS data converter into various file,"# las_converter
 ## Python projects for well log analysis
 
@@ -6685,7 +6685,7 @@ There is a file named `las_testing.py` used for testing purposes. There is also 
 For testing the saved files in `results` folder, there is also Jupyter Notebook file `using_csv_made_from_las_converter_for_well_log_analysis.ipynb`.
 
 [back to top](#las_converter)
-",1,1,2,0,petroleum,"[petroleum, python, well-log]",0.0
+",1,1,2,0,petroleum,"[petroleum, python, well-log]",21
 130,softlandia,glasio,,https://github.com/softlandia/glasio,https://api.github.com/repos/glasio/softlandia,golang library for read/write/control las files ,"# golang las library #
 
 (c) softlandia@gmail.com
@@ -6778,7 +6778,7 @@ extended:
 > x - section number  
 > y - line number of input file  
 
-",1,1,2,3,petroleum,"[data-format, data-mining, geology, golang, golang-library, golang-package, las, las-files, log-ascii-standart, petroleum, petroleum-engineering]",0.0
+",1,1,2,3,petroleum,"[data-format, data-mining, geology, golang, golang-library, golang-package, las, las-files, log-ascii-standart, petroleum, petroleum-engineering]",21
 131,mtsousa,FER-2022-2_PetroleumReservoirSimulation,,https://github.com/mtsousa/FER-2022-2_PetroleumReservoirSimulation,https://api.github.com/repos/FER-2022-2_PetroleumReservoirSimulation/mtsousa,Simulação de reservatório de petróleo utilizando MRST,"# FER-2022-2_PetroleumReservoirSimulation
 
 Simulação de reservatório de petróleo utilizando MRST no contexto da disciplina Fundamentos de Engenharia de Reservatório da Universidade de Brasília.
@@ -6818,7 +6818,7 @@ O trabalho tem por objetivo criar e simular um reservatório contendo dois fluid
 |  Saturação de óleo ao longo do tempo  |
 |:-------------------------------------:|
 |           ![](imgs/sat.gif)           |
-",1,1,1,0,petroleum,"[matlab, mrst, petroleum, reservoir-engineering, reservoir-simulation]",0.0
+",1,1,1,0,petroleum,"[matlab, mrst, petroleum, reservoir-engineering, reservoir-simulation]",21
 132,derrickturk,libdca,,https://github.com/derrickturk/libdca,https://api.github.com/repos/libdca/derrickturk,Vaguely-specified project to create native library for various decline-curve analysis tasks.,"# libDCA
 ## a C++ (header-only) library for oil & gas decline curve analysis
 
@@ -6832,7 +6832,7 @@ To do:
 license TBA open-source
 
 (c) 2014 dwt | terminus data science, LLC
-",1,1,2,2,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",0.0
+",1,1,2,2,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering]",21
 133,oilshit,las_converter,oilshit,https://github.com/oilshit/las_converter,https://api.github.com/repos/las_converter/oilshit,LAS well log file converter to various files (JSON and CSV supported) to be readable and manageable with data science approach,"# las_converter
 ## Python projects for well log analysis
 
@@ -6948,7 +6948,7 @@ There is a file named `las_testing.py` used for testing purposes. There is also 
 For testing the saved files in `results` folder, there is also [Google Colab Notebook file](https://colab.research.google.com/drive/1a-HC1smv6r34TH6bhvemqkEOwjpyiYiV?usp=sharing) `using_csv_made_from_las_converter_for_well_log_analysis.ipynb`.
 
 [back to top](#las_converter)
-",1,1,2,0,petroleum,"[csv, json, petroleum, petrophysics, python, well-log, well-logs]",0.0
+",1,1,2,0,petroleum,"[csv, json, petroleum, petrophysics, python, well-log, well-logs]",21
 134,Marta-Barea,machine-learning_VisNIRS-Waxes-Type-Classification,,https://github.com/Marta-Barea/machine-learning_VisNIRS-Waxes-Type-Classification,https://api.github.com/repos/machine-learning_VisNIRS-Waxes-Type-Classification/Marta-Barea,Spectroscopic data processing approaches for petroleum wax discrimination,"# Rapid Classification of Petroleum Waxes: A Vis-NIR Spectroscopy and Machine Learning Approach
 
 ## Description
@@ -6982,7 +6982,7 @@ All data analysis was performed with **R (version 4.1.2)**. The software and pac
 2. Ensure that the necessary versions of R and packages are installed.
 3. Navigate to the respective folders and run the scripts to reproduce the results or launch the Shiny app.
 
-",1,1,1,0,petroleum,"[cheminformatics, chemistry, chemoinformatics, machine-learning, petroleum, r, vis-nir-spectroscopy]",0.0
+",1,1,1,0,petroleum,"[cheminformatics, chemistry, chemoinformatics, machine-learning, petroleum, r, vis-nir-spectroscopy]",21
 135,lelliott-geo,Springboard_Capstone_Project1,,https://github.com/lelliott-geo/Springboard_Capstone_Project1,https://api.github.com/repos/Springboard_Capstone_Project1/lelliott-geo,"This repository houses all files related to my first Springboard Capstone.  The work is done in partnership with my Springboard mentor and friend Ajith Patnaik.  It is a synthesis of Denver-Julesburg (DJ) Basin Oil and Gas Production from 1999 through 2019.  The focus was to use the plethora of publicly available data and open source software only to identify trends and insights in that production over time.  The machine learning aspect of the project was to determine how accurately one may be able to predict abandonment of a horizontal well. Currently the data wrangling, story telling, and EDA sections are complete.  We are currently working to complete the modelling / machine learning aspects so you will so those parts are in still in progress.","# Springboard Capstone Project 1: Synthesis of Denver-Julesburg Basin Production (1999-2019): A Data Science Approach
 
 # Introduction
@@ -6994,7 +6994,7 @@ A great deal of perspective can be gained by examining the plethora of free publ
 Python APIs, geospatial and statistical analysis, and machine learning techniques are used to synthesize, classify, and predict horizontal and vertical well performance in the basin.  The approach employs the building of segmentation use cases, in which geo-located data points are generated that describe and classify the well's behavior.  The segments are created based on economic, geologic, and engineering criteria. These segments can then be used as either ranked categories and/or further used to synthesize, classify, and predict horizontal well performance in the basin. 
 
 For those prospectors working the area with proprietary data available to them, insight gathered from this type of analysis can be used as a complement to traditional methods, providing an independent, higher level look at the basin to optimize development strategy and recovery enhancement.
-",1,1,2,0,petroleum,"[data-analysis, data-science, data-visualization, freeware, machine-learning, open-source, petroleum]",0.0
+",1,1,2,0,petroleum,"[data-analysis, data-science, data-visualization, freeware, machine-learning, open-source, petroleum]",21
 136,oilshit,oilprice-api,oilshit,https://github.com/oilshit/oilprice-api,https://api.github.com/repos/oilprice-api/oilshit,Node.js based API for getting oil and gas prices based on oilprice.com,"# oilprice-api
 
 [Live Preview](#live-preview) | [Project Overview](#project-overview) | [Setup Requirements](#setup-requirements) | [Project Setup](#project-setup) | [Project Implementation](#project-implementation)
@@ -7054,8 +7054,8 @@ This project has been implemented on following stuffs:
 
 - Extracting oil and gas price data into CSV file ([oilprice-extract](https://github.com/oilshit/oilprice-extract))
 - more coming soon...
-",1,1,1,0,petroleum,"[javascript, nodejs, oil-price, oilandgas, petroleum]",0.0
-137,daimessdn,py_lopatin,,https://github.com/daimessdn/py_lopatin,https://api.github.com/repos/py_lopatin/daimessdn,Predicting oil window based on burial history with Lopatin method using Python,,1,1,2,0,petroleum,"[burial-history, geology, lopatin, miscpurposes, petroleum, python]",0.0
+",1,1,1,0,petroleum,"[javascript, nodejs, oil-price, oilandgas, petroleum]",21
+137,daimessdn,py_lopatin,,https://github.com/daimessdn/py_lopatin,https://api.github.com/repos/py_lopatin/daimessdn,Predicting oil window based on burial history with Lopatin method using Python,,1,1,2,0,petroleum,"[burial-history, geology, lopatin, miscpurposes, petroleum, python]",21
 138,oilshit,oilprice_extract,oilshit,https://github.com/oilshit/oilprice_extract,https://api.github.com/repos/oilprice_extract/oilshit,extract oil and gas prices data based on oilprice-api into CSV file,"# oilprice-extract
 
 [Overview](#overview) | [Requirements](#requirements) | [Project Setup](#project-setup)
@@ -7094,20 +7094,20 @@ python3 main.py wti montly
 ```
 
 **Result**: the CSV file with filename **prices-wti-monthly-`<current-timestamp>`.csv** will be appeared once the script was run. In case of getting other prices data, you can view the blend list via `https://oilprice-api.herokuapp.com/blend-list` in browser.
-",1,1,1,0,petroleum,"[csv, oil-price, oilandgas, petroleum, python]",0.0
-139,MaximeGuinard,Oil-MX,,https://github.com/MaximeGuinard/Oil-MX,https://api.github.com/repos/Oil-MX/MaximeGuinard,⛽ An addon that allows you to have pretrol as a resource,,1,1,1,0,petroleum,"[addon, addons, gmod, gmod-lua, petrol, petroleum, petroleum-engineering, petrology, resources]",0.0
-140,daimessdn,petro-codes,,https://github.com/daimessdn/petro-codes,https://api.github.com/repos/petro-codes/daimessdn,my codes of petroleum cases,,1,1,2,0,petroleum,[petroleum],0.0
+",1,1,1,0,petroleum,"[csv, oil-price, oilandgas, petroleum, python]",21
+139,MaximeGuinard,Oil-MX,,https://github.com/MaximeGuinard/Oil-MX,https://api.github.com/repos/Oil-MX/MaximeGuinard,⛽ An addon that allows you to have pretrol as a resource,,1,1,1,0,petroleum,"[addon, addons, gmod, gmod-lua, petrol, petroleum, petroleum-engineering, petrology, resources]",21
+140,daimessdn,petro-codes,,https://github.com/daimessdn/petro-codes,https://api.github.com/repos/petro-codes/daimessdn,my codes of petroleum cases,,1,1,2,0,petroleum,[petroleum],21
 142,oilshit,gloss-oleum,oilshit,https://github.com/oilshit/gloss-oleum,https://api.github.com/repos/gloss-oleum/oilshit,petroleum engineering glossary finder,"# gloss-oleum
 ## glossary collections for petroleum
 
 GLOSS-oleum collects lists of oil and gas definitions in many references.
-",0,0,2,2,petroleum,"[glossary, glossary-finder, petroleum]",0.0
+",0,0,2,2,petroleum,"[glossary, glossary-finder, petroleum]",21
 143,oilshit,lifecycle,oilshit,https://github.com/oilshit/lifecycle,https://api.github.com/repos/lifecycle/oilshit,"one app for petroleum ""everything"" purposes (coming soon)","# lifecycle
 
 Coming soon supporting your ""every"" oil and gas lifecycle stuffs.
 
 ![coming soon](banner.gif)
-",0,0,1,0,petroleum,[petroleum],0.0
+",0,0,1,0,petroleum,[petroleum],21
 144,Tbarros1996,_petroleo_br,,https://github.com/Tbarros1996/_petroleo_br,https://api.github.com/repos/_petroleo_br/Tbarros1996,Análise de Produção de Petróleo e Combustivel no Brasil,"<img align=""right"" width=""30%"" src=""https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Oil_platform_P-51_%28Brazil%29-2.jpg/1280px-Oil_platform_P-51_%28Brazil%29-2.jpg"">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -7132,8 +7132,8 @@ Projeto de análise dos dados disponibilizados referente a produção de petról
 
 
 
-",0,0,1,0,petroleum,"[data-analysis, mechanical-engineering, petroleum, python]",0.0
-145,daimessdn,petroleum_notes,,https://github.com/daimessdn/petroleum_notes,https://api.github.com/repos/petroleum_notes/daimessdn,my petroleum note from semester 6,,0,0,2,0,petroleum,"[college, petroleum]",0.0
+",0,0,1,0,petroleum,"[data-analysis, mechanical-engineering, petroleum, python]",21
+145,daimessdn,petroleum_notes,,https://github.com/daimessdn/petroleum_notes,https://api.github.com/repos/petroleum_notes/daimessdn,my petroleum note from semester 6,,0,0,2,0,petroleum,"[college, petroleum]",21
 146,underr,eduardo,,https://github.com/underr/eduardo,https://api.github.com/repos/eduardo/underr,Interface em Python para o Robô Ed - rip :-(,"# eduardo
 
 #### Interface em Python para o [Robô Ed](http://www.ed.conpet.gov.br/br/converse.php)
@@ -7164,10 +7164,10 @@ Vide o script `dialogo.py` para um exemplo mais elaborado.
 **server**: ""servidor"" de onde partirão os requests (0.0.0.0 por padrão)
 
 **url**: url do servidor (URL do Robô Ed por padrão)
-",0,0,2,0,petroleum,"[ambiental, artificial-intelligence, education, petroleum]",0.0
+",0,0,2,0,petroleum,"[ambiental, artificial-intelligence, education, petroleum]",21
 147,Marta-Barea,machine-learning_HSGCMS_ParaffinWax_Odor,,https://github.com/Marta-Barea/machine-learning_HSGCMS_ParaffinWax_Odor,https://api.github.com/repos/machine-learning_HSGCMS_ParaffinWax_Odor/Marta-Barea,Data processing approaches for paraffin wax odor discrimination and quantification,"# machine-learning_HSGCMS_ParaffinWax_Odor
  
-",0,0,1,0,petroleum,"[chemistry, chemoinformatics, chemometrics, gc-ms, gc-ms-data, machine-learning, machine-learning-algorithms, petroleum, petroleum-science, r]",0.0
+",0,0,1,0,petroleum,"[chemistry, chemoinformatics, chemometrics, gc-ms, gc-ms-data, machine-learning, machine-learning-algorithms, petroleum, petroleum-science, r]",21
 148,WilsonKinyua,dalbitpetroleum.com,,https://github.com/WilsonKinyua/dalbitpetroleum.com,https://api.github.com/repos/dalbitpetroleum.com/WilsonKinyua,"Dalbit is a member of JCG Holdings Ltd. Established in 2002 in Kenya, where they supply and distribute petroleum products and services across East, Central and Southern Africa.","## Old site UI
 
 <p align=""center""><a href=""https://laravel.com"" target=""_blank""><img src=""https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"" width=""400""></a></p>
@@ -7178,7 +7178,7 @@ Vide o script `dialogo.py` para um exemplo mais elaborado.
 <a href=""https://packagist.org/packages/laravel/framework""><img src=""https://img.shields.io/packagist/v/laravel/framework"" alt=""Latest Stable Version""></a>
 <a href=""https://packagist.org/packages/laravel/framework""><img src=""https://img.shields.io/packagist/l/laravel/framework"" alt=""License""></a>
 </p>
-",0,0,1,0,petroleum,"[backup, cms, cms-backend, cooperative, laravel, old-project, petroleum]",0.0
+",0,0,1,0,petroleum,"[backup, cms, cms-backend, cooperative, laravel, old-project, petroleum]",21
 149,eu-cristofer,vba-pump-performance,,https://github.com/eu-cristofer/vba-pump-performance,https://api.github.com/repos/vba-pump-performance/eu-cristofer,VBA Pump Performance is a set of tools to help engineers and technicians to asses the condition of an API 610 pump during its Performance and Mechanical Running Test trials.,"# VBA Pump Performance
 
 VBA Pump Performance is a set of tools to help engineers and technicians to asses the condition of API 610 pumps during its Performance and Mechanical Running Test trials.
@@ -7216,7 +7216,7 @@ The computation of viscosity correction is accordingly the ANSI/HI 9.6 Rotodynam
 ## Special notes
 
 The author of the code does not make any warranty or representation, either express or implied, with respect to the accuracy, completeness, or usefulness of the results contained herein, or assume any liability or responsibility for any use, or the results of such use, of any information or process disclosed in this software.
-",0,0,1,0,petroleum,"[performance, petroleum, pumps]",0.0
+",0,0,1,0,petroleum,"[performance, petroleum, pumps]",21
 151,hjfitz,spe-site,,https://github.com/hjfitz/spe-site,https://api.github.com/repos/spe-site/hjfitz,Website for the UoP's Petroleum engineering society,"# SPE Site
 Built in 2017 for the UoP's Petroleum Engineers
 
@@ -7224,18 +7224,18 @@ Content driven via [Contentful](https://contentful.com)
 
 ## Running
 Ensure that your `.env` is configured correctly and `yarn install`. Run locally with `heroku local`.
-",0,0,1,2,petroleum,"[engineering, express, node, petroleum, portsmouth, society, university, website]",0.0
+",0,0,1,2,petroleum,"[engineering, express, node, petroleum, portsmouth, society, university, website]",21
 152,daimessdn,gloss-oleum,,https://github.com/daimessdn/gloss-oleum,https://api.github.com/repos/gloss-oleum/daimessdn,glossary finder of petroleum engineering,"# gloss-oleum
 ## glossary collections for petroleum
 
 GLOSS-oleum collects lists of oil and gas definitions in many references.
-",0,0,2,3,petroleum,"[glossary-finder, petroleum]",0.0
+",0,0,2,3,petroleum,"[glossary-finder, petroleum]",21
 153,amirhossein92,petroleum.dictionary,,https://github.com/amirhossein92/petroleum.dictionary,https://api.github.com/repos/petroleum.dictionary/amirhossein92,Petroleum technical dictionary,"# ترجمه فارسی لغات مربوط به رشته مهندسی نفت
 
 کاربرد:
 نوشتن مقالات، پایان نامه یا پروژه های فارسی
-",0,0,2,0,petroleum,"[dictionary, persian, petroleum, petroleum-engineering]",0.0
-154,Marta-Barea,machine-learning_VisNIRS-Waxes-Type-mixture-Regression,,https://github.com/Marta-Barea/machine-learning_VisNIRS-Waxes-Type-mixture-Regression,https://api.github.com/repos/machine-learning_VisNIRS-Waxes-Type-mixture-Regression/Marta-Barea,Spectroscopic data processing approaches for petroleum wax blends quantification,# machine-learning_VisNIRS-Waxes-Type-mixture-Regression,0,0,1,0,petroleum,"[chemistry, chemoinformatics, chemometrics, machine-learning, petroleum, r]",0.0
+",0,0,2,0,petroleum,"[dictionary, persian, petroleum, petroleum-engineering]",21
+154,Marta-Barea,machine-learning_VisNIRS-Waxes-Type-mixture-Regression,,https://github.com/Marta-Barea/machine-learning_VisNIRS-Waxes-Type-mixture-Regression,https://api.github.com/repos/machine-learning_VisNIRS-Waxes-Type-mixture-Regression/Marta-Barea,Spectroscopic data processing approaches for petroleum wax blends quantification,# machine-learning_VisNIRS-Waxes-Type-mixture-Regression,0,0,1,0,petroleum,"[chemistry, chemoinformatics, chemometrics, machine-learning, petroleum, r]",21
 155,TankerTrackers,convert,TankerTrackers,https://github.com/TankerTrackers/convert,https://api.github.com/repos/convert/TankerTrackers,Convert freely between various types of petroleum-related fluid measurements,"# Convert
 
 This package is mainly concerned with converting between the following three units of measurement:
@@ -7335,7 +7335,7 @@ Exceptions when we know something is out of the ordinary.
 # Copyright / License
 
 This library is released under an MIT License. See the `LICENSE` file for further details.
-",0,0,2,0,petroleum,"[conversion, petroleum]",0.0
+",0,0,2,0,petroleum,"[conversion, petroleum]",21
 156,oilshit,IPyR,oilshit,https://github.com/oilshit/IPyR,https://api.github.com/repos/IPyR/oilshit,Calculation of Inflow Performance Relationship (IPR) using Python,"# IPyR
 
 ## Overview
@@ -7370,7 +7370,7 @@ Since this repository was created, **Python 3.8.10** is used in this project.
 ### Three-phase production
 #### Wiggin
 - `wiggin.py`: Demonstrating graph correlation of wellbore pressures between flow rates based on **Wiggin Equation**
-- `graph-wiggin-1.py`: Testing for calculation of `q_max` of oil and water (in this case, using `p_wf` = 1335 psia) using **Wiggin Equation**",0,0,1,0,petroleum,"[petroleum, production-engineering, python]",0.0
+- `graph-wiggin-1.py`: Testing for calculation of `q_max` of oil and water (in this case, using `p_wf` = 1335 psia) using **Wiggin Equation**",0,0,1,0,petroleum,"[petroleum, production-engineering, python]",21
 158,JustinGOSSES,predictatops,,https://github.com/JustinGOSSES/predictatops,https://api.github.com/repos/predictatops/JustinGOSSES,Stratigraphic pick prediction via supervised machine-learning,"# predictatops
 
 _Code for stratigraphic pick prediction via supervised machine-learning_
@@ -7460,7 +7460,7 @@ Y-axis is number of picks in each bin, and X-axis is distance predicted pick is 
      style=""float: left; margin-right: 25px;"" />
 
 Current algorithm used is XGBoost.
-",55,55,9,29,well-logs,"[athabasca, athabasca-preprocessed, dataunderground, geology, geoscience, hackathon-project, machine-learning, stratigraphy, well-logs]",0.0
+",55,55,9,29,well-logs,"[athabasca, athabasca-preprocessed, dataunderground, geology, geoscience, hackathon-project, machine-learning, stratigraphy, well-logs]",21
 159,JustinGOSSES,wellioviz,,https://github.com/JustinGOSSES/wellioviz,https://api.github.com/repos/wellioviz/JustinGOSSES,d3.js v5 visualization of well logs ,"# wellio_Viz.js
 
 WELLIOVIZ is a JavaScript library that provides functionality to visualize well logs, particularly those already converted to JSON, using the d3.js visualization library.
@@ -7545,8 +7545,8 @@ I also have a description in Contributing.md of how I tend to work on the projec
 <a href=""docs/BRAINSTORMS.md"">BRAINSTORM.md</a>
 <a href=""docs/audiences.md"">AUDIENCES.md</a>
 
-",43,43,8,45,well-logs,"[athabasca, athabasca-preprocessed, d3, dataunderground, geology, javascript, swung-t20, tool, visualization, well-logs, welllogs]",0.0
-161,andymcdgeo,las_explorer,,https://github.com/andymcdgeo/las_explorer,https://api.github.com/repos/las_explorer/andymcdgeo,LAS Explorer is a Streamlit web app that allows you to understand the contents of a LAS file. Also includes the ability to identify missing data intervals.,,35,35,4,3,well-logs,"[las, las-files, petrophysics, well-logs]",0.0
+",43,43,8,45,well-logs,"[athabasca, athabasca-preprocessed, d3, dataunderground, geology, javascript, swung-t20, tool, visualization, well-logs, welllogs]",21
+161,andymcdgeo,las_explorer,,https://github.com/andymcdgeo/las_explorer,https://api.github.com/repos/las_explorer/andymcdgeo,LAS Explorer is a Streamlit web app that allows you to understand the contents of a LAS file. Also includes the ability to identify missing data intervals.,,35,35,4,3,well-logs,"[las, las-files, petrophysics, well-logs]",21
 162,vkazei,deeplogs,,https://github.com/vkazei/deeplogs,https://api.github.com/repos/deeplogs/vkazei,Velocity model building by deep learning. Multi-CMP gathers are mapped into velocity logs.,"# deeplogs
 Velocity model building by deep learning. Multi-CMP gathers are mapped into velocity logs.
 
@@ -7591,7 +7591,7 @@ Full-waveform inversion can help refine the results.
 
 
 
-",31,31,3,0,well-logs,"[deep-learning, deep-neural-networks, full-waveform-inversion, seismic-imaging, seismic-inversion, well-logs]",0.0
+",31,31,3,0,well-logs,"[deep-learning, deep-neural-networks, full-waveform-inversion, seismic-imaging, seismic-inversion, well-logs]",21
 163,JustinGOSSES,wellio.js,,https://github.com/JustinGOSSES/wellio.js,https://api.github.com/repos/wellio.js/JustinGOSSES,JavaScript for converting well-log standard .las file format to json format,"# wellio.js
 #### JavaScript for converting well-log standard .las file format to json format and then back again.
 
@@ -7777,7 +7777,7 @@ var lasjson = {
 		}
 ```
 
-",30,30,9,7,well-logs,"[athabasca, athabasca-preprocessed, dataunderground, geology, geoscience, javascript, json-parser, las, well-logs]",0.0
+",30,30,9,7,well-logs,"[athabasca, athabasca-preprocessed, dataunderground, geology, geoscience, javascript, json-parser, las, well-logs]",21
 164,Oslandia,QGeoloGIS,Oslandia,https://github.com/Oslandia/QGeoloGIS,https://api.github.com/repos/QGeoloGIS/Oslandia,Migrated to: https://gitlab.com/Oslandia/qgis/QGeoloGIS,"# QGeoloGIS plugin
 
 This project allows the visualization of logs of drilling wells or boreholes and time series.
@@ -7802,7 +7802,7 @@ Install the plugin in the QGIS plugin directory and enable it. You can install i
 It requires a configuration that describes what is the base layer that displays measure points and how to access the different measure layers.
 
 Some sample resources are available in the [sample folder](./sample). Apart from the small [toy dataset](./sample/qgeologistest.sql) itself, you can find an [example QGIS project file](sample/project.qgs) and the associated [configuration file](./sample/qgeologistest.json), which may be loaded from the plugin menu.
-",28,28,11,11,well-logs,"[borehole, geology, plot, python, qgis, well-logs]",0.0
+",28,28,11,11,well-logs,"[borehole, geology, plot, python, qgis, well-logs]",21
 166,laslibs,las-js,laslibs,https://github.com/laslibs/las-js,https://api.github.com/repos/las-js/laslibs,Typescript/JavaScript library for parsing standard well log files (Geophysical well logs)),"![](https://github.com/laslibs/las-js/workflows/Node%20CI/badge.svg?)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/las-js?style=flat-square)
 ![npm type definitions](https://img.shields.io/npm/types/las-js?style=flat-square)
@@ -8090,7 +8090,7 @@ const myLas = new Lasjs('https://raw.githubusercontent.com/iykekings/las-js/mast
 
 - ## Support
   las-js is an MIT-licensed open source project. You can help it grow by becoming a sponsor/supporter.[Become a Patron!](https://www.patreon.com/bePatron?u=19152008)
-",23,23,3,3,well-logs,"[csv, javascript-library, las, las-js, parsing, typescript, well-logs]",0.0
+",23,23,3,3,well-logs,"[csv, javascript-library, las, las-js, parsing, typescript, well-logs]",21
 167,JustinGOSSES,MannvilleGroup_Strat_Hackathon,,https://github.com/JustinGOSSES/MannvilleGroup_Strat_Hackathon,https://api.github.com/repos/MannvilleGroup_Strat_Hackathon/JustinGOSSES,stratigraphic machine-learning - active work moved to Predictatops,"# Development has moved to <a href=""https://github.com/JustinGOSSES/predictatops"">predictatops</a> repository.
 
 # MannvilleGroup_Strat_Hackathon
@@ -8174,7 +8174,7 @@ The plan is that once things are winnowed down to a final approach, the resultin
 
 ## Help Wanted
 This repo isn't particularly organized and there hasn't be a lot of time spent (actually no time spent) to make jumping in and helping out easy. That being said, there's no reason you couldn't just jump in an start improving things. The original group is working on this at a low level when we have time. There are a few issues that are enhancements that would be a good place to start.
-",17,17,8,9,well-logs,"[curve, geology, pandas, stratigraphy, well-logs, xgboost]",0.0
+",17,17,8,9,well-logs,"[curve, geology, pandas, stratigraphy, well-logs, xgboost]",21
 168,aruss175,DLISIO_Notebooks,,https://github.com/aruss175/DLISIO_Notebooks,https://api.github.com/repos/DLISIO_Notebooks/aruss175,"Open source, public notebooks for working with DLISIO ","# DLISIO_Notebooks 
 - Open source, public notebooks for working with DLISIO 
 - Examples of the functionality in the dlisio package
@@ -8193,10 +8193,10 @@ This repo isn't particularly organized and there hasn't be a lot of time spent (
 I hope this work can be useful for any geoscientist working in academia, during a hackathon, or at a company dealing with subsurface well data.  I am a firm believer that file format parsing and file type conversions should not come at a cost in this day and age.
 
 Work released under MIT License (MIT)
-",9,9,4,1,well-logs,"[dlis, geology, las, parser, well-logs]",0.0
+",9,9,4,1,well-logs,"[dlis, geology, las, parser, well-logs]",21
 169,luthfigeo,DTW-Stratigraphic-Correlation,,https://github.com/luthfigeo/DTW-Stratigraphic-Correlation,https://api.github.com/repos/DTW-Stratigraphic-Correlation/luthfigeo,Well logs correlation using dynamic time warping,"# DTW-Stratigraphic-Correlation
 Well logs correlation using dynamic time warping. Here, I applied to Alaska well.
-",9,9,2,0,well-logs,"[correlation, dtw-algorithm, stratigraphy, well-logs]",0.0
+",9,9,2,0,well-logs,"[correlation, dtw-algorithm, stratigraphy, well-logs]",21
 170,laslibs,las-go,laslibs,https://github.com/laslibs/las-go,https://api.github.com/repos/las-go/laslibs,Go library for parsing standard well log files (Geophysical well logs),"![](https://github.com/laslibs/las-go/workflows/Test/badge.svg?)
 
 
@@ -8387,7 +8387,7 @@ Well logs correlation using dynamic time warping. Here, I applied to Alaska well
   | 1.5  | -999.25 | -999.25 | -0.04 |
   | ...  | ...     | ...     | ...   |
   | 1.3  | -999.25 | -999.25 | -0.08 |
-",8,8,2,3,well-logs,"[geophysics, go, golang, las, las-go, lasgo, well-logs]",0.0
+",8,8,2,3,well-logs,"[geophysics, go, golang, las, las-go, lasgo, well-logs]",21
 171,laslibs,las-py,laslibs,https://github.com/laslibs/las-py,https://api.github.com/repos/las-py/laslibs,Python library for parsing standard well log files (Geophysical well logs),"# Las-py
 
 ## las-py is a zero-dependency Python library for parsing .Las file (Geophysical/Canadian well log files).
@@ -8577,12 +8577,12 @@ Well logs correlation using dynamic time warping. Here, I applied to Alaska well
 
 - ## Support
   las-py is an MIT-licensed open source project. You can help it grow by becoming a sponsor/supporter. Donate on [Patreon](https://www.patreon.com/bePatron?u=19152008)
-",8,8,2,2,well-logs,"[canadian, csv, las, parsing, python-library, well-logs]",0.0
+",8,8,2,2,well-logs,"[canadian, csv, las, parsing, python-library, well-logs]",21
 172,imranfadhil,logASCII_viewer,,https://github.com/imranfadhil/logASCII_viewer,https://api.github.com/repos/logASCII_viewer/imranfadhil,Upload well LAS (log ASCII) files and view the raw logs interactively in streamlit,"# logASCII_viewer
 Upload well LAS (log ASCII) files and view the raw logs interactively in streamlit
 
 ![preview](/src/logASCII_viewer/data/preview.png)
-",6,6,2,0,well-logs,"[drilling, lasio, log, log-ascii, petrophysics, plotly, streamlit, well, well-logs]",0.0
+",6,6,2,0,well-logs,"[drilling, lasio, log, log-ascii, petrophysics, plotly, streamlit, well, well-logs]",21
 ashrafalaghbari,ProBHP,,https://github.com/ashrafalaghbari/ProBHP,https://api.github.com/repos/ProBHP/ashrafalaghbari,An AI-powered app for flowing bottom-hole pressure estimation  and analysis in oil wells with multiphase flow.,"# ProBHP: Intelligent FBHP Estimation and Analysis
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python%203.10.7-blue.svg)](https://www.python.org/)
 ## Description
@@ -8680,7 +8680,7 @@ Access the web application using the same URL as mentioned above. -->
 If you have any questions or encounter any issues running this project, please feel free to [open an issue](https://github.com/ashrafalaghbari/ProBHP/issues). I'll be happy to help!
 
 
-",1,1,1,0,oil-and-gas,"[explainable-ai, feature-importance, flowing-pressure, multiphase-flow, oil-and-gas, production-optimization, shap]",00000,
+",1,1,1,0,oil-and-gas,"[explainable-ai, feature-importance, flowing-pressure, multiphase-flow, oil-and-gas, production-optimization, shap]",00000,21
 davidcasr,notebooks-oil-and-gas,,https://github.com/davidcasr/notebooks-oil-and-gas,https://api.github.com/repos/notebooks-oil-and-gas/davidcasr,Exploration of data and technologies of the oil and gas sector,"# 🛢️ Notebooks Oil and Gas
 
 Exploration of data and technologies of the oil and gas sector
@@ -8700,7 +8700,7 @@ Install the requirements
 pip install -r requirements.txt
 ```
 
-Made with ❤️ by @davidcasr",1,1,1,0,oil-and-gas,"[oil-and-gas, python]",00000,
+Made with ❤️ by @davidcasr",1,1,1,0,oil-and-gas,"[oil-and-gas, python]",00000,21
 acsours,etl_coal_data,,https://github.com/acsours/etl_coal_data,https://api.github.com/repos/etl_coal_data/acsours,"Extract, transform, and load coal pollution data into SQL database. ","# ETL_Project
 
 **Group members: Anna Sours, Anna Kantor, Andre Shearer, Lisa Caruana**
@@ -8743,7 +8743,7 @@ The data cleaning and shaping were performed in Jupyter Notebook by using Pandas
 ### Load:
 The final data was loaded into PostgreSQL database by using SQLAlchemy. We decided to use a relational database to maintain data integrity, optimize data storage by normalizing the data to related tables for futere flexibility and comparisons between the data.
 
-",0,0,1,0,coal,"[air-pollution, coal, coal-electricity-production, coal-plants]",00000,
+",0,0,1,0,coal,"[air-pollution, coal, coal-electricity-production, coal-plants]",00000,21
 MosGeo,BPSMAutoToolbox,,https://github.com/MosGeo/BPSMAutoToolbox,https://api.github.com/repos/BPSMAutoToolbox/MosGeo,This is the repository for the Stanford BPSM Automation Toolbox. The library can be used for creating and simulating basin and petroleum system models for studying probabilistic interactions.,"# The BPSM Automation Toolbox for Probabilistic Interactions
 
 The BPSM Automation toolbox is a library to automate the creation, modification, and running of models used in the Schlumberger PetroMod software. The code is written in MATLAB (Octave support has not been tested).
@@ -8782,7 +8782,7 @@ The basic framework is implemented now. Most needed functionalites can be automa
 
 ## Referencing
 Al Ibrahim, M. A., 2019, Petroleum system modeling of heterogeneous organic-rich mudrocks, PhD Thesis, Stanford University, p. 131-135.
-",4,4,3,7,petroleum,"[basin-modeling, bpsm, geology, hydrocarbons, petroleum]",00000,
+",4,4,3,7,petroleum,"[basin-modeling, bpsm, geology, hydrocarbons, petroleum]",00000,21
 dianaceroallard,RatonBasin_Geothermal,,https://github.com/dianaceroallard/RatonBasin_Geothermal,https://api.github.com/repos/RatonBasin_Geothermal/dianaceroallard,Raton Basin Colorado well log data collection and geothermal modeling.,"### Raton Basin Colorado. Geothermal Data Collection. Preliminar Thermal Assessement from Oil an Gas Well Data
 
 ### MAIN GOALS
@@ -8802,7 +8802,7 @@ dianaceroallard,RatonBasin_Geothermal,,https://github.com/dianaceroallard/RatonB
         
 
 
-",6,6,1,0,well-logs,"[colorado, geothermal, machine-learning, well-logs]",00000,
+",6,6,1,0,well-logs,"[colorado, geothermal, machine-learning, well-logs]",00000,21
 almersawi,log-reader,,https://github.com/almersawi/log-reader,https://api.github.com/repos/log-reader/almersawi,"Node.js application for parsing, viewing and make calculations on .las files","# logReader
 ### Configurations 
 We use Node.js and create server of port: 3000
@@ -8909,7 +8909,7 @@ $(document).ready(function() {
       });
 ```
 After that we send these data to D3.js to plot
-",5,5,1,6,well-logs,"[lasfile, logging, nodejs, well-logs]",00000,
+",5,5,1,6,well-logs,"[lasfile, logging, nodejs, well-logs]",00000,21
 daeIy,PyNPEFA,,https://github.com/daeIy/PyNPEFA,https://api.github.com/repos/PyNPEFA/daeIy,A Python implementation of integrated prediction error filter analysis (INPEFA).,"# PyNPEFA
  Generate an integrated prediction error filter analysis (INPEFA) curve based on given data. This program uses the l1 trend filtering algorithm before making the prediction error filter, and implements CVXOPT, Spectrum, lasio, and SciPy package. Check requirements.txt to install the required packages.
  
@@ -8917,8 +8917,8 @@ daeIy,PyNPEFA,,https://github.com/daeIy/PyNPEFA,https://api.github.com/repos/PyN
  
  PyNPEFA implementation example can be seen in ./example.ipynb (Jupyter Notebook)
  
-",5,5,0,0,well-logs,"[inpefa, l1-trend-filtering, prediction-error-filter, well-logs]",00000,
-hydrospanner,lasio-test,,https://github.com/hydrospanner/lasio-test,https://api.github.com/repos/lasio-test/hydrospanner,use lasio to analyze and plot digital well log files,,5,5,2,1,well-logs,"[petroleum-engineering, python, well-logs]",00000,
+",5,5,0,0,well-logs,"[inpefa, l1-trend-filtering, prediction-error-filter, well-logs]",00000,21
+hydrospanner,lasio-test,,https://github.com/hydrospanner/lasio-test,https://api.github.com/repos/lasio-test/hydrospanner,use lasio to analyze and plot digital well log files,,5,5,2,1,well-logs,"[petroleum-engineering, python, well-logs]",00000,21
 dcslagel,las-util-cpp,,https://github.com/dcslagel/las-util-cpp,https://api.github.com/repos/las-util-cpp/dcslagel,LAS  (Log Ascii Standard v2.0) parser in c++: beta-level-software,"NAME
 ----
 LAS-Util-Cpp - LAS parser in C++
@@ -9055,7 +9055,7 @@ To request and discuss a potential feature create an issue at:
 ------
 
 Copyright (c) 2019, 2020 DC Slagel and contributors
-",4,4,1,7,well-logs,"[las-files, las-util, log-ascii-standard, well-logs, welllogs]",00000,
+",4,4,1,7,well-logs,"[las-files, las-util, log-ascii-standard, well-logs, welllogs]",00000,21
 dcslagel,las-util-django,,https://github.com/dcslagel/las-util-django,https://api.github.com/repos/las-util-django/dcslagel,LAS  (Log Ascii Standard v2.0)  web utilities and api in Django web framework : beta-level software,"NAME
 ----
 
@@ -9282,7 +9282,7 @@ To request and discuss a potiential feature create an issue at:
 ---------
 
 Copyright (c) 2019 DC Slagel and contributors
-",4,4,1,10,well-logs,"[las-files, las-util, log-ascii-standard, well-logs]",00000,
+",4,4,1,10,well-logs,"[las-files, las-util, log-ascii-standard, well-logs]",00000,21
 iykekings,las-js,,https://github.com/iykekings/las-js,https://api.github.com/repos/las-js/iykekings,A zero-dependency JavaScript library for reading/parsing canadian well-log files (.Las files),"⚠️⚠️ This repo is no longer maintained and has been moved to [Las Libraries](https://github.com/laslibs/las-js) ⚠️⚠️
 
 # las-js is a zero-dependency JavaScript library for parsing .Las file (Geophysical well log files).
@@ -9557,7 +9557,7 @@ const myLas = new Lasjs('https://raw.githubusercontent.com/iykekings/las-js/mast
 
 - ## Support
   las-js is an MIT-licensed open source project. You can help it grow by becoming a sponsor/supporter.[Become a Patron!](https://www.patreon.com/bePatron?u=19152008)
-",3,3,2,1,well-logs,"[csv, geophysics, las, las-js, parsing, well-logs]",00000,
+",3,3,2,1,well-logs,"[csv, geophysics, las, las-js, parsing, well-logs]",00000,21
 RamySaleem,Machine-Predict-Lithologies-Using-Wireline-logs,,https://github.com/RamySaleem/Machine-Predict-Lithologies-Using-Wireline-logs,https://api.github.com/repos/Machine-Predict-Lithologies-Using-Wireline-logs/RamySaleem,"To identify lithologies, geoscientists use subsurface data such as wireline logs and petrophysical data. However, this process is often tedious, repetitive, and time-consuming. This project aims to use machine learning techniques to predict lithology from petrophysical logs, which are direct indicators of lithology.","# Machine Predict Lithologies Using Wireline logs
 ## 1.1 What is machine learning?
 Machine Learning (ML) is the method of applying programmatic and statistical computer technology to analyse large datasets, and as a result, uncover new understandings. It is a focussed sub-section of Artificial Intelligence (AI), where a more extensive set of predictive modelling tools enable a computer program to learn by generalising from examples. For more information read https://www.golder.com/insights/machine-learning-and-the-growing-use-cases-for-geoscience-practices/.
@@ -9637,7 +9637,7 @@ The work contained in this repositories contains work conducted during a PhD stu
 
 ![CDT](https://i.imgur.com/QDOhcN3.png)
 
-",2,2,1,0,well-logs,"[catboost-model, classification, lithology, lithology-prediction, log-analysis, log-interpretation, los-classification, machine-learning, subsurface-data, well-logs, wire-line-logs, xboost]",00000,
+",2,2,1,0,well-logs,"[catboost-model, classification, lithology, lithology-prediction, log-analysis, log-interpretation, los-classification, machine-learning, subsurface-data, well-logs, wire-line-logs, xboost]",00000,21
 RamySaleem,Reservoir-Quality-in-Producing-Sandstones,,https://github.com/RamySaleem/Reservoir-Quality-in-Producing-Sandstones,https://api.github.com/repos/Reservoir-Quality-in-Producing-Sandstones/RamySaleem,"This project will explore, analyse and visualise publicly available wells datasets from the United States offshore data centre, the USGS boreholes website - Bureau of Safety and Environmental Enforcement (BSEE) https://www.data.bsee.gov/Main/Default.aspx with a particular focus on the Gulf of Mexico (GOM) wells. This project will study sandstones quality as a reservoir, the production history of the operators on the Gulf of Mexico and a well summary report to highlight any possible problem. The reservoir quality analysis will examine relationships between average values of porosity, permeability, depth, temperature, pressure, thickness, age, and play type for data files from 2009 until 2019.The porosity plotted and shown in a wide range of plots as a function of permeability and burial depth. Also, the median (P50) porosity will be plotted against depth to examine the porosity trend. Moreover, this project will investigate the companies oil and gas production in the gulf of Mexico for the last five years. Lastly, the analysis will include an investigation of well summary reports of five wells. The project will include web scrapping to collect online well summary reports to generate a word cloud. The project results can be useful for specifying realistic distributions of parameters for both exploration risk evaluation and/or reservoir modelling by machine learning algorithms in the next project. ","# Exploratory-Data-Analysis
 ## Reservoir-Quality-in-Producing-Sandstones
 This project will explore, analyse and visualise publicly available wells datasets from the United States offshore data centre, the USGS boreholes website - Bureau of Safety and Environmental Enforcement (BSEE) https://www.data.bsee.gov/Main/Default.aspx with a particular focus on the Gulf of Mexico (GOM) wells. This project will study sandstones quality as a reservoir, the production history of the operators on the Gulf of Mexico and a well summary report to highlight any possible problem. The reservoir quality analysis will examine relationships between average values of porosity, permeability, depth, temperature, pressure, thickness, age, and play type for data files from 2009 until 2019.The porosity plotted and shown in a wide range of plots as a function of permeability and burial depth. Also, the median (P50) porosity will be plotted against depth to examine the porosity trend. Moreover, this project will investigate the companies oil and gas production in the gulf of Mexico for the last five years. Lastly, the analysis will include an investigation of well summary reports of five wells. The project will include web scrapping to collect online well summary reports to generate a word cloud. The project results can be useful for specifying realistic distributions of parameters for both exploration risk evaluation and/or reservoir modelling by machine learning algorithms in the next project. 
@@ -9668,7 +9668,7 @@ The work contained in this repositories contains work conducted during a PhD stu
 ![CDT](https://i.imgur.com/QDOhcN3.png)
 
 
-",2,2,1,0,well-logs,"[data-analysis, data-analysis-python, data-visualisation, dataset, datasets, eda, lithology, lithology-logs, pandas, python, well-logs, wireline]",00000,
+",2,2,1,0,well-logs,"[data-analysis, data-analysis-python, data-visualisation, dataset, datasets, eda, lithology, lithology-logs, pandas, python, well-logs, wireline]",00000,21
 roguLINA,transformers_for_oil_gas,,https://github.com/roguLINA/transformers_for_oil_gas,https://api.github.com/repos/transformers_for_oil_gas/roguLINA,Robust representations of oil wells' intervals via sparse attention mechanism,"Robust representations of oil wells' intervals via sparse attention mechanism
 =====
 
@@ -9690,7 +9690,7 @@ To reproduce all our experiments from the article ""Similarity learning via Tran
 License
 -----
 The project is distributed under [MIT License](https://github.com/roguLINA/transformers_for_oil_gas/blob/main/License.txt).
-",2,2,2,0,well-logs,"[deep-learning, informer, performer, representation-learning, similarity-learning, transformer, well-logs]",00000,
+",2,2,2,0,well-logs,"[deep-learning, informer, performer, representation-learning, similarity-learning, transformer, well-logs]",00000,21
 firasisme,GA-vs-NeuralNetwork,,https://github.com/firasisme/GA-vs-NeuralNetwork,https://api.github.com/repos/GA-vs-NeuralNetwork/firasisme,[MATLAB inside] Comparative research well log prediction: Genetic algorithm vs Neural Network ,"# GA-vs-NeuralNetwork
 [![Website](https://img.shields.io/badge/website-visit-brightgreen)](https://firasisme.github.io/)
 
@@ -9715,7 +9715,7 @@ P-wave velocity is a very important parameter in exploration activities. P-wave 
 
 ## References
 DOI: [10.13140/RG.2.2.32222.59209](https://www.researchgate.net/publication/335907884_Estimation_of_P-Wave_Velocity_with_Genetic_Algorithm_and_Neural_Network_Approach_Based_on_Wireline_Logging_Data?channel=doi&linkId=5d82d90ca6fdcc8fd6f3b1ae&showFulltext=true)
-",2,2,1,0,well-logs,"[genetic-algorithm, geophysical-inversions, inversion, neural-network, well-logs]",00000,
+",2,2,1,0,well-logs,"[genetic-algorithm, geophysical-inversions, inversion, neural-network, well-logs]",00000,21
 luisteran5296,Interpretacion-automatizada-de-registros-geofisicos-de-pozos,,https://github.com/luisteran5296/Interpretacion-automatizada-de-registros-geofisicos-de-pozos,https://api.github.com/repos/Interpretacion-automatizada-de-registros-geofisicos-de-pozos/luisteran5296,El objetivo de este proyecto es obtener un método tal que la computadora sea capaz de realizar una interpretación de registros geofísicos de manera automática y sin intervención humana alguna dado un set de datos que contenga registros geofísicos.,"<h1 align=""center"">Interpretación automatizada de registros geofísicos de pozos</h1> 
 _______________________________________________________________________________________________________________________________
 
@@ -9918,7 +9918,7 @@ La corrección aún requiere en gran parte de cálculos y procedimientos realiza
 La interpretación ofrece resultados razonables. Estamos conscientes de que la interpretación realizada por el programa no es exacta, pero consideramos que una interpretación precisa va más allá de los alcances de este proyecto.
 
 
-",1,1,1,0,well-logs,"[clustering, kmeans, machine-learning, mean-shift, petrophysics, well-logs]",00000,
+",1,1,1,0,well-logs,"[clustering, kmeans, machine-learning, mean-shift, petrophysics, well-logs]",00000,21
 MosGeo,LasToolbox,,https://github.com/MosGeo/LasToolbox,https://api.github.com/repos/LasToolbox/MosGeo,A LAS format toolbox,"# Las Toolbox
 
 A LAS file format toolbox for reading Las files in Matlab. All information is loaded in a structured format including headers.
@@ -9926,12 +9926,12 @@ A LAS file format toolbox for reading Las files in Matlab. All information is lo
 ## Compatibility
 
 Currently, the code can only be used with LAS version 2. LAS version 3 is not currently supported.
-",1,1,2,1,well-logs,"[borehole, las, well-logs]",00000,
+",1,1,2,1,well-logs,"[borehole, las, well-logs]",00000,21
 taiwofawumi,DS_python-well-logs-plot,,https://github.com/taiwofawumi/DS_python-well-logs-plot,https://api.github.com/repos/DS_python-well-logs-plot/taiwofawumi,Python custom function for plotting geological well logs,"# well-logs-plot
 This is my python function that plots geological well logs in a slightly more physically appealing way. Only the first version! I will continue to add more features.
 
 In this version, I focused on plotting my caliper in a way that makes it easy to identify hole issues. I have normalized the caliper log, but this is an optional step.
-",1,1,1,0,well-logs,"[earth-science, geological-well-logs, python, well-logs]",00000,
+",1,1,1,0,well-logs,"[earth-science, geological-well-logs, python, well-logs]",00000,21
 Iron486,SPWLA_PDDA_SIG_machine_learning_competition,,https://github.com/Iron486/SPWLA_PDDA_SIG_machine_learning_competition,https://api.github.com/repos/SPWLA_PDDA_SIG_machine_learning_competition/Iron486,,"# SPWLA_PDDA_SIG_machine_learning_competition
 
 The aim of this contest was the development of data-driven models to estimate reservoir properties, including **shale volume**, **porosity**, and **fluid saturation**, based on a common set of well logs like gamma ray, bulk density, neutron porosity, resistivity, and sonic. Log data from eight wells and from the same field were provided, together with the corresponding reservoir properties estimated by petrophysicists. The goal was building a data-driven model using the provided training dataset. Following that, the newly developed data-driven models was deployed on the test data set in order to predict the reservoir properties based on the well-log data.
@@ -9945,7 +9945,7 @@ In the folder called [Other results](https://github.com/Iron486/SPWLA_PDDA_SIG_m
 [Iron486_1.csv](https://github.com/Iron486/SPWLA_PDDA_SIG_machine_learning_competition/blob/main/Iron486_1.csv) is the file with all the predicted values on the test dataset.
 
 
-",0,0,1,0,well-logs,"[data-cleaning, ensemble-learning, machine-learning, missing-values, pipelines, regression-analysis, well-logs]",00000,
+",0,0,1,0,well-logs,"[data-cleaning, ensemble-learning, machine-learning, missing-values, pipelines, regression-analysis, well-logs]",00000,21
 BeardedBeaver,dlas,,https://github.com/BeardedBeaver/dlas,https://api.github.com/repos/dlas/BeardedBeaver,Library for D programming language that provides tools to work with LAS (Well log ASCII Standart) files,"# dlas
 
 Library for D programming language that provides tools to work with LAS (Well Log ASCII Standart) files.
@@ -9988,7 +9988,7 @@ auto md = data[0][];  // data is a 2D array of doubles so all cool D stuff can b
 
 ## Installation
 
-dlas is available in dub. If you're using dub run `dub add dlas` in your project folder and dub will add dependency and fetch the latest version.",0,0,1,0,well-logs,"[dlang, las, well-logs]",00000,
+dlas is available in dub. If you're using dub run `dub add dlas` in your project folder and dub will add dependency and fetch the latest version.",0,0,1,0,well-logs,"[dlang, las, well-logs]",00000,21
 dcslagel,las-util-php,,https://github.com/dcslagel/las-util-php,https://api.github.com/repos/las-util-php/dcslagel,LAS  (Log Ascii Standard)  web utilities in no-framework procedural php,"NAME
 ----
 LAS Util - Log Ascii Standard 2.0 web tools in Php
@@ -10129,7 +10129,7 @@ To request and discuss a potential feature, create an issue at:
 ------
 
 Copyright (c) 2019, 2020 DC Slagel
-",0,0,1,7,well-logs,"[las-files, las-util, log-ascii-standard, well-logs]",00000,
+",0,0,1,7,well-logs,"[las-files, las-util, log-ascii-standard, well-logs]",00000,21
 aifenaike,Acoustic-Log-Estimation_Using-ML,,https://github.com/aifenaike/Acoustic-Log-Estimation_Using-ML,https://api.github.com/repos/Acoustic-Log-Estimation_Using-ML/aifenaike,,"# Acoustic-Log-Estimation_Using-ML
 
 
@@ -10147,7 +10147,7 @@ Four intelligent models were used in this work.
 - Random Forest
 - Extreme gradient boosting
 - Linear Regression
-",0,0,1,0,well-logs,"[acoustic-logs, gradient-boosting-machine, petrophysics, random-forest, well-logs]",00000,
+",0,0,1,0,well-logs,"[acoustic-logs, gradient-boosting-machine, petrophysics, random-forest, well-logs]",00000,21
 aifenaike,Logio,,https://github.com/aifenaike/Logio,https://api.github.com/repos/Logio/aifenaike,"Logio is an Unsupervised Machine learning framework for well log visualization, and well-well depth correlation using logs.","[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://python.org)
 [![lasio](https://img.shields.io/badge/lasio-Lasio-brightgreen)](https://lasio.readthedocs.io/en/latest/)
 
@@ -10301,7 +10301,7 @@ Please see [`AUTHORS.md`](AUTHORS.md).
 ```python
 
 ```
-",0,0,1,0,well-logs,"[data-visualization, distance-similarity, unsupervised-learning, well-logs]",00000,
+",0,0,1,0,well-logs,"[data-visualization, distance-similarity, unsupervised-learning, well-logs]",00000,21
 arjavanb,Vs_Estimation,,https://github.com/arjavanb/Vs_Estimation,https://api.github.com/repos/Vs_Estimation/arjavanb,Estimation of Shear wave velocity in oil sands from other well logs,"# Data Science
 I apply ML algorithms on public data. Source data is also available for download and practice
 
@@ -10310,7 +10310,7 @@ Using machine learning algorithms and available well data, new well logs (e.g. F
 I am going to use a sample data set
 I will use scikit-learn as my main Python library for machine learning purposes. However, for explatory data analyses and ploting, scientific library ecossystem will be utilized.
 I will apply both regression and classification algorithms to estimate a contineous and discrete logs (i.e. Vs (shear wave velocity) and Facies log)
-",0,0,2,0,well-logs,"[geophysics, petrophysics, regression, rock-physics, shearwave, well-logs]",00000,
+",0,0,2,0,well-logs,"[geophysics, petrophysics, regression, rock-physics, shearwave, well-logs]",00000,21
 JulioCMS1500,Electrofacies-classification,,https://github.com/JulioCMS1500/Electrofacies-classification,https://api.github.com/repos/Electrofacies-classification/JulioCMS1500,Electrofacies classification using supervised learning algortihms,"# Electrofacies Classification Using Supervised Leanring Algorithms
 
 **Introduction**
@@ -10323,8 +10323,8 @@ The following work is splited in three diferent codes ordered as:
 **1.-** Data Analysis and Feature selection.\
 **2.-** K-means & PCA.\
 **3.-** KNN and SVM classification.
-",0,0,1,1,well-logs,"[electrofacies, knn-classification, supervised-learning, svm-classifier, well-logs]",00000,
-maribickpostanes,Displaying-Well-Log-Parameters--Plots-and-Animations,,https://github.com/maribickpostanes/Displaying-Well-Log-Parameters--Plots-and-Animations,https://api.github.com/repos/Displaying-Well-Log-Parameters--Plots-and-Animations/maribickpostanes,The objective of this GitHub repository is to develop code that can effectively display well log parameter plots and their animations.,,7,7,2,0,oilandgas,"[animation, datavisualization, drilling, jupyter-notebook, lasio, luxembourg, matplotlib, matplotlib-pyplot, oilandgas, petroleum-engineering, petrophysics, python, welllogging]",00000,
+",0,0,1,1,well-logs,"[electrofacies, knn-classification, supervised-learning, svm-classifier, well-logs]",00000,21
+maribickpostanes,Displaying-Well-Log-Parameters--Plots-and-Animations,,https://github.com/maribickpostanes/Displaying-Well-Log-Parameters--Plots-and-Animations,https://api.github.com/repos/Displaying-Well-Log-Parameters--Plots-and-Animations/maribickpostanes,The objective of this GitHub repository is to develop code that can effectively display well log parameter plots and their animations.,,7,7,2,0,oilandgas,"[animation, datavisualization, drilling, jupyter-notebook, lasio, luxembourg, matplotlib, matplotlib-pyplot, oilandgas, petroleum-engineering, petrophysics, python, welllogging]",00000,21
 maribickpostanes,Interactive-Horizon-Surfaces-Plot,,https://github.com/maribickpostanes/Interactive-Horizon-Surfaces-Plot,https://api.github.com/repos/Interactive-Horizon-Surfaces-Plot/maribickpostanes,This open-source code repository provides a Python implementation for generating an interactive horizon surfaces plot using Plotly. The focus of this code is to visualize the Volve horizons in a 3D surface plot.,"# Interactive-Horizon-Surfaces-Plot
 This open-source code repository provides a Python implementation for generating an interactive horizon surfaces plot using Plotly. The focus of this code is to visualize the Volve horizons in a 3D surface plot.
 
@@ -10354,8 +10354,8 @@ Alternatively, you can directly view the interactive plot by opening the `Volve 
 Contributions to this open-source project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ![Volve Horizon Surfaces Screenshot](https://github.com/maribickpostanes/Interactive-Horizon-Surfaces-Plot/assets/127098659/ddb1e2a6-777f-4348-821d-b37e14e8b515)
-",6,6,1,0,oilandgas,"[datavisualization, digital, geosciences, griddata, horizon, html, interactiveplot, jupyter-notebook, northsea, numpy, oil-and-gas-industry, oilandgas, pandas, pathlib, petroleum-engineering, plotly, python, scipyinterpolate, subsurface, volve]",00000,
-maribickpostanes,Simple-Production-Data-Plotting,,https://github.com/maribickpostanes/Simple-Production-Data-Plotting,https://api.github.com/repos/Simple-Production-Data-Plotting/maribickpostanes,This GitHub repository provides sample Python code for creating a simple production data plot using Jupyter Notebook.,,3,3,1,0,oilandgas,"[datavisualization, equinor, jupyter-notebook, northsea, oilandgas, production-data, python, volve]",00000,
+",6,6,1,0,oilandgas,"[datavisualization, digital, geosciences, griddata, horizon, html, interactiveplot, jupyter-notebook, northsea, numpy, oil-and-gas-industry, oilandgas, pandas, pathlib, petroleum-engineering, plotly, python, scipyinterpolate, subsurface, volve]",00000,21
+maribickpostanes,Simple-Production-Data-Plotting,,https://github.com/maribickpostanes/Simple-Production-Data-Plotting,https://api.github.com/repos/Simple-Production-Data-Plotting/maribickpostanes,This GitHub repository provides sample Python code for creating a simple production data plot using Jupyter Notebook.,,3,3,1,0,oilandgas,"[datavisualization, equinor, jupyter-notebook, northsea, oilandgas, production-data, python, volve]",00000,21
 maribickpostanes,Interactive-Well-Trajectory-Plot,,https://github.com/maribickpostanes/Interactive-Well-Trajectory-Plot,https://api.github.com/repos/Interactive-Well-Trajectory-Plot/maribickpostanes,This open-source code repository provides a Python implementation for generating an interactive well trajectory plot using Plotly. The focus of this code is to visualize the trajectory of Well 15/9-F-5 from the Volve dataset.,"# Interactive-Well-Trajectory-Plot
 This open-source code repository provides a Python implementation for generating an interactive well trajectory plot using Plotly. The focus of this code is to visualize the trajectory of Well 15/9-F-5 from the Volve dataset.
 
@@ -10382,10 +10382,10 @@ Alternatively, you can directly view the interactive plot by opening the `Well T
 Contributions to this open-source project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ![Well Trajectory Screenshot](https://github.com/maribickpostanes/Interactive-Well-Trajectory-Plot/assets/127098659/c0d09567-d733-4d2f-8458-6b7c5b605cd8)
-",3,3,1,0,oilandgas,"[beautifulsoup, bs4, datavisualization, digital, drilling, html, jupyter-notebook, northsea, numpy, oil-and-gas-industry, oilandgas, pandas, petroleum-engineering, plotly, python, realtimedata, volve, wellboretrajectory, witsml, xml]",00000,
+",3,3,1,0,oilandgas,"[beautifulsoup, bs4, datavisualization, digital, drilling, html, jupyter-notebook, northsea, numpy, oil-and-gas-industry, oilandgas, pandas, petroleum-engineering, plotly, python, realtimedata, volve, wellboretrajectory, witsml, xml]",00000,21
 ActiveMargins,ProductionMapping,,https://github.com/ActiveMargins/ProductionMapping,https://api.github.com/repos/ProductionMapping/ActiveMargins,Mapping production curves with unsupervised classification of time series curves,"# ProductionMapping
 Mapping production curves with unsupervised classification of time series curves
-",2,2,1,0,oilandgas,"[geology, geospatial-analysis, oilandgas, timeseries, unsupervised-clustering]",00000,
+",2,2,1,0,oilandgas,"[geology, geospatial-analysis, oilandgas, timeseries, unsupervised-clustering]",00000,21
 ashrafalaghbari,odc,,https://github.com/ashrafalaghbari/odc,https://api.github.com/repos/odc/ashrafalaghbari,"A Python Module for Outliers Detection, Visualization and Treatment in Oil Well Datasets","# Outlier Detection and Treatment with ODC
 
 OilDataCleaner (ODC) is a Python module designed for detecting anomalies in time series data related to the oil industry. With its data cleaning techniques, ODC is an essential tool for anyone working with oil data. Whether you're a researcher, analyst, or engineer, ODC can help you identify unusual patterns and outliers in your data, enabling you to make more informed decisions.
@@ -10483,7 +10483,7 @@ If you have any questions or encounter any issues running `odc module`, please f
 
 
 
-",2,2,1,0,oilandgas,"[anamoly-detection, oil-analysis, oil-wells, oilandgas, outliers-treatment, petroleum-dataset, python]",00000,
+",2,2,1,0,oilandgas,"[anamoly-detection, oil-analysis, oil-wells, oilandgas, outliers-treatment, petroleum-dataset, python]",00000,21
 enriquemezav,spwlaunisc_PythonAppliedOG,,https://github.com/enriquemezav/spwlaunisc_PythonAppliedOG,https://api.github.com/repos/spwlaunisc_PythonAppliedOG/enriquemezav,"Creado con fines educativos , con el objetivo de demostrar que Python es una excelente herramienta para la visualización y análisis de datos petroleros.","# Python Aplicado a la Industria del O&G
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/enriquemezav/spwlaunisc_PythonAppliedOG/master?filepath=notebook/ws_spwlaunisc.ipynb)
@@ -10526,7 +10526,7 @@ El libro presenta las bibliotecas centrales esenciales para trabajar con datos e
 Este material se publica bajo la licencia [CC0](LICENSE) ""Sin derechos reservados"" y, por lo tanto, usted es libre de reutilizar, modificar, construir y mejorar este material para cualquier propósito. Lea más sobre CC0 [aquí](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-",0,0,1,0,oilandgas,"[oilandgas, python, spwlaunisc, workshop]",00000,
+",0,0,1,0,oilandgas,"[oilandgas, python, spwlaunisc, workshop]",00000,21
 maribickpostanes,Interactive-Seismic-Data-Section-Plot,,https://github.com/maribickpostanes/Interactive-Seismic-Data-Section-Plot,https://api.github.com/repos/Interactive-Seismic-Data-Section-Plot/maribickpostanes,This repository contains a Python script that uses the Plotly library to create an interactive web-based application for plotting seismic data sections from SEG-Y files.,"# Interactive-Seismic-Data-Section-Plot
 This repository contains a Python script that uses the Plotly library to create an interactive web-based application for plotting seismic data sections from SEG-Y files.
 
@@ -10544,7 +10544,7 @@ Contributions to this open-source project are welcome. If you have any suggestio
 Thank you so much for visiting and taking the time to read this GitHub repository. I hope this can contribute to other's work. Your support and interest are sincerely appreciated.
 
 https://github.com/maribickpostanes/Interactive-Seismic-Data-Section-Plot/assets/127098659/cd25084f-634e-4b6f-8372-7ddc2c8e0557
-",2,2,1,0,oil-and-gas-industry,"[datavisualization, geosciences, interactiveplot, jupyter-notebook, northsea, numpy, oil-and-gas-industry, pandas, petroleum-engineering, plotly, python, seg-y, segyio, seismic, seismic-data-section, volve]",00000,
+",2,2,1,0,oil-and-gas-industry,"[datavisualization, geosciences, interactiveplot, jupyter-notebook, northsea, numpy, oil-and-gas-industry, pandas, petroleum-engineering, plotly, python, seg-y, segyio, seismic, seismic-data-section, volve]",00000,21
 maribickpostanes,Philippine-Historical-Petroleum-Production,,https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production,https://api.github.com/repos/Philippine-Historical-Petroleum-Production/maribickpostanes,This repository contains Python code for plotting historical petroleum production data in the Philippines from 1979 to 2021 using Plotly library. ,"# Philippine-Historical-Petroleum-Production
 This repository contains Python code for plotting historical petroleum production data in the Philippines from 1979 to 2021. The code uses the Plotly library to create interactive plots that visualize the data over time. This can be helpful for understanding how petroleum production has changed over the years, and for identifying potential problems or opportunities.
 
@@ -10570,14 +10570,14 @@ Thank you so much for visiting and taking the time to read this GitHub repositor
 ![1-gasprod](https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production/assets/127098659/a403a170-eb47-4ad6-b0fb-bb95ae4c2ce0)
 
 ![1-condensateprod](https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production/assets/127098659/09f62cab-e530-470d-b06c-4aa042991cba)
-",1,1,1,0,oil-and-gas-industry,"[oil-and-gas-industry, petroleum-production-engineering, philippines, plotly, productiondata, python, pythonprogramming]",00000,
-luthfigeo,Well-Log-Data-Availability,,https://github.com/luthfigeo/Well-Log-Data-Availability,https://api.github.com/repos/Well-Log-Data-Availability/luthfigeo,To check log data availability in a LAS file,,2,2,1,0,well-logs,"[lasio, petrophysics, well-logs]",00000,
+",1,1,1,0,oil-and-gas-industry,"[oil-and-gas-industry, petroleum-production-engineering, philippines, plotly, productiondata, python, pythonprogramming]",00000,21
+luthfigeo,Well-Log-Data-Availability,,https://github.com/luthfigeo/Well-Log-Data-Availability,https://api.github.com/repos/Well-Log-Data-Availability/luthfigeo,To check log data availability in a LAS file,,2,2,1,0,well-logs,"[lasio, petrophysics, well-logs]",00000,21
 luthfigeo,Litho-Classification,,https://github.com/luthfigeo/Litho-Classification,https://api.github.com/repos/Litho-Classification/luthfigeo,Handle classification within volcanic formation using supervised learning.,"# Volcanic facies Classification using Random Forest
 
 Handle classification within volcanic formation using Random Forest. Another method is also included to be compared. In this case I'm dealing with Tuff, Igneous Rock (Andesite, Basalt), Sedimentary sequences (Tuffaceous Sandstone, Shale), and Conglomerates.
 
 It's better to see the documentation in the notebook first because the code are not made to run as a whole process. I also attached a support to be used in data preparation. The file ""Lithology Labelling"" can help you to label the data, combine what you see in the LAS file with the lithology from core description, cutting, or mudlog.
-",2,2,2,0,well-logs,"[facies-classification, label, lithology, petrophysics, random-forest, well-logs]",00000,
+",2,2,2,0,well-logs,"[facies-classification, label, lithology, petrophysics, random-forest, well-logs]",00000,21
 equinor,lcm,equinor,https://github.com/equinor/lcm,https://api.github.com/repos/lcm/equinor,Lost Circulation Material,"# Lost Circulation Material Optimizer
 
 ![CI](https://github.com/equinor/lcm/workflows/CI/badge.svg)
@@ -10651,9 +10651,9 @@ Two different environments in Radix are used: one for test (deploys from branch 
 ## License
 
 [MIT](LICENSE)
-",4,4,2,15,petroleum,"[equinor, flask, genetic-algorithm, petroleum, python, typescript]",00000,
+",4,4,2,15,petroleum,"[equinor, flask, genetic-algorithm, petroleum, python, typescript]",00000,21
 Ayberk-Uyanik,SGR_Logs_Interpreter,,https://github.com/Ayberk-Uyanik/SGR_Logs_Interpreter,https://api.github.com/repos/SGR_Logs_Interpreter/Ayberk-Uyanik,"Workflows developed for to display and interpret conventional well logs, depositional environments, sequence boundaries, heat flows, clay types, fracture intensities, and operational records","An open source well log interpretation tool benefitting from data science and visualisation libraries of Python programming language, Plotly in particular, allowing users to display and interpret conventional well logs, depositional environments, sequence boundaries, heat flows, clay types, fracture intensities, and operational records to better understand subsurface geology which is crucial for any exploration project.
-",2,2,1,0,well-logs,"[geological-data, geology, geoscience, geosciences, jupyter-notebook, open-source, plotly, python, well-logs, welllog, welllogging, welllogs]",00000,
+",2,2,1,0,well-logs,"[geological-data, geology, geoscience, geosciences, jupyter-notebook, open-source, plotly, python, well-logs, welllog, welllogging, welllogs]",00000,21
 luthfigeo,Log-Alias,,https://github.com/luthfigeo/Log-Alias,https://api.github.com/repos/Log-Alias/luthfigeo,Synchronize log alias to be a single mnemonic,"# Log-Alias
 Synchronize log alias to be a single mnemonic
 
@@ -10661,9 +10661,9 @@ Usually we deal with broad range of well log mnemonics, this brief codes (and bu
 
 **Input:**
 A csv file consist of log measurements (and well name if you want to run multiwell), each column consist of one log. I recommend using lasio to read LAS file and convert it to dataframe, later you can save it as csv to be inputted in these code, or, you can directly use the dataframe as input.
-",1,1,2,0,well-logs,"[mnemonics, petrophysics, well-logs]",00000,
-gwallison,skytruth_reformat,,https://github.com/gwallison/skytruth_reformat,https://api.github.com/repos/skytruth_reformat/gwallison,Reformat the SkyTruth scrape of FracFocus website (2011-May 2013) so it can be merged with later FracFocus data.,,0,0,2,0,oil-and-gas,"[chemicals, environmental-monitoring, fracfocus, fracking, oil-and-gas]",00000,
-gwallison,FF-POC,,https://github.com/gwallison/FF-POC,https://api.github.com/repos/FF-POC/gwallison,Proof-of-concept of code to make the FracFocus chemical disclosures into a usuable database.,,1,1,2,0,oil-and-gas,"[chemicals, environmental-monitoring, fracfocus, fracking, oil-and-gas]",00000,
+",1,1,2,0,well-logs,"[mnemonics, petrophysics, well-logs]",00000,21
+gwallison,skytruth_reformat,,https://github.com/gwallison/skytruth_reformat,https://api.github.com/repos/skytruth_reformat/gwallison,Reformat the SkyTruth scrape of FracFocus website (2011-May 2013) so it can be merged with later FracFocus data.,,0,0,2,0,oil-and-gas,"[chemicals, environmental-monitoring, fracfocus, fracking, oil-and-gas]",00000,21
+gwallison,FF-POC,,https://github.com/gwallison/FF-POC,https://api.github.com/repos/FF-POC/gwallison,Proof-of-concept of code to make the FracFocus chemical disclosures into a usuable database.,,1,1,2,0,oil-and-gas,"[chemicals, environmental-monitoring, fracfocus, fracking, oil-and-gas]",00000,21
 imayachita,log-analysis,,https://github.com/imayachita/log-analysis,https://api.github.com/repos/log-analysis/imayachita,Data Science in Geoscience: Wireline Log Analysis,"# log-analysis
 
 Wireline Log Analysis
@@ -10680,7 +10680,7 @@ Requirements: <br>
 <b> Prediction results on porosity and permeability: </b> <br>
 The model was trained on the first 150 data and predicted the rest of the data <br>
 ![image2](wireline_log_predicted.jpg)
-",5,5,1,3,oil-and-gas,"[clustering, geoscience, neural-networks, oil-and-gas]",00000,
+",5,5,1,3,oil-and-gas,"[clustering, geoscience, neural-networks, oil-and-gas]",00000,21
 derrickturk,shiny-aRpsDCA,,https://github.com/derrickturk/shiny-aRpsDCA,https://api.github.com/repos/shiny-aRpsDCA/derrickturk,Interactive aRpsDCA demo with Shiny,"# aRpsDCA interactive demo
 
 As seen at https://derrickturk.shinyapps.io/shiny-aRpsDCA.
@@ -10690,7 +10690,7 @@ Uses the aRpsDCA library for decline curve analysis, found on CRAN at https://cr
 Licensed under the GPL v2. If you'd like to use anything here under a different license, please contact me.
 
 (c) 2015 [dwt](http://www.github.com/derrickturk) | [terminus data science, LLC](http://www.terminusdatascience.com)
-",3,3,2,0,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering, shiny]",00000,
+",3,3,2,0,petroleum,"[decline-curve-analysis, petroleum, petroleum-engineering, shiny]",00000,21
 luthfigeo,Synthetic-Sonic,,https://github.com/luthfigeo/Synthetic-Sonic,https://api.github.com/repos/Synthetic-Sonic/luthfigeo,Generating synthetic DT log,"# Synthetic-Sonic
 Generating synthetic DT log using several different ML method.
-",0,0,2,0,well-logs,"[machine-learning, petrophysics, sonic, well-logs]",00000,
+",0,0,2,0,well-logs,"[machine-learning, petrophysics, sonic, well-logs]",00000,21

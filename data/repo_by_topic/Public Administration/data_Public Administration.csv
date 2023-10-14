@@ -460,7 +460,7 @@ Describe the Free and Open Source software of your Public Administration with a 
   <img align=""right"" src=""https://img.shields.io/github/stars/italia/fatturapa-python?label=%E2%AD%90%EF%B8%8F&logo=github"" alt=""GitHub stars"">
   <img align=""right"" src=""https://img.shields.io/github/issues/italia/fatturapa-python"" alt=""GitHub issues"">\
   Generatore a riga di comando di semplici fatture elettroniche FatturaPA per consulenti
-",162,162,6,77,public-administration,"[awesome, awesome-list, community, index, italia, italy, public-administration]",0
+",162,162,6,77,public-administration,"[awesome, awesome-list, community, index, italia, italy, public-administration]",92
 1,KLS-01,Report.it,,https://github.com/KLS-01/Report.it,https://api.github.com/repos/Report.it/KLS-01,Report.it è un applicativo Android/iOS sviluppato per lottare contro qualsiavoglia forma di discriminazione. ,"
 <p align = ""center"">
   <img src = ""https://user-images.githubusercontent.com/56639000/215359133-f42b8b76-6270-4e11-a42f-2b3ec2fa7edb.png"" width = ""256"" heigth = ""256"">
@@ -523,7 +523,7 @@ Project carried out for Software Engineering course and Software Project Managem
     />
   </a>
 </p>
-",12,12,2,0,public-administration,"[android, dart, discrimination, firebase, firestore, flutter, google-maps-api, ios, italy, mental-health, mobile-app, public-administration]",0
+",12,12,2,0,public-administration,"[android, dart, discrimination, firebase, firestore, flutter, google-maps-api, ios, italy, mental-health, mobile-app, public-administration]",92
 2,andrewheiss,compasp23.classes.andrewheiss.com,,https://github.com/andrewheiss/compasp23.classes.andrewheiss.com,https://api.github.com/repos/compasp23.classes.andrewheiss.com/andrewheiss,"🌐 🧑‍🏫 Website for graduate-level course on comparative and international public administration, built with Quarto","
 <!-- README.md is generated from README.qmd. Please edit that file -->
 
@@ -631,7 +631,7 @@ Commons ([CC-BY-NC
 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 
 **Code:** All code is licensed under the [MIT License](LICENSE.md).
-",9,9,2,0,public-administration,"[bureaucracy, political-science, public-administration, public-policy, quarto, r, teaching-materials]",0
+",9,9,2,0,public-administration,"[bureaucracy, political-science, public-administration, public-policy, quarto, r, teaching-materials]",92
 3,INPS-it,bugs.inps.it,INPS-it,https://github.com/INPS-it/bugs.inps.it,https://api.github.com/repos/bugs.inps.it/INPS-it,INPS bug tracking system based on Taiga.io,"# INPS Bug Tracking
 *Read this in other languages: [🇮🇹 Italian](README.it.md).*
 
@@ -773,7 +773,7 @@ Thank you to these amazing projects we started from to understand how to customi
 Taiga
 - [Taiga Contrib GitHub Auth](https://github.com/kaleidos-ventures/taiga-contrib-github-auth/)
 - [Taiga Dark Theme](https://github.com/Monogramm/taiga-dark)
-",7,7,8,1,public-administration,"[bugtracking, inps, public-administration, ticketing-system]",0
+",7,7,8,1,public-administration,"[bugtracking, inps, public-administration, ticketing-system]",92
 4,pdecrete,rektis,pdecrete,https://github.com/pdecrete/rektis,https://api.github.com/repos/rektis/pdecrete,Administrative support app / Εφαρμογή υποστήριξης διοικητικών διαδικασιών,"# README
 
 ## Τι είναι αυτό;
@@ -804,7 +804,7 @@ Taiga
 
 * [INSTALL.md](INSTALL.md) αρχείο για αρχικές οδηγίες εγκατάστασης 
 * [CONTRIBUTING.md](CONTRIBUTING.md) αρχείο για πληροφορίες συνεισφοράς στο έργο
-",2,2,4,0,public-administration,"[php, public-administration, yii2]",0
+",2,2,4,0,public-administration,"[php, public-administration, yii2]",92
 5,chenlucan,Analysis-on-Diffusion-Effects-of-Bitcoin,,https://github.com/chenlucan/Analysis-on-Diffusion-Effects-of-Bitcoin,https://api.github.com/repos/Analysis-on-Diffusion-Effects-of-Bitcoin/chenlucan,capstone paper for Master of Public Administration,"# Analysis on Diffusion Effects of Bitcoin
 
 # Supervisor: Prof Pei Sai Fan
@@ -854,7 +854,7 @@ CHAPTER 6. FUTURE STUDIES
 REFERENCES
 
 
-",2,2,2,0,public-administration,"[bitcoin, blockchain, capstone-project, diffusion, dissertation-project, innovation, public-administration]",0
+",2,2,2,0,public-administration,"[bitcoin, blockchain, capstone-project, diffusion, dissertation-project, innovation, public-administration]",92
 6,pdecrete,rektis-applications-front,pdecrete,https://github.com/pdecrete/rektis-applications-front,https://api.github.com/repos/rektis-applications-front/pdecrete,"Micro app για συλλογή αιτήσεων προτίμησης τοποθέτησης αναπληρωτών. Η μικροεφαρμογή αυτή συμπληρώνει στο front-end την εφαρμογή υποστήριξης διοικητικών διαδικασιών rektis, παρέχοντας το περιβάλλον αλληλεπίδρασης με τους αιτούντες αναπληρωτές ειδικής αγωγής.","
 # Περί
 
@@ -1011,7 +1011,7 @@ composer depends php
 
 Για οποιοδήποτε θέμα αφορά την εφαρμογή πρέπει να γίνεται σχετική καταχώρηση στα 
 [issues του έργου](https://github.com/spapad/admapp-applications-front/issues).
-",1,1,5,0,public-administration,"[php, public-administration, yii2]",0
+",1,1,5,0,public-administration,"[php, public-administration, yii2]",92
 7,alessiolombardo,RiscossioneConverter,,https://github.com/alessiolombardo/RiscossioneConverter,https://api.github.com/repos/RiscossioneConverter/alessiolombardo,RiscossioneConverter consente di convertire in file Excel 97/2003 (.xls) un file a blocchi contenente record a lunghezza fissa secondo le specifiche degli Allegati 1/2 del Decreto 15/06/2015 del Ministero dell'Economia e delle Finanze inerente la trasmissione agli enti creditori delle quote annullate e di rimborso agli agenti della riscossione delle spese esecutive sostenute per i ruoli.,"# RiscossioneConverter
 
 RiscossioneConverter consente la conversione di un file a blocchi contenente record a lunghezza fissa secondo le specifiche degli [Allegati 1/2 del Decreto 15/06/2015 del Ministero dell'Economia e delle Finanze](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2015-06-22&atto.codiceRedazionale=15A04675&elenco30giorni=false) inerente la trasmissione agli enti creditori delle quote annullate e di rimborso agli agenti della riscossione delle spese esecutive sostenute per i ruoli. I formati di output supportati sono Excel (.xlsx), Excel 97-2003 (.xls), OpenDocument Spreadsheet (.ods), XML e JSON.
@@ -1051,8 +1051,8 @@ Interfaccia JavaFX su Ubuntu 20.04:
 
 
 [Documentazione API (Javadoc)](https://alessiolombardo.github.io/RiscossioneConverter/apidocs/)
-",1,1,1,0,public-administration,"[converter, public-administration]",0
-8,k3jph,projmgmt,k3jph,https://github.com/k3jph/projmgmt,https://api.github.com/repos/projmgmt/k3jph,Project Management and Administration,,0,0,2,0,public-administration,"[mkdocs, pmbok, project-management, public-administration]",0
+",1,1,1,0,public-administration,"[converter, public-administration]",92
+8,k3jph,projmgmt,k3jph,https://github.com/k3jph/projmgmt,https://api.github.com/repos/projmgmt/k3jph,Project Management and Administration,,0,0,2,0,public-administration,"[mkdocs, pmbok, project-management, public-administration]",92
 9,cisobund,cisobund.github.io,,https://github.com/cisobund/cisobund.github.io,https://api.github.com/repos/cisobund.github.io/cisobund,Sammlung rund um das Thema Informations- und Cybersicherheit,"> Sammlung von hilfreichen Informationen und Links zu diversen Ressourcen rund um das Thema Informations- und Cybersicherheit
 
 ## Inhalte
@@ -1086,7 +1086,7 @@ Interfaccia JavaFX su Ubuntu 20.04:
 
 ## To be sorted
 - [Macro Security](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/microsoft-office-macro-security) - Entscheidungshilfe und Konfigurationsempfehlungen des Australian Cyber Security Center (ACSC) 
-",0,0,1,0,public-administration,"[cybersecurity, infosec, public-administration]",0
+",0,0,1,0,public-administration,"[cybersecurity, infosec, public-administration]",92
 10,technologiestiftung,leitfaden-agile-verwaltung,technologiestiftung,https://github.com/technologiestiftung/leitfaden-agile-verwaltung,https://api.github.com/repos/leitfaden-agile-verwaltung/technologiestiftung,Guide to the development of digital services for public administrations,"# Leitfaden Agile Verwaltung
 
 This repository contains the source code for _Agil durch den Verwaltungsalltag_, a (German-language) guide to the development of digital services for public administrations.
@@ -1144,7 +1144,7 @@ git commit -m ""docs: update README [skip ci]""
 ## Matomo
 
 We use Matomo to collect (anonymous) usage data. Find the relevant code in `docusaurus.config.js` and `lib/matomoPlugin.js`.
-",0,0,3,7,public-administration,"[guide, public-administration]",0
+",0,0,3,7,public-administration,"[guide, public-administration]",92
 11,fffelix-jan,NTCS-PA,,https://github.com/fffelix-jan/NTCS-PA,https://api.github.com/repos/NTCS-PA/fffelix-jan,PA system that can play messages sent to it over Discord using gTTS. Originally for North Toronto Christian School. Designed to work together with NCH TimeChimes.,"# NTCS-PA
 PA system that can play messages sent to it over Discord using gTTS. Originally for North Toronto Christian School. Designed to work together with NCH TimeChimes.
 ## Installation  
@@ -1159,8 +1159,8 @@ PA system that can play messages sent to it over Discord using gTTS. Originally 
 * NirCmd 2.86 - Copyright (c) 2003-2019 Nir Sofer (https://www.nirsoft.net/utils/nircmd.html)
 * MTR PA system sound effect `attn.wav` - Copyright (c) MTR Corporation Limited (http://www.mtr.com.hk)
 * playsound - Copyright (c) 2017 TaylorSMarks (licenced under the MIT Licence) (https://github.com/TaylorSMarks/playsound)
-",0,0,2,0,public-administration,"[automation, discord, gtts, nch-timechimes, ntcs-pa, pa, public-address, public-administration, sound]",0
-12,techlib,spis,techlib,https://github.com/techlib/spis,https://api.github.com/repos/spis/techlib,Správní informační systém je otevřený nástroj pro vedení elektronických evidencí.,,0,0,9,7,public-administration,"[czech-republic, document-management, public-administration, record-management]",0
+",0,0,2,0,public-administration,"[automation, discord, gtts, nch-timechimes, ntcs-pa, pa, public-address, public-administration, sound]",92
+12,techlib,spis,techlib,https://github.com/techlib/spis,https://api.github.com/repos/spis/techlib,Správní informační systém je otevřený nástroj pro vedení elektronických evidencí.,,0,0,9,7,public-administration,"[czech-republic, document-management, public-administration, record-management]",92
 13,Jeshua-Romero-Guadarrama,Analisis_politico_con_R,,https://github.com/Jeshua-Romero-Guadarrama/Analisis_politico_con_R,https://api.github.com/repos/Analisis_politico_con_R/Jeshua-Romero-Guadarrama,"📖 Un complemento interactivo para entender y dominar el Análisis Político con R: Políticas Existentes, Creación de Políticas, Política Social, Política Económica y Administración Pública","<p align=""center""><img align=""center"" src=""https://github.com/Jeshua-Romero-Guadarrama/CienciaPolitica/blob/main/docs/images/CienciaPolitica.png"" width=""30%"" height=""30%""></p>
 
 ## 📖 Sobre el curso
@@ -1174,11 +1174,11 @@ ___
 <p align=""center""><a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/""><img alt=""Creative Commons License"" style=""border-width:0"" src=""https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg""/></a></p><br/>Esta obra está autorizada bajo la <a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/"">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 #### Referencias bibliográficas
-Von Beyme, K. (1977). *Teorías políticas contemporáneas: Una introducción*. Instituto de Estudios Políticos.",0,0,1,0,public-administration,"[applied-statistics, economic-policy, existing-policies, non-governmental-organizations, non-profit-organizations, policy-creation, public-administration, public-sector, r, r-programming, social-policy, statistical-analysis, statistical-inference, statistical-learning, statistical-methods, statistical-models]",0
+Von Beyme, K. (1977). *Teorías políticas contemporáneas: Una introducción*. Instituto de Estudios Políticos.",0,0,1,0,public-administration,"[applied-statistics, economic-policy, existing-policies, non-governmental-organizations, non-profit-organizations, policy-creation, public-administration, public-sector, r, r-programming, social-policy, statistical-analysis, statistical-inference, statistical-learning, statistical-methods, statistical-models]",92
 14,BenjaminFReese,stretch02,,https://github.com/BenjaminFReese/stretch02,https://api.github.com/repos/stretch02/BenjaminFReese,Stretch Exercise for Assignment07,"# stretch02
 The code in strech02.qmd creates stretch02.html. The analysis contained within stretch02 predicts why civil servants leave federal service. More specifically, the model tries to classify civil servants' exit decisions based on if they quit or if they left for some other reason. The code begins by loading in three distinct datasets. A dataset from the Office of Personnel Management that has civil servant exit data, a dataset with economic variables from Michael Bailey's Real Stats, and presidential approval rating data. More information about these datasets can be found in stretch02.html. Once the data is loaded, I clean each dataset, create a categorical civil servant education variable, create the ""quit"" or ""not quit"" variable, and then join the three datasets together by quarter. Due to the different cross-sections included in the three different datasets, I end only with the years of 2005-2009. 
 Once the data is cleaned, I conduct some basic exploratory data analysis shown in a series of data visualizations. After the EDA, I split the data into a training and testing set, describe and specify a logistic regression, random forest, and CART machine learning models, and implement the CART model. Stretch02.html ends with my presentation of the best model results and a discussion of the error metric. Overall, accuracy is about .68 and recall about .53. While the recall is not great, and recall is one of the most important error metrics for this model, the accuracy is not terrible. Regardless of the accuracy, the results indicate that employees are more likely to quit in the early days of their service compared to longer serving employees. The final discussion in the paper is about next steps and includes arguments for improved feature selection and modeling decisions.
-",0,0,2,0,public-administration,"[bureaucracy, civil-service, machine-learning, public-administration]",0
+",0,0,2,0,public-administration,"[bureaucracy, civil-service, machine-learning, public-administration]",92
 15,technologiestiftung,oeffentliches-gestalten-docusaurus,technologiestiftung,https://github.com/technologiestiftung/oeffentliches-gestalten-docusaurus,https://api.github.com/repos/oeffentliches-gestalten-docusaurus/technologiestiftung,CityLAB Berlin's handbook for working innovatively in public administration as a documentation-style website,"# Öffentliches Gestalten (Public Design)
 
 CityLAB Berlin's [handbook](https://citylab-berlin.org/en/projects/handbuch/) for working innovatively in public administration as a documentation-style website.
@@ -1338,7 +1338,7 @@ The project is configured with [Algolia DocSearch](https://docsearch.algolia.com
 ## License
 
 The source code is licensed as defined in `LICENSE`. The book contents are licensed under [Creative Commons Attribution-NonCommercial ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-",0,0,6,7,public-administration,"[citylab-berlin, public-administration, service-design]",0
+",0,0,6,7,public-administration,"[citylab-berlin, public-administration, service-design]",92
 16,lucastiburtino,deslocamentos,,https://github.com/lucastiburtino/deslocamentos,https://api.github.com/repos/deslocamentos/lucastiburtino,"Aplicativo em Python para padronização na solicitação de deslocamentos, além de agilizar processo de autorização pela autoridade competente","# Deslocamentos
 Aplicativo em Python para padronização na solicitação de deslocamentos, além de agilizar processo de autorização pela autoridade competente
 
@@ -1357,7 +1357,7 @@ Deve possuir:
     2.3. Autorização (ou não): realizada via seleção de deslocamentos encaminhados pelos usuários; após conclusão será encaminhado e-mail para os usuários a serem deslocados;
 
 3. Poderá haver opção para prestação de contas de deslocamentos.
-",0,0,2,0,public-administration,"[administracao-publica, public-administration, python]",0
+",0,0,2,0,public-administration,"[administracao-publica, public-administration, python]",92
 17,marinimau,public_administration_blockchain_certified_document_sharing,,https://github.com/marinimau/public_administration_blockchain_certified_document_sharing,https://api.github.com/repos/public_administration_blockchain_certified_document_sharing/marinimau,A dApp to distribute blockchain certified documents from PAs to citizens. All the features are accessible via REST api.,"[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 # Public Administration Blockchain Certified Document Sharing
@@ -1417,7 +1417,7 @@ Note that only endpoints accessible with current authorization are shown:
 ## Author
 
 * [Mauro Marini](https://github.com/marinimau)
-",0,0,2,0,public-administration,"[abcde-agile-method, blockchain, dapp, django-rest-framework, ethereum-dapp, openapi3, public-administration, smart-contracts]",0
+",0,0,2,0,public-administration,"[abcde-agile-method, blockchain, dapp, django-rest-framework, ethereum-dapp, openapi3, public-administration, smart-contracts]",92
 18,technologiestiftung,service-agentinnen,technologiestiftung,https://github.com/technologiestiftung/service-agentinnen,https://api.github.com/repos/service-agentinnen/technologiestiftung,Website for the service design training for public administrations by CityLAB Berlin,"![](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiestiftung%20Berlin-blue)
 
 # ServiceAgent:innen
@@ -1628,7 +1628,7 @@ Illustrations by Lea Scheidt, all rights reserved.
     </td>
   </tr>
 </table>
-",0,0,1,6,public-administration,"[citylab-berlin, public-administration]",0
+",0,0,1,6,public-administration,"[citylab-berlin, public-administration]",92
 19,Jeshua-Romero-Guadarrama,Ciencia_politica_Teoria_y_practica,,https://github.com/Jeshua-Romero-Guadarrama/Ciencia_politica_Teoria_y_practica,https://api.github.com/repos/Ciencia_politica_Teoria_y_practica/Jeshua-Romero-Guadarrama,"📖 Un complemento interactivo para entender y dominar la Teoría y Práctica de la Ciencia Política: Políticas Públicas, Sistemas Políticos, Filosofía Política, Comportamientos Político y Metodología.","<p align=""center""><img align=""center"" src=""https://github.com/Jeshua-Romero-Guadarrama/CienciaPolitica/blob/main/docs/images/CienciaPolitica.png"" width=""30%"" height=""30%""></p>
 
 ## 📖 Sobre el curso
@@ -1642,8 +1642,8 @@ ___
 <p align=""center""><a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/""><img alt=""Creative Commons License"" style=""border-width:0"" src=""https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg""/></a></p><br/>Esta obra está autorizada bajo la <a rel=""license"" href=""http://creativecommons.org/licenses/by-nc-sa/4.0/"">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 #### Referencias bibliográficas
-Von Beyme, K. (1977). *Teorías políticas contemporáneas: Una introducción*. Instituto de Estudios Políticos.",0,0,1,0,public-administration,"[economic-policy, existing-policies, non-governmental-organizations, non-profit-organizations, phylosophy, policy-creation, political-movements, political-theory, politics, public-administration, public-sector, social-movements, social-policy]",0
+Von Beyme, K. (1977). *Teorías políticas contemporáneas: Una introducción*. Instituto de Estudios Políticos.",0,0,1,0,public-administration,"[economic-policy, existing-policies, non-governmental-organizations, non-profit-organizations, phylosophy, policy-creation, political-movements, political-theory, politics, public-administration, public-sector, social-movements, social-policy]",92
 20,ian-adams,academic-website,,https://github.com/ian-adams/academic-website,https://api.github.com/repos/academic-website/ian-adams,Personal academic-focused website for Ian T. Adams,"# academic-website
 Personal academic focused website for Ian T. Adams
 [![Netlify Status](https://api.netlify.com/api/v1/badges/41cec13b-04b9-449c-a3c0-583902841e83/deploy-status)](https://app.netlify.com/sites/ianadams/deploys)
-",0,0,1,0,public-administration,"[adams, body-worn-cameras, ian, policing, public-administration, r]",0
+",0,0,1,0,public-administration,"[adams, body-worn-cameras, ian, policing, public-administration, r]",92

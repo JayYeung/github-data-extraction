@@ -171,7 +171,7 @@ empty - пустая база данных для реального испол�
 Поддержка платная.
 
 
-",220,220,8,10,wholesale,"[accounting, bizerba, business, c-plus-plus, cpp, crm, datamax, egais, erp, frontol, inventory, invoice, orders, point-of-sale, restorant, retail, russian, setretail, wholesale, windows]",0.0
+",220,220,8,10,wholesale,"[accounting, bizerba, business, c-plus-plus, cpp, crm, datamax, egais, erp, frontol, inventory, invoice, orders, point-of-sale, restorant, retail, russian, setretail, wholesale, windows]",42
 1,moqui,PopCommerce,moqui,https://github.com/moqui/PopCommerce,https://api.github.com/repos/PopCommerce/moqui,"POP Commerce is an eCommerce and ERP application suite for retail and wholesale organizations. POP Commerce is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens.","## POP (Plain-Old-Product) Commerce - Retail and Wholesale ERP and eCommerce
 
 [![license](http://img.shields.io/badge/license-CC0%201.0%20Universal-blue.svg)](https://github.com/moqui/PopCommerce/blob/master/LICENSE.md)
@@ -293,7 +293,7 @@ Here are steps for a basic update (for development with clean out and rebuild of
 
 To access the eCommerce app go to something like <http://localhost:8080/popc> in a web browser. To access the admin app 
 go to <http://localhost:8080/vapps/PopcAdmin>.
-",72,72,33,5,wholesale,"[accounting, application, crm, ecommerce-application, erp, erp-application, inventory, java, mantle, mantle-business, moqui, moqui-framework, pop-commerce, purchasing, retail, sales, web, webapp, wholesale]",0.0
+",72,72,33,5,wholesale,"[accounting, application, crm, ecommerce-application, erp, erp-application, inventory, java, mantle, mantle-business, moqui, moqui-framework, pop-commerce, purchasing, retail, sales, web, webapp, wholesale]",42
 2,xpertdev,Bjs-Wholesale-Coupon-Bot,,https://github.com/xpertdev/Bjs-Wholesale-Coupon-Bot,https://api.github.com/repos/Bjs-Wholesale-Coupon-Bot/xpertdev,Add coupons automatically to your BJ's Wholesale Club account without clicking or tapping a thousand times.,"# Bjs-Wholesale-Coupon-Bot
 
 #### Instructions
@@ -331,7 +331,7 @@ var interval = setInterval(function(){
 ```    
 
 You may need to run this more than once (press the up arrow in the console, and Enter again.)
-",11,11,2,1,wholesale,"[bjs, bot, coupon, javascript, wholesale]",0.0
+",11,11,2,1,wholesale,"[bjs, bot, coupon, javascript, wholesale]",42
 3,davidroberto,-NOT-MAINTAINED-magento2-b2b,,https://github.com/davidroberto/-NOT-MAINTAINED-magento2-b2b,https://api.github.com/repos/-NOT-MAINTAINED-magento2-b2b/davidroberto,[NOT-MAINTAINED]B2B free module for Magento 2,"# magento2-b2b
 
 Restrict access to a website for a group of customers
@@ -345,7 +345,7 @@ You'll have a new ""B2B"" tab in the configuration page, where you'll be able to
 Save it, and it's done! The website selected is now accessible only by the customers from the selected group of customers.
 If the user is not identified and try to access the website, he'll be redirected to the login form. If, after loggin, it doesn't belong
 to the corrected group, he'll be redirected to the default website.
-",5,5,2,0,wholesale,"[b2b, magento2, magento2-extension, magento2-module, wholesale]",0.0
+",5,5,2,0,wholesale,"[b2b, magento2, magento2-extension, magento2-module, wholesale]",42
 4,MagePsycho,Magento2-Store-Restriction-Pro,,https://github.com/MagePsycho/Magento2-Store-Restriction-Pro,https://api.github.com/repos/Magento2-Store-Restriction-Pro/MagePsycho,"Magento 2 Store Restriction Pro (Restrict Access, Require Customer Approval, Disable Registration, etc.)","## Overview:
 Magento 2 Store Restriction Pro extension provides the complete restriction functionality for your store in many ways (disabling registration, requiring customer approval, restricting access to special customers while allowing guess access to certain pages)
 
@@ -493,8 +493,8 @@ Provides Store Restriction of two types
 - [Magento 2 Starter Theme](https://github.com/MagePsycho/magento2-starter-theme)
 - [Magento 2 Bash Script Installer](https://github.com/MagePsycho/magento2-installer-bash-script)
 - [Bash Script: Backup Magento2 Code + Database](https://github.com/MagePsycho/magento2-db-code-backup-bash-script)
-",5,5,2,0,wholesale,"[b2b, b2c, customer-activation, customer-approval, customer-registration, disable-register, disable-registration, ecommerce, magento, magento-extension, magento-module, magento2, magento2-extension, magento2-extension-free, magento2-module, registration, restriction, retail, store, wholesale]",0.0
-5,JarrydLong,wholesale-customers-for-woo,,https://github.com/JarrydLong/wholesale-customers-for-woo,https://api.github.com/repos/wholesale-customers-for-woo/JarrydLong,Allow your WooCommerce to sell wholesale to your WooCommerce customers.,,4,4,2,3,wholesale,"[wholesale, woocommerce, woocommerce-plugin, wordpress, wordpress-plugin]",0.0
+",5,5,2,0,wholesale,"[b2b, b2c, customer-activation, customer-approval, customer-registration, disable-register, disable-registration, ecommerce, magento, magento-extension, magento-module, magento2, magento2-extension, magento2-extension-free, magento2-module, registration, restriction, retail, store, wholesale]",42
+5,JarrydLong,wholesale-customers-for-woo,,https://github.com/JarrydLong/wholesale-customers-for-woo,https://api.github.com/repos/wholesale-customers-for-woo/JarrydLong,Allow your WooCommerce to sell wholesale to your WooCommerce customers.,,4,4,2,3,wholesale,"[wholesale, woocommerce, woocommerce-plugin, wordpress, wordpress-plugin]",42
 6,kiasarecool,wordpress,,https://github.com/kiasarecool/wordpress,https://api.github.com/repos/wordpress/kiasarecool,custom php + css to woocommerce to make woocommerce work for B2B wholesale non public sales,"Hopefully some of this will help you! Lots of custom changes I made to woocommerce to make my website kcplantfactory.com work for B2B wholesale yet still allow guests to see every page on the site without worry of them placing orders or seeing prices. Google loves that and it has helped tremendously with the SEO.
 
 I always do what I can to avoid using a plugin whenever possible since they are 90% bloatware, 100% definately slow the whole site down and more often than not end up causing some kind of conflict and drive you (or your web dev) insane trying to fix.
@@ -503,7 +503,7 @@ Custom fees for any payment plugin should be included with woocommerce by defaul
 
 Check out the CSS section for help centering things and making those long product names fit etc.
 
-",3,3,1,0,wholesale,"[free, wholesale, wordpress, wordpressplugin]",0.0
+",3,3,1,0,wholesale,"[free, wholesale, wordpress, wordpressplugin]",42
 7,KiOui,woocommerce-bulk-variations,,https://github.com/KiOui/woocommerce-bulk-variations,https://api.github.com/repos/woocommerce-bulk-variations/KiOui,A WooCommerce utility to let customers add multiple product variations at once to cart,"# WooCommerce Bulk Variations
 
 A WooCommerce utility to let customers add multiple product variations at once to 
@@ -520,8 +520,8 @@ editing a product on the admin backend. You can decide whether to enable or disa
 the bulk and single order form of the product page. If you enable the bulk form, 
 you have to also edit the column and row attribute settings. Check the product page
 for the resulting table.
-",3,3,2,0,wholesale,"[ecommerce, wholesale, woocommerce, wordpress]",0.0
-8,Apekshagaonkar,DATA-SCIENCE,,https://github.com/Apekshagaonkar/DATA-SCIENCE,https://api.github.com/repos/DATA-SCIENCE/Apekshagaonkar,Performed data analysis and ml model training on different publicly available datasets .,# Data-Science,1,1,2,0,wholesale,"[data-analysis, data-science, data-visualization, machine-learning, pca, scikitlearn-machine-learning, stock-market, supermarket, supervised-learning, unsupervised-learning, wholesale]",0.0
+",3,3,2,0,wholesale,"[ecommerce, wholesale, woocommerce, wordpress]",42
+8,Apekshagaonkar,DATA-SCIENCE,,https://github.com/Apekshagaonkar/DATA-SCIENCE,https://api.github.com/repos/DATA-SCIENCE/Apekshagaonkar,Performed data analysis and ml model training on different publicly available datasets .,# Data-Science,1,1,2,0,wholesale,"[data-analysis, data-science, data-visualization, machine-learning, pca, scikitlearn-machine-learning, stock-market, supermarket, supervised-learning, unsupervised-learning, wholesale]",42
 9,ajshah7,WholeSale-Management-Netbeans-java-Application,,https://github.com/ajshah7/WholeSale-Management-Netbeans-java-Application,https://api.github.com/repos/WholeSale-Management-Netbeans-java-Application/ajshah7,A java Application on wholesale management using MySql has backend in NetbeansIDE.,"# WholeSale-Management-Netbeans-java-Application
 A java Application on wholesale management using MySql has backend in NetbeansIDE.
 A joint project created for educational purpose with Anushka Bargava.
@@ -530,7 +530,7 @@ For MySql table blueprints, go through the insert commands in the code.
 
 for note: If you are using this code for your purpose, please make sure to play with the code and understanding it. Modify the code match your
 expetations.
-",1,1,1,0,wholesale,"[desktop-application, java, netbeans, netbeans-ide, netbeans-project, wholesale]",0.0
+",1,1,1,0,wholesale,"[desktop-application, java, netbeans, netbeans-ide, netbeans-project, wholesale]",42
 10,tarunthota3,WMS,,https://github.com/tarunthota3/WMS,https://api.github.com/repos/WMS/tarunthota3,An application for wholesale business to computerize their data,"# WMS
 An application for wholesale business to computerize their data management and maximising their sales
 
@@ -551,7 +551,7 @@ Server Side : `cd server && node ./server.js`
 
 
 
-",1,1,2,18,wholesale,"[business, react, wholesale]",0.0
+",1,1,2,18,wholesale,"[business, react, wholesale]",42
 11,abdelhamidkaram,ddq-wholesale,,https://github.com/abdelhamidkaram/ddq-wholesale,https://api.github.com/repos/ddq-wholesale/abdelhamidkaram,The Wholesale Pricing and Multiple Price Categories plugin is a powerful extension for your WordPress website that allows store owners to offer wholesale pricing to their customers,"# DDQ-Wholesale Pricing and Multiple Price Categories Plugin
 
 ## Description
@@ -591,8 +591,8 @@ We welcome contributions to improve the Wholesale Pricing and Multiple Price Cat
 ## License
 
 The Wholesale Pricing and Multiple Price Categories plugin is released under the [GPL-2.0 License](LICENSE).
-",1,1,1,0,wholesale,"[wholesale, woocommer, woocommerce, woocommerce-extension, woocommerce-plugin, wordpress, wordpress-development, wordpress-plugin]",0.0
-12,dgluesen,wrangling-sales-workload,,https://github.com/dgluesen/wrangling-sales-workload,https://api.github.com/repos/wrangling-sales-workload/dgluesen,"Raw data of real analytical use cases in a number of industries and companies are frequently provided in an Excel-based form. These files usually cannot be processed directly in machine learning models, but must first be cleaned and preprocessed. In this process, many different types of pitfalls may occur. This makes data preprocessing an essential time factor in the daily work of a data scientist. In this concise project an Excel spreadsheet will be presented which in this form is closely oriented to a real case, but contains only simulated figures for reasons of data and business results protection. However, the form and structure of the file corresponds to a real case and could be encountered by a data scientist in a company in this way.",,1,1,2,0,wholesale,"[cleansing, human-resources, preprocessing, python, python3, realworld, retail, retail-data, seaborn, wholesale, wrangling]",0.0
+",1,1,1,0,wholesale,"[wholesale, woocommer, woocommerce, woocommerce-extension, woocommerce-plugin, wordpress, wordpress-development, wordpress-plugin]",42
+12,dgluesen,wrangling-sales-workload,,https://github.com/dgluesen/wrangling-sales-workload,https://api.github.com/repos/wrangling-sales-workload/dgluesen,"Raw data of real analytical use cases in a number of industries and companies are frequently provided in an Excel-based form. These files usually cannot be processed directly in machine learning models, but must first be cleaned and preprocessed. In this process, many different types of pitfalls may occur. This makes data preprocessing an essential time factor in the daily work of a data scientist. In this concise project an Excel spreadsheet will be presented which in this form is closely oriented to a real case, but contains only simulated figures for reasons of data and business results protection. However, the form and structure of the file corresponds to a real case and could be encountered by a data scientist in a company in this way.",,1,1,2,0,wholesale,"[cleansing, human-resources, preprocessing, python, python3, realworld, retail, retail-data, seaborn, wholesale, wrangling]",42
 13,burtonlueth,webPrices,,https://github.com/burtonlueth/webPrices,https://api.github.com/repos/webPrices/burtonlueth,webPrices: Scrape pricing with rvest and the tidyverse,"# webPrices
 webPrices: Tools to scrape prices with rvest and the tidyverse
 
@@ -637,7 +637,7 @@ df <- hd_catalog_scrape(main)
 ```
 
 Happy pricing!
-",0,0,1,0,wholesale,"[b2b, distribution, extract-pricing, price, pricing, rvest, scrape-prices, scraper, scraping-websites, strategy, tidyverse, wholesale]",0.0
+",0,0,1,0,wholesale,"[b2b, distribution, extract-pricing, price, pricing, rvest, scrape-prices, scraper, scraping-websites, strategy, tidyverse, wholesale]",42
 14,robertofernandezmartinez,businesscase-sql-wholesaler-public,,https://github.com/robertofernandezmartinez/businesscase-sql-wholesaler-public,https://api.github.com/repos/businesscase-sql-wholesaler-public/robertofernandezmartinez,Business case (SQL): Revenue optimization for a multinational wholesaler,"# Business case - SQL - Revenue optimization for a multinational wholesaler
 
 
@@ -673,7 +673,7 @@ Steering committee and responsibilities:
 - **CMO**: Increase revenue. Develop advanced solutions.
 - **COO**: Reduce costs. Increase margin.
 - **CSO**: Client management optimization. International expansion.
-",0,0,1,0,wholesale,"[customer-development, customer-segmentation, data-analysis, data-analytics, data-cleaning, data-types, entity-relationship-diagram, margin, mysql, portfolio-optimization, profit-and-loss, revenue, sql, variable-selection, variables, wholesale]",0.0
+",0,0,1,0,wholesale,"[customer-development, customer-segmentation, data-analysis, data-analytics, data-cleaning, data-types, entity-relationship-diagram, margin, mysql, portfolio-optimization, profit-and-loss, revenue, sql, variable-selection, variables, wholesale]",42
 15,bomzj,house-fresh,,https://github.com/bomzj/house-fresh,https://api.github.com/repos/house-fresh/bomzj,House Fresh is an ecommerce platform that specializes in wholesale and small-scale wholesale deliveries of fresh and frozen food products.,"# House Fresh - Wholesale Ecommerce Project
 
 ## Description
@@ -715,14 +715,14 @@ House Fresh is an ecommerce platform that specializes in wholesale and small-sca
 - Cafeteria and cafe services
 - Catering services
 - Affordable prices
-",0,0,1,0,wholesale,"[ecommerce, shopping-cart, wholesale]",0.0
+",0,0,1,0,wholesale,"[ecommerce, shopping-cart, wholesale]",42
 16,ezwelty,bcf-website,,https://github.com/ezwelty/bcf-website,https://api.github.com/repos/bcf-website/ezwelty,Website for Boulder Cooperative Food,"# Boulder Cooperative Food (BCF) website
 
 Website is published automatically using GitHub Pages to https://ezwelty.github.io/bcf-website.
-",0,0,2,0,wholesale,"[bulk, cooperative, food, organic-agriculture, website, wholesale]",0.0
+",0,0,2,0,wholesale,"[bulk, cooperative, food, organic-agriculture, website, wholesale]",42
 17,LiveRamp,akp_wholesale_pipelines,LiveRamp,https://github.com/LiveRamp/akp_wholesale_pipelines,https://api.github.com/repos/akp_wholesale_pipelines/LiveRamp,AKP and Wholesale DataFlow Pipelines,"# akp_wholesale_pipelines
 AKP and Wholesale DataFlow Pipelines
-",0,0,3,3,wholesale,"[akp, wholesale]",0.0
+",0,0,3,3,wholesale,"[akp, wholesale]",42
 18,alessiamonfardino22,WholeFoods,,https://github.com/alessiamonfardino22/WholeFoods,https://api.github.com/repos/WholeFoods/alessiamonfardino22,SQL analysis to determine whether the amount of badges increases the price of products,"# SQL/DataBase : WholeFoods
 <br>
 
@@ -731,11 +731,11 @@ Adding badges not only allows businesses to improve users’ interface but also 
 Felisiya M., 2019). Whole Foods is taking advantage of the use of badges to engage clients and guide them through their shopping experience.
 This analysis aims at answering the quesion: Does the amount of badges increase price?
 To acquire this insight, I created and analyzed a DataBase on SQL with all the products sold on a specific date on the company's e-commerce. 
-",0,0,1,0,wholesale,"[badges, database, price-tracker, retail, sql, wholefoods, wholesale]",0.0
+",0,0,1,0,wholesale,"[badges, database, price-tracker, retail, sql, wholefoods, wholesale]",42
 19,HealthSource-Distributors-LLC,healthsource,HealthSource-Distributors-LLC,https://github.com/HealthSource-Distributors-LLC/healthsource,https://api.github.com/repos/healthsource/HealthSource-Distributors-LLC,Development of ideas for HealthSource Distributors.,"# healthsource
 Development of ideas for HealthSource Distributors.
-",0,0,1,0,wholesale,"[distribution, pharmaceutical-products, wholesale]",0.0
-20,SchillingEnterprises,Schilling-Interiors,SchillingEnterprises,https://github.com/SchillingEnterprises/Schilling-Interiors,https://api.github.com/repos/Schilling-Interiors/SchillingEnterprises,,,0,0,2,0,wholesale,"[retail, wholesale]",0.0
+",0,0,1,0,wholesale,"[distribution, pharmaceutical-products, wholesale]",42
+20,SchillingEnterprises,Schilling-Interiors,SchillingEnterprises,https://github.com/SchillingEnterprises/Schilling-Interiors,https://api.github.com/repos/Schilling-Interiors/SchillingEnterprises,,,0,0,2,0,wholesale,"[retail, wholesale]",42
 21,ShmuelisData,Wholesale-Data-Analysis-Project,,https://github.com/ShmuelisData/Wholesale-Data-Analysis-Project,https://api.github.com/repos/Wholesale-Data-Analysis-Project/ShmuelisData,Wholesale Data Analytics Insights,"# Wholesale Project- By Ohad Shmueli
 Wholesale Data Analytics Insights
 
@@ -798,8 +798,8 @@ Moreover, working with a large dataset and employing SQL and Excel for data anal
 It also highlighted the significance of translating technical findings into actionable business recommendations.
 Overall, the project has fueled my passion for data analytics and its potential to drive positive change in various domains.
 I am eager to continue exploring and applying data-driven approaches to solve complex problems and contribute to the success of organizations.
-",0,0,1,0,wholesale,"[wholesale, wholesale-lending-project, wholesale-review]",0.0
-22,MONEI,Shopify-api-node,MONEI,https://github.com/MONEI/Shopify-api-node,https://api.github.com/repos/Shopify-api-node/MONEI,Node Shopify connector sponsored by MONEI,,908,908,23,28,wholesaler,"[ecommerce, javascript, monei, node, node-module, nodejs, polaris, pricing-rules, shopify, shopify-api, wholesaler]",0.0
+",0,0,1,0,wholesale,"[wholesale, wholesale-lending-project, wholesale-review]",42
+22,MONEI,Shopify-api-node,MONEI,https://github.com/MONEI/Shopify-api-node,https://api.github.com/repos/Shopify-api-node/MONEI,Node Shopify connector sponsored by MONEI,,908,908,23,28,wholesaler,"[ecommerce, javascript, monei, node, node-module, nodejs, polaris, pricing-rules, shopify, shopify-api, wholesaler]",42
 23,ravicosoftltd,FreePOS,ravicosoftltd,https://github.com/ravicosoftltd/FreePOS,https://api.github.com/repos/FreePOS/ravicosoftltd,"Window based open source Point of sales built with c#, wpf and mysql","# FreePOS - Point Of Sales
 Point of Sales software for retailers, whole salers, products seller, service sellers, groccers, restaurents, barber shops and any kind of business 
 Window based open source Point of Sales software, built with c#, wpf and mysql.
@@ -855,10 +855,10 @@ Create pull request or raise issues and start contributing.
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 More information is available at [freepos.pk](https://freepos.pk).
-",17,17,3,4,wholesaler,"[desktop-application, mysql, point-of-sale, pointofsales, pos, retailer, shops, wholesaler, wpf]",0.0
+",17,17,3,4,wholesaler,"[desktop-application, mysql, point-of-sale, pointofsales, pos, retailer, shops, wholesaler, wpf]",42
 24,mcareexport123,RAJA-HASAN,,https://github.com/mcareexport123/RAJA-HASAN,https://api.github.com/repos/RAJA-HASAN/mcareexport123,"M Care exports is well established leading third party pharmaceutical, Stockist, Exporter, Supplier, Wholesaler from india. Mcare Exports operating from last 17 years. We are supplier of qualitative pharmaceuticals products to the clients all over the world. We are approved by FDA and drug controller in india. Our Products are based on Branded Generic Pharmaceutical formulations. Mcare offers Medicines Online from India at Lowest Price, We are India’s leading pharmaceutical wholesaler, distributors, Life saving Drugs Exporter of Branded Generic Medicines. Mcare exports is Top third party manufacturing company in India, deals in Pharma exports business in India & Pharma products exported from India.","# RAJA-HASAN
 M Care exports is well established leading third party pharmaceutical, Stockist, Exporter, Supplier, Wholesaler from india. Mcare Exports operating from last 17 years. We are supplier of qualitative pharmaceuticals products to the clients all over the world. We are approved by FDA and drug controller in india. Our Products are based on Branded Generic Pharmaceutical formulations. Mcare offers Medicines Online from India at Lowest Price, We are India’s leading pharmaceutical wholesaler, distributors, Life saving Drugs Exporter of Branded Generic Medicines. Mcare exports is Top third party manufacturing company in India, deals in Pharma exports business in India &amp; Pharma products exported from India.
-",0,0,1,0,wholesaler,"[export, pharmaceuticals, pharmacy, stockist-inventory-management, supplier, wholesaler]",0.0
+",0,0,1,0,wholesaler,"[export, pharmaceuticals, pharmacy, stockist-inventory-management, supplier, wholesaler]",42
 25,dumidu1998,thoga.lk,,https://github.com/dumidu1998/thoga.lk,https://api.github.com/repos/thoga.lk/dumidu1998,Repo for the 2nd year group project Thoga.lk,"# Thoga.lk
 
 Repo for the 2nd year group project Thoga.lk  
@@ -873,7 +873,7 @@ more efficient, modern farmers.
 ## HTML, CSS, JS  and PHP
 
 
-",0,0,2,8,wholesaler,"[farmers, hacktoberfest, hacktoberfest2021, wholesaler]",0.0
+",0,0,2,8,wholesaler,"[farmers, hacktoberfest, hacktoberfest2021, wholesaler]",42
 26,hangthpham,wholesale_management_database,,https://github.com/hangthpham/wholesale_management_database,https://api.github.com/repos/wholesale_management_database/hangthpham,Wholesale Management Database ,"# Database Project: Wholesale Management Database
 ## Inspiration
 I used to work for a company based in Atlanta, GA. This company is a wholesaler of furniture and spa chairs. Since this was a small company, I had opportunities to be exposed to different functional departments and learnt a lot on the job. I was more specialized in operations and inventory management system so most of my work was collaborating with Sales department, warehouse supervisors and purchasing department. 
@@ -898,7 +898,7 @@ MySQL Workbench 8.0
 * Sample data: Insert sample data using procedures
 
 
-",0,0,1,0,wholesaler,"[database-design, wholesaler]",0.0
+",0,0,1,0,wholesaler,"[database-design, wholesaler]",42
 27,maciej-nowak,IS-Lexer-Parser-Gramma,,https://github.com/maciej-nowak/IS-Lexer-Parser-Gramma,https://api.github.com/repos/IS-Lexer-Parser-Gramma/maciej-nowak,Lexical and syntax gramma analysis app in example of wholesaler of sports clothing. Created at the University as the project within Intelligent Systems classes in 2016. The purpose of this project was to learn lexical and syntax gramma in PLY (Python Lex-Yacc).,"# IS-Lexer-Parser-Gramma
 Lexical and syntax gramma analysis app in example of wholesaler of sports clothing. Created at the University as the project within Intelligent Systems classes in 2016. The purpose of this project was to learn lexical and syntax gramma in PLY (Python Lex-Yacc).
 
@@ -986,13 +986,13 @@ OUT: Failure
   
 IN: jedna:NUMBER wielka:SIZE niebieska:COLOR owalna:SHAPE pilka:KIND
 OUT: Success. Action: Save into local database. Action: Send data to server.
-",0,0,3,0,wholesaler,"[intelligent-systems, lex, lexical-analysis, natural-language, ply, python-lex-yacc, syntax-analysis, syntax-gramma, terminal-symbols, university, wholesaler, yacc]",0.0
+",0,0,3,0,wholesaler,"[intelligent-systems, lex, lexical-analysis, natural-language, ply, python-lex-yacc, syntax-analysis, syntax-gramma, terminal-symbols, university, wholesaler, yacc]",42
 28,ahmetonurslmz,PulsesWholesaler,,https://github.com/ahmetonurslmz/PulsesWholesaler,https://api.github.com/repos/PulsesWholesaler/ahmetonurslmz,"Pulses Wholesaler App - Manage Pulse Stock, Add Sale Records.","# PulsesWholesaler
 
 Migration directory includes create table queries, default insertion and procedures to keep them in backuped.
 
-",0,0,2,0,wholesaler,"[csharp, wholesaler, wholesaler-management]",0.0
-30,Koxpit,DataBaseOP,,https://github.com/Koxpit/DataBaseOP,https://api.github.com/repos/DataBaseOP/Koxpit,Приложение для управления предприятием оптовой торговли,,0,0,2,0,wholesaler-management,"[ado-net, wholesaler-management, windows-forms]",0.0
+",0,0,2,0,wholesaler,"[csharp, wholesaler, wholesaler-management]",42
+30,Koxpit,DataBaseOP,,https://github.com/Koxpit/DataBaseOP,https://api.github.com/repos/DataBaseOP/Koxpit,Приложение для управления предприятием оптовой торговли,,0,0,2,0,wholesaler-management,"[ado-net, wholesaler-management, windows-forms]",42
 31,alexgaudiosi,Multify,,https://github.com/alexgaudiosi/Multify,https://api.github.com/repos/Multify/alexgaudiosi,Ideal for Shopify wholesalers to allow users to order multiple variants of a product simultaneously using one form table.,"# Multify
 
 Multify allows your clients to preemptively see stock levels for all variants of a product, and order multiple quantities of each one simultaneously with a single Add To Cart click. Perfect for wholesale Shopify sites handling bulk orders.
@@ -1021,7 +1021,7 @@ As you can only add a single variant in a given call to the Shopify API, Multify
 
 ---
 
-**NOTE:** I haven't implemented to the functionality to update the max quantity selectors, as the stock isn't updated on the backend until an order is placed, it would get too sticky to try work out the new max ranges, but feel free to have a go.",8,8,2,0,shopify-wholesalers,"[liquid, order-multiple-variants, shopify, shopify-wholesalers, stock-levels, variants]",0.0
+**NOTE:** I haven't implemented to the functionality to update the max quantity selectors, as the stock isn't updated on the backend until an order is placed, it would get too sticky to try work out the new max ranges, but feel free to have a go.",8,8,2,0,shopify-wholesalers,"[liquid, order-multiple-variants, shopify, shopify-wholesalers, stock-levels, variants]",42
 tusharnankani,Swadeshi,,https://github.com/tusharnankani/Swadeshi,https://api.github.com/repos/Swadeshi/tusharnankani,Implementing a Web Based solution through which farmers can participate in a commodity exchange market,"# *Swadeshi*
 ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi) ![](https://tokei.rs/b1/github/tusharnankani/Swadeshi?category=files)
 
@@ -1192,4 +1192,4 @@ frontend
 	- [LinkedIn](https://www.linkedin.com/in/kartiksoneji)
 * Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
 	- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
-",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000,
+",20,20,2,10,wholesaler,"[client-side, consumer, css, farmer, farmer-portal, html, javascript, nodejs, simple, swadeshi, user-interface, userexperience, webapp, website, wholesaler]",00000,42

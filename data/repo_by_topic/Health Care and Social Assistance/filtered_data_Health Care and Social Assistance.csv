@@ -72,14 +72,14 @@ Code quality is ensured by `tslint` with `codelyzer` for Angular 2 specific lint
 
 ## License
 [MIT](/LICENSE)
-",133,133,9,113,health-care,"[angular, appointment-scheduling, concept-showcase, e-health, health-care, heroku, material-design, practice-management-software, scheduling, web-application]",0
+",133,133,9,113,health-care,"[angular, appointment-scheduling, concept-showcase, e-health, health-care, heroku, material-design, practice-management-software, scheduling, web-application]",62
 JuliaHealth,juliahealth.github.io,JuliaHealth,https://github.com/JuliaHealth/juliahealth.github.io,https://api.github.com/repos/juliahealth.github.io/JuliaHealth,Website for the JuliaHealth organization (powered by Franklin.jl).,"# juliahealth.github.io
 
 This repository contains the source code for the JuliaHealth website ([https://juliahealth.org](https://juliahealth.org)).
 
 The website is powered by [Franklin.jl](https://github.com/tlienart/Franklin.jl) and the [Julia programming language](https://julialang.org).
 
-",10,10,14,6,health-care,"[biomedical-informatics, biomedical-research, clinical-informatics, computational-health, digital-health, electronic-health-records, franklin, health, health-care, health-informatics, health-information-technology, healthcare, julia, julia-language, julia-programming-language, juliahealth, juliamedical, juliamedicine, medicine, public-health]",0
+",10,10,14,6,health-care,"[biomedical-informatics, biomedical-research, clinical-informatics, computational-health, digital-health, electronic-health-records, franklin, health, health-care, health-informatics, health-information-technology, healthcare, julia, julia-language, julia-programming-language, juliahealth, juliamedical, juliamedicine, medicine, public-health]",62
 IKKIM00,Fall_Detection_using_multihorizon_forecasting,,https://github.com/IKKIM00/Fall_Detection_using_multihorizon_forecasting,https://api.github.com/repos/Fall_Detection_using_multihorizon_forecasting/IKKIM00,,"# General Description
 This is original code for paper ""[Fall Detection using Biometric Information Based on Multi-Horizon Forecasting](https://ieeexplore.ieee.org/document/9956568)""(ICPR'22)
 
@@ -176,7 +176,7 @@ Please download all datasets through the URL or `zip` files provided in `dataset
 ----
 - You can find all previous ipynb files in `prev_jupyter_files/` .
 - For the cases of personal biometric information removed, use files: `prev_jupyter_files/dlr_tft_wo_bioinfo.ipynb ` and `prev_jupyter_files/mobi_tft_no_bioinfo.ipynb`
-",9,9,2,0,health-care,"[deep-learning, fall-detection, health-care, multi-horizon-forecasting]",0
+",9,9,2,0,health-care,"[deep-learning, fall-detection, health-care, multi-horizon-forecasting]",62
 pfftdammitchris,react-icd10,,https://github.com/pfftdammitchris/react-icd10,https://api.github.com/repos/react-icd10/pfftdammitchris,Search the International Classification of Diseases (ICD10) table,"# react-icd10
 
 > Search the International Classification of Diseases table
@@ -354,7 +354,7 @@ If you need to reset your results back to an empty state, you can call `reset`, 
 ## License
 
 MIT © [pfftdammitchris](https://github.com/pfftdammitchris)
-",7,7,0,27,health-care,"[diagnoses, disease-classification, diseases, doctor, health, health-care, health-check, health-informatics, healthcare, icd10, medical, medicinal, medicine, medicine-classification, pharmacy, react, react-components, search, telemedicine, telemedicine-api]",0
+",7,7,0,27,health-care,"[diagnoses, disease-classification, diseases, doctor, health, health-care, health-check, health-informatics, healthcare, icd10, medical, medicinal, medicine, medicine-classification, pharmacy, react, react-components, search, telemedicine, telemedicine-api]",62
 neemiasbsilva,NeemiasBuceli-ds-portfolio,,https://github.com/neemiasbsilva/NeemiasBuceli-ds-portfolio,https://api.github.com/repos/NeemiasBuceli-ds-portfolio/neemiasbsilva,"Hello guys, welcome to my Data Science Portfolio. I include some knowledges I earn in my journey. I'll include some case study, papers, and code. Please check the readme.","# Neemias Buceli Portfolio
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -423,7 +423,7 @@ Hello guys, welcome to my Data Science Portfolio. I include some knowledges I ea
         - Adaboost;
         - Gradient Boosting;
         - XGBoost.
-",1,1,3,0,health-care,"[case-study, churn-prediction, code-challenges, data-analysis, data-science, deep-learning, forecasting, fundamental-of-statistics, health-care, image-recognition, machine-learnin, machine-learning, math, mathematics, pattern-recognition, portfolio, programming-skills, speech-emotion-detection, statistics, voice-activity-detection]",0
+",1,1,3,0,health-care,"[case-study, churn-prediction, code-challenges, data-analysis, data-science, deep-learning, forecasting, fundamental-of-statistics, health-care, image-recognition, machine-learnin, machine-learning, math, mathematics, pattern-recognition, portfolio, programming-skills, speech-emotion-detection, statistics, voice-activity-detection]",62
 ArpitSachan,dedatom-A-digital-health-care-system,,https://github.com/ArpitSachan/dedatom-A-digital-health-care-system,https://api.github.com/repos/dedatom-A-digital-health-care-system/ArpitSachan,This repository contains a health care app based on geolocation and digitization of the health system. It includes real-time chat (to be encrypted) enabled with image-picker and hostpital finder using google maps api.,"# dedatom : A digital Health care system
 
 This repository contains a health care app based on geolocation and digitization of the health system. It includes real-time chat (to be encrypted) enabled with image-picker and hostpital finder using google maps api.
@@ -436,7 +436,7 @@ This repository contains a health care app based on geolocation and digitization
 <img src=""https://user-images.githubusercontent.com/29403783/83930992-03ee6e80-a7b8-11ea-81d1-9601aa0cf61c.png"" width=200>
 <img src=""https://user-images.githubusercontent.com/29403783/83931000-094bb900-a7b8-11ea-8e2a-8eb093276bcd.png"" width =200>
 <img src=""https://user-images.githubusercontent.com/29403783/83931010-0ea90380-a7b8-11ea-944d-25922211b47c.png"" width=200>
-",0,0,1,0,health-care,"[android, android-application, authentication, dart, firebase, flutter, google-maps-api, health-care, health-care-application, ios, place-search, realtime-chat]",0
+",0,0,1,0,health-care,"[android, android-application, authentication, dart, firebase, flutter, google-maps-api, health-care, health-care-application, ios, place-search, realtime-chat]",62
 warnbergg,pemett,,https://github.com/warnbergg/pemett,https://api.github.com/repos/pemett/warnbergg,Python Ensemble Model for Emergency department Trauma Triage (EMETT).,"pemett
 ==============================
 
@@ -505,7 +505,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target=""_blank"" href=""https://drivendata.github.io/cookiecutter-data-science/"">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-",0,0,0,0,health-care,"[data-science, health-care, machine-learning]",0
+",0,0,0,0,health-care,"[data-science, health-care, machine-learning]",62
 lindbrook,cholera,,https://github.com/lindbrook/cholera,https://api.github.com/repos/cholera/lindbrook,R Package for Analyzing John Snow's 1854 Cholera Map,"
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/cholera)](https://cran.r-project.org/package=cholera)
@@ -880,7 +880,7 @@ diagrams with data that use latitude and longitude.
 [references](https://github.com/lindbrook/cholera/blob/master/docs/notes/references.md)
 is an informal list of articles and books about cholera, John Snow and
 the 1854 outbreak.
-",138,138,5,1,public-health,"[cholera, data-visualization, datasets, epidemiology, john-snow, public-health, r, triangulation-delaunay, voronoi, voronoi-polygons]",0
+",138,138,5,1,public-health,"[cholera, data-visualization, datasets, epidemiology, john-snow, public-health, r, triangulation-delaunay, voronoi, voronoi-polygons]",62
 ropensci,fingertipsR,ropensci,https://github.com/ropensci/fingertipsR,https://api.github.com/repos/fingertipsR/ropensci,R package to interact with Public Health England’s Fingertips data tool,"
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -1042,7 +1042,7 @@ browseVignettes(""fingertipsR"")
 -   License: [GPL-3](https://opensource.org/licenses/GPL-3.0)
 
 [![ropensci_footer](https://ropensci.org/public_images/ropensci_footer.png)](https://ropensci.org)
-",79,79,22,24,public-health,"[api-wrapper, cran, fingertips, health, open-data, peer-reviewed, public-health, public-health-england, r, r-package, rstats]",0
+",79,79,22,24,public-health,"[api-wrapper, cran, fingertips, health, open-data, peer-reviewed, public-health, public-health-england, r, r-package, rstats]",62
 ConnorDonegan,geostan,,https://github.com/ConnorDonegan/geostan,https://api.github.com/repos/geostan/ConnorDonegan,Bayesian spatial analysis,"
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -1228,7 +1228,7 @@ print(fit)
 More demonstrations can be found in the package [help
 pages](https://connordonegan.github.io/geostan/reference/index.html) and
 [vignettes](https://connordonegan.github.io/geostan/articles/index.html).
-",47,47,3,0,public-health,"[bayesian, bayesian-inference, bayesian-statistics, epidemiology, modeling, public-health, r, r-package, rspatial, rstats, spatial, stan]",0
+",47,47,3,0,public-health,"[bayesian, bayesian-inference, bayesian-statistics, epidemiology, modeling, public-health, r, r-package, rspatial, rstats, spatial, stan]",62
 COVID19-Malta,COVID19-Data,COVID19-Malta,https://github.com/COVID19-Malta/COVID19-Data,https://api.github.com/repos/COVID19-Data/COVID19-Malta,This is an Open Aggregated Dataset for the COVID19 Cases in Malta,"# COVID-19 in Malta - Open Dataset
 
 This is an Official Open Dataset on COVID19 in Malta from the COVID-19 Public Health Response Team (Ministry for Health).
@@ -1252,7 +1252,7 @@ The COVID-19 Public Health Response Team developed a Digital Risk Assessment Too
 This site has been archived and the archived code is available on: https://github.com/COVID19-Malta/covid19check
 
 
-",35,35,18,6,public-health,"[covid19, covid19-data, covid19-malta, data-science, malta, public-health]",0
+",35,35,18,6,public-health,"[covid19, covid19-data, covid19-malta, data-science, malta, public-health]",62
 epiverse-trace,sivirep,epiverse-trace,https://github.com/epiverse-trace/sivirep,https://api.github.com/repos/sivirep/epiverse-trace,Data Wrangling and Automated Reports from 'SIVIGILA' source,"
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -1806,8 +1806,8 @@ mapa
   obtener esta información. Esta función funciona con cualquier conjunto
   de datos que contenga una columna llamada “casos” en cualquier nivel
   de agregación.
-",20,20,1,6,public-health,"[colombia, epidemiological-surveillance, epiverse, public-health, r, r-package]",0
-docligot,aedesproject,,https://github.com/docligot/aedesproject,https://api.github.com/repos/aedesproject/docligot,Advanced Early Dengue Prediction and Exploration Service,,18,18,3,0,public-health,"[dengue, google-search, machine-learning, public-health, satellite-data]",0
+",20,20,1,6,public-health,"[colombia, epidemiological-surveillance, epiverse, public-health, r, r-package]",62
+docligot,aedesproject,,https://github.com/docligot/aedesproject,https://api.github.com/repos/aedesproject/docligot,Advanced Early Dengue Prediction and Exploration Service,,18,18,3,0,public-health,"[dengue, google-search, machine-learning, public-health, satellite-data]",62
 njtierney,conmat,,https://github.com/njtierney/conmat,https://api.github.com/repos/conmat/njtierney,Create Contact Matrices from Population Data,"
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -2157,7 +2157,7 @@ Please note that the conmat project is released with a [Contributor Code
 of
 Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
 By contributing to this project, you agree to abide by its terms.
-",11,11,2,27,public-health,"[contact-matrices, infectious-diseases, population-data, public-health, r]",0
+",11,11,2,27,public-health,"[contact-matrices, infectious-diseases, population-data, public-health, r]",62
 IQTLabs,Viziflu,IQTLabs,https://github.com/IQTLabs/Viziflu,https://api.github.com/repos/Viziflu/IQTLabs,An open-source visualization tool to help make multi-model seasonal influenza forecasts more actionable for decision-makers,"Background on Viziflu
 ======
 
@@ -2213,7 +2213,7 @@ _|    _|  _|        _|    _|    _|_|_|  _|    _|  _|_|_|_|      _|_|_|_|  _|    
 
 ```
 Viziflu is available to the public under the [Apache 2.0 License](https://github.com/BNext-IQT/Viziflu/blob/master/LICENSE).
-",5,5,6,0,public-health,"[dataviz, epidemiology, flu-season, flusightnetwork, forecasting, infectious-disease-models, influenza-forecasts, public-health, visualization]",0
+",5,5,6,0,public-health,"[dataviz, epidemiology, flu-season, flusightnetwork, forecasting, infectious-disease-models, influenza-forecasts, public-health, visualization]",62
 data-intelligence-for-health-lab,Lpheada-Labelled-Public-HEAlth-DAtaset,data-intelligence-for-health-lab,https://github.com/data-intelligence-for-health-lab/Lpheada-Labelled-Public-HEAlth-DAtaset,https://api.github.com/repos/Lpheada-Labelled-Public-HEAlth-DAtaset/data-intelligence-for-health-lab,"LPHEADA is a multicountry and fully Labelled digital Public HEAlth DAtaset of tweets originated in Australia, Canada, UK, or US between November 28th, 2018 to June 19th, 2020. This dataset contains 366,405 crowd-generated labels (three labels per tweet) for 122,135 PASS-related tweets, labelled by 708 unique annotators on Amazon Mechanical Turk.","## Lpheada- Labelled Public HEAlth DAtaset
 [![DOI](https://zenodo.org/badge/354686567.svg)](https://zenodo.org/badge/latestdoi/354686567)
 
@@ -2283,7 +2283,7 @@ The manuscript that presents this dataset has been accepted for publication at J
 ## More Questions
 
 Please use issues on this Github for any questions or feedback. You can also contact us at dih[at]ucalgary.ca or joonwu.lee[at]ucalgary.ca for specific inquiries.  
-",5,5,2,0,public-health,"[dataset, machine-learning, physical-activity, public-health, sedentary-life, sleep, social-media]",0
+",5,5,2,0,public-health,"[dataset, machine-learning, physical-activity, public-health, sedentary-life, sleep, social-media]",62
 antz22,MedCheck,,https://github.com/antz22/MedCheck,https://api.github.com/repos/MedCheck/antz22,"Webscraping and APIs to diagnose patients based on symptoms, providing and logging insightful data and treatment solutions through a friendly mobile user interface. (2nd Place Winner at MontyHacks IV)","# MedCheck
 
 A mobile application that lets users smartly diagnose their symptoms by providing the most likely condition for the symptom, a summary of the condition (using web-scraping and a medical database) and the nearest location to receive treatment (through a geolocation API).
@@ -2331,7 +2331,7 @@ We plan to use machine learning to optimize our diagnosis, and to find a more ro
 <img src=""https://github.com/antz22/MedCheck/blob/master/assets/medcheck.png"" width=""300""> <img src=""https://github.com/antz22/MedCheck/blob/master/assets/home.png"" width=""300"">
 <img src=""https://github.com/antz22/MedCheck/blob/master/assets/logs.png"" width=""300""> <img src=""https://github.com/antz22/MedCheck/blob/master/assets/diagnosis.png"" width=""300"">
 
-:)",5,5,1,0,public-health,"[app-development, django, django-rest-framework, nativescript, public-health, python, restful-api, ui-design, vuejs, webscraping]",0
+:)",5,5,1,0,public-health,"[app-development, django, django-rest-framework, nativescript, public-health, python, restful-api, ui-design, vuejs, webscraping]",62
 amarshall1,prescribeR,,https://github.com/amarshall1/prescribeR,https://api.github.com/repos/prescribeR/amarshall1,An R package containing functions for quantifying drug exposure using routinely collected prescribing databases,"# prescribeR
 
 ## Introduction
@@ -2354,11 +2354,11 @@ currently under construction to provide more detail and examples for each functi
 
 ### Citing prescribeR
 [![DOI](https://zenodo.org/badge/175052538.svg)](https://zenodo.org/badge/latestdoi/175052538)
-",4,4,0,0,public-health,"[big-data, data-cleaning, epidemiology, exposure, pharmacology, pharmacovigilance, public-health, r]",0
+",4,4,0,0,public-health,"[big-data, data-cleaning, epidemiology, exposure, pharmacology, pharmacovigilance, public-health, r]",62
 raj-kotak,Online-Social-Network-Analysis,,https://github.com/raj-kotak/Online-Social-Network-Analysis,https://api.github.com/repos/Online-Social-Network-Analysis/raj-kotak,"Exploring the latest algorithms which include sentiment classification, information extraction, clustering, and topic modeling for analyzing online social networks, considering both their structure and content.","<h3><b>Online Social Network Analysis</b></h3>
 Exploring the latest algorithms which include sentiment classification, information extraction, clustering, and topic modeling for analyzing online social networks, considering both their structure and content.<br>
 Emphasis is placed on the application of the mentioned technology to areas such as public health, crisis response, politics, and marketing.
-",4,4,3,0,public-health,"[crisis-related, marketing, politics, public-health]",0
+",4,4,3,0,public-health,"[crisis-related, marketing, politics, public-health]",62
 wxwx1993,TS_Stochastic,,https://github.com/wxwx1993/TS_Stochastic,https://api.github.com/repos/TS_Stochastic/wxwx1993,"Public Available Code and Data to Reproduce Analyses in ""Assessing the causal effects of a stochastic intervention in time series data: Are heat alerts effective in preventing deaths and hospitalizations?""","# Assessing the causal effects of a stochastic intervention in time series data: Are heat alerts effective in preventing deaths and hospitalizations?
 This is the data repository for publicly available code and data to reproduce analyses in Wu X, Weinberger KR, Wellenius GA, Dominici F, Braun D. Assessing the causal effects of a stochastic intervention in time series data: are heat alerts effective in preventing deaths and hospitalizations? Biostatistics. 2023. doi: 10.1093/biostatistics/kxad002.
 
@@ -2394,7 +2394,7 @@ Heat Index: We obtained 4-km gridded estimates of daily maximum temperature and 
 Medicare Outcome: We obtained daily all-cause deaths among the entire Medicare enrollees and cause-specific hospitalizations for five heat-related diseases among the Medicare Fee-for-Service (FFS) enrollees.
 
 For Medicare data, Research Identifiable Files (RIF) on the Medicare population has previously been disclosed to team members at the Harvard School of School of Public Health (HSPH) by the Centers for Medicare and Medicaid Services (CMS) under the strict terms of a CMS Data Use Agreement, which requires stringent privacy protections. Medicare population individual-level data are stored at a Level-3 secured data platform on Research Computing Environment, supported by the Institute for Quantitative Social Science in the Faculty of Arts and Sciences at Harvard University. Interested parties may submit their research proposals to CMS and request the same data files that we use in this paper. More information can be found in the CMS website (https://www.cms.gov/Research-Statistics-Data-and-Systems/Files-for-Order/Data-Disclosures-Data-Agreements/Overview).
-",2,2,4,1,public-health,"[causal-inference, heat-index, public-health]",0
+",2,2,4,1,public-health,"[causal-inference, heat-index, public-health]",62
 Mosquito-Alert,Mosquito-Alert-Mobile-App,Mosquito-Alert,https://github.com/Mosquito-Alert/Mosquito-Alert-Mobile-App,https://api.github.com/repos/Mosquito-Alert-Mobile-App/Mosquito-Alert,,"# **Mosquito Alert** 
 ## What is Mosquito Alert?
 Mosquito Alert is a mobile phone application that is part of a larger citizen science system bringing together ordinary people, scientists and public health officials to fight against mosquitoes that can transmit diseases like Zika, dengue and chikungunya. More information about the project can be found at http://www.mosquitoalert.com.
@@ -2450,7 +2450,7 @@ If you want to see the license in more detail, there are two options.
 - Open the app from your phone > Settings > Mosquito Alert License
 - See [the license file in english](https://github.com/Mosquito-Alert/Mosquito-Alert-Mobile-App/blob/master/assets/html/license_en.html) or see [the translated license into multiple other languages](https://github.com/Mosquito-Alert/Mosquito-Alert-Mobile-App/blob/master/assets/html)
 
-",2,2,4,17,public-health,"[citizen-science, mosquitoes, public-health]",0
+",2,2,4,17,public-health,"[citizen-science, mosquitoes, public-health]",62
 RiosNicholas,food4thought,,https://github.com/RiosNicholas/food4thought,https://api.github.com/repos/food4thought/RiosNicholas,Website that aims to share resources and bring awareness to child hunger in America,"# Food4Thought
 <i>CodePath Web Development 101 Project</i>
 
@@ -2478,7 +2478,7 @@ The website primarily targets families facing food insecurity because of its foo
 </p>
 
 
-",2,2,1,0,public-health,"[codepath, public-health, social-issues, web-development]",0
+",2,2,1,0,public-health,"[codepath, public-health, social-issues, web-development]",62
 CBDRH,GP-networks,CBDRH,https://github.com/CBDRH/GP-networks,https://api.github.com/repos/GP-networks/CBDRH,Supplemental material for MJA article “Overcoming the data drought: exploring general practice in Australia by network analysis of big data”,"Supplemental material for “Overcoming the data drought: exploring general practice in Australia by network analysis of big data”
 ================
 
@@ -2607,8 +2607,8 @@ A PPC-centric graph is extracted using
 
 1.  A PPC-centric graph contains only the GP nodes from that PPC and the
     patients of each GP.
-",1,1,2,0,public-health,"[community-detection, networks, public-health]",0
-JonMinton,life_expectancy_limits,,https://github.com/JonMinton/life_expectancy_limits,https://api.github.com/repos/life_expectancy_limits/JonMinton,,# life_expectancy_limits,1,1,2,0,public-health,"[demography, life-expectancy, mortality, public-health]",0
+",1,1,2,0,public-health,"[community-detection, networks, public-health]",62
+JonMinton,life_expectancy_limits,,https://github.com/JonMinton/life_expectancy_limits,https://api.github.com/repos/life_expectancy_limits/JonMinton,,# life_expectancy_limits,1,1,2,0,public-health,"[demography, life-expectancy, mortality, public-health]",62
 adam-rumpf,covid-pharmacy-access,,https://github.com/adam-rumpf/covid-pharmacy-access,https://api.github.com/repos/covid-pharmacy-access/adam-rumpf,Code for a research project about measuring COVID vaccine access levels in various geographic areas.,"# COVID-19 Vaccine Accessibility Study
 
 A collection of data processing scripts for use in an ongoing research project about measuring accessibility levels to COVID-19 vaccines. These scripts are unlikely to be of use to anyone ourside our research group, but are provided here for anyone interested. Python packages used can be found in the root-level `requirements` file.
@@ -2627,7 +2627,7 @@ This repo is organized into several major subdirectories, each with its own READ
 ## Files
 
 The raw data files, themselves, are not included in this repo, but their sources are indicated in the various subdirectory READMEs. Some of the scripts also require the use of a user email address or API token. These are meant to be stored in local files called `email.txt` or `token.txt`, which are also not included in this repo.
-",1,1,2,0,public-health,"[covid-19, data-science, geospatial, math, public-health, research]",0
+",1,1,2,0,public-health,"[covid-19, data-science, geospatial, math, public-health, research]",62
 TSGreen,bd-covid19-dash-app,,https://github.com/TSGreen/bd-covid19-dash-app,https://api.github.com/repos/bd-covid19-dash-app/TSGreen,:chart_with_upwards_trend: Built an interactive data visualisation dashboard of Bangladeshi Covid-19 data. This includes national time series data and mapped regional (district and divisional) figures. The dashboard is hosted on Heroku. ,"# Data Dash for Covid-19 Data for Bangladesh
 
 Repo for deploying a data visulation web-app of COVID-19 data in Bangladesh to Heroku. 
@@ -2647,7 +2647,7 @@ It also includes the daily positivity rate:
 
 It also shows the regional data on an interactive map:
 ![image](https://user-images.githubusercontent.com/62939263/117175117-4d907080-adf0-11eb-83db-f6ea66add389.png)
-",1,1,0,6,public-health,"[bangladesh, covid-19, dashboard, data-visualization, plotly-dash, public-health]",0
+",1,1,0,6,public-health,"[bangladesh, covid-19, dashboard, data-visualization, plotly-dash, public-health]",62
 E-Health,phis-dw,E-Health,https://github.com/E-Health/phis-dw,https://api.github.com/repos/phis-dw/E-Health,:hospital: Public Health Data Warehouse using FHIR and Kibana,"# :hospital: Public Health Data Warehouse Framework on FHIR
 
 ## Deprecated. Moved to: [https://github.com/E-Health/fhir-server-phis-dw](https://github.com/E-Health/fhir-server-phis-dw) 
@@ -2659,7 +2659,7 @@ Public health databases are vital for the community for efficient planning, surv
 ## Author
 
 [Bell Eapen](https://nuchange.ca) (McMaster U)
-",1,1,2,0,public-health,"[data-visualization, data-warehouse, fhir, public-health]",0
+",1,1,2,0,public-health,"[data-visualization, data-warehouse, fhir, public-health]",62
 Rapid-Deployment-Vaccine-Collaborative,Gen-11,Rapid-Deployment-Vaccine-Collaborative,https://github.com/Rapid-Deployment-Vaccine-Collaborative/Gen-11,https://api.github.com/repos/Gen-11/Rapid-Deployment-Vaccine-Collaborative,"SARS-CoV-2 Peptide Vaccine, Gen 11","# Gen-11
 SARS-CoV-2 Peptide Vaccine, Gen 11 _(Published September 16, 2021: Version 4-1-3)_
 
@@ -2730,7 +2730,7 @@ Additionally, the type of work described in this document requires certain equip
 **Licenses**
 
 All contents of the RaDVaC website and white papers are covered by a Creative Commons Attribution 4.0 License (CC BY 4.0), and by an Open COVID License – Patent 1.1 (OCL-P v1.1). You are free to Share (copy and redistribute the material in any medium or format), and Adapt (fork, alter, and build upon) the material for any purpose. The only requirement is Attribution.
-",1,1,0,0,public-health,"[antigen-config, chitosan, global-health, immunology, microbiology, open-science, open-source, peptide, public-health, rapid-deployment, rapid-development, vaccine, vaccinology, virology]",0
+",1,1,0,0,public-health,"[antigen-config, chitosan, global-health, immunology, microbiology, open-science, open-source, peptide, public-health, rapid-deployment, rapid-development, vaccine, vaccinology, virology]",62
 jinhyokh,pyairhealth,,https://github.com/jinhyokh/pyairhealth,https://api.github.com/repos/pyairhealth/jinhyokh,An Unofficial BenMap in Python,"# pyairhealth
 
 <!-- WARNING: THIS FILE WAS AUTOGENERATED! DO NOT EDIT! -->
@@ -2766,10 +2766,10 @@ pip install pyairhealth
 ``` sh
 conda install pyairhealth
 ```
-",1,1,1,0,public-health,"[air-quality, benmap, fine-particulate-matter, public-health, vsl]",0
+",1,1,1,0,public-health,"[air-quality, benmap, fine-particulate-matter, public-health, vsl]",62
 marymlucas,COVID-19,,https://github.com/marymlucas/COVID-19,https://api.github.com/repos/COVID-19/marymlucas,Exploring different aspects of the COVID-19 pandemic,"# COVID-19
 Exploring different aspects of the COVID-19 pandemic
-",1,1,0,2,public-health,"[coronavirus, coronavirus-tracking, health, healthcare, public-health]",0
+",1,1,0,2,public-health,"[coronavirus, coronavirus-tracking, health, healthcare, public-health]",62
 simpledotorg,hypertension-dashboard,simpledotorg,https://github.com/simpledotorg/hypertension-dashboard,https://api.github.com/repos/hypertension-dashboard/simpledotorg,"A free, open source, template for creating a very useful hypertension dashboard to support public health projects.","# Hypertension Dashboard
 [![hypertension dashboard](dashboard.png)](https://simpledotorg.github.io/hypertension-dashboard/)
 
@@ -2806,7 +2806,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-",1,1,1,0,public-health,"[dashboard-templates, hypertension, hypertension-detection, public-health]",0
+",1,1,1,0,public-health,"[dashboard-templates, hypertension, hypertension-detection, public-health]",62
 polaris-maps,polaris,polaris-maps,https://github.com/polaris-maps/polaris,https://api.github.com/repos/polaris/polaris-maps,An open-source website and framework for universities and organizations to develop campus maps that crowdsource data on accessible routes and potential obstacles.,"**NOTE: This repository is no longer updated. Please see https://github.com/polaris-maps for up-to-date code.**
 
 
@@ -2880,7 +2880,7 @@ ACKNOWLEDGMENTS
 - Professor John D. Martin III, Dr. Gary Bishop, and Dr. Jennifer Diliberto of UNC-CH
 - [Tar Heels at the Table](https://tarheels.live/tarheelsatthetable/)
 - UNC-CH Undergraduate Senate
-",1,1,4,0,public-health,"[accessibility, navigation, public-health]",0
+",1,1,4,0,public-health,"[accessibility, navigation, public-health]",62
 anniebritton,NASA-Extreme-Weather-Geohealth-Research,,https://github.com/anniebritton/NASA-Extreme-Weather-Geohealth-Research,https://api.github.com/repos/NASA-Extreme-Weather-Geohealth-Research/anniebritton,☂️🛰️ This work is for a NASA-funded project using Earth observations to improve methods available for estimating the health damages of extreme weather events in Texas.,"# NASA-Extreme-Weather-Geohealth-Research
 ☂️🛰️ This work is for a NASA-funded project using Earth observations to improve methods available for estimating the health damages of extreme weather events in Texas.
 
@@ -2893,7 +2893,7 @@ This work is performed as part of Johns Hopkins University's [Hydroclimate Resea
  - <a href=""https://developers.google.com/earth-engine/datasets/catalog/OREGONSTATE_PRISM_AN81d"">PRISM Daily Spatial Climate Dataset</a> (Variables: ppt, tdmean, tmax, tmin, tmean, vpdmax, vpdmin)
  - <a href=""https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET"">GRIDMET Gridded Surface Meteorological Dataset</a> (Variables: rmax, rmin, srad, vs)
  - <a href=""https://www.aer.com/weather-risk-management/floodscan-near-real-time-and-historical-flood-mapping/"">Floodscan SFED</a>
-",1,1,1,0,public-health,"[climate, earth-observations, extreme-weather, flooding-events, geospatial-analysis, geospatial-data, geospatial-processing, google-earth-engine, gridmet, heat-index, public-health, python, r, remote-sensing, texas]",0
+",1,1,1,0,public-health,"[climate, earth-observations, extreme-weather, flooding-events, geospatial-analysis, geospatial-data, geospatial-processing, google-earth-engine, gridmet, heat-index, public-health, python, r, remote-sensing, texas]",62
 PiotrTymoszuk,hyposmia_analysis_pipeline,,https://github.com/PiotrTymoszuk/hyposmia_analysis_pipeline,https://api.github.com/repos/hyposmia_analysis_pipeline/PiotrTymoszuk,The complete analysis pipeline for the hyposmia project by Health After COVID-19 in Tyrol Study Team,"# hyposmia_analsis_pipeline
 
 ## Summary
@@ -2937,7 +2937,7 @@ source('exec.R')
 ## Contact
 
 The repository maintainer is [Piotr Tymoszuk](mailto:piotr.s.tymoszuk@gmail.com). Data requests should be addressed to [Prof. Judith Löffler-Ragg](mailto:judith.loeffler@i-med.ac.at) and [Prof. Raimund Helbok](mailto:raimund.helbok@tirol-kliniken.at).
-",0,0,1,0,public-health,"[apriori, covid-19, kinetics, long-covid, mental-health, olfaction, psychometrics, public-health, quality-of-life, semi-supervised-clustering]",0
+",0,0,1,0,public-health,"[apriori, covid-19, kinetics, long-covid, mental-health, olfaction, psychometrics, public-health, quality-of-life, semi-supervised-clustering]",62
 danielseussler,ssahealthriskfactors,,https://github.com/danielseussler/ssahealthriskfactors,https://api.github.com/repos/ssahealthriskfactors/danielseussler,Replication files for my master's thesis. Component-wise boosting for identification of health risk factors.,"# ssahealthriskfactors
 
 This repository contains the replication files for my master's thesis at the Department of Statistics, University of Munich.
@@ -2980,7 +2980,7 @@ T. Q. Dong and J. Wakefield, ‘Modeling and presentation of vaccination coverag
 Institut National de la Statistique (INSTAT) and ICF, ‘Enquête Démographique et de Santé à Madagascar (EDSMD-V) 2021’, Antananarivo, Madagascar et Rockville, Maryland, USA, 2022. [Online]. Available: https://www.dhsprogram.com/pubs/pdf/FR376/FR376.pdf
 
 Institut National de la Statistique (INSTAT), Programme National de Lutte contre le Paludisme (PNLP), and The DHS Program, ‘Enquête sur les Indicateurs du Paludisme au Mali 2021’, Bamako, Mali et Rockville, Maryland, USA, 2022. [Online]. Available: https://www.dhsprogram.com/pubs/pdf/FR376/FR376.pdf
-",0,0,1,0,public-health,"[additive-model, aiforsocialgood, boosting-algorithms, public-health, sae]",0
+",0,0,1,0,public-health,"[additive-model, aiforsocialgood, boosting-algorithms, public-health, sae]",62
 casaper,swiss_wastewater_covid_virus_load,,https://github.com/casaper/swiss_wastewater_covid_virus_load,https://api.github.com/repos/swiss_wastewater_covid_virus_load/casaper,R Notebook with Swiss covid waste water analysis cuves for different cities,"# Swiss Covid Wastewater Analysis Data
 
 R Notebook with Swiss covid waste water analysis cuves for different localities.
@@ -2991,7 +2991,7 @@ My knowledge of R is extremely limited.
 I've chunked this document together quickly, and I may have done some ugly things for your R experts taste.
 
 Contributions by someone with more R expertise than myself (likely anyone with R knowledge) are of course highly welcome.
-",0,0,1,0,public-health,"[covid-19, public-health, statistics, switzerland, wastewater-surveillance]",0
+",0,0,1,0,public-health,"[covid-19, public-health, statistics, switzerland, wastewater-surveillance]",62
 Abhishekpandey2000,Covid-19-Data-Analysis,,https://github.com/Abhishekpandey2000/Covid-19-Data-Analysis,https://api.github.com/repos/Covid-19-Data-Analysis/Abhishekpandey2000,Analyze Covid-19 data to extract insights and trends. Explore pandemic-related statistics for informed awareness.,"# Covid-19-Data-Analysis
 - Analyzed Covid-19 dataset for future insights and preparedness.
 - Pandas, JSON for gathering and sanitization of the data from API.
@@ -3003,11 +3003,11 @@ JSON | Nested Dictionaries | Error handling | Teamwork
 
 # Techstack
 JSON | API | Pandas | SQL | Excel
-",0,0,1,0,public-health,"[covid-19, data-analysis, data-visualization, epidemiology, health-data, pandemic, public-health, statistics]",0
+",0,0,1,0,public-health,"[covid-19, data-analysis, data-visualization, epidemiology, health-data, pandemic, public-health, statistics]",62
 savannahwild,SIR_model_for_COVID-19,,https://github.com/savannahwild/SIR_model_for_COVID-19,https://api.github.com/repos/SIR_model_for_COVID-19/savannahwild,"Using the SIR model to predict COVID-19 infection patterns. It is a compartmental model with the variables S, I and R for the number of susceptible, infectious and resistant individuals, respectively. ","# SIR_model_for_COVID-19
 Using the SIR model to predict COVID-19 infection patterns. It is a compartmental model with the variables S, I and R for the number of susceptible, infectious and resistant individuals, respectively. 
 An SVIR model can adapt the SIR model to incorporate the effect of vaccination on the predictions
-",0,0,1,0,public-health,"[compartmental-models, covid-19, differential-equations, epidemiology, population-dynamics, public-health, reproductive-number, sir-model, vaccination]",0
+",0,0,1,0,public-health,"[compartmental-models, covid-19, differential-equations, epidemiology, population-dynamics, public-health, reproductive-number, sir-model, vaccination]",62
 JonMinton,bayes_factor_slowdown,,https://github.com/JonMinton/bayes_factor_slowdown,https://api.github.com/repos/bayes_factor_slowdown/JonMinton,Calculate bayes factors for various hypotheses about extent of slowdown,"# Mortality Projections and Probability of Slowdown
 
 This repository contains analysis of publically available mortality data on two linked research areas
@@ -3025,7 +3025,7 @@ Here is a figure from within the repo
 
 ![Can this be read?](figures/allnations_projected_observed.png)
 
-",0,0,3,0,public-health,"[bayes-factor, mortality, public-health]",0
+",0,0,3,0,public-health,"[bayes-factor, mortality, public-health]",62
 DiaAzul,Covid-19-Environment-Risk-Analysis,,https://github.com/DiaAzul/Covid-19-Environment-Risk-Analysis,https://api.github.com/repos/Covid-19-Environment-Risk-Analysis/DiaAzul,DASH Application for Covid-19 Environment Risk Analysis,"# Covid-19 Environment Risk Analysis
 ![Radar plot](./assets/example-plot.png)
 
@@ -3056,14 +3056,14 @@ The header and footer are defined within Appdecoration.py which is called from a
 The radar graph and the calculations used to determine the risk assessment are included in Appgraph.py.
 
 All custom CSS used to style the app is included in app_specific.css within the assets folder.
-",0,0,2,0,public-health,"[covid-19, healthcare, healthcare-application, public-health]",0
+",0,0,2,0,public-health,"[covid-19, healthcare, healthcare-application, public-health]",62
 PythonCoderUnicorn,Health-and-Society,,https://github.com/PythonCoderUnicorn/Health-and-Society,https://api.github.com/repos/Health-and-Society/PythonCoderUnicorn,undergraduate course on Health & Society,"# Health-and-Society
 undergraduate course on Health &amp; Society
 
 Course slides that analyze the theories of why society functions that way it does in terms
 of health both from the personal and public point of view. The Social Determinants of Health 
 factor into everyone's health in society.
-",0,0,1,0,public-health,"[determinants-of-health, health-systems, public-health, social-health, theory]",0
+",0,0,1,0,public-health,"[determinants-of-health, health-systems, public-health, social-health, theory]",62
 bonilab,malariaibm-spatial-BurkinaFaso-2022,bonilab,https://github.com/bonilab/malariaibm-spatial-BurkinaFaso-2022,https://api.github.com/repos/malariaibm-spatial-BurkinaFaso-2022/bonilab,Complete source code and intermediary files to accompany the manuscript.,"# malariaibm-spatial-BurkinaFaso-2022
 
 [Penn State](https://www.psu.edu/) - [Center for Infectious Disease Dynamics (CIDD)](https://www.huck.psu.edu/institutes-and-centers/center-for-infectious-disease-dynamics) - [Boni Lab](http://mol.ax/)
@@ -3093,13 +3093,13 @@ Codename:       Maipo
 ### Original Repositories
 - Malaria Simulation, version 4.1.1: https://github.com/rjzupkoii/PSU-CIDD-Malaria-Simulation
 - Burkina Faso analysis and plots: https://github.com/rjzupkoii/PSU-CIDD-Burkina-Faso
-- Support scripts and infrastructure: https://github.com/bonilab/PSU-CIDD-MaSim-Support",0,0,3,0,public-health,"[burkina-faso, individual-based-model, malaria, public-health, spaital-modeling]",0
+- Support scripts and infrastructure: https://github.com/bonilab/PSU-CIDD-MaSim-Support",0,0,3,0,public-health,"[burkina-faso, individual-based-model, malaria, public-health, spaital-modeling]",62
 graemeleehickey,epi2014,,https://github.com/graemeleehickey/epi2014,https://api.github.com/repos/epi2014/graemeleehickey,Spatial and Temporal Statistical Modelling for Population Health Sciences,"# Spatial and Temporal Statistical Modelling for Population Health Sciences
 
 This repository contains the course material for the Survival Analayis delievred on Thursday 27 November 2014 at Leahurst Campus, University of Liverpool.
 
 The course was jointly delivered by [Professor Peter Diggle](http://www.lancaster.ac.uk/staff/diggle/), [Dr Elisabeth Waldmann](http://www.imbe.med.uni-erlangen.de/ma/E.Waldmann/), and [Dr Jonathan Read](http://www.lancaster.ac.uk/fhm/about-us/people/jonathan-read). If you would like to access their material, please contact them directly.
-",0,0,2,0,public-health,"[course, data, epidemiology, public-health, r, spatial, spatial-analysis, statistics, survival, veterinary, workshop]",0
+",0,0,2,0,public-health,"[course, data, epidemiology, public-health, r, spatial, spatial-analysis, statistics, survival, veterinary, workshop]",62
 brad-cannell,epi_3_public,brad-cannell,https://github.com/brad-cannell/epi_3_public,https://api.github.com/repos/epi_3_public/brad-cannell,Public repository for Brad Cannell’s Epidemiology III course at UTHealth,"
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -3135,9 +3135,9 @@ devtools::install_github(""brad-cannell/epi_3_public"")
 Currently, there isn’t a reason to install this package. In the future,
 we imagine that we will use this package to share R code (including
 functions) and example data sets.
-",0,0,2,23,public-health,"[course, epidemiology, public-health, r, rstats]",0
+",0,0,2,23,public-health,"[course, epidemiology, public-health, r, rstats]",62
 dgaitsgo,PublicHealthPost,,https://github.com/dgaitsgo/PublicHealthPost,https://api.github.com/repos/PublicHealthPost/dgaitsgo,Source-code and resources for visualizations of public health data,"Source-code, resources and raw files for custom visualizations produced for Boston University's [Public Health Post](https://publichealthpost.org/).
-",0,0,2,0,public-health,"[data-analysis, public-health, water-quality]",0
+",0,0,2,0,public-health,"[data-analysis, public-health, water-quality]",62
 BBC-Data-Unit,takeaways,BBC-Data-Unit,https://github.com/BBC-Data-Unit/takeaways,https://api.github.com/repos/takeaways/BBC-Data-Unit,More takeaways on high street despite anti-obesity push,"# More takeaways on high street despite anti-obesity push
 
 ![](https://ichef.bbci.co.uk/news/660/cpsprodpb/595C/production/_103967822_gettyimages-951506644.jpg)
@@ -3223,7 +3223,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 ## Background and briefing
 
 * [Project briefing](https://docs.google.com/document/d/1R9BEIyhXE4L6gDcihtlWm5kvedWjwt39RzdJUs_wTG4/edit)
-",0,0,5,0,public-health,"[health, obesity, public-health, shareddataunit]",0
+",0,0,5,0,public-health,"[health, obesity, public-health, shareddataunit]",62
 dpploy,covid-surge,dpploy,https://github.com/dpploy/covid-surge,https://api.github.com/repos/covid-surge/dpploy,COVID-19 mortality surge period calculation for communities afflicted by the corona virus SARS-CoV-2,"# Covid-surge
 COVID-19 mortality surge period calculation for communities afflicted by the corona virus SARS-CoV-2.
 
@@ -3275,7 +3275,7 @@ COVID-19 mortality surge period calculation for communities afflicted by the cor
 |-------------------------------------------------------------------------------------------------------------------------|
 |<img  width=""900"" src=""https://raw.githubusercontent.com/dpploy/covid-surge/master/readme/group_surge_periods_us_massachusetts.png"" title=""Surge Periods""> |
 | [Data source](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data). |
-",0,0,2,0,public-health,"[analytics, covid-19, covid-surge, curve-fitting, epidemics, jupyter-notebook, non-linear-optimization, public-health, python, surge-periods]",0
+",0,0,2,0,public-health,"[analytics, covid-19, covid-surge, curve-fitting, epidemics, jupyter-notebook, non-linear-optimization, public-health, python, surge-periods]",62
 sidens,rater-app,,https://github.com/sidens/rater-app,https://api.github.com/repos/rater-app/sidens,Restaurant health rating app - using Socrata open-data sources ,"README
 _______
 
@@ -3284,7 +3284,7 @@ Todos:
  - Performance improvements
  - Better string searches (""The Ragtrader"" ~= ""The Rag Trader"" ~= ""The Rag Trader/"""")
  - Fix Casing for results list
- - UX v2",0,0,2,0,public-health,"[gh-pages, open-data, public-health, socrata]",0
+ - UX v2",0,0,2,0,public-health,"[gh-pages, open-data, public-health, socrata]",62
 QIDSOD,QIDSOD-documentation,QIDSOD,https://github.com/QIDSOD/QIDSOD-documentation,https://api.github.com/repos/QIDSOD-documentation/QIDSOD,"Documentation related to the project ""Quantifying the Impact of Data Sharing on Outbreak Dynamics"" (QIDSOD)","# About
 
 This repository contains documentation related to the project ""Quantifying the Impact of Data Sharing on Outbreak Dynamics"" (QIDSOD) that is 
@@ -3320,14 +3320,14 @@ More details on our plans are available through the research proposal:
 ## Decision networks
 
 Outbreak dynamics are determined by a combination of factors, including decisions by different [stakeholders](stakeholders.md) within or associated with the affected populations. In order to describe the network of their collective decisions, we will consider different kinds of stakeholders in the context of the actions they may or may not take, how decisions related to these actions can be informed by data, and how the resulting actions affect outbreak dynamics.
-",0,0,3,0,public-health,"[covid-19, covid19, data-integration, data-science, data-sharing, datasharing, documentation, epidemiological-investigation, epidemiology, next-pandemic, outbreak, outbreak-data-analysis, outbreak-dynamics, outbreak-severity, outbreaks, public-health, sars-cov-2, sarscov2]",0
+",0,0,3,0,public-health,"[covid-19, covid19, data-integration, data-science, data-sharing, datasharing, documentation, epidemiological-investigation, epidemiology, next-pandemic, outbreak, outbreak-data-analysis, outbreak-dynamics, outbreak-severity, outbreaks, public-health, sars-cov-2, sarscov2]",62
 itinerum,HESRT,,https://github.com/itinerum/HESRT,https://api.github.com/repos/HESRT/itinerum,Health Economic Services for RadioTherapy,"# HESRT
 Health Economic Services for RadiotTherapy
 
 Health Economics Services for RadioTherapy (HESRT) is a repository of r-scripts and documentation on health economics to help decision-making related to the use of radiotherapy in the management of cancer. The information contained in HESRT can be used in any income or regional setting, but is intended to help decision-making in low- and middle-income countries (LMIC) 
 
 Health economic evaluation studies are used in public health to assess health strategies/interventions in terms of their cost-effectiveness and inform public policies. Health economic evaluation does not substitute but rather complement the evidence-based medicine paradigm for decision making in public health.
-",0,0,1,0,public-health,"[health-economic-evaluations, health-economics, public-health, radiotherapy]",0
+",0,0,1,0,public-health,"[health-economic-evaluations, health-economics, public-health, radiotherapy]",62
 cidm-ph,obsim,cidm-ph,https://github.com/cidm-ph/obsim,https://api.github.com/repos/obsim/cidm-ph,Outbreak simulation based on a branching process,"# obsim
 
 > **Outbreak simulation based on a branching process**
@@ -3377,10 +3377,10 @@ This framework was created for the following study
 Dual-licensed under [MIT](LICENSE-MIT) or [Apache 2.0](LICENSE-APACHE).
 
 © 2022 Western Sydney Local Health District, NSW Health
-",0,0,2,0,public-health,"[outbreak, public-health, simulation]",0
+",0,0,2,0,public-health,"[outbreak, public-health, simulation]",62
 abdellahai,IFolder,,https://github.com/abdellahai/IFolder,https://api.github.com/repos/IFolder/abdellahai,"This is a prototype of the first fully functionalities telemedicine platform that integrates omics, it's started as a platform for managing the data of the pandemic, including genomics data of the virus and the host, and using them for creating AI tools. The complete version of this platform will serve as a model for any future epidemic situation This project uses Python and Django for scripting and backend and flutter from dart for frontend.","# Omics_telemed
 This is a prototype of the first fully functionalities telemedicine platform that integrates omics, it's started as a platform for managing the data of the pandemic, including genomics data of the virus and the host, and using them for creating AI tools. The complete version of this platform will serve as a model for any future epidemic situation This project uses Python and Django for scripting and backend and flutter from dart for frontend.
-",0,0,1,0,public-health,"[data-science, epidemiology, genomics, metagenomics, public-health, transcriptomics, webapp]",0
+",0,0,1,0,public-health,"[data-science, epidemiology, genomics, metagenomics, public-health, transcriptomics, webapp]",62
 tyg3rr,HM878-Biostats,,https://github.com/tyg3rr/HM878-Biostats,https://api.github.com/repos/HM878-Biostats/tyg3rr,Coursework for Advanced Biostats; Learning Playground for R,"# HM878-Biostats
 Coursework for HM 878 Applied Biostatistics for Public Health Practitioners
 
@@ -3396,7 +3396,7 @@ Course Learning Objectives:
 
 4. Implement a statistical analysis plan for a public health data set.
 
-5. Create reports of the results of a statistical analysis plan.",0,0,1,0,public-health,"[biostatistical-computing, biostatistics, public-health, rlanguage]",0
+5. Create reports of the results of a statistical analysis plan.",0,0,1,0,public-health,"[biostatistical-computing, biostatistics, public-health, rlanguage]",62
 humanetech-community,awesome-humane-tech,humanetech-community,https://github.com/humanetech-community/awesome-humane-tech,https://api.github.com/repos/awesome-humane-tech/humanetech-community,"Promoting Solutions that Improve Wellbeing, Freedom and Society","# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humanetech-tech-distraction.jpg)](https://community.humanetech.com)
@@ -3424,7 +3424,7 @@ Any use of this project's code by GitHub Copilot, past or present, is done witho
 Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
-",2962,2962,109,0,health,"[awesome-list, decentralization, democracy, ergonomics, ethics, fediverse, freedom-of-information, freedom-of-speech, giveupgithub, health, humane, humane-tech, mindfulness, privacy, privacy-protection, social, social-media, social-networks, society, transparency]",0
+",2962,2962,109,0,health,"[awesome-list, decentralization, democracy, ergonomics, ethics, fediverse, freedom-of-information, freedom-of-speech, giveupgithub, health, humane, humane-tech, mindfulness, privacy, privacy-protection, social, social-media, social-networks, society, transparency]",62
 openemr,openemr,openemr,https://github.com/openemr/openemr,https://api.github.com/repos/openemr/openemr,The most popular open source electronic health records and medical practice management solution.,"![Syntax Status](https://github.com/openemr/openemr/workflows/Syntax/badge.svg?branch=master)
 ![Styling Status](https://github.com/openemr/openemr/workflows/Styling/badge.svg?branch=master)
 ![Testing Status](https://github.com/openemr/openemr/workflows/Test/badge.svg?branch=master)
@@ -3492,7 +3492,7 @@ Thanks to our [2015 Edition Major Sponsors](https://www.open-emr.org/wiki/index.
 ### License
 
 [GNU GPL](LICENSE)
-",2375,2375,125,223,health,"[ehr, emr, fhir, global-health, health, healthcare, hit, international, linux, medical, medical-informatics, medical-information, medical-records, openemr, osx, php, practice-management, proprietary-counterparts, sponsors, windows]",0
+",2375,2375,125,223,health,"[ehr, emr, fhir, global-health, health, healthcare, hit, international, linux, medical, medical-informatics, medical-information, medical-records, openemr, osx, php, practice-management, proprietary-counterparts, sponsors, windows]",62
 carekit-apple,CareKit,carekit-apple,https://github.com/carekit-apple/CareKit,https://api.github.com/repos/CareKit/carekit-apple,CareKit is an open source software framework for creating apps that help people better understand and manage their health.,"![CareKit](https://user-images.githubusercontent.com/29666989/60061659-cf6acb00-96aa-11e9-90a0-459b08fc020d.png)
 
 # CareKit
@@ -3925,7 +3925,7 @@ GitHub is our primary forum for CareKit. Feel free to open up issues about quest
 # License <a name=""license""></a>
 
 This project is made available under the terms of a BSD license. See the [LICENSE](LICENSE) file.
-",2327,2327,143,85,health,"[carekit, combine, core-data, darkmode-ios13, health, swift-package-manager, swift5, uiframework]",0
+",2327,2327,143,85,health,"[carekit, combine, core-data, darkmode-ios13, health, swift-package-manager, swift5, uiframework]",62
 kakoni,awesome-healthcare,,https://github.com/kakoni/awesome-healthcare,https://api.github.com/repos/awesome-healthcare/kakoni,"Curated list of awesome open source healthcare software, libraries, tools and resources.","# Awesome Health [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of awesome open source healthcare software, libraries, tools and resources. Each link has been vetted to ensure the project is active and provides value to healthcare facilities, providers, developers, policy experts, and/or research scientists.
@@ -4160,7 +4160,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
   * [OpenBoxes](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
   * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
-",2285,2285,147,2,health,"[awesome, awesome-list, health, list]",0
+",2285,2285,147,2,health,"[awesome, awesome-list, health, list]",62
 kuberhealthy,kuberhealthy,kuberhealthy,https://github.com/kuberhealthy/kuberhealthy,https://api.github.com/repos/kuberhealthy/kuberhealthy,A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!,"
 <center><img src=""https://github.com/kuberhealthy/kuberhealthy/blob/master/images/kuberhealthy.png?raw=true""></center><br />
 
@@ -4374,7 +4374,7 @@ Kuberhealthy locally or in a test environment.
 ## Monthly Community Meeting
 
 If you would like to talk directly to the core maintainers to discuss ideas, code reviews, or other complex issues, we have a monthly Zoom meeting on the first Wednesday of the month.  [Click here to add the meeting to your calendar](https://zoom.us/j/96457488866?pwd=SDZxL1dEQTVZUTRWbFFTZWNDZWFwdz09).
-",1794,1794,28,130,health,"[hacktoberfest, health, kubernetes, monitoring, synthetic]",0
+",1794,1794,28,130,health,"[hacktoberfest, health, kubernetes, monitoring, synthetic]",62
 tcgoetz,GarminDB,,https://github.com/tcgoetz/GarminDB,https://api.github.com/repos/GarminDB/tcgoetz,"Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.","[![Screen shot of a daily graph](https://raw.githubusercontent.com/tcgoetz/GarminDB/master/Screenshots/Screen_Shot_jupyter_daily_sm.jpg)](https://github.com/tcgoetz/GarminDB/wiki/Screenshots)
 
 ---
@@ -4453,7 +4453,7 @@ Find out who's using GarminDb on what platforms, OSes, and python versions [here
 # Contributing
 
 Please submit a pull request targeting the develop branch and add your self to the contributors file. Run `make flake8` at the top level and fix all errors before submitting your pull request.
-",677,677,27,11,health,"[database, garmin, health, jupyter-notebooks, python, sqlite]",0
+",677,677,27,11,health,"[database, garmin, health, jupyter-notebooks, python, sqlite]",62
 spatie,http-status-check,spatie,https://github.com/spatie/http-status-check,https://api.github.com/repos/http-status-check/spatie,CLI tool to crawl a website and check HTTP status codes,"# Check the HTTP status code of all links on a website
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/http-status-check.svg?style=flat-square)](https://packagist.org/packages/spatie/http-status-check)
@@ -4566,7 +4566,7 @@ If you've found a bug regarding security please mail [security@spatie.be](mailto
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-",585,585,20,0,health,"[curl, health, http, seo, statuscode]",0
+",585,585,20,0,health,"[curl, health, http, seo, statuscode]",62
 chaoss,augur,chaoss,https://github.com/chaoss/augur,https://api.github.com/repos/augur/chaoss,Python library and web service for Open Source Software Health and Sustainability metrics & data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io,"# Augur NEW Release v0.53.2
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) We follow the [First Timers Only](https://www.firsttimersonly.com/) philosophy of tagging issues for first timers only, and walking one newcomer through the resolution process weekly. [You can find these issues tagged with ""first timers only"" on our issues list.](https://github.com/chaoss/augur/labels/first-timers-only).
@@ -4700,7 +4700,7 @@ GSoC 2018 participants
 -----------------------
 - `Keanu Nichols <https://github.com/kmn5409/>`_
 
-",542,542,23,54,health,"[chaoss, data-collection, data-modeling, data-visualization, defined-metrics, facade, git, github, hacktoberfest, hacktoberfest2020, health, linux, linux-foundation, metrics, open-source, opensource, python-library, research, sustainability, unix]",0
+",542,542,23,54,health,"[chaoss, data-collection, data-modeling, data-visualization, defined-metrics, facade, git, github, hacktoberfest, hacktoberfest2020, health, linux, linux-foundation, metrics, open-source, opensource, python-library, research, sustainability, unix]",62
 matthiasn,lotti,,https://github.com/matthiasn/lotti,https://api.github.com/repos/lotti/matthiasn,"Achieve your goals and keep your data private with Lotti. This life tracking app is designed to help you stay motivated and on track, all while keeping your personal information safe and secure. Now with on-device speech recognition.","# Lotti
 
 [![CodeFactor](https://www.codefactor.io/repository/github/matthiasn/lotti/badge)](https://www.codefactor.io/repository/github/matthiasn/lotti) [![Flutter Test](https://github.com/matthiasn/lotti/actions/workflows/flutter-test.yml/badge.svg)](https://github.com/matthiasn/lotti/actions/workflows/flutter-test.yml)
@@ -4878,7 +4878,7 @@ Contributions to this project are very welcome. How can you help?
 4. Help translate into more languages, and improve the existing translations.
 
 Thanks!
-",451,451,11,7,health,"[android-app, fitness-app, flutter, health, ios, journal, linux-app, macos, speech-recognition, speech-to-text, time-tracker, windows]",0
+",451,451,11,7,health,"[android-app, fitness-app, flutter, health, ios, journal, linux-app, macos, speech-recognition, speech-to-text, time-tracker, windows]",62
 mraible,21-points,,https://github.com/mraible/21-points,https://api.github.com/repos/21-points/mraible,❤️ 21-Points Health is an app you can use to monitor your health. ,"# 21-Points Health
 [![Build Status][github-actions-image]][github-actions-url] <!--[![Dependency Status][daviddm-image]][daviddm-url]--> <object id=""badge"" data=""https://snyk-widget.herokuapp.com/badge/npm/%mraible%21-points/7.0.0/badge.svg"" type=""image/svg+xml""></object> [![Known Vulnerabilities][snyk-image]][snyk-url]
 
@@ -5143,7 +5143,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [snyk-image]: https://snyk.io/test/github/mraible/21-points/badge.svg
 [daviddm-image]: https://david-dm.org/mraible/21-points/dev-status.svg
 [daviddm-url]: https://david-dm.org/mraible/21-points?type=dev
-",283,283,28,7,health,"[angular, bootstrap, gradle, health, java, jhipster, spring-boot, typescript, webpack]",0
+",283,283,28,7,health,"[angular, bootstrap, gradle, health, java, jhipster, spring-boot, typescript, webpack]",62
 fast-ide,fast-ide,fast-ide,https://github.com/fast-ide/fast-ide,https://api.github.com/repos/fast-ide/fast-ide,🕺Fast Integrated Development Environment  😻,"![ci_dockerfile](https://github.com/fast-ide/fast-ide/workflows/ci_dockerfile/badge.svg?branch=master)
 [![Build Status](https://travis-ci.org/fast-ide/fast-ide.svg?branch=master)](https://travis-ci.org/fast-ide/fast-ide)
 [![Gitter](https://img.shields.io/badge/chat-gitter-brightgreen.svg)](https://gitter.im/fast-ide/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -5908,7 +5908,7 @@ We are grateful to the maintainers of the following projects for their great wor
 <a href=""https://www.patreon.com/chemzqm""><img src=""https://img.shields.io/badge/patreon-cocnvim-orange.svg"" /></a>
 <a href=""https://github.com/sponsors/tpope""><img src=""https://img.shields.io/badge/sponsors-tpope-orange.svg"" /></a>
 <a href=""https://www.patreon.com/umputun""><img src=""https://img.shields.io/badge/patreon-radio_t-orange.svg"" /></a>
-",206,206,7,76,health,"[brew, cloud, collaboration, cool, fast, health, ide, modern, neovim, portable, professional, tmux, toolbox, vim, zsh]",0
+",206,206,7,76,health,"[brew, cloud, collaboration, cool, fast, health, ide, modern, neovim, portable, professional, tmux, toolbox, vim, zsh]",62
 citiususc,calendula,citiususc,https://github.com/citiususc/calendula,https://api.github.com/repos/calendula/citiususc,An Android assistant for personal medication management,"![](https://tec.citius.usc.es/calendula/github-assets/calendula_promo_google_play.png)
 # Calendula
 
@@ -6053,7 +6053,7 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
-",196,196,18,49,health,"[android, android-studio, app, google-play, health, medication, reminders]",0
+",196,196,18,49,health,"[android, android-studio, app, google-play, health, medication, reminders]",62
 kubukoz,sup,,https://github.com/kubukoz/sup,https://api.github.com/repos/sup/kubukoz,"Composable, purely functional healthchecks in Scala.","# sup
 
 [![Join the chat at https://gitter.im/sup-scala/community](https://badges.gitter.im/sup-scala/community.svg)](https://gitter.im/sup-scala/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -6122,7 +6122,7 @@ and there's no ""unknown"" state.
 This project supports the [Scala code of conduct](https://www.scala-lang.org/conduct/) and wants communication on all its channels (GitHub etc.) to be inclusive environments.
 
 If you have any concerns about someone's behavior on these channels, contact [Jakub Kozłowski](mailto:kubukoz@gmail.com).
-",185,185,6,24,health,"[cats, cats-effect, fp, functional, functional-programming, health, healthcheck, scala, typelevel]",0
+",185,185,6,24,health,"[cats, cats-effect, fp, functional, functional-programming, health, healthcheck, scala, typelevel]",62
 frappe,health,frappe,https://github.com/frappe/health,https://api.github.com/repos/health/frappe,Open Source Health Information System,"## Frappe Health
 
 Open source & easy-to-use hospital information system(HIS) for all healthcare organisations.
@@ -6172,7 +6172,7 @@ GNU GPL V3. See [license.txt](https://github.com/frappe/health/blob/develop/lice
 ### Credits
 
 Frappe Health module is initially developed by Earthians. Currently, it is developed & maintained by Frappe Team and community contributors.
-",173,173,27,56,health,"[emr, erp, erpnext, health, healthcare, hims, opd, patient-management]",0
+",173,173,27,56,health,"[emr, erp, erpnext, health, healthcare, hims, opd, patient-management]",62
 nutritionfactsorg,daily-dozen-ios,nutritionfactsorg,https://github.com/nutritionfactsorg/daily-dozen-ios,https://api.github.com/repos/daily-dozen-ios/nutritionfactsorg,"Keep track of the foods that Dr. Greger recommends in his NYT's best-selling book, How Not to Die with this iOS app","# Daily Dozen iOS App
 
 <p align=""center""><img src=""README_files/github-dailydozen.jpg"" style=""width: 480px""></p>
@@ -6306,7 +6306,7 @@ Improvements:
 [justaninja]:https://github.com/justaninja ""Konstantin Khokhlov on Github""
 [laurenhacker]:http://github.com/lahacker ""Lauren Hacker on Github""
 [marc-medley]:http://github.com/marc-medley ""Marc Campbell on Github""
-",133,133,22,23,health,"[daily-dozen, food, food-tracker, hacktoberfest-accepted, health, help-wanted, how-not-to-die, ios, nutrition]",0
+",133,133,22,23,health,"[daily-dozen, food, food-tracker, hacktoberfest-accepted, health, help-wanted, how-not-to-die, ios, nutrition]",62
 ashtom,hadge,,https://github.com/ashtom/hadge,https://api.github.com/repos/hadge/ashtom,💪 Export workout data from Health.app on iOS to a GitHub repo,"# Hadge - Health.app Data Git Exporter (for iOS)
 
 [![Build App](https://github.com/ashtom/hadge/actions/workflows/build_app.yml/badge.svg)](https://github.com/ashtom/hadge/actions/workflows/build_app.yml)
@@ -6430,7 +6430,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-",128,128,6,1,health,"[health, ios-app, pinned-gist, swift, workouts]",0
+",128,128,6,1,health,"[health, ios-app, pinned-gist, swift, workouts]",62
 jeffshek,open,,https://github.com/jeffshek/open,https://api.github.com/repos/open/jeffshek,The most boring open source you've ever seen ....,"<a href=""https://github.com/ambv/black""><img alt=""Code style: black"" src=""https://img.shields.io/badge/code%20style-black-000000.svg""></a>
 [![CircleCI](https://circleci.com/gh/jeffshek/open.svg?style=svg)](https://circleci.com/gh/jeffshek/open) [![Python 3
 .6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
@@ -6489,7 +6489,7 @@ In the future, I'm expecting to move a lot of machine learning projects about he
 1. pip install pre-commit
 2. pre-commit install
 ~~~
-",125,125,1,28,health,"[django, django-rest-framework, health, health-dashboard, health-informatics, machine-learning, quantified-self, statistics, writeup]",0
+",125,125,1,28,health,"[django, django-rest-framework, health, health-dashboard, health-informatics, machine-learning, quantified-self, statistics, writeup]",62
 skydoves,All-In-One,,https://github.com/skydoves/All-In-One,https://api.github.com/repos/All-In-One/skydoves,:necktie: Health care application for reminding health-todo lists and making healthy habits every day.,"# All-In-One
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![API](https://img.shields.io/badge/API-17%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=17) </br></br>
@@ -6588,7 +6588,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-",119,119,11,3,health,"[android, application, demo-app, health, healthcare, reminder, skydoves, todo, todoapp]",0
+",119,119,11,3,health,"[android, application, demo-app, health, healthcare, reminder, skydoves, todo, todoapp]",62
 shlima,health_bit,,https://github.com/shlima/health_bit,https://api.github.com/repos/health_bit/shlima,"Tiny health check of Rack apps like Rails, Sinatra for use with uptime checking systems like Kubernetes, Docker or Uptimerobot","![CI](https://github.com/shlima/health_bit/workflows/CI/badge.svg)
 [![gem version](https://badge.fury.io/rb/health_bit.svg)](https://rubygems.org/gems/health_bit)
 
@@ -6867,7 +6867,7 @@ HealthBit.configure do |c|
   c.formatter = JsonFormatter.new
 end
 ```
-",111,111,2,3,health,"[health, health-check, healthcheck, rack, ruby, ruby-on-rails]",0
+",111,111,2,3,health,"[health, health-check, healthcheck, rack, ruby, ruby-on-rails]",62
 plashchynski,awesome-genetics,,https://github.com/plashchynski/awesome-genetics,https://api.github.com/repos/awesome-genetics/plashchynski,A curated list of awesome bioinformatics software.,"# awesome-genetics
 A curated list of awesome bioinformatics software and libraries
 
@@ -6914,7 +6914,7 @@ A curated list of awesome bioinformatics software and libraries
 * [DNA.Land](https://dna.land/) — The site offers a biogeographical analysis, imputation and a relative-matching feature
 * [David Pike's Tools](http://www.math.mun.ca/~dapike/FF23utils/) — Utilities for analysing raw DNA data (JS)
 * [Shared cM Project](https://dnapainter.com/tools/sharedcmv4) — Visualize relationship probabilities based on centimorgans
-",96,96,6,0,health,"[23andme, ancestry, bioinformatics, consumer-dna-test, dna, geneology, genetics, genomics, health, snpedia]",0
+",96,96,6,0,health,"[23andme, ancestry, bioinformatics, consumer-dna-test, dna, geneology, genetics, genomics, health, snpedia]",62
 belisards,coronabr,,https://github.com/belisards/coronabr,https://api.github.com/repos/coronabr/belisards,"Série histórica dos dados sobre COVID-19, a partir de informações do Ministério da Saúde","# CoronaBR
 [![goodtables.io](https://goodtables.io/badge/github/belisards/coronabr.svg)](https://goodtables.io/github/belisards/coronabr)
 
@@ -6945,7 +6945,7 @@ A base de dados [corona_brasil.csv](https://github.com/belisards/coronabr/blob/m
 * Lista colaborativa no [fórum Dados Abertos](https://dadosabertos.social/t/dados-sobre-a-pandemia-do-novo-coronavirus/267);
 
 * Painel e projeções do [Observatório COVID-19 BR](https://covid19br.github.io/)
-",85,85,11,1,health,"[brasil, covid-19, covid-data, covid19, dados, health, open-data, opendata, saude]",0
+",85,85,11,1,health,"[brasil, covid-19, covid-data, covid19, dados, health, open-data, opendata, saude]",62
 nextcloud,health,nextcloud,https://github.com/nextcloud/health,https://api.github.com/repos/health/nextcloud,Nextcloud health app,"# Health
 ##### version 1.6.1
 ### Track your health. Use the advantages of a trusted platform.
@@ -6960,7 +6960,7 @@ Following modules are served:
 - Smoking
 - Activities
 - Medication
-",78,78,12,54,health,"[health, nextcloud-app]",0
+",78,78,12,54,health,"[health, nextcloud-app]",62
 goinvo,HealthDeterminants,goinvo,https://github.com/goinvo/HealthDeterminants,https://api.github.com/repos/HealthDeterminants/goinvo,Social Determinants of Health Visualization,"# Determinants of Health
  An open source visualization of the social determinants of health.
  
@@ -7059,8 +7059,8 @@ The Health Determinants content and poster is licensed under Creative Commons At
 If you want to reference this work (in a paper, for example), feel free to use:
 
 Choi, Edwin, and Juhan Sonin. 2019. “Determinants of Health.” GoInvo. https://www.goinvo.com/vision/determinants-of-health/.
-",62,62,13,1,health,"[boston, design, determinants-of-health, doh, goinvo, health, healthcare, holistic-health, open-source, sdoh, social-determinants, ux, visualization]",0
-IMS94,chr247.com,,https://github.com/IMS94/chr247.com,https://api.github.com/repos/chr247.com/IMS94,An open source multi tenant cloud platform for small scale clinics,,60,60,8,9,health,"[clinic, cloud-platform, doctor, health, health-informatics, healthcare, patient-management, patient-record, patient-records, patients]",0
+",62,62,13,1,health,"[boston, design, determinants-of-health, doh, goinvo, health, healthcare, holistic-health, open-source, sdoh, social-determinants, ux, visualization]",62
+IMS94,chr247.com,,https://github.com/IMS94/chr247.com,https://api.github.com/repos/chr247.com/IMS94,An open source multi tenant cloud platform for small scale clinics,,60,60,8,9,health,"[clinic, cloud-platform, doctor, health, health-informatics, healthcare, patient-management, patient-record, patient-records, patients]",62
 ColeMacGrath,HealthApp,,https://github.com/ColeMacGrath/HealthApp,https://api.github.com/repos/HealthApp/ColeMacGrath,This application is designed for the effective interaction between patients and doctors,"![alt text](https://user-images.githubusercontent.com/42153044/61584923-01d6df00-ab16-11e9-9811-9b2ece37889a.png)
 
 HealthApp provides a series of tools to provide a better interaction between patients and doctors.
@@ -7217,7 +7217,7 @@ MIT
 
 - [ISC](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main) For main image data set
 - [MED-NODE](http://www.cs.rug.nl/~imaging/databases/melanoma_naevi/)
-",58,58,9,0,health,"[health, healthkit, image-recognition, ios, swift]",0
+",58,58,9,0,health,"[health, healthkit, image-recognition, ios, swift]",62
 kadalu,gdash,kadalu,https://github.com/kadalu/gdash,https://api.github.com/repos/gdash/kadalu,Lightweight GlusterFS Dashboard,"# gdash - GlusterFS Dashboard
 
 ## Install
@@ -7300,7 +7300,7 @@ optional arguments:
 ## Issues
 
 For feature requests, issues, suggestions [here](https://github.com/kadalu/gdash/issues)
-",57,57,5,4,health,"[dashboard, glusterfs, health, monitor]",0
+",57,57,5,4,health,"[dashboard, glusterfs, health, monitor]",62
 kvs-coder,HealthKitReporter,,https://github.com/kvs-coder/HealthKitReporter,https://api.github.com/repos/HealthKitReporter/kvs-coder,HealthKitReporter. A wrapper for HealthKit framework. Helps to write or read data from Apple Health via HealthKit framework.,"# HealthKitReporter
 
 ## About
@@ -7640,7 +7640,7 @@ HealthKitReporter is available under the MIT license. See the LICENSE file for m
 
 ## Sponsorhip
 If you think that my repo helped you to solve the issues you struggle with, please don't be shy and sponsor :-)
-",57,57,2,4,health,"[apple, apple-health, cocoapods, health, healthkit, healthkit-framework, healthkit-objects, healthkitreporter, ios, swift]",0
+",57,57,2,4,health,"[apple, apple-health, cocoapods, health, healthkit, healthkit-framework, healthkit-objects, healthkitreporter, ios, swift]",62
 elfenware,badger,elfenware,https://github.com/elfenware/badger,https://api.github.com/repos/badger/elfenware,Remind yourself to not sit and stare at the screen for too long,"<p align=""center"">
     <img src=""data/icons/128/com.github.elfenware.badger.svg"" alt=""Icon"" />
 </p>
@@ -7706,7 +7706,7 @@ com.github.elfenware.badger
 
 [elementary OS]: https://elementary.io
 [AppCenter]: https://appcenter.elementary.io/com.github.elfenware.badger
-",52,52,4,5,health,"[appcenter, elementary, ergonomics, gtk, hacktoberfest, health, vala]",0
+",52,52,4,5,health,"[appcenter, elementary, ergonomics, gtk, hacktoberfest, health, vala]",62
 pratapvardhan,NFHS-5,,https://github.com/pratapvardhan/NFHS-5,https://api.github.com/repos/NFHS-5/pratapvardhan," NFHS-5: National Family Health Survey (2019-20). CSV fact sheets (states, districts) for key indicators from http://rchiips.org/nfhs/ | https://doi.org/10.7910/DVN/42WNZF","# NFHS-5: National Family Health Survey (2019-20)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -7816,6 +7816,6 @@ You can manually convert one of the 29 pdf files and submit as PR/Issue.
 </details>
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg",49,49,7,0,health,"[health, india, nfhs, nfhs5]",0
-pablopunk,healthi-app,,https://github.com/pablopunk/healthi-app,https://api.github.com/repos/healthi-app/pablopunk,Simple app to check your laptop's battery health.,,47,47,4,5,health,"[battery, electron, health, javascript, mac, react, tool, util]",0
-smallrye,smallrye-health,smallrye,https://github.com/smallrye/smallrye-health,https://api.github.com/repos/smallrye-health/smallrye,,,46,46,7,4,health,"[hacktoberfest, health, microprofile, smallrye]",0
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg",49,49,7,0,health,"[health, india, nfhs, nfhs5]",62
+pablopunk,healthi-app,,https://github.com/pablopunk/healthi-app,https://api.github.com/repos/healthi-app/pablopunk,Simple app to check your laptop's battery health.,,47,47,4,5,health,"[battery, electron, health, javascript, mac, react, tool, util]",62
+smallrye,smallrye-health,smallrye,https://github.com/smallrye/smallrye-health,https://api.github.com/repos/smallrye-health/smallrye,,,46,46,7,4,health,"[hacktoberfest, health, microprofile, smallrye]",62

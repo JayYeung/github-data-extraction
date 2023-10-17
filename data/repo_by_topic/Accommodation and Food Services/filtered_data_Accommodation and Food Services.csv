@@ -125,7 +125,7 @@ In addition to the core role of the community, we also had the support from seve
 <a href=""https://github.com/openfoodfacts/smooth-app/graphs/contributors"">
   <img alt=""List of contributors to this repository"" src=""https://contrib.rocks/image?repo=openfoodfacts/smooth-app"" />
 </a>
-",538,538,17,439,food,"[android, dart, dartlang, flutter, flutter-app, food, hacktoberfest, ios, mobile, mobile-app, nutrition, openfoodfacts]",0
+",538,538,17,439,food,"[android, dart, dartlang, flutter, flutter-app, food, hacktoberfest, ios, mobile, mobile-app, nutrition, openfoodfacts]",72
 hmontazeri,is-vegan,,https://github.com/hmontazeri/is-vegan,https://api.github.com/repos/is-vegan/hmontazeri,Is-Vegan helps you to find out which food ingredients are vegan / non-vegan,"[![Build Status](https://travis-ci.org/hmontazeri/is-vegan.svg?branch=master)](https://travis-ci.org/hmontazeri/is-vegan) [![npm version](https://badge.fury.io/js/is-vegan.svg)](https://badge.fury.io/js/is-vegan) [![codecov](https://codecov.io/gh/hmontazeri/is-vegan/branch/master/graph/badge.svg)](https://codecov.io/gh/hmontazeri/is-vegan)
 
 # is-vegan
@@ -282,7 +282,7 @@ yarn test
 
 - Hamed Montazeri
 - Meike Rittmeier
-",463,463,11,26,food,"[food, ingredients, npm, vegan]",0
+",463,463,11,26,food,"[food, ingredients, npm, vegan]",72
 freeCodeCamp,pantry-for-good,freeCodeCamp,https://github.com/freeCodeCamp/pantry-for-good,https://api.github.com/repos/pantry-for-good/freeCodeCamp,An open source food bank logistics and inventory management tool,"[![Build Status](https://travis-ci.org/freeCodeCamp/pantry-for-good.svg?branch=staging)](https://travis-ci.org/freeCodeCamp/pantry-for-good)
 [![Docker Repository on Quay](https://quay.io/repository/painejs/pantry-for-good/status ""Docker Repository on Quay"")](https://quay.io/repository/painejs/pantry-for-good)
 [![Join the chat at https://gitter.im/FreeCodeCamp/pantry-for-good](https://badges.gitter.im/FreeCodeCamp/pantry-for-good.svg)](https://gitter.im/FreeCodeCamp/pantry-for-good?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -339,7 +339,7 @@ Sendgrid email API for sending emails.
 - Register for a trial account or deploy the app and get the username/password from the heroku config vars
 - Go to [Settings > API Keys](https://app.sendgrid.com/settings/api_keys) and create a key
 - Paste the key in `secrets.js` or the `SENDGRID_API_KEY` config var of your deployed app.
-",383,383,52,29,food,"[charity, food, food-banks, inventory-management, nonprofit, nonprofit-organizations, nonprofits, opensourceforgood]",0
+",383,383,52,29,food,"[charity, food, food-banks, inventory-management, nonprofit, nonprofit-organizations, nonprofits, opensourceforgood]",72
 gabrielilharco,snap-n-eat,,https://github.com/gabrielilharco/snap-n-eat,https://api.github.com/repos/snap-n-eat/gabrielilharco,Food detection and recommendation with deep learning,"# Snap & Eat (formerly deep139)
 Deep Learning Hackathon 48h - Cotidiano (**First place Project =D** )
 
@@ -415,7 +415,7 @@ The default password for the notebooks is ```snapneat```. Don't forget to change
 According to the [World Health Organization](http://www.who.int/en/), worldwide obesity has nearly tripled since 1975. In the United States, almost 75% of the population is overweight and more than half of the population is obese ([OECD](http://www.oecd.org/)). Today, many diseases that were preivously thought as hereditary are now shown to be seen conected to biological disfunction related to nutrition.
 
 Although being healty and eating better is something the vast majority of the population want, doing so usually requires great effort and organization. The lack of an easy and simple way to track nutrition information about the food you eat can easily lead to low engagement. By providing a very easy and fun way to keep track of what the user eat, we can largely improve engagement, and directly atack on of the largest health problems in the world.
-",265,265,19,10,food,"[deep-learning, deep-neural-networks, fastai, flask, food, food-classification, food-recommendation, knn, nodejs, pytorch, resnext]",0
+",265,265,19,10,food,"[deep-learning, deep-neural-networks, fastai, flask, food, food-classification, food-recommendation, knn, nodejs, pytorch, resnext]",72
 haxxorsid,food-ordering-system,,https://github.com/haxxorsid/food-ordering-system,https://api.github.com/repos/food-ordering-system/haxxorsid,Food or Item Order Management System,"# Food Ordering System
 
 ## Screenshots
@@ -458,7 +458,7 @@ Note -
 4. By default a new customer gets 2000 coins in Wallet on signing up, and a fake Credit card number & CVV number is generated and stored in SQL Table ""wallet_details"" with corresponding new customer's ID.
 5. Use that Card Number & CVV while placing an order, else order won't be successful or use ""Cash on delivery"" option.
 6. What's lacking? Dynamic payment(real payment system) and error reporting lacks in this project. And also one might wish for showing corresponding food item's photo and all that stuff.
-",262,262,24,9,food,"[css, food, hotel-food, html, management, management-system, order-food, order-management, ordering, php, restaurant, restaurant-management, restaurant-menu, restaurant-order, system, university-course, university-project]",0
+",262,262,24,9,food,"[css, food, hotel-food, html, management, management-system, order-food, order-management, ordering, php, restaurant, restaurant-management, restaurant-menu, restaurant-order, system, university-course, university-project]",72
 mr-karan,swiggy-analytics,,https://github.com/mr-karan/swiggy-analytics,https://api.github.com/repos/swiggy-analytics/mr-karan,Analyse your swiggy orders 🍔,"# swiggy-analytics
 
 [![version](https://img.shields.io/pypi/v/swiggy-analytics.svg)](https://pypi.org/project/swiggy-analytics/)
@@ -526,7 +526,7 @@ PRs on Feature Requests, Bug fixes are welcome. Feel free to open an issue and h
 
 This tool is only intended for personal use and is a simple demonstration. It is in open domain and I am not responsible if you use it and violate any TnC. Or as they say,
 it's **for science**.
-",248,248,4,5,food,"[analytics, cli, expense-tracker, food, prompt-toolkit, swiggy]",0
+",248,248,4,5,food,"[analytics, cli, expense-tracker, food, prompt-toolkit, swiggy]",72
 Singh-Shivani,Food_Lab,,https://github.com/Singh-Shivani/Food_Lab,https://api.github.com/repos/Food_Lab/Singh-Shivani,A Food App using Flutter & Firebase to post and view food blogs along with their recipes.,"<p align=""center"">
   <a href=""https://github.com/Singh-Shivani/Food_Lab"">
     <img src=""AppScreensAndPoster/FoodLab_App_Poster.png"" alt=""Logo""> 
@@ -564,7 +564,7 @@ Singh-Shivani,Food_Lab,,https://github.com/Singh-Shivani/Food_Lab,https://api.gi
 
 
   
-",205,205,4,2,food,"[firebase-authentication, firebase-realtime-database, flutter, flutter-apps, flutter-firebase-auth, flutter-firebase-image-upload, flutter-food-app, flutter-provider, food, food-app, mockups, provider-architecture, ui-design]",0
+",205,205,4,2,food,"[firebase-authentication, firebase-realtime-database, flutter, flutter-apps, flutter-firebase-auth, flutter-firebase-image-upload, flutter-food-app, flutter-provider, food, food-app, mockups, provider-architecture, ui-design]",72
 Akshay0701,food_delivery_app,,https://github.com/Akshay0701/food_delivery_app,https://api.github.com/repos/food_delivery_app/Akshay0701,A Food App using Flutter & Firebase.,"# Food Delivery App
 ![](banner.png)
  
@@ -624,7 +624,7 @@ Make Pull requests which improve the functionality of the application in any sor
 * To my family👪  and friends 👫 who always kept me motivated.
 * To the community of computer science 💻.
 
-",104,104,1,3,food,"[android-application, app, dart, delivery, firebase, firebase-auth, flutter, food, food-delivery-application, hacktoberfest, hacktoberfest2021, mockups]",0
+",104,104,1,3,food,"[android-application, app, dart, delivery, firebase, firebase-auth, flutter, food, food-delivery-application, hacktoberfest, hacktoberfest2021, mockups]",72
 openfoodfacts,openfoodfacts-nodejs,openfoodfacts,https://github.com/openfoodfacts/openfoodfacts-nodejs,https://api.github.com/repos/openfoodfacts-nodejs/openfoodfacts,Official Node package for Open Food Facts,"# Open Food Facts - JS SDK
 
 This is the official JS/TS SDK for the Open Food Facts API.
@@ -676,7 +676,7 @@ When submitting a PR, please use the [angular commit guideline](https://github.c
 ## Third party applications
 
 If you use this SDK, feel free to open a PR to add your application in this list.
-",91,91,12,26,food,"[food, hacktoberfest, nodejs, openfoodfacts]",0
+",91,91,12,26,food,"[food, hacktoberfest, nodejs, openfoodfacts]",72
 navassherif98,Recipe-Generation-from-Food-Image,,https://github.com/navassherif98/Recipe-Generation-from-Food-Image,https://api.github.com/repos/Recipe-Generation-from-Food-Image/navassherif98,"An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning.","![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Recipe-Generation-from-Food-Image.svg?cache=remove)
 
 # Recipe-Generation-from-Food-Image
@@ -726,7 +726,7 @@ Download these files and replace it with the files in this folder ""Foodimg2Ing/
 You will be getting a localhost link and open that link in your browser 
 
 
-",89,89,1,4,food,"[application, cooking, css, deep-learning, development, dishes, facebook, final-project, final-year-project, flask, flask-application, food, food-images, html, ingredients, inverse-cooking, machine-learning, project, recipe-generation, recipes]",0
+",89,89,1,4,food,"[application, cooking, css, deep-learning, development, dishes, facebook, final-project, final-year-project, flask, flask-application, food, food-images, html, ingredients, inverse-cooking, machine-learning, project, recipe-generation, recipes]",72
 mayaculpa,hapi,mayaculpa,https://github.com/mayaculpa/hapi,https://api.github.com/repos/hapi/mayaculpa,Hydro­ponic Automa­tion Plat­form Ini­tia­tive (HAPI),"[![Build Status](https://travis-ci.org/mayaculpa/hapi.svg?master)](https://travis-ci.org/mayaculpa/hapi)
 
 ![HAPI Project](/docs/img/hapi.png?raw=true ""HAPI Project"")
@@ -782,7 +782,7 @@ However if you have found any problem or just want to make a suggestion, please 
 ![System Overview of the HAPI Project](/docs/img/system-overview.png?raw=true ""HAPI Project System Overview"")
 
 Please note: we're currently working on the system design. Some changes on this image will probably be necessary in the near future.
-",67,67,27,11,food,"[arduino, automation, esp32, esp8266, food, hydroponics, mqtt, python, raspberrypi]",0
+",67,67,27,11,food,"[arduino, automation, esp32, esp8266, food, hydroponics, mqtt, python, raspberrypi]",72
 TheBusyBiscuit,ExoticGarden,,https://github.com/TheBusyBiscuit/ExoticGarden,https://api.github.com/repos/ExoticGarden/TheBusyBiscuit,A Slimefun 4 Addon that adds new plants and various new food items,"# ExoticGarden
 
 ExoticGarden is a big addon to [Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4) which brings various new Plants, fruits, vegetables and food items to the game.
@@ -809,7 +809,7 @@ You are allowed, even encouraged, to contribute to ExoticGarden by making Pull R
 These Pull Requests can be Fixes, Changes or even Additions, it is your choice.
 
 Check the license for more Info on redistributing and modifying ExoticGarden.
-",53,53,5,44,food,"[addon, bukkit, exotic, food, garden, hacktoberfest, minecraft, plants, plugin, slimefun]",0
+",53,53,5,44,food,"[addon, bukkit, exotic, food, garden, hacktoberfest, minecraft, plants, plugin, slimefun]",72
 fuzzymannerz,Kitchen-Inventory,,https://github.com/fuzzymannerz/Kitchen-Inventory,https://api.github.com/repos/Kitchen-Inventory/fuzzymannerz,A stock system for food and such.,"# Kitchen Inventory
 
 **A stock system for food and such. Currently a work in progress.**  
@@ -867,7 +867,7 @@ This project utilises the following projects and technologies:
 - Pixeden Foood Icons - http://themes-pixeden.com/font-demos/the-icons-set/food/
 - jQuery - https://code.jquery.com
 - Some other things that I've probably fogotten to list. :(
-",51,51,7,0,food,"[food, inventory, kitchen, stock]",0
+",51,51,7,0,food,"[food, inventory, kitchen, stock]",72
 logicguy1,The-Cookbook,,https://github.com/logicguy1/The-Cookbook,https://api.github.com/repos/The-Cookbook/logicguy1,The open source Cook Book,"<p align=""center"">
 <img src=https://img.shields.io/github/issues/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/license/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
@@ -943,7 +943,7 @@ Author:
 
 ## Discussion
 ```
-",48,48,4,2,food,"[cooking, cooking-recipes, food]",0
+",48,48,4,2,food,"[cooking, cooking-recipes, food]",72
 wbrenna,inventory,,https://github.com/wbrenna/inventory,https://api.github.com/repos/inventory/wbrenna,Use a barcode reader to scan the foods in your house and add them to a database. See legacy for zbarcam integration. Master integrates with a USB barcode laser scanner.,"Inventory
 =========
 
@@ -1004,7 +1004,7 @@ TODO
 =========
 
 Integrate with webserver to display printout status
-",38,38,9,0,food,"[barcode, database, expiry, food, inventory, upc, zbarcam]",0
+",38,38,9,0,food,"[barcode, database, expiry, food, inventory, upc, zbarcam]",72
 namanvashistha,foodly,,https://github.com/namanvashistha/foodly,https://api.github.com/repos/foodly/namanvashistha,website built to order food online and also for business,"# foodly
 
 #### website built to order food online and also for business in php and ajax
@@ -1027,7 +1027,7 @@ Please read [CONTRIBUTING.md](https://github.com/namanvashistha/foodly/blob/mast
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/namanvashistha/foodly/blob/master/LICENSE) file for details
-",32,32,8,3,food,"[ajax, css, food, food-ordering, food-recommendation, hacktoberfest, html, php, web, website, xampp]",0
+",32,32,8,3,food,"[ajax, css, food, food-ordering, food-recommendation, hacktoberfest, html, php, web, website, xampp]",72
 saileshbro,nutri.gram,,https://github.com/saileshbro/nutri.gram,https://api.github.com/repos/nutri.gram/saileshbro,"Nutrition is the main source of life and although it has been our secondary instinct to check for nutritional value in the food we eat, the effect any diet has on our body and health is consequential. From the fact which connotes the value of nutrition in our diet, springs the idea of nutri.gram. nutri.gram is a mobile application that scans the food label present in the packaged food items and draws a significant conclusion from that data regarding its edibleness for a person, the nutritional worth it adds to our diet, how much calorific value it provides per serving and much more. This application is targeted to anyone who wants to get insight into what they are feeding into their body and how understanding the nutritional value will be of tremendous aid to their overall health.","# nutri.gram
 
 Nutrition is the main source of life and although it has been our secondary instinct to check for nutritional value in the food we eat, the effect any diet has in our body and health is consequential. From the fact which connotes the value of nutrition in our diet, springs the idea of nutri.gram. nutri.gram is a mobile application that scans the food label present in the packaged food items and draws a significant conclusion from that data regarding its edibleness for a person, the nutritional worth it adds to our diet, how much calorific value it provides per serving and much more. This application is targeted to anyone who wants to get insight into what they are feeding into their body and how understanding the nutritional value will be of tremendous aid to their overall health.
@@ -1087,7 +1087,7 @@ cp -R opencv2.framework nutri.gram/ios
 |  ![Screen 31](./screenshots/31.png)  |  ![Screen 32](./screenshots/32.png)  | ![Screen 33](./screenshots/33.png) |
 
 This project uses [this](https://github.com/flutter-clutter/flutter-simple-edge-detection) repo as a reference for building edge detection in Flutter.
-",31,31,3,0,food,"[dart, diet, flutter, flutter-apps, food, gram, health, mongo, mongodb, mongoose, nodejs, nutri, opencv]",0
+",31,31,3,0,food,"[dart, diet, flutter, flutter-apps, food, gram, health, mongo, mongodb, mongoose, nodejs, nutri, opencv]",72
 openfoodfacts,openfoodfacts-ruby,openfoodfacts,https://github.com/openfoodfacts/openfoodfacts-ruby,https://api.github.com/repos/openfoodfacts-ruby/openfoodfacts,Open Food Facts API Wrapper,"# Open Food Facts
 
 [![Gem Version](https://badge.fury.io/rb/openfoodfacts.svg)](https://badge.fury.io/rb/openfoodfacts)
@@ -1211,7 +1211,7 @@ If you use this SDK, feel free to open a PR to add your application in this list
 
 ## Authors
 
-",31,31,10,2,food,"[api-wrapper, food, hacktoberfest, openfoodfacts, ruby]",0
+",31,31,10,2,food,"[api-wrapper, food, hacktoberfest, openfoodfacts, ruby]",72
 openfoodfacts,openfoodfacts-react-native,openfoodfacts,https://github.com/openfoodfacts/openfoodfacts-react-native,https://api.github.com/repos/openfoodfacts-react-native/openfoodfacts,Code to send product data and photos to Open Food Facts,"# React native code to contribute products to Open Food Facts
 
 Example code to add to a React native mobile application to contribute products to Open Food Facts.
@@ -1240,7 +1240,7 @@ See Open Food Facts wiki:
 Feel free to open a PR to add your application in this list.
 
 ## Authors
-",30,30,4,4,food,"[food, hacktoberfest, openfoodfacts, react-native]",0
+",30,30,4,4,food,"[food, hacktoberfest, openfoodfacts, react-native]",72
 viniciusmeneses,food-search,,https://github.com/viniciusmeneses/food-search,https://api.github.com/repos/food-search/viniciusmeneses,":strawberry: Discover the nutritional information of 700,000+ foods","# food-search
 
 > Discover the nutritional information of 700,000+ foods!
@@ -1280,7 +1280,7 @@ npm run build
 <p align=""center"">
   <a href=""https://developer.edamam.com/""><img src=""https://imgur.com/xUqNOOo.png""></a>
 </p>
-",26,26,1,1,food,"[edamam-api, food, food-database, nutrition-information, nutritional, search]",0
+",26,26,1,1,food,"[edamam-api, food, food-database, nutrition-information, nutritional, search]",72
 fzserver,FoodiFi,,https://github.com/fzserver/FoodiFi,https://api.github.com/repos/FoodiFi/fzserver,FoodiFi App in flutter,"# FoodiFi
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/FrazileDevelopers/FoodiFi) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FrazileDevelopers/FoodiFi) ![GitHub language count](https://img.shields.io/github/languages/count/FrazileDevelopers/FoodiFi) ![GitHub top language](https://img.shields.io/github/languages/top/FrazileDevelopers/FoodiFi)
@@ -1380,12 +1380,12 @@ flutter build apk --release
 
 Copyright © 2020, [FoodiFi](https://github.com/FrazileDevelopers/FoodiFi).
 Released under the [MIT License](LICENSE).
-",25,25,3,0,food,"[dart, delivery, firebase, flutter, food, food-ordering]",0
-PLNech,MenuGen,,https://github.com/PLNech/MenuGen,https://api.github.com/repos/MenuGen/PLNech,An intelligent generator of well-balanced meals.,,25,25,3,0,food,"[balanced-meals, cooking, food, generator, genetic-algorithm, machine-learning, meals, morphology, nutritional, scraping, taste]",0
+",25,25,3,0,food,"[dart, delivery, firebase, flutter, food, food-ordering]",72
+PLNech,MenuGen,,https://github.com/PLNech/MenuGen,https://api.github.com/repos/MenuGen/PLNech,An intelligent generator of well-balanced meals.,,25,25,3,0,food,"[balanced-meals, cooking, food, generator, genetic-algorithm, machine-learning, meals, morphology, nutritional, scraping, taste]",72
 LasmGratel,FoodCraft-Reloaded,,https://github.com/LasmGratel/FoodCraft-Reloaded,https://api.github.com/repos/FoodCraft-Reloaded/LasmGratel,Reloaded version of FoodCraft.Original repository:https://github.com/InfinityStudio/FoodCraft,"# Archived
 
 New version please go to https://github.com/ProjectUranus/FoodCraft-Reloaded
-",25,25,2,9,food,"[food, java, minecraft]",0
+",25,25,2,9,food,"[food, java, minecraft]",72
 zayedibnibrahim,foodstore-mern,,https://github.com/zayedibnibrahim/foodstore-mern,https://api.github.com/repos/foodstore-mern/zayedibnibrahim,Restaurant Food Order app,"## Food Store -[Live Site ](https://food-store-add09.web.app/)
 
 ## Food Store -[Admin Demo ](https://drive.google.com/file/d/1_B83hs6dFpj5oTm1OOq2mYwM517-1pJR/view?usp=sharing)
@@ -1415,7 +1415,7 @@ zayedibnibrahim,foodstore-mern,,https://github.com/zayedibnibrahim/foodstore-mer
 - Checkout process (shipping, payment method, etc)
 - Stripe / credit card integration
 - Almost all Device responsive
-",25,25,2,1,food,"[ecommerce, food, food-addon, food-delivery, food-delivery-application, food-order, mongoose, node, product-variants, react, single-product]",0
+",25,25,2,1,food,"[ecommerce, food, food-addon, food-delivery, food-delivery-application, food-order, mongoose, node, product-variants, react, single-product]",72
 GINK03,keras-resnet-food-reverse-engineering,,https://github.com/GINK03/keras-resnet-food-reverse-engineering,https://api.github.com/repos/keras-resnet-food-reverse-engineering/GINK03,resnetが料理の材料をあてます,"# Resnetで料理の材料をあてていく:food2stuff
 
 ## モチベーション
@@ -1563,8 +1563,8 @@ GINK03,keras-resnet-food-reverse-engineering,,https://github.com/GINK03/keras-re
  ## 参考文献
  [1] [Deep Networks with Stochastic Depth](http://www.eccv2016.org/files/posters/S-3A-08.pdf)  
  [2] [Stochastic Depth元論文](https://arxiv.org/pdf/1603.09382.pdf)
-",23,23,2,1,food,"[cookpad, food, health, keras, resnet-50]",0
-panozzaj,recipes,,https://github.com/panozzaj/recipes,https://api.github.com/repos/recipes/panozzaj,Anthony's collection of cooking recipes,,22,22,3,0,food,"[cooking, food]",0
+",23,23,2,1,food,"[cookpad, food, health, keras, resnet-50]",72
+panozzaj,recipes,,https://github.com/panozzaj/recipes,https://api.github.com/repos/recipes/panozzaj,Anthony's collection of cooking recipes,,22,22,3,0,food,"[cooking, food]",72
 sharingexcess,food_rescue_app,sharingexcess,https://github.com/sharingexcess/food_rescue_app,https://api.github.com/repos/food_rescue_app/sharingexcess,Sharing Excess Food Rescue Web Application,"# Sharing Excess Food Rescue App
 
 Welcome to the Food Rescue App! This project is managed by **[Sharing Excess](https://sharingexcess.com)**, a 501(c)(3) nonprofit organization based in Philadelphia, PA. The FRA is a [Progressive Web App](https://web.dev/progressive-web-apps/), built as a single web codebase to run in any browser, or installed as a ""native"" app on both iOS and Android.
@@ -1630,7 +1630,7 @@ As a best practice, we like to make a commit to the `main` branch bumping the ve
 ## More Resources! 🤓
 
 In general, visit the [Wiki](https://github.com/sharingexcess/food_rescue_app/wiki) to learn more of the nitty-gritty on how the app works. Specifically, we have pages with basic [Terminology](https://github.com/sharingexcess/food_rescue_app/wiki/1.-Terminology) used throughout the app, as well as a more granular [Data Model](https://github.com/sharingexcess/food_rescue_app/wiki/2.-Data-Model) showing the specific DB fields present in each collection.
-",22,22,5,1,food,"[firebase, food, food-rescue, nonprofit, open-source, react, scss]",0
+",22,22,5,1,food,"[firebase, food, food-rescue, nonprofit, open-source, react, scss]",72
 Talagozis,Food-Order,,https://github.com/Talagozis/Food-Order,https://api.github.com/repos/Food-Order/Talagozis,"Food ordering template application using Ionic, Angular and Typescript.","# Foor-Order
 
 ## Build Status
@@ -1797,7 +1797,7 @@ code (ex: en/gb/de/es/etc.).
 
 To change the language of the app, edit `src/app/app.component.ts` and modify
 `translate.use('en')` to use the LANGCODE from `src/assets/i18n/`
-",21,21,6,16,food,"[angular, food, food-delivery-application, food-order, ionic, order, progressive-web-app, typescript]",0
+",21,21,6,16,food,"[angular, food, food-delivery-application, food-order, ionic, order, progressive-web-app, typescript]",72
 derekdjia,AI_Generated_Recipes,,https://github.com/derekdjia/AI_Generated_Recipes,https://api.github.com/repos/AI_Generated_Recipes/derekdjia,Capstone Project: AI Generated Recipes,"![header](img/header.jpg)
 <p align=""center""><i>A Project Built with a Generative Adversial Network and the ❤️ of :hamburger: </i></p>
 
@@ -2037,7 +2037,7 @@ Here's a sample recipe generated by the model. The title, interpretation of inst
 12. [GAN Tutorial](https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b)
 
 ![footer](img/footer.jpg)
-",19,19,2,0,food,"[data-science, food, neural-networks]",0
+",19,19,2,0,food,"[data-science, food, neural-networks]",72
 nickysemenza,gourd,,https://github.com/nickysemenza/gourd,https://api.github.com/repos/gourd/nickysemenza,go universal recipe database 🌶,"# gourd
 
 **Go**(lang) **U**niversal **R**ecipe **D**atabase
@@ -2070,7 +2070,7 @@ This is comprised mulitple components:
    - This dataset also contains the imperial to metric mappings (e.g. the data from the back of the flour bag that says `1/4 cup = 30 grams`)
 1. **cli** for interacting with the api instead using the UI
    - this is used for importing/exporting recipes, as well as loading metadata
-",19,19,4,1,food,"[cooking, food, golang, ingredients, react, recipe, recipe-stash, recipes, typescript, usda]",0
+",19,19,4,1,food,"[cooking, food, golang, ingredients, react, recipe, recipe-stash, recipes, typescript, usda]",72
 Gear61,Food-Diary,,https://github.com/Gear61/Food-Diary,https://api.github.com/repos/Food-Diary/Gear61,Beautiful Android app to journal your culinary adventures,"## Download
 
 <a href=""https://play.google.com/store/apps/details?id=com.randomappsinc.foodjournal"" target=""_blank"">
@@ -2092,7 +2092,7 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-",17,17,4,28,food,"[android-application, food, foodie, journal-logs, material-design]",0
+",17,17,4,28,food,"[android-application, food, foodie, journal-logs, material-design]",72
 brunorp,Cooka,,https://github.com/brunorp/Cooka,https://api.github.com/repos/Cooka/brunorp,A React Native mobile app that allows people to search for cooking recipes using ingredients they have at home. The application consumes the Spoonacular API.,"<h2 align=""center"">
   Cooka App
 </h2>
@@ -2225,7 +2225,7 @@ Photos by Lily Banse and Anna Pelzer on Unsplash
 ---
 
 Made with ♥ Enjoy it!
-",16,16,4,16,food,"[cookbook, cookbooks, food, javascript, mobile, react-native, react-router]",0
+",16,16,4,16,food,"[cookbook, cookbooks, food, javascript, mobile, react-native, react-router]",72
 ramyberrekia,ramys-tedbira,,https://github.com/ramyberrekia/ramys-tedbira,https://api.github.com/repos/ramys-tedbira/ramyberrekia,A website (webapp) to get food recipes by recipes names & ingredients.,"# Ramy's tedbira
 A website (aka: webapp) to get food recipes by recipes names &amp; ingredients that you have in your fridge, using Django-framework and Spoonacular-api.
 
@@ -2254,7 +2254,7 @@ To run this project you will need to set some environment variables.
 
 
 
-",16,16,1,0,food,"[django, food, recipes, spoonacular-api, website]",0
+",16,16,1,0,food,"[django, food, recipes, spoonacular-api, website]",72
 rugk,crops-parser,,https://github.com/rugk/crops-parser,https://api.github.com/repos/crops-parser/rugk,🌱🍎🍆 A shell script to parse the data by the Food and Agriculture Organization of the United Nations on crops/fruits.,"# Crops parser
 
 This shell script parses data from the [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data/QCL) about the cultivated/planted plants/fruits on the world into a YAML file, which groups them per country to see the top 15.
@@ -2319,7 +2319,7 @@ The data taken from the FAO is [licensed under the terms they describe](https://
 ![This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO license (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). In addition to this license, some database specific terms of use are listed in the Terms of Use of Datasets.](https://www.fao.org/faostat/en/src/images/creative_commons.png)
 
 Apart from that, all code part is licensed [under the MIT license](LICENSE.md).
-",15,15,3,5,food,"[agriculture, agriculture-research, crop, crops, data-analysis, data-science, food, fruit, fruits, statistics, streetcomplete, tree, vegetables]",0
+",15,15,3,5,food,"[agriculture, agriculture-research, crop, crops, data-analysis, data-science, food, fruit, fruits, statistics, streetcomplete, tree, vegetables]",72
 Faiz-rhm,Flutter-Food-Delivery,,https://github.com/Faiz-rhm/Flutter-Food-Delivery,https://api.github.com/repos/Flutter-Food-Delivery/Faiz-rhm,Food delivery UI design in flutter.,"# Flutter-Food-Delivery-UI
 
 A sample app to showcase food delivery UI demo in flutter.
@@ -2364,7 +2364,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-",14,14,1,0,food,"[flutter, flutter-app, flutter-apps, flutter-demo, flutter-examples, flutter-ui, flutter-widget, food, food-app, food-delivery, food-ordering, food-ordering-application, ui, ui-design, ux-design, ux-ui]",0
+",14,14,1,0,food,"[flutter, flutter-app, flutter-apps, flutter-demo, flutter-examples, flutter-ui, flutter-widget, food, food-app, food-delivery, food-ordering, food-ordering-application, ui, ui-design, ux-design, ux-ui]",72
 andrebng,Food-Diary,,https://github.com/andrebng/Food-Diary,https://api.github.com/repos/Food-Diary/andrebng,Uses iOS 11 and Apple's CoreML to add nutrition data to your food diary based on pictures. CoreML is used for the image recognition (Inceptionv3). Alamofire (with CocoaPods) is used for REST requests against the Nutritionix-API for nutrition data.,"# Food-Diary
 
 ## Introduction
@@ -2396,11 +2396,11 @@ Run `pod install` to install Alamofire.
 Food-Diary is available under the MIT license. See the LICENSE file for more info.
 
 
-",13,13,4,0,food,"[alamofire, apple-coreml, cocoapods, coreml, data-binding, food, food-diary, image-recognition, inceptionv3, ios, mit-license, mvvm, nutritionix-api, swift, swift3]",0
+",13,13,4,0,food,"[alamofire, apple-coreml, cocoapods, coreml, data-binding, food, food-diary, image-recognition, inceptionv3, ios, mit-license, mvvm, nutritionix-api, swift, swift3]",72
 nishanthvijayan,zomato-analytics,,https://github.com/nishanthvijayan/zomato-analytics,https://api.github.com/repos/zomato-analytics/nishanthvijayan,This project is no longer functional. Zomato now requires OTP login.,"# zomato-analytics
 
 This project is no longer functional. Logging into Zomato now requires entering an OTP. In a couple of days, I'll change this project to a chrome extension that'll scrape the Order Summary page once you've manually navigated to it.  
-",13,13,3,1,food,"[food, food-ordering, personal-informatics, spending-tracker, zomato]",0
+",13,13,3,1,food,"[food, food-ordering, personal-informatics, spending-tracker, zomato]",72
 nicopierson,hotpotato,,https://github.com/nicopierson/hotpotato,https://api.github.com/repos/hotpotato/nicopierson,"Hotpotato is a space for chefs to display their creations. Follow your favorite chef. Like your favorite recipes. And find the latest gluten-free, vegetarian, and multi-culinary recipes.","<p align='center'>
   <img src='./readme-assets/images/hotpotato.png' >
 </p>
@@ -2681,7 +2681,7 @@ westrinh00@gmail.com
 
 ## Special Thanks
 * Mentors who have given us their time and effort: [Zach](https://github.com/zdwatts), [Ed](https://github.com/edherm), and [Javier](https://github.com/javiermortiz) 
-",13,13,2,22,food,"[flask, food, javascript, portfolio, postgresql, python, react, redux, sqlalchemy]",0
+",13,13,2,22,food,"[flask, food, javascript, portfolio, postgresql, python, react, redux, sqlalchemy]",72
 AdamWier,mega-fitness-app,,https://github.com/AdamWier/mega-fitness-app,https://api.github.com/repos/mega-fitness-app/AdamWier,A meal planing and tracking app like I always wanted it to be: super mega!,"# Mega-fitness-app
 ## The fitness app that's super mega
 http://www.mycabinetofcuriosities.com/
@@ -2733,7 +2733,7 @@ FIREBASE_STORAGE_BUCKET=<<FIREBASE_PROJECT_ID>>.appspot.com
 (The app no longer runs in their web view due to certain component incompatibilities. It has also not been tested or adapted for iOS because I don't own an iPhone, but if you're interested in doing that, feel free to submit any pull requests to make it happen! I have only tested this app on Android physical devices.)
 
 ### Contributing to the project
-Feel free to contibute an idea you have by forking the repository and making a pull request. If you want to see features I have in mind, take a look at the current version in development (v1.3 for example) under the Projects tab and feel free to assign yourself to an issue. If possible, please include ""Close #<<Number of issue in this repository or if no issue, the number of the pull request with the angle brackets>>"" in the commit for a minimum of tracability. Thanks and welcome to the project!",13,13,1,37,food,"[calories, calories-tracker, expo, firebase, fitness, fitness-app, food, hacktoberfest, hacktoberfest-tag, hacktoberfest2020, hacktoberfest2021, hacktoberfest2022, hacktoberfest2023, meal-planner, meal-tracker, mobile, react, react-native]",0
+Feel free to contibute an idea you have by forking the repository and making a pull request. If you want to see features I have in mind, take a look at the current version in development (v1.3 for example) under the Projects tab and feel free to assign yourself to an issue. If possible, please include ""Close #<<Number of issue in this repository or if no issue, the number of the pull request with the angle brackets>>"" in the commit for a minimum of tracability. Thanks and welcome to the project!",13,13,1,37,food,"[calories, calories-tracker, expo, firebase, fitness, fitness-app, food, hacktoberfest, hacktoberfest-tag, hacktoberfest2020, hacktoberfest2021, hacktoberfest2022, hacktoberfest2023, meal-planner, meal-tracker, mobile, react, react-native]",72
 aiy-voice-assistant,hungry-student-app,aiy-voice-assistant,https://github.com/aiy-voice-assistant/hungry-student-app,https://api.github.com/repos/hungry-student-app/aiy-voice-assistant,Food management home assistant app for Google Assistant or Cloud Speech-to-Text service ,"# Hungry Student App
 
 <p align=""center"">
@@ -2773,7 +2773,7 @@ Thanks to this assistan you will be able to:
   
       Every time you will use the assistan to cook or to order food, it will keep trace of what you eat with the related calories. In this way it is able to advise you when you should eat something healthy.
       
-",12,12,2,0,food,"[aiy, aiy-projects, aiy-voice, aiy-voice-kit, aiy-voice-kit-automation, aiyprojects, food, food-classification, food-products, food-recommendation, google, google-api, google-assistant, google-assistant-api, google-assistant-apps, python3, rasberry-pi, speech-to-text, text-to-speech, text-to-speech-python3]",0
+",12,12,2,0,food,"[aiy, aiy-projects, aiy-voice, aiy-voice-kit, aiy-voice-kit-automation, aiyprojects, food, food-classification, food-products, food-recommendation, google, google-api, google-assistant, google-assistant-api, google-assistant-apps, python3, rasberry-pi, speech-to-text, text-to-speech, text-to-speech-python3]",72
 ZeusWPI,Haldis,ZeusWPI,https://github.com/ZeusWPI/Haldis,https://api.github.com/repos/Haldis/ZeusWPI,Haldis is your friendly neighbourhood servant. He exists so lazy fucks like you and me don't need to keep tabs of who is ordering what from where.,"Haldis
 =======
 [![chat mattermost](https://img.shields.io/badge/chat-mattermost-blue.svg)](https://mattermost.zeus.gent/zeus/channels/haldis)
@@ -2846,7 +2846,7 @@ Set DEBUG to False in `app/config.py`.
 See [Flask's deployment documentation](https://flask.palletsprojects.com/en/1.1.x/deploying/#self-hosted-options).
 
 Set the server's Python interpreter to `/path/to/haldis/venv/bin/python`. Doing `source venv/bin/activate` is not necessary when that binary is used.
-",12,12,7,34,food,"[assistant, flask, food, hacktoberfest, order, python]",0
+",12,12,7,34,food,"[assistant, flask, food, hacktoberfest, order, python]",72
 websages,nashville,websages,https://github.com/websages/nashville,https://api.github.com/repos/nashville/websages,Nashville visitors' guide,"### Nashville, Tennessee, USA, NORTH AMERICA
 
 [![](https://github-images.s3.amazonaws.com/skitch/Nashville%2C_TN_-_Google_Maps-20140324-173707.gif)](https://goo.gl/maps/c9Wc7)
@@ -3151,7 +3151,7 @@ Our office, [The Bikeshed](http://www.thebikeshed.io/), is located downtown, and
 [marathon]: (https://www.marathonmusicworks.com/)
 [pepperfire]: (https://www.pepperfirehotchicken.com/)
 [twotenjack]: (https://twotenjack.com/)
-",12,12,5,1,food,"[bbq, beer, downtown, food, music, nashville, visitor-guide]",0
+",12,12,5,1,food,"[bbq, beer, downtown, food, music, nashville, visitor-guide]",72
 AzharRivaldi,ResepMakanan,,https://github.com/AzharRivaldi/ResepMakanan,https://api.github.com/repos/ResepMakanan/AzharRivaldi,Aplikasi Resep Makanan - Android Studio,"# ResepMakanan
 Aplikasi Resep Makanan - Android Studio
 
@@ -3187,7 +3187,7 @@ Copyright (C) Azhar Rivaldi
     limitations under the License.
 
 ```
-",12,12,2,0,food,"[azharrivaldi, fastandroidnetworking, food, food-app, food-ordering, food-products, resep, resepmakanan]",0
+",12,12,2,0,food,"[azharrivaldi, fastandroidnetworking, food, food-app, food-ordering, food-products, resep, resepmakanan]",72
 Meule-Corporation,raclette,Meule-Corporation,https://github.com/Meule-Corporation/raclette,https://api.github.com/repos/raclette/Meule-Corporation,,"# raclette
 
 ## Requirements
@@ -3261,7 +3261,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
-",11,11,3,34,food,"[food, hacktoberfest, nuxt, raclette, vue]",0
+",11,11,3,34,food,"[food, hacktoberfest, nuxt, raclette, vue]",72
 ahmeriqbal7aa,food_app,,https://github.com/ahmeriqbal7aa/food_app,https://api.github.com/repos/food_app/ahmeriqbal7aa,Food App with Admin Panel using Provider,"# food_app
 ```
 A new Flutter-Firebase application.
@@ -3289,7 +3289,7 @@ A new Flutter-Firebase application.
 ## Getting Started
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.",11,11,1,0,food,"[admin, app, authentication, dart, firebase, flutter, flutter-app, flutter-example, flutter-firebase, food, food-app, google, panel, provider]",0
+samples, guidance on mobile development, and a full API reference.",11,11,1,0,food,"[admin, app, authentication, dart, firebase, flutter, flutter-app, flutter-example, flutter-firebase, food, food-app, google, panel, provider]",72
 Tkd-Alex,Garcon-Restaurant-Manager,,https://github.com/Tkd-Alex/Garcon-Restaurant-Manager,https://api.github.com/repos/Garcon-Restaurant-Manager/Tkd-Alex,Garçon - Manager application for restaurant,"![GarconLogo](/garcon-documentation/logoGarcon_small.png) ![QRCode](/garcon-documentation/expoqrcode.png)
 
 ### Garçon-Restaurant-Manager - Manager application for restaurant. <br />
@@ -3327,7 +3327,7 @@ L'applicazione è raggiungibile tramite [Expo](https://expo.io/@tkd-alex/garcon-
 | Moto G 3th | Android 6.0.1 | Il logo non viene caricato. Lentezza in alcune operazioni |
 
 L'applicazione è disponibile per qualunque test, qualora si volesse utilizzare qualche funzionalità non ancora implementata è possibile utilizzare direttamente le api raggiungibili all'indirizzo [http://188.213.170.165:3000/api](http://188.213.170.165:3000/api)
-",11,11,2,0,food,"[backend, cross, drink, food, javscript, manager, native, node, nodejs, order, platform, react, restaurant]",0
+",11,11,2,0,food,"[backend, cross, drink, food, javscript, manager, native, node, nodejs, order, platform, react, restaurant]",72
 IBPA,LOVE,IBPA,https://github.com/IBPA/LOVE,https://api.github.com/repos/LOVE/IBPA,Learning Ontologies Via Embeddings,"# LOVE: Learning Ontologies Via Embeddings
 
 Food ontologies require significant effort to create and maintain, as it involves manual and time-consuming tasks. In this project, we propose a semi-supervised framework for automated ontology learning from an existing ontology scaffold by using word embeddings.
@@ -3411,7 +3411,7 @@ This project is licensed under the GNU GPLv3 License. Please see the <code>[LICE
 ## 7. Acknowledgments
 
 * We would like to thank the members of the Tagkopoulos lab for their suggestions.
-",10,10,3,3,food,"[artificial-intelligence, food, machine-learning, ontology, word-embedding, word2vec]",0
+",10,10,3,3,food,"[artificial-intelligence, food, machine-learning, ontology, word-embedding, word2vec]",72
 Stormwind99,FoodFunk,,https://github.com/Stormwind99/FoodFunk,https://api.github.com/repos/FoodFunk/Stormwind99,"Minecraft mod: What is that funky smell in my backpack? Food spoils over time unless preserved. Configure any item to rot, any container to preserve items.","# Food Funk
 
 Minecraft mod: What is that funky smell in my backpack? Food spoils over time unless preserved. Configure any item to rot, any container to preserve items.
@@ -3437,7 +3437,7 @@ Requires [Wumple Util Library](https://github.com/Stormwind99/WumpleUtil).
    * Inspired by the food rot feature - thanks to the authors!
    * Some item and block textures, text, and code snippets 
    * If you want food rot for 1.7.10 or earlier, consider [EnviroMine](https://minecraft.curseforge.com/projects/enviromine) - it's lots of fun!
-",10,10,4,47,food,"[food, minecraft, minecraft-forge, minecraft-mod]",0
+",10,10,4,47,food,"[food, minecraft, minecraft-forge, minecraft-mod]",72
 harlexkhal,Foodipy,,https://github.com/harlexkhal/Foodipy,https://api.github.com/repos/Foodipy/harlexkhal,"Search for food, recepies, and full detailed information on how to prepare them. ","# Foodipy | JavaScript Capstone
 
 > This is a group project built in our second module of our curriculum at microverse. its a web application for listing all of the food sources and how to prepare them, using a video and an instruction guide
@@ -3519,7 +3519,7 @@ All source code files are licensed under the permissive zlib license
 ## Author
 - **Mnemba Chambuya** -  [github](https://github.com/mnekx), [linkedin](https://linkedin.com/in/mnemba-chambuya), [twitter](https://twitter.com/MnembaChambuya)
 - **Alexander Oguzie-Ibeh** - [github](https://github.com/harlexkhal), [linkedin](https://www.linkedin.com/in/alexander-oguzie-ibeh-776814164), [twitter](https://twitter.com/harlexkhal)
-",10,10,1,0,food,"[design-patterns, food, foodapp, javascript, spices]",0
+",10,10,1,0,food,"[design-patterns, food, foodapp, javascript, spices]",72
 AwesomeCities,awesome-kassel,AwesomeCities,https://github.com/AwesomeCities/awesome-kassel,https://api.github.com/repos/awesome-kassel/AwesomeCities,Kassel is :100:% awesome! :beers:🍾🤘,"# Awesome Kassel
 
 > A curated list of Kassel's awesomeness
@@ -3631,7 +3631,7 @@ There is a discord chat in case you want to stay connected.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-",10,10,4,2,food,"[awesome, awesome-list, beer, burger, chicken, coffee, events, food, kassel, lunch, party, sushi]",0
+",10,10,4,2,food,"[awesome, awesome-list, beer, burger, chicken, coffee, events, food, kassel, lunch, party, sushi]",72
 b1f6c1c4,c,,https://github.com/b1f6c1c4/c,https://api.github.com/repos/c/b1f6c1c4,c for cook: 根据食材列表自动推荐菜谱,"# c-for-cook
 
 > 根据食材列表自动推荐菜谱
@@ -3685,13 +3685,13 @@ Note: You may want to leverage the [pre-built docker image](https://hub.docker.c
 1. 执行`npm i`
 1. 执行`npm start`
 1. 访问`http://localhost:3000`
-",10,10,3,0,food,"[cookbook, eating, food, recipes]",0
+",10,10,3,0,food,"[cookbook, eating, food, recipes]",72
 jctestud,food-reverse-engineering,,https://github.com/jctestud/food-reverse-engineering,https://api.github.com/repos/food-reverse-engineering/jctestud,Experiment to determine a recipe from the nutrition facts label,"# food-reverse-engineering
 
 In this experiment, I tried to find the (missing) ingredient percentages in a recipe by using the nutrition facts label which is required on most packaged foods. My intuition was that this was enough data to try and find the actual recipe.
 
 full story at: https://medium.com/@jctestud/food-ingredient-reverse-engineering-through-gradient-descent-2a8d3880dd81
-",10,10,0,0,food,"[data-science, food, pytorch, reverse-engineering]",0
+",10,10,0,0,food,"[data-science, food, pytorch, reverse-engineering]",72
 vrublack,TacoShell,,https://github.com/vrublack/TacoShell,https://api.github.com/repos/TacoShell/vrublack,"Calorie counter for the command-line with 8,000 food items (USDA)","# Introduction
 
 This command-line tool written in Java lets you track what you eat during the day. As there are many commercial website that do exactly that, here are some advantages of TacoShell:
@@ -3738,7 +3738,7 @@ Unfortunately, the country-specific FatSecret-databases are not supported.
 I use GWT to compile many classes from this project to javascript for my website [tacoshell.io](http://nutrition-tracker.appspot.com), so it's no surprise that both behave fairly similarly. 
 
 I have decided not to release the website's source for now.
-",10,10,2,0,food,"[calories, food, nutrition, tracking, usda]",0
+",10,10,2,0,food,"[calories, food, nutrition, tracking, usda]",72
 Yutong-Zhou-cv,Bento800_Dataset,,https://github.com/Yutong-Zhou-cv/Bento800_Dataset,https://api.github.com/repos/Bento800_Dataset/Yutong-Zhou-cv,[ACMMM 2022🎈] The first manually annotated synthetic bento dataset for novel aesthetic box lunch presentation design.,"# <p align=center>Bento800🍱</p>
 
 ![Figure from paper](Overview.png)
@@ -3839,7 +3839,7 @@ If you find this dataset helpful for your research, please cite it as below:
 }
 
 ```
-",9,9,3,0,food,"[box-lunch-generation, dataset, food, food-ordering]",0
+",9,9,3,0,food,"[box-lunch-generation, dataset, food, food-ordering]",72
 travishorn,diabetes-food-database,,https://github.com/travishorn/diabetes-food-database,https://api.github.com/repos/diabetes-food-database/travishorn,Food information for people with diabetes.,"# Diabetes Food Database
 
 Food information for people with diabetes. Visit the website at
@@ -3905,7 +3905,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-",9,9,3,3,food,"[data, database, diabetes, diabetic, food, food-safety, information, medical]",0
+",9,9,3,3,food,"[data, database, diabetes, diabetic, food, food-safety, information, medical]",72
 jzarca01,node-ubereats,,https://github.com/jzarca01/node-ubereats,https://api.github.com/repos/node-ubereats/jzarca01,A work in progress API for Uber Eats,"# node-ubereats
 
 A _work in progress_ API for Uber Eats
@@ -3946,7 +3946,7 @@ uber.searchRestaurants((searchQuery = 'Indian'));
 ```javascript
 uber.getStoreDetails(storeUuid);
 ```
-",9,9,2,0,food,"[api-wrapper, food, nodejs, uber-api]",0
+",9,9,2,0,food,"[api-wrapper, food, nodejs, uber-api]",72
 EricTheAI,smart-diet-app,,https://github.com/EricTheAI/smart-diet-app,https://api.github.com/repos/smart-diet-app/EricTheAI,A fitness app that tracks your diet easily and give you meal recommendations to get fit & healthy.,"This is a health & fitness app that tracks your diet and give you meal plans which best fit you.
 
 
@@ -3964,7 +3964,7 @@ We use Azure's CosmosDB to save our user data, to be specific, it's DocumentDB, 
 
 ### Storage
 Apart from DocumentDB, we also use Storage to save a large block of data like images.
-",9,9,4,4,food,"[deep-learning, diet-safety, eating-plan, fitness-app, food, health, machine-learning]",0
+",9,9,4,4,food,"[deep-learning, diet-safety, eating-plan, fitness-app, food, health, machine-learning]",72
 Marwan01,food-converter,,https://github.com/Marwan01/food-converter,https://api.github.com/repos/food-converter/Marwan01,Cross Platform Mobile App built in React native on a Hackathon night. It allows the user to take a picture of a food item and get instant feedback on the types/amount of workouts you will need to do to burn the calories generated from that food. Demo:,"# FoodConverter
 
 Cross Platform Mobile App built in React native on a Hackathon night. 
@@ -3984,7 +3984,7 @@ npm install
 npm start
 ```
 Finally, use [Expo](https://github.com/expo/expo) to run the app either on your mobile device or on an emulator.
-",9,9,3,8,food,"[expo, expo-cli, food, hackathon-night, mobile-app, mobile-development, react-native, workouts]",0
+",9,9,3,8,food,"[expo, expo-cli, food, hackathon-night, mobile-app, mobile-development, react-native, workouts]",72
 dhardtke,prandium,,https://github.com/dhardtke/prandium,https://api.github.com/repos/prandium/dhardtke,A single-user content management system for organizing recipes built with Deno.,"[![Workflow badge](https://github.com/dhardtke/prandium/actions/workflows/ci.yml/badge.svg)](https://github.com/dhardtke/prandium/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/dhardtke/prandium/branch/main/graph/badge.svg?token=SIR9GFWW4V)](https://codecov.io/gh/dhardtke/prandium)
 
@@ -4058,7 +4058,7 @@ Please see [Development](docs/development.md) for information on how to set up y
 * [Peggy](https://github.com/peggyjs/peggy)
 * [IntelliJ](https://www.jetbrains.com/idea/)
 * [Nextcloud Cookbook](https://github.com/nextcloud/cookbook)
-",8,8,2,18,food,"[cms, deno, food]",0
+",8,8,2,18,food,"[cms, deno, food]",72
 recipyhq,recipy,recipyhq,https://github.com/recipyhq/recipy,https://api.github.com/repos/recipy/recipyhq,Recipy web application. All of it just works.,"
 # Recipy
 
@@ -4139,7 +4139,7 @@ Please make sure to update tests as appropriate.
 ## Contact
 
 If you have any question, you can contact us at recipyhq@gmail.com
-",8,8,7,2,food,"[cooking, food, health, javascript, rails, ruby]",0
+",8,8,7,2,food,"[cooking, food, health, javascript, rails, ruby]",72
 shishir349,Market-Basket-Analysis-on-Food-Items,,https://github.com/shishir349/Market-Basket-Analysis-on-Food-Items,https://api.github.com/repos/Market-Basket-Analysis-on-Food-Items/shishir349,"Frequent Itemsets via Apriori Algorithm Apriori function to extract frequent itemsets for association rule mining We have a dataset of a mall with 7500 transactions of different customers buying different items from the store. We have to find correlations between the different items in the store. so that we can know if a customer is buying apple, banana and mango. what is the next item, The customer would be interested in buying from the store.","# Amazon Fine Foods Analysis 
 
 ![image](https://miro.medium.com/max/1024/1*e6q-XsCysAkhsysVXwCqOw.jpeg)
@@ -4166,7 +4166,7 @@ See this SQLite query for a quick sample of the dataset.
 If you publish articles based on this dataset, please cite the following paper:
 
 J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.
-",8,8,2,0,food,"[apriori, apriori-algorithm, data-analysis, data-mining, data-science, data-visualization, eclet, food, machine-learning, market-basket-analysis, market-data, matplotlib, pandas, python, recommendations, seaborn]",0
+",8,8,2,0,food,"[apriori, apriori-algorithm, data-analysis, data-mining, data-science, data-visualization, eclet, food, machine-learning, market-basket-analysis, market-data, matplotlib, pandas, python, recommendations, seaborn]",72
 Anupya,pic-my-allergy-android,,https://github.com/Anupya/pic-my-allergy-android,https://api.github.com/repos/pic-my-allergy-android/Anupya,An Android app that will tell you if you are allergic to anything in a picture of your food :camera:,"# pic-my-allergy-android
 The Android app that lets you snap a picture of your food and tells you if you might be allergic to the food in the picture.
 
@@ -4187,7 +4187,7 @@ I was curious about machine learning and wanted to create something using Clarif
 ![Screenshot](https://github.com/Anupya/pic-my-allergy-android/blob/master/screenshot2.PNG)
 ![Screenshot](https://github.com/Anupya/pic-my-allergy-android/blob/master/screenshot3.PNG)
 ![Screenshot](https://github.com/Anupya/pic-my-allergy-android/blob/master/screenshot4.PNG)
-",8,8,1,3,food,"[allergy, android, api, clarifai, food, health, learning, machine]",0
+",8,8,1,3,food,"[allergy, android, api, clarifai, food, health, learning, machine]",72
 felixSchober,Deep-Food,,https://github.com/felixSchober/Deep-Food,https://api.github.com/repos/Deep-Food/felixSchober,"Python ML programm to classify food using Deep Learning and feature classifiers like SIFT, SURF with Bag of Words and SVMs","# Deep-Food
 
 This project was done as part of my Bachlor's Thesis at the chair of [Connected Mobility](https://www.cm.in.tum.de/en/home/) (former Applied Informatics) at [Technical University of Munich](https://www.tum.de/en/). 
@@ -4196,7 +4196,7 @@ The goal of this thesis was to develop a program for recognizing food objects.
 ## Abstract
 As obesity becomes more and more of a problem in developed countries, food logging is frequently used to help overweight people to balance their energy intake. Unfortunately, food logging is a tedious and inaccurate process. Computer vision and machine learning can help the user with this process. By taking an image of the meal, algorithms are able to make automated food intake assessments by detecting food items and their size. The goal of this thesis is the evaluation and implementation of a proof of concept application that can be used to facilitate and extend future food logging applications. For the task of food classification seven approaches were evaluated including feature classifiers like SIFT and SURF and convolutional neural networks. To enable the classification, segmentation, training and evaluation of classifiers, an extensive application was implemented using Python. The application supports data preprocessing and is designed so that it can be extended with additional image recognition concepts. 
 With the aforementioned algorithms it was shown that algorithms are able to achieve a classification accuracy of 75% on 50 different food item classes if the algorithm suggests five possible candidates.
-",8,8,2,0,food,"[classifier, feature-classifiers, food, opencv, opencv-python, python, sift, surf, svm, thesis]",0
+",8,8,2,0,food,"[classifier, feature-classifiers, food, opencv, opencv-python, python, sift, surf, svm, thesis]",72
 afwcole,chop_chop_flutter,,https://github.com/afwcole/chop_chop_flutter,https://api.github.com/repos/chop_chop_flutter/afwcole,A food delivery application designed for university campuses. Built with flutter for IOS and Android.,"# CHOP CHOP
 ## A KNUST Food Delivery App
 
@@ -4229,7 +4229,7 @@ Designed by yours truly with Adobe XD.
 Coded by yours truly with Flutter.
 
 NB: This application is not complete.
-",8,8,1,0,food,"[android, deliveroo, delivery, flutter, food, food-delivery, food-delivery-application, food-ordering, ios, ubereats]",0
+",8,8,1,0,food,"[android, deliveroo, delivery, flutter, food, food-delivery, food-delivery-application, food-ordering, ios, ubereats]",72
 Google-Developer-Student-Club-RAIT,food_delivery_app_Flutter,Google-Developer-Student-Club-RAIT,https://github.com/Google-Developer-Student-Club-RAIT/food_delivery_app_Flutter,https://api.github.com/repos/food_delivery_app_Flutter/Google-Developer-Student-Club-RAIT,A Food App using Flutter & Firebase.,"# Food delivery application
 ![](banner.png)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -4402,7 +4402,7 @@ Maintainer : jadhavAkshay0701@gmail.com
 Copyright (c) **GDSC Rait**. All rights reserved. Licensed under the MIT License
 
 [![](https://img.shields.io/github/license/junaidrahim/desiresalesportal?style=for-the-badge)](LICENSE)
-",7,7,0,6,food,"[android-application, app, dart, delivery, firebase, firebase-auth, flutter, food, realtime]",0
+",7,7,0,6,food,"[android-application, app, dart, delivery, firebase, firebase-auth, flutter, food, realtime]",72
 rohit-gohri,zomato-telegram-bot,,https://github.com/rohit-gohri/zomato-telegram-bot,https://api.github.com/repos/zomato-telegram-bot/rohit-gohri,"A simple inline telegram bot that searches for restaurants nearby, deployed using ZEIT now","# zomato-telegram-bot
 
 ## Start
@@ -4455,7 +4455,7 @@ Message:
 - Zomato: https://developers.zomato.com/documentation
 - Telegram: https://core.telegram.org/bots/api
 - Telegraf's inline mode docs: https://core.telegram.org/bots/api#inline-mode 
-",7,7,2,11,food,"[food, hacktoberfest, inline-bots, restaurant, search, telegram, telegram-bot, ts, typescript, zomato, zomato-api]",0
+",7,7,2,11,food,"[food, hacktoberfest, inline-bots, restaurant, search, telegram, telegram-bot, ts, typescript, zomato, zomato-api]",72
 smaranjitghose,indokhaadyam,,https://github.com/smaranjitghose/indokhaadyam,https://api.github.com/repos/indokhaadyam/smaranjitghose,An open source project to catalogue the diverse set of Indian cuisines available across the subcontinent for thousands of years ,"<p align=""center""><img src=""./assets/logo/Indokhadyaam.png"" width=400></p>
 
 
@@ -4486,9 +4486,9 @@ __Frontend__:
 | <img src = ""https://avatars2.githubusercontent.com/u/46641503?v=4""> | <img src = ""https://avatars2.githubusercontent.com/u/40017559?v=4""> | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
 |     [Smaranjit Ghose](https://github.com/smaranjitghose) |    [Anush Bhatia](https://github.com/anushbhatia)                     
-",7,7,4,10,food,"[css, database, food, html, indian-food, react]",0
+",7,7,4,10,food,"[css, database, food, html, indian-food, react]",72
 roshnideyic365,Culinary-King-e-commerce-website,,https://github.com/roshnideyic365/Culinary-King-e-commerce-website,https://api.github.com/repos/Culinary-King-e-commerce-website/roshnideyic365,"Culinary King is an e-commerce website on some of the most mouth-watering dishes out there (Front-end). This website has a huge collection of delicious items beautifully presented using carousels and parallax scrolling CSS features flavored with Bootstrap with the contact page containing a google map attached to it the embedded API, thereby providing it with a cent percent professional look.","Culinary King is an e-commerce website on some of the most mouth-watering dishes out there (Front-end). This website has a huge collection of delicious items beautifully presented  using carousels and parallax scrolling CSS features flavored with Bootstrap with the contact page containing a google map attached to it the embedded API, thereby providing it with a cent percent professional look. 
-",7,7,2,4,food,"[bootstrap, css, e-commerce, e-commerce-project, e-commerce-template, e-commerce-website, food, food-ordering, food-products, food-website, front-end, front-end-development, front-end-web-development, frontend-web, html, web-development, web-development-project]",0
+",7,7,2,4,food,"[bootstrap, css, e-commerce, e-commerce-project, e-commerce-template, e-commerce-website, food, food-ordering, food-products, food-website, front-end, front-end-development, front-end-web-development, frontend-web, html, web-development, web-development-project]",72
 JyothsnaKS,Food-Delivery-Web-App,,https://github.com/JyothsnaKS/Food-Delivery-Web-App,https://api.github.com/repos/Food-Delivery-Web-App/JyothsnaKS,Web Application providing services to order food online or reserve table in restaurants,"# Food-Delivery-Web-App
 
 Foodicted is a web application developed by us to provide online food ordering and delivery and restaurant table reservation services to our customers. Our customers can order food or reserve table at a restaurant online based on the type of the cuisine they like, the location, the price range etc. We communicate with our users through SMS and e-mails.  Our customers are required to create an account on our website to ensure security and a customised experience when further enhancements are done on the website.
@@ -4508,7 +4508,7 @@ Foodicted is a web application developed by us to provide online food ordering a
 ## Dependencies
 
 All the files must be in xampp/htdocs and the href and links needs to be changed depending on the folder structure being used.
-",7,7,3,1,food,"[css, food, food-delivery-application, food-ordering, html, javascript, php, sweetalert, table-reservation]",0
+",7,7,3,1,food,"[css, food, food-delivery-application, food-ordering, html, javascript, php, sweetalert, table-reservation]",72
 andrebellu,MagnaTell,,https://github.com/andrebellu/MagnaTell,https://api.github.com/repos/MagnaTell/andrebellu,"A social media platform where users can discover, share, publish and save recipes.","
 # MagnaTell
 
@@ -4555,7 +4555,7 @@ A social media platform where users can discover, share, publish and save recipe
 6. Comment on recipes and share my thoughts on them.
 7. Rate recipes and share my opinion on them.
 8. Share recipes on other social media platforms.
-9. Get notifications when other users comment on my recipes.",7,7,1,9,food,"[firebase, food, recipe-app, sveltekit]",0
+9. Get notifications when other users comment on my recipes.",7,7,1,9,food,"[firebase, food, recipe-app, sveltekit]",72
 pranav-kale-01,excess-food-locator,,https://github.com/pranav-kale-01/excess-food-locator,https://api.github.com/repos/excess-food-locator/pranav-kale-01,Excess Food Locator helps food providers connect with food distributing NGOs.,"<a name=""readme-top""></a>
 
 <br />
@@ -4642,7 +4642,7 @@ Don't forget to give the project a star! Thanks again!
 <a href=""https://github.com/<your-username>/Python/graphs/contributors"">
   <img src=""https://contrib.rocks/image?repo=pranav-kale-01/excess-food-locator""/>
 </a>
-",6,6,1,0,food,"[flutter, food, maps-api]",0
+",6,6,1,0,food,"[flutter, food, maps-api]",72
 zhuoyingcai,LunchIn,,https://github.com/zhuoyingcai/LunchIn,https://api.github.com/repos/LunchIn/zhuoyingcai,LunchIn Automatically Picks a Lunch Option For You,"# LunchIn [![Build Status](https://travis-ci.com/CSC59939/LunchIn.svg?token=sGFpuFDcawyN3EBiLrfw&branch=master)](https://travis-ci.com/CSC59939/LunchIn)
 
 ## What is LunchIn?
@@ -4689,13 +4689,13 @@ Check out our website: <https://lunchin-csc59939.herokuapp.com>
   </tbody>
 
 </table>
-",6,6,5,0,food,"[food, lunch, lunch-option, restaurant]",0
-robacarp,Recipes,,https://github.com/robacarp/Recipes,https://api.github.com/repos/Recipes/robacarp,I like to make food.,,6,6,3,0,food,"[cooking, food, home-maker]",0
+",6,6,5,0,food,"[food, lunch, lunch-option, restaurant]",72
+robacarp,Recipes,,https://github.com/robacarp/Recipes,https://api.github.com/repos/Recipes/robacarp,I like to make food.,,6,6,3,0,food,"[cooking, food, home-maker]",72
 FoodIssues,Lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphiokarabomelitokatakechymenokichlepikossy,,https://github.com/FoodIssues/Lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphiokarabomelitokatakechymenokichlepikossy,https://api.github.com/repos/Lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphiokarabomelitokatakechymenokichlepikossy/FoodIssues,This is Pauls and Samuels (mostly vegan) recipe archive.,"# 
 https://en.wikipedia.org/wiki/Lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphiokarabomelitokatakechymenokichlepikossyphophattoperisteralektryonoptekephalliokigklopeleiolagoiosiraiobaphetraganopterygon
 
 This is Pauls and Samuels (mostly vegan) recipe archive.
-",6,6,2,27,food,"[food, recipes]",0
+",6,6,2,27,food,"[food, recipes]",72
 space-jammers,vegme,space-jammers,https://github.com/space-jammers/vegme,https://api.github.com/repos/vegme/space-jammers,a recipe search engine for vegan and vegetarian meals.,"<!-- Badges -->
 [ ![Codeship Status for space-jammers/vegme](https://app.codeship.com/projects/38b27720-3a55-0135-a097-3ea7e05708f3/status?branch=master)](https://app.codeship.com/projects/228577)
 [![Coverage Status](https://coveralls.io/repos/github/space-jammers/vegme/badge.svg?branch=master)](https://coveralls.io/github/space-jammers/vegme?branch=master)
@@ -4746,7 +4746,7 @@ On the veggie side, VegMe aims to provide features that are not provided in most
 Thanks [Josh Dages](https://www.linkedin.com/in/joshuadages) for providing our awesome logo.
 
 [Powered by Edamam Recipe API](https://developer.edamam.com/edamam-docs-recipe-api)
-",6,6,3,33,food,"[food, recipes, search-engine, vegan, vegetarian]",0
+",6,6,3,33,food,"[food, recipes, search-engine, vegan, vegetarian]",72
 karlicoss,scrapyroo,,https://github.com/karlicoss/scrapyroo,https://api.github.com/repos/scrapyroo/karlicoss,Full text search over deliveroo restaurants,"Cause I got sick of clicking through Deliveroo restaurants. Full text search is a basic human right!
 
 [Slides + speaker notes](https://beepb00p.xyz/scrapyroo.html) from November Rust London [meetup](https://www.meetup.com/Rust-London-User-Group/events/266262531/).
@@ -4797,7 +4797,7 @@ NOTE: if you're running page locally, you're gonna need to pass by [CORS](https:
 You can do it by e.g. using Chromium with no web security:
 
     chromium-browser --disable-web-security --user-data-dir=/tmp/whatever frontend/index.html
-",6,6,3,0,food,"[delivery, food, headless-chrome, scrapy, tantivy]",0
+",6,6,3,0,food,"[delivery, food, headless-chrome, scrapy, tantivy]",72
 kylemilloy,edamam-php,,https://github.com/kylemilloy/edamam-php,https://api.github.com/repos/edamam-php/kylemilloy,A PHP library for interfacing with the Edamam API,"# Edamam-PHP
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -4828,7 +4828,7 @@ For more complex usage view the [FoodDatabase API Docs](docs/FOODDATABASE.md).
 - Add full support for Food Database API
 - Add full support for Nutrition Analysis API
 - Add full support for Recipe Search API
-",5,5,0,0,food,"[diet, edamam-api, edamam-php, food, php-library]",0
+",5,5,0,0,food,"[diet, edamam-api, edamam-php, food, php-library]",72
 davidmn,recipes,,https://github.com/davidmn/recipes,https://api.github.com/repos/recipes/davidmn,some recipes and python for writing them down,"# recipes
 
 [![Build Status](https://travis-ci.org/davidmn/recipes.svg?branch=master)](https://travis-ci.org/davidmn/recipes)
@@ -4846,7 +4846,7 @@ that will create file `main/tuna-pasta-puttanesca.md`
 name and type are required arguments while serves is optional
 
 it will not overwrite existing files because
-",5,5,4,0,food,"[food, python, recipes, templates]",0
+",5,5,4,0,food,"[food, python, recipes, templates]",72
 deepampatel,SimNode,,https://github.com/deepampatel/SimNode,https://api.github.com/repos/SimNode/deepampatel,Find similar nodes in graph using jaccard similarity. Use this to recommend similar dishes and restaurants ,"# SimNode: Using Graphs to do find Similar Entities/Nodes.
 ### Finding similar restaurants on a small graph created from zomato restaurants data. 
 #### https://medium.com/coreview-systems/graphs-for-similarity-search-23a23364d08f
@@ -4871,7 +4871,7 @@ Import graph using [cypher-shell](https://neo4j.com/developer/kb/export-sub-grap
 ```bash
 cat zomato_food_graph.cypher | ./bin/cypher-shell -u neo4j -p password
 ```
-",5,5,2,0,food,"[food, food-search, graph, jaccard-similarity, neo4j-admin, restaurants, similarity-search, zomato]",0
+",5,5,2,0,food,"[food, food-search, graph, jaccard-similarity, neo4j-admin, restaurants, similarity-search, zomato]",72
 lashdid,takaran,,https://github.com/lashdid/takaran,https://api.github.com/repos/takaran/lashdid,Converting the mesurement of Indonesian food ingredients made with Svelte,"# Takaran
 
 Takaran adalah website yang berguna untuk menghitung takaran dalam memasak.
@@ -4899,7 +4899,7 @@ Jenis bahan :
 - Gula Palem
 - Mentega
 - Buah Kering (sukade, kismis, dll)
-- Bubuk Cokelat",5,5,0,0,food,"[food, measurements, svelte]",0
+- Bubuk Cokelat",5,5,0,0,food,"[food, measurements, svelte]",72
 code-for-syracuse,eatsafecny,code-for-syracuse,https://github.com/code-for-syracuse/eatsafecny,https://api.github.com/repos/eatsafecny/code-for-syracuse,:hamburger: A web application that makes it easy to find restaurant inspection results in CNY,"## Restaurant safety inspection results for CNY
 
 I built this app to demonstrate how to use [open data](http://opendata.guide/) from government to build a useful application. I'd also like to avoid food poisoning if I can.
@@ -4913,7 +4913,7 @@ If you'd like to help build more apps like this using open data, check out the [
 * Compile templates: ```npm run compile```
 * Launch the app"" ```npm start```
 
-",5,5,2,4,food,"[food, inspections, opendata, restaurant, safety]",0
+",5,5,2,4,food,"[food, inspections, opendata, restaurant, safety]",72
 DrAugus,draugus.github.io,,https://github.com/DrAugus/draugus.github.io,https://api.github.com/repos/draugus.github.io/DrAugus,,"# AUGUS
 
 ## All Site ([pilot][pilot])
@@ -4968,8 +4968,8 @@ You don't have to think about them. Just give them to the robot.
 [vue]: https://vuejs.org
 [vitepress]: https://vitepress.vuejs.org/
 [new-repo]: https://github.com/augusmeow/
-",5,5,1,1,food,"[blog, code, docus, food, genshin, genshin-impact, notes, nuxt, nuxt-docus, royal-family, star-rail, travel, trip, vitepress, vue, vue3, vuepress, xingqiongtiedao, yuanshen]",0
-katreparitosh,Foodify-Android-App,,https://github.com/katreparitosh/Foodify-Android-App,https://api.github.com/repos/Foodify-Android-App/katreparitosh,An app which suggests foods and recipes based on the ingredients you search.,,5,5,1,0,food,"[food, openhelper, sqlite-android, suggestion-engine]",0
+",5,5,1,1,food,"[blog, code, docus, food, genshin, genshin-impact, notes, nuxt, nuxt-docus, royal-family, star-rail, travel, trip, vitepress, vue, vue3, vuepress, xingqiongtiedao, yuanshen]",72
+katreparitosh,Foodify-Android-App,,https://github.com/katreparitosh/Foodify-Android-App,https://api.github.com/repos/Foodify-Android-App/katreparitosh,An app which suggests foods and recipes based on the ingredients you search.,,5,5,1,0,food,"[food, openhelper, sqlite-android, suggestion-engine]",72
 punkrockgoth,recipes,,https://github.com/punkrockgoth/recipes,https://api.github.com/repos/recipes/punkrockgoth,This is a collection of recipes created by Sarah LaCroix (@punkrockgoth) and Colin Childs (@phoul).,"# Recipes
 This is a collection of recipes created by Sarah LaCroix (@punkrockgoth) and Colin Childs (@phoul).
 
@@ -4991,7 +4991,7 @@ Recipes are broken up into categories:
 Or you can take a look at some of our curated collections:
 * [Collections](collections/)
 
-",5,5,5,13,food,"[cooking, cooking-recipes, food, recipes]",0
+",5,5,5,13,food,"[cooking, cooking-recipes, food, recipes]",72
 eat-this-one,eat-this-one,eat-this-one,https://github.com/eat-this-one/eat-this-one,https://api.github.com/repos/eat-this-one/eat-this-one,Open Source mobile app to share meals with your colleagues at work or at the uni during lunch time.,"# Eat this one! [![Build Status](https://travis-ci.org/eat-this-one/eat-this-one.svg?branch=master)](https://travis-ci.org/eat-this-one/eat-this-one) [![Code Climate](https://codeclimate.com/github/eat-this-one/eat-this-one/badges/gpa.svg)](https://codeclimate.com/github/eat-this-one/eat-this-one)
 
 [Eat this one!](http://www.eat-this-one.com) is a mobile app to share cooking specialties with your colleagues or classmates at lunch time.
@@ -5150,7 +5150,7 @@ This runs all tests, including frontend unit tests and e2e tests (protractor) th
 * And other third party code listed in:
     * https://github.com/eat-this-one/eat-this-one/blob/master/package.json
     * https://github.com/eat-this-one/eat-this-one/blob/master/bower.json
-",5,5,2,2,food,"[angularjs, cordova, food, javascript, nodejs]",0
+",5,5,2,2,food,"[angularjs, cordova, food, javascript, nodejs]",72
 CraigKelly,nndb-import,,https://github.com/CraigKelly/nndb-import,https://api.github.com/repos/nndb-import/CraigKelly,Import USDA National Nutrient Database ASCII files in to a MongoDB collection,"# nndb-import
 
 ## Using this data
@@ -5200,7 +5200,7 @@ nonsensical (3 pounds of celery seed?!) *or* a version of Michael Pollan's
 ## Note
 
 This is a Python 3 app - we're not supporting Python 2.7
-",5,5,3,0,food,"[data, food, mongodb, nutrition, python]",0
+",5,5,3,0,food,"[data, food, mongodb, nutrition, python]",72
 KabohaJeanMark,yummymeals,,https://github.com/KabohaJeanMark/yummymeals,https://api.github.com/repos/yummymeals/KabohaJeanMark,A react-redux capstone project to consume theMealDB API and display filtered search results based on user category preferences.,"# yummymeals
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
@@ -5328,15 +5328,15 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-",5,5,1,0,food,"[api-client, food, foodie, react]",0
-satyawikananda,yummy,,https://github.com/satyawikananda/yummy,https://api.github.com/repos/yummy/satyawikananda,A simple wrapper themealdb.com API for Deno 🦕,,4,4,1,0,food,"[deno, food, typescript, yummy]",0
+",5,5,1,0,food,"[api-client, food, foodie, react]",72
+satyawikananda,yummy,,https://github.com/satyawikananda/yummy,https://api.github.com/repos/yummy/satyawikananda,A simple wrapper themealdb.com API for Deno 🦕,,4,4,1,0,food,"[deno, food, typescript, yummy]",72
 ZhiaDev,foodgram,,https://github.com/ZhiaDev/foodgram,https://api.github.com/repos/foodgram/ZhiaDev,"∞ Foodgram, a social media app","# Foodgram
 
 Foodgram, which is a food-sharing social network, has been built using Flutter and is a redesigned version of Instagram.
 
 This new platform allows users to share pictures and videos of their food and connect with other food lovers around the world.
 
-Designed with Flutter's cutting-edge technology, Foodgram provides a seamless user experience that is both visually stunning and intuitive to use.",4,4,1,0,food,"[flutter, flutter-app, food, food-app, instagram, social-media, social-network]",0
+Designed with Flutter's cutting-edge technology, Foodgram provides a seamless user experience that is both visually stunning and intuitive to use.",4,4,1,0,food,"[flutter, flutter-app, food, food-app, instagram, social-media, social-network]",72
 iamraufu,rabeya-food-fitness,,https://github.com/iamraufu/rabeya-food-fitness,https://api.github.com/repos/rabeya-food-fitness/iamraufu,Rabeya's Healthy Food and Fitness Center,"# Rabeya's Food and Fitness Center
 
 **Rabeya's Food and Fitness Center** is Country's First ever Complex site where anyone can get nutritionist help along healthy food diet.
@@ -5410,7 +5410,7 @@ iamraufu,rabeya-food-fitness,,https://github.com/iamraufu/rabeya-food-fitness,ht
 ## Live Website Link
 
 https://rabeya-food-fitness.web.app/
-",4,4,1,0,food,"[fitness, fitness-center, food, mongodb, nodejs, rabeya-food, react-router-dom, reactjs, socket-io, video-chat]",0
+",4,4,1,0,food,"[fitness, fitness-center, food, mongodb, nodejs, rabeya-food, react-router-dom, reactjs, socket-io, video-chat]",72
 palle-k,SeeFood,,https://github.com/palle-k/SeeFood,https://api.github.com/repos/SeeFood/palle-k,Oculus? I said octopus.,"# SeeFood+TechCrunch
 
 > Oculus? I said octopus.
@@ -5427,7 +5427,7 @@ SeeFood gives you the visual experience of eating food through virtual reality. 
 
 TechCrunch gives you the gustatory experience of eating food through thermal and electrical stimulation of the tongue. 
 By heating or cooling your tongue or by providing weak high frequency currents at the tip of your tongue, you will be able to taste your food.
-",4,4,4,0,food,"[food, htc-vive, taste, unity, unity-3d, unity-vr, vive]",0
+",4,4,4,0,food,"[food, htc-vive, taste, unity, unity-3d, unity-vr, vive]",72
 gokulkrh,Food-Image-to-Recipe-Converter,,https://github.com/gokulkrh/Food-Image-to-Recipe-Converter,https://api.github.com/repos/Food-Image-to-Recipe-Converter/gokulkrh,A food image to recipe converter for Indian food.,"# Food-Image-to-Recipe-Converter
 <a href=""https://colab.research.google.com/drive/1TnX3rEkcR11njx0--v-2msGwgRokLbro?usp=sharing"">Colab notebook</a>
 
@@ -5464,4 +5464,4 @@ This is a demo of the web application on mobile devices.
 In the above example a picture of a vegetable puffs are taken and the application gave the correct recipe.
 <br><br><br><br><br><br>
 **reference:** http://pic2recipe.csail.mit.edu/
-",4,4,2,3,food,"[convolutional-neural-networks, deep-learning, densenet201, django, food, indian-food, keras, recipes, web-scraping]",0
+",4,4,2,3,food,"[convolutional-neural-networks, deep-learning, densenet201, django, food, indian-food, keras, recipes, web-scraping]",72
